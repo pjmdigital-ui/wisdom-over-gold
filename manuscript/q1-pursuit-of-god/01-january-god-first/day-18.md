@@ -11,3 +11,5 @@ This is why the tight month is actually the test that matters, not the flush one
 This isn't a formula for buying blessings or guaranteeing an easier month. It's a discipline for un-gripping your hand. Every dollar you release on purpose, especially the ones that hurt to release, is a small rehearsal for the truth that none of it was ever fully yours to begin with. You were a steward the whole time, not an owner. The tight budget didn't create that truth. It just exposed how tightly you'd been gripping something you never owned.
 
 **Today:** Before you pay a single other bill this week, set aside your giving first — even if it's a smaller amount than you'd like, even if it makes the rest of the budget uncomfortable. Give it before the leftover math has a chance to talk you out of it.
+
+**Prayer:** God, this month is tight and I want to hold onto every dollar until things feel safer. Help me give you the first part of what I have instead of whatever's left over, and trust you with the brakes and the braces and the rest of it.

@@ -21,6 +21,7 @@ Christian, specifically Catholic, fathers and family men trying to be the best f
 3. **Short reflection** (2-4 short paragraphs) — connects the scenario and scripture to the day's theme. This is where the "so what" lives. Should feel earned, not preachy. It's fine to be blunt about the reader's likely resistance to the point.
 4. **Saint reference** — ONLY where it fits naturally (not forced into every entry). Follow the day-by-day outline's saint assignments — they're placed where the fit is real, roughly a quarter to a third of days in a month, not evenly distributed. One or two sentences connecting the saint's own life to the day's point.
 5. **One concrete action step** — a specific "do this today" line. Must be doable in one day, specific enough to actually act on (not "spend more time in prayer" but "before you open your phone tomorrow morning, say the Our Father slowly, out loud, once").
+6. **A short prayer** — one to three sentences, in the reader's own voice ("Lord, ..."), tied directly to that day's specific struggle. Not a generic closing prayer reused across days — it should reference the actual scenario/theme. Plain, direct, prayed-not-performed language; avoid flowery or archaic phrasing.
 
 ## Length
 Target ~500-650 words per entry (~4-5 minute read).
@@ -36,6 +37,8 @@ Target ~500-650 words per entry (~4-5 minute read).
 [Saint paragraph, if used — start with **"On [Saint Name]:"** in bold as a lead-in]
 
 **Today:** [One concrete action step, one or two sentences.]
+
+**Prayer:** [One to three sentences, in the reader's own voice, tied to that day's specific theme/struggle.]
 ```
 
 ## Theological guardrails

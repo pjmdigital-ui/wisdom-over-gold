@@ -11,3 +11,5 @@ That's the trap of the to-do list. None of the items on it are wrong. The vendor
 You put the block back on the calendar Friday morning, but this time you did something different — you moved it to before you opened the laptop at all, phone in another room. Not because the emails weren't urgent. Because you finally admitted they'd always feel urgent, every single morning, for the rest of your life, unless you decided in advance what came first.
 
 **Today:** Tomorrow morning, before you open your laptop or check your phone at all, spend five minutes with a single verse of Scripture. Put the phone in another room the night before if that's what it takes.
+
+**Prayer:** Father, my to-do list keeps eating the time I set aside for you, and I let it happen without ever deciding to. Help me put you first before I open my laptop tomorrow. Give me the discipline to protect those few minutes, because they're the ones that order everything else.

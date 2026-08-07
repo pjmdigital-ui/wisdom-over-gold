@@ -13,3 +13,5 @@ That parking lot moment didn't fix his Tuesday. The meeting still happened. But 
 **On St. Paul:** He was riding to Damascus with letters authorizing him to arrest and imprison Christians, utterly convinced his life was already ordered rightly — around his own zeal, his own righteousness. A light on the road stopped him cold, and the man who woke up three days later wasn't reformed at the edges. He was reordered at the root, from the ground up, around a Kingdom he'd been persecuting the day before. Nothing in his resume changed. Everything about what it was for did.
 
 **Today:** Say Matthew 6:33 out loud, slowly, twice, before you do anything else today — before the phone, before the coffee. Let the word "first" actually mean first, just for today, and notice one place you're tempted to put something else there instead.
+
+**Prayer:** Lord, I've heard "seek first" my whole life without ever letting it reorder anything. Reorder me starting today — not once the deal closes or the mortgage is paid, but first.

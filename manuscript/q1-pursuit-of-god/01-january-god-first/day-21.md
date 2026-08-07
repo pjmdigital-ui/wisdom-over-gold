@@ -11,3 +11,5 @@ Consider the couple whose marriage still stands after thirty years. They didn't 
 **On St. Ignatius of Loyola:** Ignatius gave the Church a simple daily practice called the Examen — a few quiet minutes at day's end reviewing where God showed up, where you missed Him, and where you need His grace tomorrow. It's not dependent on feeling holy in the moment. It's a structure you can run on your worst day exactly as well as your best, which is precisely why it's lasted five hundred years.
 
 **Today:** Tonight before bed, spend five minutes on a simple Examen — walk back through your day and name one moment you sensed God's presence, one moment you turned away from Him, and one thing you'll ask His help with tomorrow. Do it whether or not you feel like it.
+
+**Prayer:** Lord, I feel flat today and part of me wants to skip this because it seems like empty words. Help me show up anyway, trusting that showing up matters more than how I feel about it.

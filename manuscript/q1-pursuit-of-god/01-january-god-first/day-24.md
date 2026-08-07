@@ -11,3 +11,5 @@ Jesus addresses this directly in Matthew 6:31-34: "Do not be anxious, saying, 'W
 The line that should stop you is the last one: "sufficient for the day is its own trouble." You weren't built to carry tomorrow's trouble today, on top of today's. Over-planning tries to do exactly that — pre-load every future worry into the present moment so you can feel, falsely, like you've already handled it. You haven't handled it. You've just moved the anxiety earlier and made it live in your body longer than it needed to.
 
 **Today:** Close the spreadsheet, the app, the account you keep checking — for the rest of today. Instead, write down one sentence naming what you're actually afraid of, and hand that specific fear to God in prayer instead of to another projection.
+
+**Prayer:** Father, I keep checking the numbers looking for a guarantee they were never going to give me. Help me close the spreadsheet, name what I'm actually afraid of, and trust you with tomorrow instead of trying to control it today.

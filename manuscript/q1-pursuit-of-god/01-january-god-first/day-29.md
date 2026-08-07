@@ -11,3 +11,5 @@ That's not a loophole for staying the same. It's the actual mechanism by which a
 You don't need a better twenty-eight days behind you. You need a willingness to start, again, this morning — which, mercifully, is precisely what's on offer.
 
 **Today:** Go back to whoever you snapped at, wronged, or let down recently and say it plainly: "I was wrong, and I'm sorry." No explanation, no justification — just the two sentences. Then let today actually be new.
+
+**Prayer:** God, I fell back into the same old pattern again, and I'm tired of thinking I should be past it by now. Thank You that Your mercy resets every morning regardless — help me get back up today instead of staying down in the shame of it.

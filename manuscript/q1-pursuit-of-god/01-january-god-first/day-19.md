@@ -11,3 +11,5 @@ That discomfort isn't a sign you're doing it wrong. It's a sign you've been runn
 The goal was never to achieve a peaceful, empty mind on command, like flipping a switch. The goal was to show up, sit in the discomfort, and let God be present in it anyway — not because you felt Him, but because He said He'd be there. Ten distracted, fidgety minutes offered to God are still ten minutes given to Him. That's not failure. That's the actual practice, done imperfectly, which is the only way anyone ever does it.
 
 **Today:** Sit in silence for ten minutes with no phone, no music, no agenda — just presence. When your mind wanders, and it will, don't quit. Gently return your attention to God and keep sitting until the timer goes off.
+
+**Prayer:** Lord, my mind won't sit still and the quiet makes me want to reach for anything else. Stay with me in the fidgeting and the racing thoughts anyway, and help me keep coming back to you instead of walking away.

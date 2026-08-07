@@ -11,3 +11,5 @@ That order is the whole lesson. Jesus didn't pray because His schedule was light
 You don't need an extra hour you don't have. You need five minutes positioned before the first fire of the day gets lit, not squeezed in after, hoping there's anything left of you by then.
 
 **Today:** Tomorrow, before you check your phone or open your email, pray for five minutes — even just the Our Father, said slowly, out loud. Do it before the day gets a vote.
+
+**Prayer:** God, this week ran me over and you were the first thing I dropped without even deciding to. Help me get to you before the fires start tomorrow, not squeezed in after there's nothing left of me.

@@ -11,3 +11,5 @@ That's the quiet danger of watching a friend go this direction — it's not real
 **On St. Francis of Assisi:** Born into wealth as the son of a prosperous cloth merchant, Francis was expected to inherit both the family business and its status. Instead, he famously stripped off his fine clothes in the town square and returned them to his father, choosing poverty and total dependence on God over the life laid out for him. He didn't become less of a man by giving up what he'd been given first place in his life. He became more himself.
 
 **Today:** Think of one person whose life quietly unsettles you because you envy it. Name, specifically, what they've made an idol of — then ask whether you're chasing the same thing at a smaller scale. Write it down.
+
+**Prayer:** God, show me honestly what I'm chasing when I envy someone else's life. I don't want to become sharper on the metrics that don't matter to you and dull to everything that does. Keep me from letting anything but you sit on the throne.

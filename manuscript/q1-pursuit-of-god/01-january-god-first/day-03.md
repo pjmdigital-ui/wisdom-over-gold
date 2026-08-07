@@ -11,3 +11,5 @@ Here's what white-knuckling actually costs you: it doesn't buy certainty, becaus
 Signing that contract didn't require more analysis. It required admitting I'd done the diligent part and the rest belonged to God, whether I liked that arrangement or not. Letting go of the wheel at the point where your competence ends isn't recklessness. It's where trust actually starts — trust is meaningless as a word until there's something you can't control.
 
 **Today:** Name one decision you're currently over-managing — replaying, re-checking, losing sleep over. Do the one or two things left that responsible diligence still requires, then say out loud: "The rest is Yours." Stop there. Don't check it again tonight.
+
+**Prayer:** God, I've done the diligent part on this decision, and I'm still trying to white-knuckle my way to certainty You never promised me. Help me actually let go of the wheel tonight and trust You with the part I can't control.

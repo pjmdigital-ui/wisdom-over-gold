@@ -11,3 +11,5 @@ Here's the uncomfortable math: you will find fifteen minutes for almost anything
 This isn't about becoming a monk or adding guilt to an already full week. It's about giving God the same respect you give a client meeting — a fixed time, protected from the drift of "I'll get to it." Fifteen minutes with a start time survives contact with a busy day in a way that "sometime today" never does. The men who actually pray consistently aren't more disciplined than you in some general sense. They just made a decision once, on a calm night, that a busy Tuesday couldn't undo.
 
 **Today:** Open your calendar right now and block fifteen minutes tomorrow morning, before your first work obligation, labeled simply "Prayer." Treat it like you would a call from your biggest client — non-negotiable, no rescheduling it to "later."
+
+**Prayer:** Lord, I give you whatever time is left over instead of giving you a real block on the calendar. Help me schedule fifteen minutes for you tomorrow morning and treat it like it actually matters, because it does.

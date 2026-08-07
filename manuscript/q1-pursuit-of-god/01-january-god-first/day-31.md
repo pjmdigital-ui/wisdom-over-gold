@@ -13,3 +13,5 @@ Eleven months are still ahead. The pursuits still to come — of excellence, of 
 You are not the god of your own life anymore, or at least you're further from that lie than you were thirty-one days ago. That's the only qualification this book requires going forward. Not that you've arrived. Just that you know now who you're actually seeking, and you're willing to keep seeking Him tomorrow, and the day after, for eleven more months and the rest of your life besides.
 
 **Today:** Reread the one sentence you wrote on Day 1 — what you were chasing, and the words *this isn't big enough to be my god.* Underneath it, write one new sentence: what you're seeking now, thirty-one days later. Keep both. Let February find you still seeking.
+
+**Prayer:** Lord, thirty-one days in, my heart is still restless and still climbs back onto its own throne when I stop paying attention. Keep drawing me back to You, not just this month but every month after it, until this restlessness finally learns to rest in You.

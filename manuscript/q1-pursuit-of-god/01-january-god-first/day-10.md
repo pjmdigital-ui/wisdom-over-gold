@@ -13,3 +13,5 @@ You didn't get the client back. But somewhere around day four, you stopped white
 **On St. Ignatius of Loyola:** Before his conversion, Ignatius was a soldier obsessed with glory, ambition, and his own advancement — until a cannonball shattered his leg and, with it, the life he'd built around himself. His recovery reordered everything: he came to describe the goal of the spiritual life as "indifference," a radical willingness to hold every outcome — wealth or poverty, health or sickness, success or failure — loosely, so that only God's will mattered. He didn't stop caring about outcomes. He stopped needing them to go his way.
 
 **Today:** Name one outcome you're currently white-knuckling — a deal, a diagnosis, a decision someone else is making about your life. Write one sentence: "God, I trust you with this even if it doesn't go the way I want." Say it out loud once before bed.
+
+**Prayer:** Lord, I've been white-knuckling this instead of handing it to you. I don't know how it turns out, but I'm asking you to be enough either way. Help me let go of the wheel before the crash, not after.

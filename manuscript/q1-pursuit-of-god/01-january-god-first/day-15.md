@@ -11,3 +11,5 @@ That question changes what the corner looks like. If the client is your ultimate
 Nobody puts "God first" on a P&L. It shows up instead in the sentence you're willing to strike from a proposal when nobody but you would ever have known it was there.
 
 **Today:** Think of one place in your current work — a proposal, an invoice, a conversation you've been avoiding — where you've been shading the truth to protect an outcome. Correct it this week, even if it costs you something.
+
+**Prayer:** Lord, don't let me shade the truth to protect an outcome, even when it costs me. I want to work for your approval, not just the client's signature or this quarter's number. Give me the courage to strike the line nobody but me would ever have known was there.

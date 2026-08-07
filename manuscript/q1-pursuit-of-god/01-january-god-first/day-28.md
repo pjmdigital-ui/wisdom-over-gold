@@ -11,3 +11,5 @@ This is where "God first" stops being a phrase you say and becomes a decision th
 **On St. Thomas More:** More was Chancellor of England, one of the most powerful men in the country, and he lost everything — his position, his freedom, eventually his head — rather than sign his name to something he knew was a lie, even when the king himself demanded it. On the scaffold he called himself "the King's good servant, but God's first." He served well. He just never confused who he ultimately answered to.
 
 **Today:** Think of one place right now where doing the right thing would cost you something real — money, a relationship, a reputation. Decide today, before the pressure is on, which way you're going to go. Write it down so future-you can't quietly renegotiate.
+
+**Prayer:** Lord, doing the right thing here is going to cost me something real, and part of me wants to find a way around that. Give me the courage to keep my word anyway, and remind me that a clean conscience is worth more than the deal.

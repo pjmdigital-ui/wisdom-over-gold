@@ -11,3 +11,5 @@ That's the piece most men miss, chasing the next fix for a feeling that isn't ci
 That Sunday afternoon wasn't a malfunction in an otherwise good life. It was an invitation, arriving at the one moment he had nothing left to distract himself with. The ache is doing its job. It's just pointing you somewhere the sprinkler and the lawn chair were never going to be able to reach.
 
 **Today:** The next time you notice that low ache — in a good moment, not just a hard one — don't reach for a distraction. Sit with it for sixty seconds and say simply, "God, I know this is You." Let that be the whole prayer.
+
+**Prayer:** God, I feel that ache even in the good moments, and I know now it was never about my circumstances. Thank You for not letting me settle for anything smaller than You to fill it.

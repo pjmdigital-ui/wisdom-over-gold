@@ -11,3 +11,5 @@ Needing to be right is control wearing a different costume — the same instinct
 Christ had every right in the universe to insist on being right, being first, being served. He emptied Himself instead. That's the mindset Paul is asking for — not because being correct doesn't matter, but because it matters far less than what you're actually protecting when you let it go: her, the marriage, the thing you both said "I do" to build together. Dan didn't need to be wrong about the schedule. He needed to put down the phone.
 
 **Today:** Next time you feel yourself building a case against your wife mid-argument, stop and ask her one question instead: "What did that feel like for you?" Then actually listen to the answer before you say anything else.
+
+**Prayer:** God, I want to be right more than I want to love my wife well, and I know that's backwards. Give me the humility to put the phone down, drop the case I'm building, and actually listen to her.

@@ -11,3 +11,5 @@ That's the weight of it. Your kids aren't watching for your sermons. They're wat
 **On St. Thomas Aquinas:** Born into Italian nobility, Thomas was expected by his family to become a powerful abbot, a path that would have brought wealth and prestige to their name. Instead he insisted on joining the mendicant Dominicans — a choice so unwelcome that his own brothers kidnapped and imprisoned him for over a year trying to break his resolve. He held firm, subordinating both his family's ambitions and his own considerable brilliance to what he understood God was calling him toward, and became one of the greatest minds the Church has ever produced anyway.
 
 **Today:** Watch your kids for ten unguarded minutes — playing, talking to each other, not performing for you. Notice one thing they're modeling that they picked up from you, good or bad, and name it honestly to yourself.
+
+**Prayer:** God, my kids are watching what I do, not what I say, and I don't like everything I just saw reflected back at me. Help me become, in the unguarded moments, the kind of man I actually want them to become. Let my Tuesday nights match my Sunday words.

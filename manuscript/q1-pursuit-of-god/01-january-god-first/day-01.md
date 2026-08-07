@@ -13,3 +13,5 @@ That flat feeling in the truck wasn't a malfunction. It was the truth finally ge
 **On St. Augustine:** Before he was a bishop and a saint, Augustine chased status, pleasure, and approval with real intelligence and real hunger, certain each one would finally be enough. It never was. He wrote what every man in that driveway already half-knows: "Our heart is restless until it rests in You." The restlessness isn't a defect in you. It's a homing signal.
 
 **Today:** Write down, in one sentence, what you're actually chasing right now — the thing you believe will finally make you feel like you've arrived. Then write one sentence next to it: *This isn't big enough to be my god.* Keep both sentences somewhere you'll see them tomorrow.
+
+**Prayer:** God, I can see what I've been chasing to make me feel like I've finally arrived, and I know it's not big enough to be my god. Quiet the restlessness in me tonight and remind me it was always meant to point back to You.

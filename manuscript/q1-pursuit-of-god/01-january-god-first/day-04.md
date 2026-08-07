@@ -11,3 +11,5 @@ That's the part worth sitting with. This isn't a story about a guy who failed to
 The empty feeling in that living room wasn't a sign Tom needed a bigger house. It was a sign he'd been asking the house to do a job no house can do.
 
 **Today:** Name one achievement you're currently chasing as though it will finally be enough. Say honestly: "This is a good thing, not my ultimate thing." Then thank God specifically for one gift you already have that you've stopped noticing.
+
+**Prayer:** Lord, I keep asking good things — the house, the number, the next promotion — to fill a space only You were ever sized for. Thank You for what I already have and haven't stopped to notice, and help me stop moving the finish line.

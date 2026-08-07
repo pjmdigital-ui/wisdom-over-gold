@@ -11,3 +11,5 @@ A man's instinct in a health scare is to grip harder, to research every study, t
 Trusting God in a health scare doesn't mean pretending you're not scared, or skipping the doctor because you've decided to "just have faith" instead. It means bringing the fear to Him honestly, out loud, instead of locking it in the truck and driving home in silence. It means telling your wife that night, not after you've processed it alone into something more palatable. Weakness admitted to God and to the people who love you isn't the collapse of strength. Paul says it's where God's power actually gets room to work.
 
 **Today:** Name your current fear out loud — to God in prayer, and to one person who loves you — instead of carrying it silently. Say the specific thing you're afraid of, not a vague version of it.
+
+**Prayer:** God, I'm scared about what this diagnosis might mean and my instinct is to handle it alone and quiet, like I handle everything else. Help me hand you this fear honestly instead of gripping it myself, and give me the courage to tell my wife tonight instead of carrying it home in silence.

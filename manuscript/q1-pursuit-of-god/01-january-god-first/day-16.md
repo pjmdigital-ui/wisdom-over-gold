@@ -11,3 +11,5 @@ Paul, writing to the Ephesians about marriage, opens the whole passage with a li
 Here's the test: when God is genuinely first, being right stops being the point of an argument with your wife, because your allegiance isn't to your own correctness anymore — it's to Him, and to what He's asked of you toward her. That reordering doesn't make you a pushover. It makes winning the argument stop being worth what it costs you.
 
 **Today:** Next time you're mid-argument with your wife and you feel the pull to play your best point, ask instead: "What do you need from me right now?" Then actually stop talking and listen to the answer.
+
+**Prayer:** God, help me want peace with my wife more than I want to be right. When I feel the pull to play my best point, remind me my allegiance is to you first, not to winning the argument. Teach me to ask what she needs and actually listen.

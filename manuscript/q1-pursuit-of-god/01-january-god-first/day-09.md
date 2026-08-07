@@ -13,3 +13,5 @@ That's the part men miss. We treat confession like a fire extinguisher — somet
 You don't need a crisis to walk back through that door. You need honesty about the eleven years, or the eleven days, since you last let anyone — God included — tell you the truth about yourself.
 
 **Today:** Find the confession times at a parish near you — even one you've never been to — and go this week. If it's genuinely been years, don't overthink the wording. Start with, "It's been a long time," and let the priest help you from there.
+
+**Prayer:** God, it's been too long since I let you tell me the truth about myself. I've been hiding behind "decent" instead of being honest with you. Give me the courage to walk through that door this week and say it out loud.

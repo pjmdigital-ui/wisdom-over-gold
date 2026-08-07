@@ -9,3 +9,5 @@ Jesus says, almost in passing, in a parable about stewardship: "One who is faith
 That's the thing about putting God first: it rarely shows up as one enormous, cinematic decision. Mostly it shows up as a string of small ones — the phone in the other room, the extra ten minutes given instead of taken, the word held back instead of said. Get those wrong consistently and no grand gesture later will make up for it. Get those right consistently, in the small unwatched moments, and you become the kind of man who's actually capable of the big surrender when it's finally required of him.
 
 **Today:** At your next meal with your family, put your phone in a different room — not on silent, not face-down, gone. Notice, without judging yourself, how many times you reach for where it used to be.
+
+**Prayer:** Lord, help me put down the small things I keep half-holding onto, even something as small as my phone at the table. Let the people in front of me get all of me, not three-quarters. Teach me to be faithful in the small unwatched moments so I'm ready for the bigger ones.

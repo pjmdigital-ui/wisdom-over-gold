@@ -11,3 +11,5 @@ James 4:6 names exactly what's operating underneath both scenes: "God opposes th
 Here's what makes pride so effective at blocking the door: it disguises itself as strength. Admitting you were wrong feels like losing ground, so you hold the position instead, even when you know the position is false. But the door pride blocks isn't just the door to your partner's trust, or your wife's warmth toward you tonight. It's the door to grace itself. You can't receive what you won't admit you need, and you can't admit you need it while you're still busy defending a number, a tone, a decision you already know was wrong.
 
 **Today:** Call the person you're currently defending yourself against — your wife, a business partner, a friend — and say the actual sentence: "I was wrong, and I'm sorry." No qualifier, no explanation tacked onto the end.
+
+**Prayer:** Lord, I know I was wrong and I've spent three days defending myself instead of just admitting it. Give me the humility to say the actual words — I was wrong — without an excuse tacked onto the end.

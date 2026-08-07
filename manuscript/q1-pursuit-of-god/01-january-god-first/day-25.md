@@ -13,3 +13,5 @@ Here's what's easy to miss in the delay: God is rarely doing nothing. He's usual
 You don't have to feel strong to obey "be strong." You just have to stay in the room one more day.
 
 **Today:** Name the thing you've been waiting on longest. Write today's date next to it, and one sentence: *I don't know when, but I'm staying.* Pray that sentence out loud once before bed tonight.
+
+**Prayer:** Lord, I don't understand why this is taking so long, and I'm tired of the silence. Give me the strength to stay in this waiting instead of running from it, and help me trust You haven't forgotten me.

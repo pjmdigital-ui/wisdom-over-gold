@@ -11,3 +11,5 @@ Here's what the algorithm never shows you: the guy with the boat has 2 a.m. worr
 A man seeking God first isn't asking, "How am I doing compared to him?" He's asking, "What did God actually give me to steward, and am I stewarding it well?" Those are different questions with different answers, and only one of them will ever leave you at peace.
 
 **Today:** The next time you catch yourself measuring your life against someone else's feed, close the app and name one specific thing in front of you — your kids, your work, your marriage — that you're actually responsible for today. Thank God for it out loud, even if it feels small next to the boat.
+
+**Prayer:** God, forgive me for grading my life against a stranger's highlight reel and coming up bitter over it. Help me see what You've actually put in front of me today — this family, this work — and thank You for it instead of resenting it.

@@ -9,3 +9,5 @@ Paul writes to the Colossians, "Set your minds on things above, not on earthly t
 The couch isn't the enemy. The scroll, the show, the game — none of them are the enemy. The enemy is the autopilot, the fact that you didn't decide anything that night. You just let the path of least resistance make the decision for you, and it made it fourteen nights in a row before you noticed the pattern had a name. A man who's putting God first doesn't have to give up rest. He has to stop letting comfort make his decisions for him by default, especially the decision about who gets his presence and who gets his leftovers.
 
 **Today:** Tonight, before you sit down, decide on purpose where the next hour goes — and if it's with your family, put the phone in another room first. Notice the pull toward the couch when it comes, name it out loud, and choose anyway.
+
+**Prayer:** God, forgive me for the nights I let comfort make the decision for me instead of choosing the people two rooms away who needed me present. Help me feel the pull toward the couch tonight and choose my family anyway.

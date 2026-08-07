@@ -11,3 +11,5 @@ Numbing and praying are actually doing the same job from two different direction
 You lost the client either way. The only question that night was who you were going to bring the loss to.
 
 **Today:** Next time you feel the pull toward the drink, the scroll, the screen — pause for sixty seconds first and say this out loud, even badly: "God, here's what happened today," and just tell Him. Then decide if you still want the drink.
+
+**Prayer:** Father, I reached for something to numb it instead of bringing it to You, and I'm sorry. Next time it hits this hard, help me tell You first, even before I feel any better for having said it.
