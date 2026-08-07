@@ -1,0 +1,11 @@
+# Day 5 — The Comfort Trap
+
+By 8:30 the dishes were done, the kids were finally down, and the couch had that gravitational pull it gets after a fourteen-hour day. I told myself I'd just check the score, ten minutes, then go find my wife, who was folding laundry two rooms away and would have loved five minutes of actual conversation instead of a rerun on in the background. Ten minutes became the whole quarter. The quarter became the next game. She gave up waiting and went to bed before I'd even looked up.
+
+Nothing about that night was a crisis. That's exactly what makes it dangerous. Nobody's marriage collapses over one night on the couch. It erodes over a thousand nights like it — small, defensible, understandable choices toward the thing that costs nothing and asks nothing of you, instead of the thing sitting two rooms away that actually needed you present. Comfort doesn't announce itself as an enemy. It just quietly becomes the default, and defaults run your life whether you notice them or not.
+
+Paul writes to the Colossians, "Set your minds on things above, not on earthly things" (Colossians 3:2). He's not telling them to despise rest or pleasure — Paul isn't a Stoic. He's naming where the mind defaults to when nobody's steering it: down, toward the immediate and the easy, instead of up, toward what actually matters and what will still matter in ten years. Earthly things aren't sinful. They're just small, and a mind left on autopilot will always drift toward small.
+
+The couch isn't the enemy. The scroll, the show, the game — none of them are the enemy. The enemy is the autopilot, the fact that you didn't decide anything that night. You just let the path of least resistance make the decision for you, and it made it fourteen nights in a row before you noticed the pattern had a name. A man who's putting God first doesn't have to give up rest. He has to stop letting comfort make his decisions for him by default, especially the decision about who gets his presence and who gets his leftovers.
+
+**Today:** Tonight, before you sit down, decide on purpose where the next hour goes — and if it's with your family, put the phone in another room first. Notice the pull toward the couch when it comes, name it out loud, and choose anyway.

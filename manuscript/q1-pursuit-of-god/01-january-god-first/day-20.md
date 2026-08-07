@@ -1,0 +1,13 @@
+# Day 20 — God First in Suffering
+
+The doctor said "we found something on the scan" and then kept talking, but you stopped hearing most of it. Follow-up imaging. A specialist referral. Try not to worry too much until we know more, which is a sentence no human being has ever successfully obeyed. You drove home gripping the wheel at ten and two, jaw tight, already running the worst-case scenarios — treatments, costs, what you'd say to your kids, whether you'd even tell your wife tonight or wait until you knew more so you wouldn't scare her over nothing.
+
+That last part is the tell. You weren't protecting her. You were trying to carry it alone first, the way you carry everything — quietly, competently, without asking anyone, including God, for help. You've spent your whole adult life being the guy who handles it. Admitting you can't handle this one, that your body might be doing something you have zero control over, felt almost more frightening than the diagnosis itself.
+
+Paul knew this instinct. He begged God three times to remove a "thorn in the flesh" — some chronic, unnamed suffering scholars still debate — and three times God said no. What God said instead is 2 Corinthians 12:9: "My grace is sufficient for you, for my power is made perfect in weakness." Not removed. Not explained. Made perfect *in* the weakness, which means the weakness wasn't a malfunction to route around — it was the exact place God intended to show up.
+
+A man's instinct in a health scare is to grip harder, to research every study, to control every variable he still can, as if enough competence could out-manage a diagnosis. Some of that is wise — you should call the specialist, follow the protocol, do the responsible things. But underneath the competence there's often a refusal, quiet and stubborn, to actually hand the fear to God instead of just managing it yourself with gritted teeth. White-knuckling isn't strength. It's a man trying to be his own savior in the one area where that role was never his to fill.
+
+Trusting God in a health scare doesn't mean pretending you're not scared, or skipping the doctor because you've decided to "just have faith" instead. It means bringing the fear to Him honestly, out loud, instead of locking it in the truck and driving home in silence. It means telling your wife that night, not after you've processed it alone into something more palatable. Weakness admitted to God and to the people who love you isn't the collapse of strength. Paul says it's where God's power actually gets room to work.
+
+**Today:** Name your current fear out loud — to God in prayer, and to one person who loves you — instead of carrying it silently. Say the specific thing you're afraid of, not a vague version of it.

@@ -1,0 +1,13 @@
+# Day 11 — The Kingdom Before the Checklist
+
+You'd blocked six-thirty to six-fifty on your calendar. Twenty minutes, coffee still hot, before the house woke up — just you, a Bible, and a few minutes of quiet. You'd been doing it for almost three weeks, and it had actually started to feel like something, not just another box.
+
+Then Monday hit. You opened your laptop at six-thirty "just to check one thing" before you sat down to pray, and the one thing was a fire — a vendor had missed a deadline, a client was already emailing in caps. By six-fifty you were four emails deep, coffee cold, Bible still closed on the counter. Tuesday you told yourself you'd make it up at lunch. You didn't. By Thursday the block was still on the calendar, but you'd stopped even glancing at it — just clicked past it like a meeting you'd silently decided not to attend anymore. Twenty minutes a day, and the to-do list ate it in under a week without you ever deciding to let it.
+
+There's a scene in Luke where Martha is doing exactly what needed doing — cooking, hosting, keeping the household running — while her sister Mary just sits at Jesus's feet, listening. Martha, understandably, gets frustrated and asks Jesus to tell Mary to help. His answer isn't what she wants to hear: "Martha, Martha, you are anxious and troubled about many things, but one thing is necessary. Mary has chosen the good portion, which will not be taken away from her" (Luke 10:41-42). Notice — Jesus doesn't say Martha's tasks don't matter. He says she's let them become the anxious center of her life, crowding out the one thing that was supposed to come first.
+
+That's the trap of the to-do list. None of the items on it are wrong. The vendor problem was real. The client email needed an answer. The danger isn't that your work is bad — it's that your work will always, always expand to fill whatever space you give it, and it will keep expanding until it's eaten the twenty minutes you'd set aside for the only thing that actually orders everything else. A checklist has no natural stopping point. It just has the next item. Only you can decide something goes before it.
+
+You put the block back on the calendar Friday morning, but this time you did something different — you moved it to before you opened the laptop at all, phone in another room. Not because the emails weren't urgent. Because you finally admitted they'd always feel urgent, every single morning, for the rest of your life, unless you decided in advance what came first.
+
+**Today:** Tomorrow morning, before you open your laptop or check your phone at all, spend five minutes with a single verse of Scripture. Put the phone in another room the night before if that's what it takes.

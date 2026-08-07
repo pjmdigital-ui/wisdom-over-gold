@@ -1,0 +1,13 @@
+# Day 3 — The Idol of Control
+
+The vendor contract sat on my desk for three days before I signed it, and I read it eleven times. I built spreadsheets modeling every outcome — best case, worst case, the case where the supplier goes under six months in and I'm stuck explaining to my partners why I trusted them. I called a lawyer friend twice for opinions I didn't really need. None of it was about being thorough anymore. It was about trying to guarantee an outcome no amount of preparation could actually guarantee.
+
+That's the tell, if you're honest about it. Diligence has a stopping point. Control-seeking doesn't. I wasn't protecting the business anymore by hour three of the second day; I was trying to eliminate risk from a world that doesn't offer that option to anyone, at any price. White-knuckling a decision feels like responsibility. Most of the time it's actually fear wearing a suit.
+
+Proverbs puts words to exactly this trap: "In their hearts humans plan their course, but the Lord establishes their steps" (Proverbs 16:9). That's not a verse against planning — plan your course, the proverb assumes you will. It's a verse about where the final authority actually sits. You can build the best spreadsheet in the world and the outcome still isn't fully in your hands. It never was. The illusion that it could be, if you just worked hard enough or worried long enough, is one of the oldest lies a driven man tells himself.
+
+Here's what white-knuckling actually costs you: it doesn't buy certainty, because certainty was never for sale. What it buys is exhaustion, and a low-grade refusal to trust that God is capable of running the universe without your hourly supervision. A man who has to control every outcome has quietly made himself the one his family and business are ultimately depending on — not God. That's a heavier throne than it looks like from the outside, and it was never built to hold that weight.
+
+Signing that contract didn't require more analysis. It required admitting I'd done the diligent part and the rest belonged to God, whether I liked that arrangement or not. Letting go of the wheel at the point where your competence ends isn't recklessness. It's where trust actually starts — trust is meaningless as a word until there's something you can't control.
+
+**Today:** Name one decision you're currently over-managing — replaying, re-checking, losing sleep over. Do the one or two things left that responsible diligence still requires, then say out loud: "The rest is Yours." Stop there. Don't check it again tonight.

@@ -1,0 +1,13 @@
+# Day 27 — Numbing Instead of Praying
+
+The client fired you at 4:40 p.m., over email, after eight months of work — no call, just a paragraph that ended the relationship and a chunk of your revenue in the same sentence. You closed the laptop, sat in the driveway for a minute the way you do when you can't yet face walking into the house as yourself, and then you did what you always do on nights like this. You poured a drink before you'd even taken your shoes off. Not one — you told yourself it was one, but you know how that math tends to go on the worst nights. By nine you weren't upset anymore. You also weren't present. Your wife asked how your day was and you said "fine," which was the first lie of several you told that night, all of them small, all of them aimed at not having to feel what you were actually feeling.
+
+It doesn't have to be a drink. For some men it's three hours of scrolling that leaves you emptier than when you started. For others it's food, or work itself — burying a bad day under a bigger to-do list so there's no room left to feel it. The specifics change. The move is the same: something hard happened, and instead of bringing it to God, you numbed it and hoped it would be smaller in the morning.
+
+Paul writes to the Philippians from prison — actual chains, actual uncertainty about whether he'd live — and doesn't tell them to feel better. He tells them what to do with the anxiety itself: "Do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus" (Philippians 4:6-7). Notice the order. Not "feel peace, then pray." Pray, *and then* the peace comes — a peace Paul specifically says will outrun your own understanding of the situation, because it isn't manufactured by understanding the situation. It's given.
+
+Numbing and praying are actually doing the same job from two different directions. Both are ways of handling pain you don't want to sit in alone. One dulls the feeling and leaves the wound untouched underneath. The other hands the wound to Someone strong enough to actually hold it. The drink works for about three hours. Prayer doesn't promise you'll feel better in three hours — it promises you won't be carrying it by yourself.
+
+You lost the client either way. The only question that night was who you were going to bring the loss to.
+
+**Today:** Next time you feel the pull toward the drink, the scroll, the screen — pause for sixty seconds first and say this out loud, even badly: "God, here's what happened today," and just tell Him. Then decide if you still want the drink.
