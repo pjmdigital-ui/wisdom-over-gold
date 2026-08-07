@@ -12,4 +12,4 @@ The goal was never to achieve a peaceful, empty mind on command, like flipping a
 
 **Today:** Sit in silence for ten minutes with no phone, no music, no agenda — just presence. When your mind wanders, and it will, don't quit. Gently return your attention to God and keep sitting until the timer goes off.
 
-**Prayer:** Lord, my mind won't sit still and the quiet makes me want to reach for anything else. Stay with me in the fidgeting and the racing thoughts anyway, and help me keep coming back to you instead of walking away.
+**Prayer:** Lord God Almighty, I give You thanks and praise. Thank You for opening my eyes to another day in this beautiful world You have created for me. I pray You send Your Holy Spirit down upon me today, to help me be the best father, neighbor, husband, friend, businessman, and Christian I can be. Let everything I do please and glorify You. My mind won't sit still and the quiet makes me want to reach for anything else. Stay with me in the fidgeting and the racing thoughts anyway, and help me keep coming back to You instead of walking away. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.

@@ -12,4 +12,4 @@ Here's what makes pride so effective at blocking the door: it disguises itself a
 
 **Today:** Call the person you're currently defending yourself against — your wife, a business partner, a friend — and say the actual sentence: "I was wrong, and I'm sorry." No qualifier, no explanation tacked onto the end.
 
-**Prayer:** Lord, I know I was wrong and I've spent three days defending myself instead of just admitting it. Give me the humility to say the actual words — I was wrong — without an excuse tacked onto the end.
+**Prayer:** Lord God Almighty, I give You thanks and praise. Thank You for opening my eyes to another day in this beautiful world You have created for me. I pray You send Your Holy Spirit down upon me today, to help me be the best father, neighbor, husband, friend, businessman, and Christian I can be. Let everything I do please and glorify You. I know I was wrong and I've spent three days defending myself instead of just admitting it. Give me the humility to say the actual words — I was wrong — without an excuse tacked onto the end. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.

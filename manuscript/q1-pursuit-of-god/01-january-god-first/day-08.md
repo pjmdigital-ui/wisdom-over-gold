@@ -14,4 +14,4 @@ That parking lot moment didn't fix his Tuesday. The meeting still happened. But 
 
 **Today:** Say Matthew 6:33 out loud, slowly, twice, before you do anything else today — before the phone, before the coffee. Let the word "first" actually mean first, just for today, and notice one place you're tempted to put something else there instead.
 
-**Prayer:** Lord, I've heard "seek first" my whole life without ever letting it reorder anything. Reorder me starting today — not once the deal closes or the mortgage is paid, but first.
+**Prayer:** Father in Heaven, I give You thanks and praise. Thank You for opening my eyes to another day in this beautiful world You have created for me. I pray You send Your Holy Spirit down upon me today, to help me be the best father, neighbor, husband, friend, businessman, and Christian I can be. Let everything I do please and glorify You. I've heard "seek first" my whole life without ever letting it reorder anything. Reorder me starting today — not once the deal closes or the mortgage is paid, but first. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.

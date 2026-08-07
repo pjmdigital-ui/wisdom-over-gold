@@ -12,4 +12,4 @@ You lost the client either way. The only question that night was who you were go
 
 **Today:** Next time you feel the pull toward the drink, the scroll, the screen — pause for sixty seconds first and say this out loud, even badly: "God, here's what happened today," and just tell Him. Then decide if you still want the drink.
 
-**Prayer:** Father, I reached for something to numb it instead of bringing it to You, and I'm sorry. Next time it hits this hard, help me tell You first, even before I feel any better for having said it.
+**Prayer:** Lord God Almighty, I give You thanks and praise. Thank You for opening my eyes to another day in this beautiful world You have created for me. I pray You send Your Holy Spirit down upon me today, to help me be the best father, neighbor, husband, friend, businessman, and Christian I can be. Let everything I do please and glorify You. I reached for something to numb it instead of bringing it to You, and I'm sorry. Next time it hits this hard, help me tell You first, even before I feel any better for having said it. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.

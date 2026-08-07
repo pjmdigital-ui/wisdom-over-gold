@@ -12,4 +12,4 @@ This isn't really about phones. It's about what gets to speak into your soul fir
 
 **Today:** Put your phone in another room tonight, charging somewhere you can't reach from bed. Tomorrow morning, before you touch it, say one sentence out loud to God — anything honest will do. Then go get the phone.
 
-**Prayer:** Lord, before I reach for my phone, I want to reach for You first. Meet me tomorrow morning before the inbox and the noise get a word in, and show me what I'm actually thirsty for.
+**Prayer:** Father in Heaven, I give You thanks and praise. Thank You for opening my eyes to another day in this beautiful world You have created for me. I pray You send Your Holy Spirit down upon me today, to help me be the best father, neighbor, husband, friend, businessman, and Christian I can be. Let everything I do please and glorify You. Before I reach for my phone, I want to reach for You first. Meet me tomorrow morning before the inbox and the noise get a word in, and show me what I'm actually thirsty for. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.

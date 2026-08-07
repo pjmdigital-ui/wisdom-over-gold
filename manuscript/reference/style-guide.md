@@ -21,7 +21,11 @@ Christian, specifically Catholic, fathers and family men trying to be the best f
 3. **Short reflection** (2-4 short paragraphs) — connects the scenario and scripture to the day's theme. This is where the "so what" lives. Should feel earned, not preachy. It's fine to be blunt about the reader's likely resistance to the point.
 4. **Saint reference** — ONLY where it fits naturally (not forced into every entry). Follow the day-by-day outline's saint assignments — they're placed where the fit is real, roughly a quarter to a third of days in a month, not evenly distributed. One or two sentences connecting the saint's own life to the day's point.
 5. **One concrete action step** — a specific "do this today" line. Must be doable in one day, specific enough to actually act on (not "spend more time in prayer" but "before you open your phone tomorrow morning, say the Our Father slowly, out loud, once").
-6. **A short prayer** — one to three sentences, in the reader's own voice ("Lord, ..."), tied directly to that day's specific struggle. Not a generic closing prayer reused across days — it should reference the actual scenario/theme. Plain, direct, prayed-not-performed language; avoid flowery or archaic phrasing.
+6. **A prayer, in a fixed frame every day.** Every prayer follows this exact structure:
+   - **Address:** open by addressing God as either "Lord God Almighty," or "Father in Heaven," — alternate between the two across consecutive days (odd days use "Lord God Almighty," even days use "Father in Heaven,").
+   - **Fixed opening (verbatim every day):** "I give You thanks and praise. Thank You for opening my eyes to another day in this beautiful world You have created for me. I pray You send Your Holy Spirit down upon me today, to help me be the best father, neighbor, husband, friend, businessman, and Christian I can be. Let everything I do please and glorify You."
+   - **Day-specific petition (this is the only part that changes):** one to three sentences, in the reader's own voice, tied directly to that day's specific scenario/struggle — not a generic line reusable across days. Capitalize every "You/Your/Yours/Yourself" that refers to God. Plain, direct, prayed-not-performed language; avoid flowery or archaic phrasing ("thee/thou" forbidden).
+   - **Fixed closing (verbatim every day):** "I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen."
 
 ## Length
 Target ~500-650 words per entry (~4-5 minute read).
@@ -38,7 +42,7 @@ Target ~500-650 words per entry (~4-5 minute read).
 
 **Today:** [One concrete action step, one or two sentences.]
 
-**Prayer:** [One to three sentences, in the reader's own voice, tied to that day's specific theme/struggle.]
+**Prayer:** [Lord God Almighty, / Father in Heaven,] I give You thanks and praise. Thank You for opening my eyes to another day in this beautiful world You have created for me. I pray You send Your Holy Spirit down upon me today, to help me be the best father, neighbor, husband, friend, businessman, and Christian I can be. Let everything I do please and glorify You. [Day-specific petition, 1-3 sentences.] I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
 ```
 
 ## Theological guardrails
