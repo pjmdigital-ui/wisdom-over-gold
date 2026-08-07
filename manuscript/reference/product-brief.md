@@ -80,3 +80,16 @@ Target length: ~4-5 minute read per day.
 - [ ] Identify specific saints to reference per month
 - [ ] Decide print vs. ebook-first production path
 - [ ] Cover design direction (title + "Seek First" framing + four pursuits as visual motif)
+
+---
+
+## Addendum — Pursuit Names Updated
+
+This file preserves the original brief as uploaded. Since then, the four pursuit names were revised to be deliberately alliterative, while keeping the same meaning as above:
+
+- The Pursuit of God → **The Pursuit of Piety**
+- The Pursuit of Protection → **The Pursuit of Protection** (unchanged)
+- The Pursuit of Provision → **The Pursuit of Provision** (unchanged)
+- The Pursuit of Legacy → **The Pursuit of Patriarchy**
+
+See `style-guide.md` for the current, authoritative naming.

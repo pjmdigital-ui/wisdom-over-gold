@@ -2,7 +2,7 @@
 
 Per the brief: saints are referenced where thematically appropriate, not forced into every entry. This is a working reference list matching saints to each month's theme; the daily entries pull from this list (roughly half of a month's days use a saint reference).
 
-## Q1 — The Pursuit of God
+## Q1 — The Pursuit of Piety
 
 **January — God First**
 - St. Augustine of Hippo (restless heart, conversion from disordered self-love: "Our heart is restless until it rests in You")
@@ -58,7 +58,7 @@ Per the brief: saints are referenced where thematically appropriate, not forced 
 - St. Louis IX of France (king and father, household leadership)
 - St. Gianna Beretta Molla (sacrificial family leadership — usable from the husband's vantage point)
 
-## Q4 — The Pursuit of Legacy
+## Q4 — The Pursuit of Patriarchy
 
 **October — Marriage & Love**
 - Sts. Louis and Zélie Martin (married couple, canonized together, parents of St. Thérèse)

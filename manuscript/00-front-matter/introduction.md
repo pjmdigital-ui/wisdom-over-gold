@@ -42,13 +42,13 @@ Somewhere in that season I discovered devotional books — first *Jesus Calling*
 
 What that search taught me is that living out my faith well comes down to four pursuits, and I'm never finished with any of them — I'm just always in them.
 
-The first is the **pursuit of God**. Scripture tells us to seek first the Kingdom, so everything I do now gets weighed against one question: does this please and glorify Him? Is this what He made me for? Is this what His Word says will honor Him? That question runs underneath every other one.
+The first is the **pursuit of Piety** — seeking God first, ordering my life around Him instead of myself. Scripture tells us to seek first the Kingdom, so everything I do now gets weighed against one question: does this please and glorify Him? Is this what He made me for? Is this what His Word says will honor Him? That question runs underneath every other one.
 
-The second is the **pursuit of protection**. Not just my wife and children, though obviously them first. I'm a black belt in Brazilian jiu-jitsu, and I teach kids — which means I'm both protecting them, by making sure what I teach them actually keeps them safe, and providing for them, by giving them something real. I owe that same protection to the people who trust me enough to buy from me or listen to me.
+The second is the **pursuit of Protection**. Not just my wife and children, though obviously them first. I'm a black belt in Brazilian jiu-jitsu, and I teach kids — which means I'm both protecting them, by making sure what I teach them actually keeps them safe, and providing for them, by giving them something real. I owe that same protection to the people who trust me enough to buy from me or listen to me.
 
-The third is the **pursuit of provision** — providing real value, real security, a good life for my family, real solutions for the people who depend on me, and yes, for myself too.
+The third is the **pursuit of Provision** — providing real value, real security, a good life for my family, real solutions for the people who depend on me, and yes, for myself too.
 
-The fourth is the **pursuit of legacy** — of patriarchy in the true sense, the work of building something that outlasts me and leaves the world better for having had me in it.
+The fourth is the **pursuit of Patriarchy** — legacy in the true sense, the work of building something that outlasts me and leaves the world better for having had me in it.
 
 That's the whole shape of this book. Four pursuits, one foundation underneath all of them — because none of the other three hold up if the first one isn't actually in place. I spent most of my life proving that the hard way: chasing protection, provision, and a name for myself while quietly skipping the one pursuit everything else depends on. I know exactly how far that gets a man. It gets him a life that looks finished from the outside and feels hollow everywhere it actually counts.
 
