@@ -58,7 +58,7 @@ Per the brief: saints are referenced where thematically appropriate, not forced 
 - St. Louis IX of France (king and father, household leadership)
 - St. Gianna Beretta Molla (sacrificial family leadership — usable from the husband's vantage point)
 
-## Q4 — The Pursuit of Patriarchy
+## Q4 — The Pursuit of Posterity
 
 **October — Marriage & Love**
 - Sts. Louis and Zélie Martin (married couple, canonized together, parents of St. Thérèse)

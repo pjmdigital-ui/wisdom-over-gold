@@ -3,13 +3,13 @@
 Use this as the shared reference for every daily entry so voice and format stay consistent across the whole book.
 
 ## Core Thesis
-The most important lesson of a man's life: to live to glorify and please God instead of himself — to make God the center of his world rather than being the god of his own life. Rooted in Matthew 6:33 — "But seek first the kingdom of God and his righteousness, and all these things will be added to you." Every other pursuit (Protection, Provision, Patriarchy) only works rightly once this one (Piety) is in place.
+The most important lesson of a man's life: to live to glorify and please God instead of himself — to make God the center of his world rather than being the god of his own life. Rooted in Matthew 6:33 — "But seek first the kingdom of God and his righteousness, and all these things will be added to you." Every other pursuit (Protection, Provision, Posterity) only works rightly once this one (Piety) is in place.
 
 ## The Four Pursuits (book-wide, deliberately alliterative)
 1. **Piety** — Q1 (Jan/Feb/Mar). Seeking God first; ordering your life around Him rather than yourself. The foundation everything else stands on.
 2. **Protection** — Q2 (Apr/May/Jun). Becoming the guardian your family, marriage, and character need.
 3. **Provision** — Q3 (Jul/Aug/Sep). Stewarding work and money as calling and stewardship, not just hustle or duty.
-4. **Patriarchy** — Q4 (Oct/Nov/Dec). Legacy in the true sense — the man who leads his household and leaves something behind.
+4. **Posterity** — Q4 (Oct/Nov/Dec). Legacy in the true sense — the man who leads his household and leaves something behind.
 
 Use these exact names (capitalized, as above) whenever referring to a pursuit by name in front matter, quarter/section headers, or cross-references. Individual month themes (e.g. January's "God First") are more specific than the quarter's pursuit name and don't need to restate it.
 

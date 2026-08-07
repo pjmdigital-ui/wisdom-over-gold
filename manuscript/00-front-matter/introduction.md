@@ -48,7 +48,7 @@ The second is the **pursuit of Protection**. Not just my wife and children, thou
 
 The third is the **pursuit of Provision** — providing real value, real security, a good life for my family, real solutions for the people who depend on me, and yes, for myself too.
 
-The fourth is the **pursuit of Patriarchy** — legacy in the true sense, the work of building something that outlasts me and leaves the world better for having had me in it.
+The fourth is the **pursuit of Posterity** — legacy in the true sense, the work of building something that outlasts me and leaves the world better for having had me in it.
 
 That's the whole shape of this book. Four pursuits, one foundation underneath all of them — because none of the other three hold up if the first one isn't actually in place. I spent most of my life proving that the hard way: chasing protection, provision, and a name for myself while quietly skipping the one pursuit everything else depends on. I know exactly how far that gets a man. It gets him a life that looks finished from the outside and feels hollow everywhere it actually counts.
 

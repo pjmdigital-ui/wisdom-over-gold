@@ -90,6 +90,6 @@ This file preserves the original brief as uploaded. Since then, the four pursuit
 - The Pursuit of God → **The Pursuit of Piety**
 - The Pursuit of Protection → **The Pursuit of Protection** (unchanged)
 - The Pursuit of Provision → **The Pursuit of Provision** (unchanged)
-- The Pursuit of Legacy → **The Pursuit of Patriarchy**
+- The Pursuit of Legacy → **The Pursuit of Posterity**
 
 See `style-guide.md` for the current, authoritative naming.
