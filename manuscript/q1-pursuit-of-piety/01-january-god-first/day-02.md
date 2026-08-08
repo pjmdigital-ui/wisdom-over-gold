@@ -4,7 +4,7 @@ Before your feet hit the floor, your hand already knows where the phone is. You 
 
 Try counting the mornings this week you did this before you prayed, before you drank water, before you said good morning to the people in your own house. For most of us it's all seven. Nobody tells you that the first reach of the day is a kind of confession — it tells you, honestly, who you actually answer to before anyone's forced you to decide.
 
-The psalmist writes something different into his own morning: "O God, you are my God, earnestly I seek you; my soul thirsts for you" (Psalm 63:1). Notice the order — not "I'll get to you once I've handled the inbox," but *earnestly*, *first*, before the day has had a chance to hand him its agenda. He names his condition honestly too: thirst. Not a mild preference. An actual bodily need, the kind that gets your attention because ignoring it has consequences.
+The psalmist writes something different into his own morning: "O God, thou art my God, I seek thee, my soul thirsts for thee" (Psalm 63:1, RSV-CE). Notice the order — not "I'll get to you once I've handled the inbox," but *first*, before the day has had a chance to hand him its agenda. He names his condition honestly too: thirst. Not a mild preference. An actual bodily need, the kind that gets your attention because ignoring it has consequences.
 
 Here's the uncomfortable question underneath the phone habit: what are you actually thirsty for? Information? Validation? The dopamine hit of a notification badge going to zero? None of those things are evil in themselves, but none of them were ever going to satisfy the thirst the psalmist is describing. You can drink from that well all morning and still walk into your kitchen empty.
 
