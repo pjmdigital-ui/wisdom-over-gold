@@ -9,6 +9,13 @@ The framework has two parts. Part 1 is ideation: turning a raw idea into a struc
 
 ## Part 1: Ideation — From Raw Idea to Structured Brief
 
+### Step 0: Decide Whether This Is a Passion Project or a Commercial Product
+Answer this before anything else, because it determines whether you can walk straight into Step 1 or need a research phase first — and it changes how rigorously you treat several of the steps that follow.
+
+If it's a passion project — something you're making because you want it to exist and you're willing to share it regardless of commercial outcome — go straight into the process below. The "why" you name in Step 1 is justification enough on its own; you don't need a market to validate it first. In this case: this devotional began this way. It came out of the author's own faith journey, with no demand study behind it, because the point was to make the book he wished had existed for him — not to fill a gap in a market.
+
+If it's something you actually intend to sell, don't skip to Step 1. Do the research first. Is there real, demonstrated demand — not "I think people would want this," but actual evidence: existing search volume, competing titles that are genuinely selling, a community actively asking for this? What already exists in the space, and specifically how will yours differentiate — not "mine will be better," but a real, nameable difference in angle, audience, or approach? Only move into Step 1 once you can answer both with evidence, not intuition. And when you get there, treat Step 2 (what already exists) as competitive research, not personal taste — you're mapping the market, not just naming your favorites.
+
 ### Step 1: Name the Raw Idea and the "Why"
 Start by simply describing what you want to make and why it matters to you personally — don't worry about structure yet. The emotional/personal "why" almost always becomes your thesis or your introduction later. In this case: "I found value in a men's devotional and want to make one for Catholic fathers and family men."
 
@@ -77,7 +84,7 @@ Work that's expensive to do one unit at a time — verifying a quotation, restru
 
 ## Why This Works
 
-**Ideation** works because it treats the front end of a book as a sequence of small, concrete decisions, each one building on the last, with AI acting as a sounding board that pushes back and stress-tests — not just a content generator. The key discipline is refusing to move to production until the structure is airtight.
+**Ideation** works because it treats the front end of a book as a sequence of small, concrete decisions, each one building on the last, with AI acting as a sounding board that pushes back and stress-tests — not just a content generator. The key discipline is refusing to move to production until the structure is airtight. That starts with the passion-project-or-commercial gate: skip it on a project meant to sell, and you can build a beautifully structured book nobody was looking for; run a full market-research phase on a project that was only ever meant to exist because you wanted it to, and you've added friction the project never needed.
 
 **Production** works for a different reason. A model's output is fluent and confident by default, whether or not it's accurate, and competent by default, whether or not it's actually yours. Every real mistake in this kind of project comes from the same root cause: trusting fluency as a proxy for correctness, or trusting competence as a proxy for authenticity. Neither is true automatically. Both have to be checked, every time, especially once the material is going out under someone's real name.
 
@@ -85,7 +92,7 @@ Work that's expensive to do one unit at a time — verifying a quotation, restru
 
 The reusable core, in full:
 
-**Ideation:** raw idea → reference points → structural skeleton → core thesis → framework naming (iterative) → consistency stress-test → content mapping → title → compiled brief.
+**Ideation:** passion-project-or-commercial-product gate (research demand and differentiation first if it's the latter) → raw idea → reference points → structural skeleton → core thesis → framework naming (iterative) → consistency stress-test → content mapping → title → compiled brief.
 
 **Production:** one complete worked unit → live-verify every factual or quoted claim → audit all existing content against the same standard the moment one error surfaces → interrogate what "proven" actually means before citing it → excavate the author's real convictions and give them structural space → name and ban the model's writing tells → find the mechanism behind every feature request instead of bolting features on → maintain one living spec document → apply the locked standard at scale in parallel.
 
