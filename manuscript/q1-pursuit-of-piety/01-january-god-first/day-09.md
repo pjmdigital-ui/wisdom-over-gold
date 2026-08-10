@@ -8,7 +8,7 @@ You went on a Thursday, at a parish where nobody knew your name. Sat in the pew 
 
 John writes it plainly: "If we confess our sins, he is faithful and just, and will forgive our sins and cleanse us from all unrighteousness" (1 John 1:9, RSV-CE). Read that again for the qualifier you'd been adding on your own. There isn't one. Not "if we've hit bottom." Not "if it's serious enough." If we confess. The verse asks for honesty, not a body count.
 
-Men treat confession like a fire extinguisher — something for emergencies, for the guy who really messed up. The quietly proud man, the moderately selfish man, the man who's fine on paper, decides he doesn't qualify and never goes. Self keeps creeping back onto the throne in small, deniable ways — the tone you take with your wife when you're tired, the corners you cut that you'd never admit to cutting — which is why a man returns to reordering his life around God again and again, on purpose, long before anything qualifies as a crisis.
+Men treat confession like a fire extinguisher — something for emergencies, for the guy who really messed up. The proud man, the moderately selfish man, the man who's fine on paper, decides he doesn't qualify and never goes. Self keeps creeping back onto the throne in small, deniable ways — the tone you take with your wife when you're tired, the corners you cut that you'd never admit to cutting — which is why a man returns to reordering his life around God again and again, on purpose, long before anything qualifies as a crisis.
 
 You don't need a crisis to walk back through that door. You need honesty about the eleven years, or the eleven days, since you last let anyone — God included — tell you the truth about yourself.
 

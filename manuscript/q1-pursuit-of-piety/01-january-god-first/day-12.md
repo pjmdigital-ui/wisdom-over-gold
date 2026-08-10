@@ -10,6 +10,6 @@ That's what makes watching a friend go this direction so uncomfortable. Every ma
 
 **On St. Francis of Assisi:** Born into wealth as the son of a prosperous cloth merchant, Francis was expected to inherit both the family business and its status. Instead, he famously stripped off his fine clothes in the town square and returned them to his father, choosing poverty and total dependence on God over the life laid out for him. He gave up what he'd let sit first in his life, and became more himself for it, not less.
 
-**Today:** Name the person whose life quietly unsettles you because you envy it. Write down, specifically, what they've made an idol of — then write one sentence underneath it: "That's not actually worth wanting more than God." Say it out loud once.
+**Today:** Name the person whose life unsettles you because you envy it. Write down, specifically, what they've made an idol of — then write one sentence underneath it: "That's not actually worth wanting more than God." Say it out loud once.
 
 **Prayer:** Father in Heaven, show me honestly what I'm chasing when I envy someone else's life. I don't want what isn't actually worth wanting more than You. Keep me from letting anything but You sit on the throne. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
