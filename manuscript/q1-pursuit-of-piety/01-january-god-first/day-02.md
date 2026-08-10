@@ -8,8 +8,8 @@ The psalmist writes something different into his own morning: "O God, thou art m
 
 Here's the uncomfortable question underneath the phone habit: what are you actually thirsty for? Information? Validation? The dopamine hit of a notification badge going to zero? None of those things are evil in themselves, but none of them were ever going to satisfy the thirst the psalmist is describing. You can drink from that well all morning and still walk into your kitchen empty.
 
-This isn't really about phones. It's about what gets to speak into your soul first — before your defenses are up, before you've had a chance to remember who you want to be that day. Whatever goes first sets the tone for everything after it. A man who starts his day absorbing the world's noise will spend the rest of it reacting. A man who starts his day seeking God, even for ninety seconds, starts the day already anchored.
+The phone is just the delivery method. What actually matters is what gets to speak into your soul first — before your defenses are up, before you've had a chance to remember who you want to be that day. Whatever goes first sets the tone for everything after it. A man who starts his day absorbing the world's noise will spend the rest of it reacting. A man who starts his day seeking God, even for ninety seconds, starts the day already anchored.
 
-**Today:** Put your phone in another room tonight, charging somewhere you can't reach from bed. Tomorrow morning, before you touch it, say one sentence out loud to God — anything honest will do. Then go get the phone.
+**Today:** Put your phone in another room tonight, charging somewhere you can't reach from bed. Tomorrow morning, before you touch it, say one sentence out loud that names what you actually want first: *God, I want You before I want anything my phone can give me.* Then go get the phone.
 
 **Prayer:** Father in Heaven, before I reach for my phone, I want to reach for You first. Meet me tomorrow morning before the inbox and the noise get a word in, and show me what I'm actually thirsty for. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
