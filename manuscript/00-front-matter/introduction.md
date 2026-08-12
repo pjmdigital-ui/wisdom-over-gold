@@ -32,7 +32,7 @@ I believe now that was no accident. I think the Holy Spirit placed me in that ro
 
 Third, I came to a plain conclusion that we are living inside real spiritual warfare, whether anyone acknowledges it or not, and that a man has to decide which side of that he's actually standing on. Not someday. Now.
 
-So I started doing my own research, in earnest, for the first time in my life. First: is there a God, an actual intelligent designer behind any of this? I became convinced there was. Then: which God? I watched debate after debate, read what I could, and the road kept leading back to the same place — the Catholic Church, the faith my grandmother had quietly planted in me on all those Saturday nights I hadn't thought much about since.
+So I started doing my own research, in earnest, for the first time in my life. First: is there a God, an actual intelligent designer behind any of this? I became convinced there was. Then: which God? I watched debate after debate, read what I could, and the road kept leading back to the same place — the Catholic Church, the faith my grandmother had planted in me on all those Saturday nights I hadn't thought much about since.
 
 Since I let that faith take root for real, God has been at work in my life in ways I can't explain away. I feel His presence. I've watched doors open that had no business opening. When I pray for direction, I get it — not always fast, not always the way I'd script it, but real.
 
@@ -50,8 +50,8 @@ The third is the **pursuit of Provision** — providing real value, real securit
 
 The fourth is the **pursuit of Posterity** — legacy in the true sense, the work of building something that outlasts me and leaves the world better for having had me in it.
 
-That's the whole shape of this book. Four pursuits, one foundation underneath all of them — because none of the other three hold up if the first one isn't actually in place. I spent most of my life proving that the hard way: chasing protection, provision, and a name for myself while quietly skipping the one pursuit everything else depends on. I know exactly how far that gets a man. It gets him a life that looks finished from the outside and feels hollow everywhere it actually counts.
+That's the whole shape of this book. Four pursuits, one foundation underneath all of them — because none of the other three hold up if the first one isn't actually in place. I spent most of my life proving that the hard way: chasing protection, provision, and a name for myself while skipping the one pursuit everything else depends on. I know exactly how far that gets a man. It gets him a life that looks finished from the outside and feels hollow everywhere it actually counts.
 
-I'm not writing to you from a mountaintop, and I'm not finished becoming any of these four things — nobody is, this side of heaven. I still catch myself, more often than I'd like, quietly climbing back onto the throne of my own life. Noticing that, and handing it back to Him, isn't something you do once. It's the whole game, every day, for the rest of your life. That's why this book runs 365 days instead of twelve chapters. Seeking first isn't an achievement you unlock. It's a direction you keep choosing, one morning at a time.
+I'm not writing to you from a mountaintop, and I'm not finished becoming any of these four things — nobody is, this side of heaven. I still catch myself, more often than I'd like, climbing back onto the throne of my own life. Noticing that, and handing it back to Him, isn't something you do once. It's the whole game, every day, for the rest of your life. That's why this book runs 365 days instead of twelve chapters. Seeking first isn't an achievement you unlock. It's a direction you keep choosing, one morning at a time.
 
 I hope this book helps you the way discovering this same truth has helped me. Let's seek Him first, together, starting today.
