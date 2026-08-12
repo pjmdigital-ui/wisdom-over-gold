@@ -1,0 +1,15 @@
+# Day 6 — The Ache You Can't Explain
+
+Nothing happened to Nate on Tuesday. That's the part that bothered him most. Work was fine. The kids were fine. He drove his youngest to swim practice, sat in the bleachers for forty minutes watching her do laps, drove home — and somewhere in that drive a heaviness settled into his chest that he couldn't trace to any single thing. No fight, no bad news, no diagnosis. Just weight, sitting there uninvited, the way a bruise aches for no reason you can point to on a given day.
+
+His wife asked if he was okay when he came in. "Yeah, fine — just tired," he said, which was true and also not the answer. Tired is a word you're allowed to say out loud. Whatever this actually was — some mix of watching his daughter get older by the lap, some low hum about his own father, some weight that didn't have a name — didn't feel like something he had permission to bring up. He didn't have a reason for it. And a man ought to have a reason before he says he's struggling.
+
+That's the belief, once you name it: if he can't point to a cause, it isn't real enough to matter — not real enough to mention to his wife, not real enough to bring to God in prayer. So he carried it alone through dinner, through bedtime stories, through the rest of the week, waiting for it to have the decency to explain itself before he'd let himself feel it.
+
+David wrote the Psalms out of exactly this kind of unexplained weight — not always a named catastrophe, often just the crushing wear of being a man in a hard world. "The LORD is near to the brokenhearted, and saves the crushed in spirit" (Psalm 34:18, RSV-CE). Notice what isn't required to receive that nearness: an explanation. No qualifying disaster, no acceptable reason on file. Brokenhearted and crushed in spirit are conditions, not verdicts on whether the pain is legitimate. God draws near to the ache itself, whether or not the man carrying it can say where it came from.
+
+Nate's Tuesday didn't need a cause to deserve being brought to God. Most of a man's real suffering doesn't come with a tidy label attached — it just arrives, and he either carries it alone because it seems too small or too strange to name, or he brings it to the One who promises to be near it either way.
+
+**Today:** If there's a heaviness in you right now that you can't fully explain, stop waiting for a reason before you take it seriously. Say to God: *I don't need a cause to bring this to You. You're near to me in it either way.* Say it out loud where He can hear it — in the car, in the shower, wherever you were about to carry it alone instead.
+
+**Prayer:** Father in Heaven, there's a weight on me I can't fully name, and I've been treating it like it doesn't count because I don't have a clean reason for it. Thank You for being near to the brokenhearted without requiring an explanation first. Meet me in this ache the way You promised, even though I can't tell You exactly what it is. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
