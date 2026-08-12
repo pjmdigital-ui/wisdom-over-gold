@@ -1,0 +1,15 @@
+# Day 3 — The Questions You've Been Avoiding
+
+Every Thursday for six years, Ben has sat in the adoration chapel from nine to ten while the rest of the parish sleeps. He kneels for the first twenty minutes, sits for the rest, and by now the hour runs on muscle memory — an Our Father, a decade of the rosary, whatever intentions come to mind. It's the most disciplined thing in his spiritual life, and for years it's also been the place where he keeps one question locked outside the door.
+
+This particular Thursday, for no reason he can name, the question gets in anyway. He's thirty-eight. He was baptized as an infant, confirmed at fourteen, and has never once let himself sit with the actual weight of what the Church teaches about hell — that a soul can choose, finally and forever, to be separated from God. Not as a line in the Creed. As a real thing that could be real for someone he knows. Does God really let that happen to a person over choices made across sixty or seventy finite years? He's heard the catechism answer a dozen times and always nodded and moved on before it landed. Tonight, kneeling in front of the tabernacle, he lets it land, and it scares him.
+
+Ben has spent six years assuming that showing up for the hour was the same as facing his faith honestly. It wasn't. Discipline and honesty aren't the same practice, and a man can keep the first one for years while never doing the harder work of the second.
+
+He's not the first believer to bring an unresolved question to someone he suspects might have the answer. John the Baptist — in prison, awaiting execution, having baptized Jesus himself and heard the voice from heaven at the Jordan — sends his own disciples to ask the plainest possible version of his doubt: "Are you he who is to come, or shall we look for another?" (Matthew 11:3, RSV-CE). John had more reason than almost anyone to already be certain. He asked anyway, because the not-knowing had gotten too heavy to carry alone in a cell.
+
+Jesus doesn't rebuke him for it. He answers with what's actually happening — the blind see, the lame walk, the dead are raised — and lets John draw his own conclusion. The question didn't disqualify John from being called the greatest man born of woman. What he did with the question is what mattered: he sent it toward Jesus instead of sitting on it in the dark.
+
+**Today:** Name the one theological question you've let yourself skirt around for years — write the actual sentence, not a softened version. Then write underneath it: *I can bring my hardest question to God directly. Asking it doesn't undo my faith.* Bring that written question into your next confession or your next honest conversation with a priest.
+
+**Prayer:** Lord God Almighty, there is a question I have been avoiding because I was afraid of what asking it might mean, and I bring it to You honestly tonight instead of burying it again. Give me the same courage John showed from that cell, to send my hardest question straight to You. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.

@@ -1,0 +1,15 @@
+# Day 13 — What Certainty Actually Costs
+
+Chris's daughter asked it over spaghetti, the way ten-year-olds ask the hardest questions — completely out of nowhere, fork still in hand. "Dad, how do you know God is real?" Chris didn't hesitate. He gave her the answer he'd given a dozen times before, smooth and certain, the kind of answer that closes a subject rather than opening one. She nodded, satisfied enough, and went back to her food. Chris felt the familiar relief of a man who'd defended the fort successfully.
+
+He also felt something else, later, doing dishes alone. He hadn't answered her question. He'd performed an answer — delivered with enough confidence that neither of them had to sit in the real complexity of it. He did the same thing at work leading his team through a project he privately had real doubts about, nodding along in meetings as if the plan were airtight when half of it was his best guess dressed up as a decision. He'd built a reputation — steady dad, confident leader — that ran on never once saying *I'm not fully sure.*
+
+He started doing the math on what that reputation cost him. His daughter had stopped bringing him her harder questions somewhere along the way — she'd learned Dad always has a tidy answer, and tidy answers don't invite a second conversation. His team had started keeping their own doubts from him too, since a leader who's never uncertain doesn't make room for anyone else's uncertainty either. Performing certainty hadn't made Chris more trustworthy. It had made him harder to talk to.
+
+St. Paul names the honest condition every believer lives in, whether he admits it or not: "For now we see in a mirror dimly, but then face to face. Now I know in part; then I shall understand fully, even as I have been fully understood" (1 Corinthians 13:12, RSV-CE). Paul — an apostle who saw the risen Christ — still describes his own knowledge as partial, as a dim reflection, not a finished picture. If Paul can say *I know in part* without it costing him his authority, a father answering his daughter honestly can survive it too.
+
+The belief Chris had been running on without ever naming it: *if I admit I don't fully know, I lose my authority as the man they're supposed to trust.* The truth runs the other way. A man who can say "I don't know everything, but here's what I do trust and why" gives his kids and his team something sturdier than a performance — he gives them permission to be honest too.
+
+**Today:** Go back to the question — from your kid, your spouse, or your team — that you answered with more certainty than you truly had. Reopen it honestly: "I don't know everything about that, but here's what I do trust." Write and say: *I know in part, and that's allowed to be enough.*
+
+**Prayer:** Lord God Almighty, I've performed certainty I didn't have to protect my authority, and it's cost me the honest conversations that build real trust. Give me the courage to say what I truly know and admit what I don't. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
