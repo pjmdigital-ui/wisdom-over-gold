@@ -1,0 +1,17 @@
+# Day 8 — The King's Good Servant
+
+Mike's regional director asked him to sign off on a safety inspection checklist a week before it had actually been completed — a formality, the director called it, paperwork catching up to reality, since the inspection was already scheduled and would obviously pass. Everyone up the chain did it this way. Mike's signature wouldn't change a single fact on the ground. It would just make the timeline look clean for an audit that was really about optics, not safety.
+
+He almost signed it. The belief that got his pen halfway to the page was one most men carry without examining it: *going along with what the people over me expect is safer than taking a stand nobody even asked me to take.* His director wasn't a tyrant. He was just a boss with a request that cost Mike nothing visible and would make one meeting easier. Refusing felt disproportionate to what was actually being asked.
+
+Five hundred years ago, a man faced a version of that same request with immeasurably higher stakes. St. Thomas More served as Lord Chancellor of England under King Henry VIII — a loyal servant of the crown by every account, a man who believed deeply in the legitimate authority of the king he served. When Henry demanded an oath recognizing him as head of the Church in England, breaking from Rome, More refused. Not loudly, not as a public campaign — he simply would not sign what he did not believe to be true. It cost him his office, his freedom, and eventually his life. On the scaffold, More is remembered for calling himself "the king's good servant, but God's first."
+
+That line is the whole of the month's belief and its reframe compressed into nine words. More didn't refuse Henry because he had a grudge against kings, or because obedience itself was the enemy. He refused because Henry had asked for something that wasn't his to give — a portion of allegiance that belonged to God alone, dressed up as an ordinary act of loyalty.
+
+Jesus draws that same line when the Pharisees try to trap Him over paying taxes to Caesar: "They said, 'Caesar's.' Then he said to them, 'Render therefore to Caesar the things that are Caesar's, and to God the things that are God's'" (Matthew 22:21, RSV-CE). It's not a rejection of legitimate authority — Caesar gets what's actually his. It's a boundary line around what Caesar never had a claim to in the first place. A boss, a board, a client, a culture can ask a man for real and rightful things: his effort, his time, his respect. None of them can ask for his conscience. That belongs to God, and no amount of "everyone does it this way" transfers the title.
+
+Mike's checklist wasn't Henry's oath. But the shape of the request was identical in miniature — sign the thing that isn't true yet, because refusing seems disproportionate to what's being asked. It rarely feels disproportionate at the time. That's exactly how it gets signed.
+
+**Today:** Locate the one place this week where what's being asked of you actually belongs to God, not to whoever's asking. State it clearly: "I can serve the people over me honestly, but I don't get to hand them what belongs to God." Then decline the one thing on your list that crosses that line.
+
+**Prayer:** Father in Heaven, I've signed off on things that were smaller than they should have felt uncomfortable being, and called it loyalty instead of what it was. Give me More's clarity to give Caesar what's his and keep for You what's Yours alone. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
