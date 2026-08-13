@@ -1,0 +1,17 @@
+# Day 24 — Sowing Bountifully
+
+Silas sat across from his accountant at the end of the second quarter and looked at a number he hadn't expected to see for another three years. The landscaping company he'd started with one truck and a borrowed trailer had just posted its best six months ever. He'd already picked out the new dump truck online, cash on the lot, no financing. He'd earned it. Nobody was going to tell him different.
+
+On the drive home his foreman mentioned, almost in passing, that one of the crew guys — a father of three who'd been with Silas since year one — was behind on a car repair bill and had been walking two miles to a bus stop for a week rather than ask for an advance. Silas's first thought was defensive, not generous: *that's not my problem, I built this company with my own back and my own risk, and what it makes is mine to decide what to do with.*
+
+He caught the thought and didn't like the sound of it out loud.
+
+Scripture doesn't ask Silas to feel guilty about the truck. It asks him to notice the posture underneath the decision. St. Paul, writing to a church he was asking to give generously, put it plainly: "The point is this: he who sows sparingly will also reap sparingly, and he who sows bountifully will also reap bountifully. Each one must do as he has made up his mind, not reluctantly or under compulsion, for God loves a cheerful giver" (2 Corinthians 9:6-7, RSV-CE). Paul isn't talking about the size of the check. He's talking about the hand it comes from — reluctant or open, calculated or cheerful. A man can technically give and still sow sparingly, if the giving is grudging, timed for tax season, or measured out only after every want of his own is satisfied first.
+
+Silas built this company. That's true and it matters. But the crew who showed up at 6 a.m. in July heat built it too, and the belief he'd been running on — that a good year is a private reward instead of a shared harvest — never survives contact with a man walking two miles to a bus stop. Generosity is a decision made on purpose, before the leftovers exist, about what kind of hand is going to do the giving — not whatever's left over after Silas takes care of himself.
+
+The truck can wait a month. Waiting doesn't cost Silas anything worth calling a sacrifice — it just puts the decision in the right order for once: people first, reward second, and the reward not resented for coming second.
+
+**Today:** Do one specific, planned act of generosity from this month's surplus — help the crew member, increase your giving, pay someone fairly before you're asked — before you spend a dollar of it on yourself. Say the true belief out loud as you do it: *What I've been given to earn, I've also been given to share, and I get to decide that cheerfully instead of grudgingly.*
+
+**Prayer:** Father in Heaven, thank You for a season of real provision I didn't expect. Soften the grip I put on what comes through my own hands, and make me a cheerful giver instead of a calculating one. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
