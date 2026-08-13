@@ -1,0 +1,15 @@
+# Day 13 — The Household's Thermostat
+
+Keith's bad days had a pattern his family could have set a clock by, though nobody had ever said it out loud. He'd pull into the driveway after a hard shift, walk in without much of a greeting, answer questions in single words, and within twenty minutes the whole house would be running on his frequency. His daughter would start snapping at her brother over nothing. His wife would go quiet in the kitchen instead of asking how his day went. Even the dog kept clear of the kitchen on those nights. Keith noticed the tension every time and assumed it had nothing to do with him — just a house full of people having their own rough evening, coincidentally, on the same night his had gone badly.
+
+The belief underneath that assumption was simple: my mood is just my own reaction to my own day. It doesn't set anything for anyone else.
+
+St. Paul's list to the Galatians doesn't come with a disclaimer for hard days. "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such there is no law" (Galatians 5:22-23, RSV-CE). Fruit doesn't grow only in good weather. A tree rooted deep enough produces the same fruit in a drought year as in an easy one — the weather changes; the tree's condition underneath doesn't have to move with it. Keith's mood walking through the door had been setting his family's mood every single night for years, and calling it "just my reaction to my day" let him skip the harder question underneath: what was actually rooted in him, if one bad shift could uproot it that fast.
+
+A house doesn't need a father who never has a hard day. It needs one who doesn't let a hard day set the temperature for everyone else living in it. That's the difference between a thermostat and a thermometer: one reports whatever's happening around it, the other decides what the room is going to feel like regardless of the weather outside. Keith started sitting in the truck for two minutes before walking in the door, not to fake a mood he didn't have, but to hand the real one to God first, so what he carried inside wasn't leftover tension looking for somewhere to land.
+
+It didn't erase his hard days. His family stopped bracing for them the same way, though, and that alone changed more about the house than Keith expected two minutes in a driveway could.
+
+**Today:** Tonight, before you walk through the door, take two minutes — in the car, on the porch, wherever you land first — to hand today over to God before you hand your mood to your family. Tell yourself: "I decide what temperature this house runs at tonight, not my day."
+
+**Prayer:** Lord God Almighty, too many nights I've let my day decide my family's evening instead of You. Grow real fruit in me — patience and peace that hold up under pressure, not just on easy days. Let me set this house's temperature instead of just reporting whatever the day handed me. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.

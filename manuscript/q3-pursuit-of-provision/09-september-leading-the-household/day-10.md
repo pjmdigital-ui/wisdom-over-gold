@@ -1,0 +1,17 @@
+# Day 10 — Steady in the Storm
+
+The phone rang while Ethan was grilling burgers in the backyard, his three kids running through the sprinkler behind him. His wife's voice on the other end was flat in the way voices go flat when someone's trying hard to sound normal. The radiologist wanted more pictures. Then a biopsy. Then, four days later, a callback appointment they wouldn't have an answer from until the following Tuesday.
+
+Ethan hung up and stood at the grill a full minute before he moved again. His first instinct pulled him toward a version of himself with no visible feelings at all, the stone-faced provider who handles bad news by refusing to look like he's heard it. He served the burgers. He answered his daughter's question about the sprinkler timer. He said nothing to his kids about the call, and somewhere in that first minute he decided that saying nothing, showing nothing, keeping his face exactly where it always sat, was what it meant to hold this family together.
+
+The belief running underneath that decision was simple and mostly unexamined: a man holds his family together by not letting any of them see him rattled. Show them fear, and the whole house starts to shake with it.
+
+Joshua faced considerably more than a callback appointment — an entire people depending on him to lead them into land held by armies with more experience than his own — and God's charge to him wasn't to fake composure until the fear passed on its own. "Have I not commanded you? Be strong and of good courage; be not frightened, neither be dismayed; for the LORD your God is with you wherever you go" (Joshua 1:9, RSV-CE). The strength commanded in that verse doesn't originate in Joshua's own nerve. It comes from the last clause — the LORD your God is with you — which is the actual reason Joshua gets to set the fear down, not a technique for hiding that he ever picked it up.
+
+Ethan's silence at the grill was a performance of strength rather than the real thing, and performances take everything a man has to keep running for four days straight. His wife needed a husband who could sit with her in the waiting, not a wall who pretended the waiting wasn't happening. His kids didn't need a father with no visible feelings; they needed one whose fear didn't get to run the house, because he'd handed it somewhere sturdier than his own composure could ever be.
+
+Tuesday's results came back clear. But the four days in between taught Ethan something the good news almost let him skip past entirely: the steadiness his family actually needed from him was never his own manufacture to begin with. It had been on offer the whole time from a God who'd already promised to be present before Ethan ever picked up that phone.
+
+**Today:** Name a place in your marriage or fatherhood right now where you've been performing calm instead of leaning on God's presence for real. Tell your wife the truth about how you're actually doing, out loud, tonight: "I'm not the one holding this together. God is, and I get to lean on that instead of faking it."
+
+**Prayer:** Father in Heaven, thank You for staying present through a week I didn't handle as well as I wanted to. Forgive me for hiding behind a calm face instead of leaning on You where my family could see it. Let my steadiness come from Your presence this week, not my own performance. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.

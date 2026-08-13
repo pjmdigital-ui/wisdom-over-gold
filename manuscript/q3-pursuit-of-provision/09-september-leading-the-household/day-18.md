@@ -1,0 +1,15 @@
+# Day 18 — Apologizing First
+
+Carter told his daughter to put her phone away at the dinner table for the third time that week, and she rolled her eyes hard enough that he snapped — told her she could go eat in her room if the table was such an inconvenience. She left. He sat there a minute longer than he should have, aware his voice had carried an edge the phone comment hadn't earned on its own, but also aware that she'd started it with the eye roll, the tone, the general air of a fifteen-year-old who thought the rule itself was beneath her. By his math, she owed the first apology. He was willing to accept it whenever she got around to offering it.
+
+Two days went by like that. Polite, distant, both of them technically fine, neither one bringing it up. Carter noticed the rest of the house had gone quieter than usual — his wife stepping carefully around both of them, his younger son picking up on tension he couldn't name. Carter told himself he was holding a reasonable line: he'd apologize for his tone the moment she apologized for hers. Waiting felt like fairness. It also felt, underneath the fairness, like keeping score.
+
+The belief running the whole standoff was simple enough to say once it was named: *whoever was wrong first should be the one who apologizes first.* It sounds like justice. It functions like a stalemate, because both people can always find a reason the other one went first, and the house sits in a low-grade cold front until somebody decides the scorekeeping isn't worth it anymore.
+
+Scripture doesn't sequence confession by who was more at fault. "Therefore confess your sins to one another, and pray for one another, that you may be healed. The prayer of a righteous man has great power in its effects" (James 5:16, RSV-CE). Confess to one another — not confess once the other person confesses first. Healing in that verse depends on someone going first, and it doesn't specify that the someone has to be the person who started it.
+
+Carter found his daughter in her room that evening and said the plain thing: his tone had been out of line, whatever hers had been. He didn't relitigate the phone rule or ask for her side of it first. She was quiet for a second, then said she was sorry too, in a smaller voice than the eye roll had suggested she had in her. Leading a house from the front sometimes looks exactly like this — being the one who moves first, not because he was more wrong, but because somebody has to break the standoff, and the man leading the house is the one built to carry that weight without it costing him anything real.
+
+**Today:** Go to the person you're in a standoff with — spouse, child, anyone under your roof — and apologize for your actual part, without waiting for theirs first and without attaching a but. Say it plainly and let it stand on its own.
+
+**Prayer:** Father in Heaven, forgive me for treating apology like something owed to me before I'll offer it. Give me the strength to go first today, even when I'm convinced I have the better argument. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.

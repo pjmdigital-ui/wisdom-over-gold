@@ -1,0 +1,15 @@
+# Day 26 — Turning the Hearts
+
+Micah watched his son kneel next to his own two-year-old before bed, walking the boy's small hand through the sign of the cross the way you do with a toddler who doesn't yet have the coordination for it himself. The boy paused at his forehead a half-second longer than the motion required, an odd little hitch in an otherwise fluid gesture, before finishing the rest of the sign.
+
+Micah had seen that exact hitch before. His own grandfather did it — the pause at the forehead, unhurried, almost stubborn about it, like he wanted that part of the prayer to land before he let his hand move on. Micah's grandfather died when Micah was twelve. Micah couldn't remember a single conversation about faith with the man, no lesson, no instruction, nothing that would explain how a gesture that specific had traveled three generations to a two-year-old who would never meet him, through a middle generation — Micah's own son — who probably didn't know he was passing it on any more than Micah had known he was carrying it.
+
+Micah had spent years assuming his own influence on his family had a shelf life — that whatever good he managed to plant would need him alive and present to keep it growing, and that once he was gone, whatever he hadn't gotten around to would simply stay undone. Watching his grandson's hand pause at his own forehead untaught that assumption in about four seconds.
+
+The prophet Malachi closes the entire Old Testament with a promise about exactly this kind of movement across time: "And he will turn the hearts of fathers to their children and the hearts of children to their fathers, lest I come and smite the land with a curse" (Malachi 4:6, RSV-CE). The turning runs in both directions and across more distance than any one father can see from where he's standing. A man plants something real in his children with no guarantee of watching it bear fruit in his own lifetime, let alone in a grandchild he might never meet.
+
+**On St. Joachim:** Scripture doesn't record a single word St. Joachim said. Tradition holds him as the father of Mary and grandfather of Jesus, a man whose entire visible legacy is two names he almost certainly never lived to hear spoken the way the world speaks them now. Joachim raised a daughter faithfully enough that she could say yes to an angel with her whole soul already formed toward God, and whatever he did to form her, he did without ever knowing the child she would carry. He turned a heart toward God and never saw the harvest. Neither will most fathers, and that was never the point.
+
+**Today:** Write down one thing about your own father, grandfather, or another man's example that shaped you — something he likely never knew had landed. Then name one thing you're doing now, unremarkable and probably unnoticed, that you're trusting God to carry forward the same way.
+
+**Prayer:** Father in Heaven, thank You for the faith that reached me through men who never saw what it became. Let what I do today outlast my own sight of it, turning the hearts You've given me even after I'm gone. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
