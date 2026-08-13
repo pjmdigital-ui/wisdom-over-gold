@@ -1,0 +1,19 @@
+# Day 9 — David and Jonathan
+
+David had just killed Goliath, and Saul's court didn't know what to do with him. Saul's own son had every reason to see the shepherd boy as a threat. Jonathan was the crown prince. David was the man the crowds were already singing about in the streets, crediting him with ten times the kills they gave Saul himself. Any son of a king watching that song spread would have felt the ground shift under his own future.
+
+Jonathan didn't treat David as a rival. He gave him his robe, his armor, his sword, his bow, his belt — the visible signs of his own princely standing — and bound himself to David in a covenant instead. Later, when Saul's jealousy turned to open murder plots, Jonathan warned David, covered for him at his father's table, and helped him escape into hiding, knowing full well what that loyalty would cost him with the man who could disinherit him with a word.
+
+A lot of men would call that reckless. Jonathan had a throne on the line and chose a friendship over it anyway.
+
+Here's the belief worth naming, because most men carry a quieter version of it: loyalty to a friend is only safe when it doesn't cost you anything with the people who actually hold power over your life. Stand with the coworker being scapegoated and the boss might remember it. Defend the friend everyone else has turned on and you might get lumped in with him. So the calculation runs underneath, unspoken — support him, but not so visibly that it touches your own position.
+
+Jonathan's covenant with David runs the opposite direction. "And Jonathan made David swear again by his love for him; for he loved him as he loved his own soul" (1 Samuel 20:17, RSV-CE). That's not friendship offered at a discount, hedged against the risk of Saul's anger. It's loyalty that already knows the cost and pays it anyway, because the friendship itself was worth more to Jonathan than the position he stood to lose by keeping it.
+
+Most men will never face a father-king plotting murder over a friendship. What they'll face is smaller and more common: the moment where standing by a friend means an awkward conversation with a boss, a strained family dinner, a reputation ding among people whose opinion matters to your career. David and Jonathan didn't have a friendship that survived because nothing ever threatened it. It survived because Jonathan decided in advance which mattered more, and he decided before the moment came, not during it.
+
+That's the part worth sitting with. Jonathan's loyalty wasn't improvised under pressure. It was already settled before Saul ever threw a spear across the dinner table. A man who waits until the pressure hits to decide what his friendship is worth will usually decide wrong, because fear makes the calculation for him.
+
+**Today:** Name one relationship where you've been hedging your loyalty to protect your own standing. Say plainly, to yourself or out loud: "This friendship is worth more than my comfort with the people watching it." Then do one thing today that proves it — a text, a call, a word said in the room where it costs you something.
+
+**Prayer:** Lord God Almighty, You have seen every time I've held back from a friend to protect my own standing with someone else. Give me Jonathan's settled loyalty — decided before the pressure comes, not scrambled together during it. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.

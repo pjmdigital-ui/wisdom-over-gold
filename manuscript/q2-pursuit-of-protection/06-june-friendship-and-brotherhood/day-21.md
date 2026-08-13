@@ -1,0 +1,15 @@
+# Day 21 — Closing Week Three
+
+This week traded stories and history for the ordinary Tuesday version of brotherhood — the kind that doesn't come with a saint's biography attached, just a man deciding, in real time, whether he's actually going to live what he says he believes. A friend who mistook watching for controlling until he was asked to tell the difference. A man who couldn't answer "how are you, really" because he'd never once asked himself. A mentor who nearly made another man's decision for him instead of helping him make it. A friend who caught himself building a defense before he'd even heard the correction land. A man who drove four hours and stayed three days for a grief that had no fix.
+
+Different scenarios, same pattern underneath: brotherhood asking for something specific each time — humility, honesty, restraint, patience, presence — and each man having to choose it in the moment rather than just agreeing with the idea of it in principle. It's one thing to believe brotherhood matters. It's another to sit in the silence while a friend works out his own answer, or to say "you're right" instead of finishing the excuse.
+
+St. Paul gives the practical shape of what all five days were reaching for, in a single line easy to read past too quickly: "Rejoice with those who rejoice, weep with those who weep" (Romans 12:15, RSV-CE). That's not a suggestion to feel generically supportive. It's a call to match another man's actual state — his gladness or his grief — rather than filtering it through your own comfort, your own schedule, your own instinct to fix or correct or manage. Every scene this week failed or succeeded on exactly that hinge: whether a man showed up for what his brother was actually experiencing, or substituted what was easier for him to give instead.
+
+That's harder than it sounds, because matching another man's state costs something real. It costs the pride that would rather explain than listen. It costs the control that would rather decide than counsel. It costs the calendar that would rather send a card than clear three days. Every entry this week was, underneath the specifics, a man discovering the same thing: brotherhood isn't expensive because it's complicated. It's expensive because it asks you to set down something of your own — your certainty, your schedule, your defenses — to actually be present to another man's water.
+
+You don't need five new lessons to close this week. You need to notice which one of the five landed closest to home, and go back to it before the month moves on.
+
+**Today:** Reread this week's entries in your mind and name the one that named you most accurately. Say it plainly: "I am not just agreeing that brotherhood matters — I am choosing it, specifically, today, in the way that verse cost me something." Then do the one action from that day you skipped or half-did.
+
+**Prayer:** Lord God Almighty, thank You for a week that asked more of me than easy agreement. Show me which of these lessons I still haven't actually lived, and give me the courage to go back and finish it. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.

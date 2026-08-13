@@ -1,0 +1,17 @@
+# Day 13 — Basil and Gregory
+
+Sawyer had known the same four guys since college, fifteen years now, and they still got together every few months to watch football and complain about work. He liked them. But somewhere in the last few years, he'd noticed the conversation never moved past the surface — the same jokes, the same griping, nobody asking how anyone was actually doing, nobody pushing anybody toward anything. He'd started to wonder if that was just what friendship became after thirty, and told himself it didn't much matter who he spent his Sundays with. He was still the same man either way. The company was just background noise to a life he was building on his own terms.
+
+That's the quiet assumption worth pulling into the light: who I spend my time with is a preference, not a formation — I decide who I become, and the people around me are basically incidental to that. It sounds independent. It's actually a way of refusing to notice how much the room shapes the man in it.
+
+Scripture is direct about this, more direct than most men want it to be: "He who walks with wise men becomes wise, but the companion of fools will suffer harm" (Proverbs 13:20, RSV-CE). Not might become wise. Becomes. The verse doesn't treat companionship as neutral background — it treats it as one of the forces actively making you into who you are, for better or worse, whether you notice it happening or not.
+
+Few friendships in Church history prove the "becomes wise" half of that verse as clearly as the one between two young students who met studying rhetoric in Athens in the fourth century. They weren't casual acquaintances who happened to attend the same lectures. They pushed each other toward holiness for decades — through years of study together, through Gregory's help drawing the reluctant Basil toward monastic life, through Basil's fierce theological defense of the faith against heresy, through the founding of communities and the writing of works that would shape Christian theology for the next sixteen centuries. Gregory would later write that studying wasn't even their real subject; virtue was — that everything they read together, they read toward becoming better men, not just better scholars.
+
+**On Sts. Basil the Great and Gregory Nazianzen:** Neither man became who he became alone. Basil's fire and Gregory's depth sharpened each other across decades, through separation, disagreement, and reunion, until history stopped being able to talk about one without the other. Their friendship wasn't a pleasant addition to two already-finished men. It was part of how each man got made.
+
+Sawyer's football Sundays aren't the problem. The problem is mistaking friendship for entertainment and never asking whether the men around him are pulling him toward anything at all.
+
+**Today:** Look honestly at the two or three men you spend the most time with and ask which direction they're actually pulling you. Say to yourself: "The men I keep close aren't background noise — they're shaping who I become, whether I choose it or not." Then reach out to one man whose life genuinely points you toward something better, and make plans to spend real time with him this month.
+
+**Prayer:** Lord God Almighty, I have treated my friendships as harmless background to a life I thought I was building alone. Show me clearly who is shaping me toward You and who is only shaping me toward comfort. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.

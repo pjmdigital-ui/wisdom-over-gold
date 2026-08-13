@@ -1,0 +1,15 @@
+# Day 26 — Repairing a Broken Friendship
+
+Nine months since Holt and his old college roommate had spoken. The fight itself was almost forgettable — a canceled trip, a sharp text, a worse phone call — but the silence after it had calcified into something bigger than the original argument. Holt still had the guy's number saved. He'd typed out a message twice and deleted it twice, telling himself the timing wasn't right, that too much time had passed to bring it up now, that reaching out would just reopen something better left closed.
+
+That's the tell. "Too much time has passed" is rarely about the calendar. It's a way of saying *the risk of him rejecting my apology feels worse than the certainty of losing the friendship*, without having to say that sentence directly. Silence feels safer than a conversation that might go badly, but that feeling is a trick of timing — silence is just slower to show its cost.
+
+Christ gave a direct instruction for exactly this situation, and it's worth noticing how unambiguous it is: "If your brother sins against you, go and tell him his fault, between you and him alone. If he listens to you, you have gained your brother" (Matthew 18:15, RSV-CE). No waiting for the other man to move first. No committee, no group chat where everyone weighs in before anything gets said to the person who actually needs to hear it. Go and tell him — privately, directly, to his face or his voice, not around him to a mutual friend. The goal named at the end isn't being right. It's gaining your brother back.
+
+Notice too what the verse doesn't require: it doesn't ask Holt to pretend the offense didn't happen, or to arrive already at forgiveness he hasn't actually reached yet. It asks him to go. The going is the obedience. What happens in the conversation — whether the friend listens, whether the friendship actually mends, whether it takes one conversation or five — is genuinely out of his hands. His job is only ever the part in front of him: pick up the phone, say the honest thing, in private, to the man himself.
+
+Most broken friendships between men don't die from one unforgivable act. They die from the six months of neither man going first. Both wait for the apology to arrive from the other direction, and both mistake the other's silence for indifference, when it might just be the same fear wearing a different coat. Somebody has to be the one who moves. Christ's instruction makes clear that being right about who owes whom an apology was never really the point.
+
+**Today:** Call or message the one friend you've let this silence settle with, and say the thing plainly: *I've let too much time pass instead of just talking to you, and I want to fix that, not win an old argument.* Send it before the day ends, however uncomfortable it feels going out.
+
+**Prayer:** Father in Heaven, I've let pride and fear of rejection do the work that a direct conversation should have done months ago. Give me the courage to go to him myself, the way Your Son instructed, and to want the friendship back more than I want to be right. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
