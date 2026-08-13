@@ -1,0 +1,15 @@
+# Day 6 — Held in Honor
+
+Raymond's crew had a running bit about marriage that everyone joined in on without thinking twice — the ball-and-chain jokes at lunch, the "happy wife, happy life" shrugs whenever someone mentioned a compromise they'd made, the group text that lit up every time a coworker posted something about his own wife that was funny mostly because it was a little contemptuous. Raymond laughed along. He'd never once said anything unkind about Sophia in those threads. He just never stopped them either, and somewhere in the daily habit of laughing at the joke, he noticed his own private view of marriage picking up a faint film of the same contempt — an unspoken sense that being married was something you survived and joked about, not something you held as sacred.
+
+He caught it clearly one night when Sophia mentioned, excited, that a friend of hers had gotten engaged, and Raymond's first internal reaction — before he caught himself — was something closer to sympathy for the guy than joy. He didn't like what that said about how he'd let himself start thinking.
+
+*Everybody talks about marriage like it's a trap men fall into. Going along with that is harmless — it's just how guys talk.* Raymond had never examined that assumption, and it had been quietly reshaping how he privately regarded his own.
+
+Scripture states the standard without qualification: "Let marriage be held in honor among all, and let the marriage bed be undefiled; for God will judge the immoral and adulterous" (Hebrews 13:4, RSV-CE). Held in honor among all — not just in the vows he said out loud at the altar, but in what he lets pass uncorrected at lunch, in what he laughs at, in the private frame he carries around what marriage actually is. Honor isn't only violated by unfaithfulness. It erodes first in smaller ways, in the casual contempt a culture normalizes and a man absorbs without ever agreeing to it out loud.
+
+Raymond didn't create the jokes, and he wasn't going to fix his crew's sense of humor by being the guy who got sensitive about it. But he could stop letting that daily drip set the tone for how he actually thought about Sophia and the vow he'd made her. What a man laughs along with for years eventually becomes part of what he believes, whether he meant to let it in or not. Guarding how he privately regards his marriage — its worth, its seriousness, its honor — turned out to be a discipline nobody else at that lunch table was going to protect for him.
+
+**Today:** Notice the next joke, comment, or offhand remark that treats marriage as a burden or a punchline, and choose deliberately not to laugh along or add to it. Tell your wife tonight one specific reason you hold your marriage in honor.
+
+**Prayer:** Father in Heaven, I've let casual jokes and a careless culture shape how I privately think about my marriage without ever agreeing to it on purpose. Forgive me for the contempt I've laughed along with instead of guarding what You made sacred. Teach me to hold my marriage in honor, in what I say and in what I only think. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
