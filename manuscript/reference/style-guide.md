@@ -78,3 +78,27 @@ The fixed thanksgiving/Holy Spirit prayer that used to open every daily prayer n
 - Not liturgical-calendar-bound — don't tie entries to specific feast days or seasons (no "today is the feast of..." framing), though saints can still be referenced anytime.
 - Scripture must be both accurate in substance AND exact in wording — see the RSV-CE verification requirement above. A verse that says roughly the right thing in the wrong translation's words is not acceptable; it must be the real RSV-CE text, verified live, every time.
 - The book's translation is RSV-CE throughout. See `00-front-matter/scripture-notice.md` for the citation convention and the print-permissions note (securing actual written permission from the copyright holder is a real pre-print requirement, not just a courtesy credit).
+
+## Standing pre-commit audit (every month, before committing)
+When a month is drafted in parallel batches, run all of these before commit — not just when something looks off:
+1. **RSV-CE citation check** — every quoted verse cites "(Book Chapter:Verse, RSV-CE)"; `grep -L "RSV-CE" day-*.md` should return nothing.
+2. **Pet-word sweep** — `grep -c "quietly" day-*.md` and a scan for other AI-writing tells (delve, tapestry, underscore, testament, myriad, vibrant, realm, navigate, profound, unwavering, boundaries, journey, authentic, intentional). A handful of natural, varied uses across a month is fine; a repeated tic (10+ uses of one word) is not.
+3. **"It's not X, it's Y" sweep** — `grep -niE "isn't (really )?(a|about|an)[a-z ]+\. It'?s" day-*.md`. Every hit needs a rewrite to a plain declarative statement.
+4. **Saint/apostle naming** — for every saint or apostle referenced in the month, confirm the first mention per entry carries the full title and every subsequent mention in that same entry is bare. Biblical-but-not-canonized figures (David, Joshua, Moses) never get "St."
+5. **Character-name collision scan.** Parallel agent batches routinely reuse the same protagonist first name without knowing it — this has happened in every multi-batch month drafted so far. Run a script like this after all batches land, before commit:
+   ```python
+   import re, glob
+   from collections import defaultdict, Counter
+   STOPWORDS = {...}  # common words, book names, days of week, saint name parts, pronouns
+   name_files = defaultdict(set)
+   for f in sorted(glob.glob("<month folder>/day-*.md")):
+       text = open(f, encoding="utf-8").read()
+       c = Counter(re.findall(r"\b[A-Z][a-z]{2,}\b", text))
+       for w, n in c.items():
+           if w not in STOPWORDS and n >= 2:
+               name_files[w].add(f)
+   for name, files in name_files.items():
+       if len(files) > 1:
+           print(name, "->", sorted(files))
+   ```
+   Fix by keeping the earliest occurrence of a name and renaming the later one(s) — verify the replacement name isn't used ANYWHERE ELSE in the book already (not just the current month), since a fix in one month has collided with a different month's character before. Re-run the scan after fixing to catch second-order collisions (a fix that accidentally matches a different existing name).
