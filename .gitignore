@@ -1,3 +1,4 @@
 build/*.epub
 tools/ghl-automation/screenshots/*.png
 build/*.pptx
+build/web-slides/
