@@ -1,70 +1,77 @@
 const pptxgen = require("pptxgenjs");
 
 const INK = "0F0E0C";
-const PAPER = "F4EFE3";
-const PAPER_TEXT = "241F19";
-const PAPER_MUTE = "6B6154";
-const GOLD = "8A6A2B";
-const GOLD_BRIGHT = "D9B25F";
+const GOLD = "D9B25F";
+const GOLD_DIM = "9C7A34";
 const CREAM = "ECE5D5";
-const CREAM_MUTE = "B9AE93";
+const CREAM_MUTE = "9A9284";
 
 const TITLE_FONT = "Cambria";
 const BODY_FONT = "Calibri";
+
+// Every script line below is quoted or accurately drawn from a specific,
+// verified day in the manuscript. "YOUR STORY —" lines are the only
+// exception: beats only Paul can supply, flagged rather than invented.
 
 const SECTIONS = [
   {
     numeral: "I",
     label: "The Pursuit of Piety",
-    sub: "Q1 — January–March",
+    sub: "Q1 — January",
     videos: [
       {
-        title: "Why your prayer life feels dead even when you haven’t stopped praying",
+        title: "The Ache Underneath",
+        source: "Day 7, January",
         bullets: [
-          "I still pray every day. I still go to Mass. And some weeks it feels like none of it is landing.",
-          "For a long time I believed: if it’s not producing a feeling, it’s not working. That’s a lie.",
-          "The discipline isn’t the engine of your spiritual life. It’s the track that keeps you moving toward God whether you feel anything or not.",
-          "Psalm 42 says it plainly: “As a deer longs for flowing streams, so my soul longs for you, O God.” That ache isn’t proof it’s broken. It’s proof it’s still alive.",
-          "So if it feels dead this week — don’t stop. Keep showing up anyway.",
+          "There’s a day in the book called The Ache Underneath. It opens with a man in a lawn chair — good marriage, healthy kids, a business that finally doesn’t keep him up at night — and that same low ache under his ribs anyway.",
+          "Psalm 42 names it exactly: “As a hart longs for flowing streams, so longs my soul for thee, O God. My soul thirsts for God, for the living God.”",
+          "You can solve your marriage, your finances, your health, one at a time, completely — and the ache stays exactly where it was.",
+          "It’s the God-shaped space every man carries, rich or broke, married or single. Only God fits there.",
+          "The next time you feel that ache in a good moment, not just a hard one — don’t reach for a distraction. Sit with it and say, “God, I know this is You.”",
         ],
       },
       {
-        title: "The 5-minute morning prayer that actually sticks",
+        title: "What Are You Actually Seeking?",
+        source: "Day 2, January + the book’s Daily Prayer",
         bullets: [
-          "Every morning, before I touch my phone, I say the same prayer, word for word.",
-          "“Lord God Almighty, Father in Heaven, I give You thanks and praise. Thank You for opening my eyes to another day in this beautiful world You have created for me. I pray You send Your Holy Spirit down upon me today... let everything I do please and glorify You.”",
-          "I say the same words on purpose. The habit is the point, not the novelty.",
-          "Most guys wait to feel like praying before they pray. That’s backwards — pray first, and let the feeling catch up or not.",
-          "Say it with me right now, out loud, wherever you’re watching this.",
+          "Every morning before I touch my phone, I say the same prayer, word for word: “Lord God Almighty, Father in Heaven, I give You thanks and praise... send Your Holy Spirit down upon me today... let everything I do please and glorify You.”",
+          "Day 2 of the book opens with your hand already knowing where the phone is before your feet hit the floor.",
+          "Psalm 63 says it differently: “O God, thou art my God, I seek thee, my soul thirsts for thee.” Not “I’ll get to you once I’ve handled the inbox.” First.",
+          "Whatever goes first sets the tone for everything after it.",
+          "Tonight, put your phone in another room, charging somewhere you can’t reach from bed.",
         ],
       },
       {
-        title: "St. Augustine was worse than you before he became a saint",
+        title: "The God of Your Own Life",
+        source: "Day 1, January — St. Augustine",
         bullets: [
-          "Before Augustine was a saint, he spent years chasing status, chasing pleasure, chasing approval — and he was smart enough to actually get some of it.",
-          "It was never enough. He said it himself: “Our heart is restless until it rests in You.”",
-          "He didn’t get less ambitious when he converted. He got re-centered. Same fire, different target.",
-          "So whatever you’re chasing right now — that’s not the problem. It’s just pointed at the wrong thing.",
+          "Day 1 opens with a man sitting in his truck in the driveway after closing the deal he told himself would finally make him feel like he’d arrived — and feeling nothing.",
+          "Jesus names the alternative in Matthew 6:33: “But seek first his kingdom and his righteousness, and all these things shall be yours as well.”",
+          "Before Augustine was a saint, he chased status, pleasure, and approval with real intelligence and real hunger, certain each one would finally be enough. It never was.",
+          "He wrote what every man in that driveway already half-knows: “Our heart is restless until it rests in You.”",
+          "Write down, in one sentence, what you’re actually chasing right now — the thing you believe will finally make you feel like you’ve arrived.",
         ],
       },
       {
-        title: "What it actually feels like walking back into confession after years away",
+        title: "Repentance Isn’t Just for Sinners",
+        source: "Day 9, January",
         bullets: [
-          "I rehearsed what I was going to say in the car. I almost turned around in the parking lot.",
-          "The belief that kept me away for years was simple: I’ve been gone too long, this doesn’t apply to me anymore.",
-          "1 John 1:9 says: “If we confess our sins, he is faithful and just to forgive us our sins.” Faithful. Not reluctant.",
-          "Once I was actually inside, it was shorter and more ordinary than every version I’d dreaded in my head.",
-          "If it’s been years for you — go this week. Not someday.",
+          "There’s a day in the book about a man who hadn’t been to confession in eleven years. He’d built a quiet case for himself: he wasn’t robbing banks, he went to Mass most Sundays — by any reasonable measure, a decent man.",
+          "John writes it plainly: “If we confess our sins, he is faithful and just, and will forgive our sins and cleanse us from all unrighteousness.”",
+          "Read that again for the qualifier you’ve been adding on your own. There isn’t one. Not “if we’ve hit bottom.” If we confess.",
+          "He went on a Thursday, at a parish where nobody knew his name. Nothing dramatic happened. Just a quiet man saying “I absolve you” — and walking out lighter than he had in years.",
+          "Find the confession times at a parish near you, even one you’ve never been to, and go this week.",
         ],
       },
       {
-        title: "The real reason you numb out on your phone every night",
+        title: "The Comfort Trap",
+        source: "Day 5, January",
         bullets: [
-          "Kids are asleep, wife’s asleep, and I’m still scrolling an hour later with nothing left to give anybody.",
-          "That’s not relaxation. That’s numbing.",
-          "The belief underneath it: I’ve earned this, I need to shut my brain off.",
-          "Rest actually restores you. Numbing just delays the bill to tomorrow.",
-          "Tonight, swap the scroll for five minutes of actual silence and see what’s underneath the tiredness.",
+          "There’s a day in the book where a man tells himself “it’s just ten minutes” — the score, the couch — while his wife is two rooms away folding laundry, waiting for five minutes of actual conversation.",
+          "Nothing about that night is a crisis. That’s what makes it dangerous. A marriage doesn’t collapse over one night on the couch — it erodes over a thousand nights like it.",
+          "St. Paul writes: “Set your minds on things that are above, not on things that are on earth.”",
+          "He goes further: “Present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship.” Choosing the hard thing with your body is an offering, not a hobby.",
+          "Tonight, before you sit down, decide on purpose where the next hour goes.",
         ],
       },
     ],
@@ -72,44 +79,39 @@ const SECTIONS = [
   {
     numeral: "II",
     label: "The Pursuit of Protection",
-    sub: "Q2 — April–June",
+    sub: "Q2 — May & June",
     videos: [
       {
-        title: "Why every man needs a 6am accountability group",
+        title: "Peter and John",
+        source: "Day 8, June",
         bullets: [
-          "“Real men handle it alone” — that’s the line we all grew up on. It’s wrong.",
-          "Peter and John went up to the temple to pray together as a matter of course. Not a crisis measure. Just their pattern.",
-          "Ecclesiastes says it straight: “Woe to him who is alone when he falls, and has not another to lift him up.”",
-          "This isn’t “let’s grab coffee sometime.” It’s a standing time, every week, with a man who’ll actually ask you the hard question.",
-          "Name one man right now you could ask this week.",
+          "There’s a day in the book built around one line from Acts: “Now Peter and John were going up to the temple at the hour of prayer, the ninth hour.”",
+          "Not Peter, alone, with John catching up separately. The two of them walking up together, at the same hour — and this was already their regular pattern.",
+          "If any man in the early Church had earned the right to operate alone, it was Peter. Instead, he shows up to pray with a companion as a matter of course.",
+          "Their friendship wasn’t built on being alike. It was built on showing up to the same hour of prayer, the same tomb, the same council room, again and again.",
+          "Name your own version of a ninth-hour companion, and ask him today to join you for something concrete — a weekly holy hour, a morning walk, a standing call.",
         ],
       },
       {
-        title: "The struggle nobody brings up at church",
+        title: "Paul’s Traveling Companions",
+        source: "Day 10, June",
         bullets: [
-          "Let’s just say it — pornography, and the isolation that keeps a man stuck in it.",
-          "Silence doesn’t make this safer. It makes it worse.",
-          "What actually breaks the cycle isn’t willpower alone. It’s prayer, fasting, and a fraternity you’re actually answerable to.",
-          "This is a battle you’re fighting, not who you are.",
-          "Pick one man. Have one honest conversation this week.",
+          "There’s a day in the book about a man named Barrett who runs his ministry’s whole outreach program alone. He started it that way, and alone became the only way he knew how to run it.",
+          "St. Paul, chained in a Roman prison awaiting execution, still wrote asking for his companions by name: “Luke alone is with me. Get Mark and bring him with you; for he is very useful in serving me.”",
+          "Even in his final letter, Paul was still asking for a companion. He never treated that as a confession of weakness.",
+          "Write down the name of one person you’ve been doing a hard thing alone that you could actually ask to help.",
+          "Say it plainly: needing someone here is how this kind of work has always gotten done. Then send the message.",
         ],
       },
       {
-        title: "Why asking for help feels like weakness (and isn’t)",
+        title: "The Discipline of Staying Calm",
+        source: "Day 20, May",
         bullets: [
-          "This is one of the most common blind spots I see in Catholic men — we’ll do almost anything before we ask for help.",
-          "The version of you that “handles it alone” is usually just hiding it, not solving it.",
-          "The men who actually lead well are the ones who figured out early they weren’t built to carry it solo.",
-          "Here’s what asking for help actually sounds like: “I’m not okay, and I need you to know that.” That’s the whole move.",
-        ],
-      },
-      {
-        title: "Doing one hard thing a day changed how I lead my family",
-        bullets: [
-          "YOUR STORY — the specific hard, physical thing you did today",
-          "Romans 12:1 calls this presenting your body as a living sacrifice — spiritual worship, not punishment.",
-          "The point was never the discomfort itself. It’s what the discomfort trains in you for the day it actually matters.",
-          "Pick one hard, physical thing to do today. No exceptions.",
+          "There’s a day in the book about a man who gets a stinging complaint email forwarded by his boss ninety seconds before he has to walk into a room and present bad numbers to eight people.",
+          "He draws on a year of training himself to do uncomfortable things on purpose — hard mornings, intervals he didn’t feel like running.",
+          "Scripture describes the kind of man he’s building toward: “master of himself, upright, holy, and self-controlled.”",
+          "The body can be trained to do the hard, right thing before the mind feels ready to.",
+          "The next time anger rises before you’ve had a chance to think it through: four counts in, six counts out, four rounds. Say it while you do it — my body can be trained, and so can this.",
         ],
       },
     ],
@@ -117,34 +119,39 @@ const SECTIONS = [
   {
     numeral: "III",
     label: "The Pursuit of Provision",
-    sub: "Q3 — July–September",
+    sub: "Q3 — July & August",
     videos: [
       {
-        title: "The belief that’s quietly running your money decisions",
+        title: "Before the Fall, There Was Work",
+        source: "Day 2, July — St. Joseph the Worker",
         bullets: [
-          "YOUR STORY — the specific decision or number that didn’t add up",
-          "Here’s the sentence running underneath most money stress: if I don’t personally solve this, nothing gets solved.",
-          "Philippians 4:19 says: “My God will supply every need of yours according to his riches in glory in Christ Jesus.”",
-          "That doesn’t cancel the daily work — the budget, the plan, all of it still matters. It just changes where the ultimate weight sits.",
-          "Say it with me: my God will supply what I need. Not me alone.",
+          "There’s a day in the book about a man named Andrew who’s spent nine years mentally counting down to his pension, telling a younger coworker they’re all just “doing time” at work.",
+          "Genesis says God put the first man in the garden “to till it and keep it” — work was there before the fall. It was never the punishment.",
+          "The Church didn’t set aside a feast for St. Joseph because he preached or performed miracles. He’s remembered for a workshop — wood, tools, and the ordinary labor of a carpenter nobody expected anything from.",
+          "Joseph never needed a countdown. The workshop was already holy ground, because the man standing in it was giving his hands to God without waiting for a better assignment.",
+          "Notice the next thought that frames your work as a sentence to survive. Replace it out loud: work is part of the good world God made, not my punishment to escape it.",
         ],
       },
       {
-        title: "St. Joseph the Worker and the dignity of an ordinary job",
+        title: "Anxious About Money",
+        source: "Day 12, August",
         bullets: [
-          "Most of us think our job only matters if it’s impressive.",
-          "Joseph was a carpenter. Not a king, not a priest — a tradesman. And God chose him to raise His own Son.",
-          "Ordinary, unnoticed work done well isn’t a consolation prize. It’s the actual assignment.",
-          "Name one unglamorous part of your job, and start calling it what it is — a vocation, not just a paycheck.",
+          "There’s a day in the book about a man who wakes up at 1:47 in the morning and opens his banking app, staring at the same three numbers he already knows by heart.",
+          "He’s not really praying about it. He’s rehearsing it — as if running the math a fourth time might change what it adds up to.",
+          "St. Paul wrote to a church that had actually kept him fed during hardship, and made a promise on God’s behalf: “My God will supply every need of yours according to his riches in glory in Christ Jesus.”",
+          "That doesn’t excuse the work of the ledger in daylight. It just means he can do the honest work tomorrow with a clear head instead of the anxious work tonight with a tired one.",
+          "The next time money-worry wakes you up at night, don’t reach for the banking app. Say Philippians 4:19 out loud instead.",
         ],
       },
       {
-        title: "How I stopped tying my worth to my bank account",
+        title: "The Rich Fool",
+        source: "Day 6, August",
         bullets: [
-          "YOUR STORY — the number that used to decide if you had a good day or a bad one",
-          "My net worth had quietly become my self-worth.",
-          "What changed wasn’t a bigger number. It was a different center.",
-          "YOUR STORY — a recent decision that would’ve wrecked you a year ago, and doesn’t now",
+          "There’s a day in the book about a man named Dustin who hits a number in his retirement account he’d tracked on a sticky note for years — the number that means he and his wife could finally stop worrying, for good.",
+          "His father’s only response, when Dustin expects praise: “Just don’t let the number become the thing you’re actually trusting.”",
+          "Jesus tells it straight in the parable of the rich fool: “Fool! This night your soul is required of you; and the things you have prepared, whose will they be?”",
+          "St. John Vianney built real financial security through his parish — and kept almost none of it. He slept on a bare frame and gave the money away as it arrived.",
+          "Name the number, real or imagined, you’ve been treating as the point where you’d finally feel secure. Say it out loud: my security is God, not this number.",
         ],
       },
     ],
@@ -152,41 +159,50 @@ const SECTIONS = [
   {
     numeral: "IV",
     label: "The Pursuit of Posterity",
-    sub: "Q4 — October–December",
+    sub: "Q4 — October & November",
     videos: [
       {
-        title: "What I wish someone told me before I became a father",
+        title: "The Anxious Search",
+        source: "Day 6, November — St. Joseph",
         bullets: [
-          "Nobody tells you how big the gap is between what you expect fatherhood to feel like and what it actually is.",
-          "The biggest myth I believed: that I was supposed to already know how to do this.",
-          "YOUR STORY — one specific practice or piece of advice you’d give your former self",
-          "If my kids only remember one sentence about me, I want it to be this one — [say it]",
+          "There’s a day in the book about a man named Kane who loses track of his seven-year-old son for eleven minutes at a county fair — and could account for every single one of them afterward.",
+          "He finds him fine, by the animal pens, absorbed in a goat. The first thing out of Kane’s mouth is anger — before any relief had a chance to surface first.",
+          "He’d always assumed a good father was mostly calm. Eleven minutes at a fairground showed him something else: the fear itself is what fatherhood costs.",
+          "Mary’s words to the boy Jesus carry the strain of every parent who’s ever lost sight of a child: “Your father and I have been looking for you anxiously.” Joseph searched three days, with no angel and no dream to shorten the wait.",
+          "Joseph wasn’t spared the fear. He carried it, searched anyway, and kept moving toward his son until he found Him.",
+          "Think of the last time real fear for your child caught you off guard. Name it to yourself honestly as love, not as a loss of control.",
         ],
       },
       {
-        title: "Sts. Louis and Zélie Martin: the boring, beautiful marriage that raised a saint",
+        title: "Sts. Louis and Zélie Martin",
+        source: "Day 21, October",
         bullets: [
-          "Their marriage wasn’t dramatic. It wasn’t a headline. It was decades of unglamorous, daily faithfulness.",
-          "And out of that ordinary marriage came St. Thérèse of Lisieux.",
+          "Closing out a week in the book about marriage: “Sts. Louis and Zélie Martin showed what decades of unglamorous daily faithfulness in a marriage can become over time.”",
+          "Their marriage wasn’t dramatic. It wasn’t a headline. It was decades of showing up.",
+          "And out of that ordinary marriage came a daughter the whole Church now calls a saint.",
           "Name one unglamorous, daily thing in your own marriage that’s actually worth recommitting to today.",
         ],
       },
       {
-        title: "What your kids will actually remember about you",
+        title: "The Glory of Sons",
+        source: "Day 27, November",
         bullets: [
-          "We assume it’s the big trip, the big gift, the one great vacation.",
-          "It’s not. It’s how you talked to their mother. Whether you showed up. How you handled being wrong in front of them.",
-          "Think about your own father right now — is your strongest memory of him the big moment, or a small one?",
-          "Pick one small thing to do differently this week.",
+          "There’s a day in the book about a man named Gerard, half-watching his three-year-old daughter swim the same lap across the bathtub for the fifth time, phone in hand, telling himself real life starts once she’s older.",
+          "Scripture says: “Grandchildren are the crown of the aged, and the glory of sons is their fathers.”",
+          "There’s no later version of the relationship waiting on the other side of the maintenance phase. This is the relationship.",
+          "The five laps across the tub, watched or half-watched, are the material his daughter’s future sense of him gets made out of, one unremarkable night at a time.",
+          "Put your phone in another room tonight — not on silent on the counter, actually in another room. Watch every single lap, and tell her what you saw.",
         ],
       },
       {
-        title: "Waiting on God when nothing is resolving — St. Joseph in the dark",
+        title: "A Covenant With His Eyes",
+        source: "Day 16, October",
         bullets: [
-          "YOUR STORY — the real, current situation that isn’t resolving on schedule",
-          "Joseph didn’t get an angel or a dream for three straight days while he searched for his lost son. Just real fear, and he kept moving.",
-          "The belief under most impatience is: if I can’t see the resolution, nothing is happening.",
-          "But the waiting itself, the faithfulness during it — that’s not a placeholder before the real moment. That is the real moment.",
+          "There’s a day in the book about a man named Jonathan who’d been texting with someone on a client’s team for months before he noticed what the conversation had turned into.",
+          "He told himself: nothing’s actually happened, so nothing’s actually wrong. Job made a different kind of decision, one he named out loud in advance: “I have made a covenant with my eyes; how then could I look upon a virgin?”",
+          "Job made the decision before temptation arrived, not after. A covenant gets made on a boring Tuesday afternoon, precisely so it’s already decided by the time the real test shows up.",
+          "Jonathan flew home and told his wife everything. She was hurt at first — and grateful, once it settled, that he’d told her before she found out some other way.",
+          "Name one relationship, app, or habit that’s drifted somewhere it shouldn’t have, and make a covenant about it today — before the next test, not during it.",
         ],
       },
     ],
@@ -198,21 +214,25 @@ const EVERGREEN = {
   sub: "Any time, any platform",
   videos: [
     {
-      title: "Why I wrote a 365-day devotional for men like me",
+      title: "Why I Wrote This Book",
+      source: "The book’s Introduction",
       bullets: [
-        "I was cynical about religion for most of my life.",
+        "“If you’d asked me twenty years ago whether I’d one day write a faith-based devotional book, I would have laughed in your face.”",
+        "“I was cynical about religion for most of my life, and I was drawn instead to living on the edge.”",
+        "YOUR STORY — pick up the introduction here, in your own words: prison, the years of searching, what finally cracked the cynicism open",
         "I wrote the book I wish had existed for me — 365 days, four pursuits: Piety, Protection, Provision, and Posterity.",
-        "It’s built the same way every single day: a real scenario, the belief driving it, scripture as the reframe, and one concrete thing to actually do.",
         "If any of this sounds like you, it’s linked below.",
       ],
     },
     {
-      title: "Rating my own excuses for skipping prayer this week",
+      title: "A Note on These Stories",
+      source: "The book’s front matter, read verbatim",
       bullets: [
-        "YOUR STORY — list your actual excuses from this past week, out loud",
-        "Rate each one honestly: real obstacle, or just avoidance wearing a costume?",
-        "YOUR STORY — the pattern you noticed underneath most of them",
-        "Tomorrow morning, here’s what I’m doing differently — [say it]",
+        "There’s a page early in the book called A Note on These Stories, and I want to read it to you directly, because it matters.",
+        "“The introduction you just read is my own story, told as accurately as I can tell it.”",
+        "“The daily entries that follow are different. Most of the scenarios that open each day are illustrative — composites, built from the kinds of pressure I’ve faced, watched other men face, or can easily imagine a husband, father, and businessman facing.”",
+        "“I don’t want you trusting a scenario as something that actually happened to me when it didn’t. Where this book is telling you what actually happened in my life, you’ll know it, because I’ll say so plainly.”",
+        "That’s the same standard every video in this series holds to — every quote and every story you’ve heard is real, straight from the book.",
       ],
     },
   ],
@@ -220,19 +240,18 @@ const EVERGREEN = {
 
 const pres = new pptxgen();
 pres.layout = "LAYOUT_WIDE"; // 13.3 x 7.5
-const PAGE_W = 13.33;
 
-function addNumeralBadge(slide, x, y, numeral, dark) {
+function addNumeralBadge(slide, x, y, numeral) {
   slide.addShape("ellipse", {
     x, y, w: 0.62, h: 0.62,
-    fill: { color: dark ? GOLD_BRIGHT : GOLD },
+    fill: { color: GOLD },
     line: { type: "none" },
   });
   slide.addText(numeral, {
     x, y, w: 0.62, h: 0.62,
     align: "center", valign: "middle",
     fontFace: TITLE_FONT, bold: true, fontSize: 20,
-    color: dark ? INK : PAPER,
+    color: INK,
     margin: 0,
   });
 }
@@ -243,7 +262,7 @@ function addNumeralBadge(slide, x, y, numeral, dark) {
   s.background = { color: INK };
   s.addText("ON-CAMERA SCRIPT", {
     x: 0.9, y: 2.55, w: 8, h: 0.4,
-    fontFace: BODY_FONT, fontSize: 13, color: GOLD_BRIGHT,
+    fontFace: BODY_FONT, fontSize: 13, color: GOLD,
     charSpacing: 3, bold: true, margin: 0,
   });
   s.addText("Seek First — Video Scripts", {
@@ -251,23 +270,23 @@ function addNumeralBadge(slide, x, y, numeral, dark) {
     fontFace: TITLE_FONT, fontSize: 44, bold: true, color: CREAM,
     margin: 0,
   });
-  s.addText("18 videos, four pursuits, one book. Every line is written to be read out loud, exactly as it appears — except the gold italic lines, which are yours to tell.", {
-    x: 0.9, y: 4.25, w: 9.7, h: 0.9,
+  s.addText("17 videos, four pursuits, one book. Every line is quoted or drawn straight from a specific, cited day in the manuscript — nothing invented. Gold italic lines are the few beats only you can tell.", {
+    x: 0.9, y: 4.25, w: 10, h: 0.95,
     fontFace: BODY_FONT, fontSize: 15, color: CREAM_MUTE, italic: true,
     margin: 0,
   });
   s.addText("SEEK FIRST · THE FOUR PURSUITS OF THE MODERN CATHOLIC MAN", {
     x: 0.9, y: 6.85, w: 11, h: 0.35,
-    fontFace: BODY_FONT, fontSize: 9.5, color: PAPER_MUTE === PAPER_MUTE ? "8A806E" : "8A806E",
+    fontFace: BODY_FONT, fontSize: 9.5, color: GOLD_DIM,
     charSpacing: 2, margin: 0,
   });
 }
 
-// ---------- Section divider + content slides ----------
+// ---------- Section divider ----------
 function addDivider(section) {
   const s = pres.addSlide();
   s.background = { color: INK };
-  addNumeralBadge(s, 0.9, 2.7, section.numeral, true);
+  addNumeralBadge(s, 0.9, 2.7, section.numeral);
   s.addText(section.label, {
     x: 0.85, y: 3.5, w: 11.5, h: 1,
     fontFace: TITLE_FONT, fontSize: 38, bold: true, color: CREAM,
@@ -275,7 +294,7 @@ function addDivider(section) {
   });
   s.addText(section.sub.toUpperCase(), {
     x: 0.9, y: 4.45, w: 9, h: 0.4,
-    fontFace: BODY_FONT, fontSize: 12, color: GOLD_BRIGHT, charSpacing: 2,
+    fontFace: BODY_FONT, fontSize: 12, color: GOLD, charSpacing: 2,
     margin: 0,
   });
 }
@@ -285,7 +304,7 @@ function addEvergreenDivider(section) {
   s.background = { color: INK };
   s.addShape("ellipse", {
     x: 0.9, y: 2.7, w: 0.62, h: 0.62,
-    fill: { color: GOLD_BRIGHT }, line: { type: "none" },
+    fill: { color: GOLD }, line: { type: "none" },
   });
   s.addText("+", {
     x: 0.9, y: 2.68, w: 0.62, h: 0.62,
@@ -298,13 +317,14 @@ function addEvergreenDivider(section) {
   });
   s.addText(section.sub.toUpperCase(), {
     x: 0.9, y: 4.45, w: 9, h: 0.4,
-    fontFace: BODY_FONT, fontSize: 12, color: GOLD_BRIGHT, charSpacing: 2, margin: 0,
+    fontFace: BODY_FONT, fontSize: 12, color: GOLD, charSpacing: 2, margin: 0,
   });
 }
 
+// ---------- Video (content) slide ----------
 function addVideoSlide(section, video, idx, total) {
   const s = pres.addSlide();
-  s.background = { color: PAPER };
+  s.background = { color: INK };
 
   // pursuit tag row
   s.addShape("ellipse", {
@@ -314,7 +334,7 @@ function addVideoSlide(section, video, idx, total) {
   s.addText(section.numeral || "+", {
     x: 0.7, y: 0.6, w: 0.34, h: 0.34,
     align: "center", valign: "middle",
-    fontFace: TITLE_FONT, bold: true, fontSize: 12, color: PAPER, margin: 0,
+    fontFace: TITLE_FONT, bold: true, fontSize: 12, color: INK, margin: 0,
   });
   s.addText(section.label.toUpperCase() + `   ·   VIDEO ${idx} OF ${total}`, {
     x: 1.18, y: 0.6, w: 10.5, h: 0.4,
@@ -322,15 +342,20 @@ function addVideoSlide(section, video, idx, total) {
     valign: "middle", margin: 0,
   });
 
-  // title
+  // title + source citation
   s.addText(video.title, {
-    x: 0.7, y: 1.1, w: 11.9, h: 1.2,
-    fontFace: TITLE_FONT, fontSize: 24, bold: true, color: PAPER_TEXT,
+    x: 0.7, y: 1.1, w: 11.9, h: 0.75,
+    fontFace: TITLE_FONT, fontSize: 24, bold: true, color: CREAM,
     valign: "top", margin: 0, lineSpacingMultiple: 1.06,
   });
+  s.addText(video.source.toUpperCase(), {
+    x: 0.7, y: 1.78, w: 11.9, h: 0.35,
+    fontFace: BODY_FONT, fontSize: 10.5, color: GOLD_DIM, charSpacing: 1.5, italic: true,
+    margin: 0,
+  });
 
-  // script lines — read verbatim, except "YOUR STORY —" lines, which are cues to fill in live
-  const bulletY = video.title.length > 70 ? 2.55 : 2.25;
+  // script lines — read verbatim, except "YOUR STORY —" lines
+  const bulletY = 2.35;
   const items = video.bullets.map((b, i) => {
     const isPrompt = b.startsWith("YOUR STORY");
     const text = isPrompt ? b.replace(/^YOUR STORY\s*—\s*/, "") : b;
@@ -338,9 +363,9 @@ function addVideoSlide(section, video, idx, total) {
       text,
       options: {
         bullet: { code: isPrompt ? "25CF" : "2022", indent: 18 },
-        color: isPrompt ? GOLD : PAPER_TEXT,
+        color: isPrompt ? CREAM : GOLD,
         italic: isPrompt,
-        fontSize: 15,
+        fontSize: 14.5,
         fontFace: BODY_FONT,
         breakLine: i !== video.bullets.length - 1,
         paraSpaceAfter: 11,
@@ -355,11 +380,11 @@ function addVideoSlide(section, video, idx, total) {
   const hasPrompt = video.bullets.some((b) => b.startsWith("YOUR STORY"));
   s.addText(
     hasPrompt
-      ? "SEEK FIRST · READ VERBATIM, EXCEPT THE GOLD LINE — THAT ONE'S YOURS TO TELL"
-      : "SEEK FIRST · READ VERBATIM",
+      ? "SEEK FIRST · READ VERBATIM, EXCEPT THE CREAM LINE — THAT ONE'S YOURS TO TELL"
+      : "SEEK FIRST · READ VERBATIM — QUOTED DIRECTLY FROM THE BOOK",
     {
-      x: 0.7, y: 7.05, w: 11, h: 0.3,
-      fontFace: BODY_FONT, fontSize: 8.5, color: PAPER_MUTE, charSpacing: 1.2, margin: 0,
+      x: 0.7, y: 7.05, w: 11.5, h: 0.3,
+      fontFace: BODY_FONT, fontSize: 8.5, color: GOLD_DIM, charSpacing: 1.2, margin: 0,
     }
   );
 }
@@ -378,20 +403,21 @@ EVERGREEN.videos.forEach((v, i) =>
 {
   const s = pres.addSlide();
   s.background = { color: INK };
-  s.addText("18 / 18", {
+  const totalVideos = SECTIONS.reduce((n, sec) => n + sec.videos.length, 0) + EVERGREEN.videos.length;
+  s.addText(`${totalVideos} / ${totalVideos}`, {
     x: 0.9, y: 2.5, w: 8, h: 0.4,
-    fontFace: BODY_FONT, fontSize: 13, color: GOLD_BRIGHT, charSpacing: 3, bold: true, margin: 0,
+    fontFace: BODY_FONT, fontSize: 13, color: GOLD, charSpacing: 3, bold: true, margin: 0,
   });
   s.addText("Pick one. Film it this week.", {
     x: 0.85, y: 2.85, w: 11.5, h: 1.2,
     fontFace: TITLE_FONT, fontSize: 40, bold: true, color: CREAM, margin: 0,
   });
-  s.addText("Read the dark lines straight off the slide. The gold italic lines are the only ones that need your own words in the moment.", {
-    x: 0.9, y: 4.05, w: 9.7, h: 1.1,
+  s.addText("Every quote, every story, every citation in this deck is pulled straight from Seek First — nothing paraphrased from memory, nothing invented. Read the gold lines as written. The cream lines are the only ones that need your own words.", {
+    x: 0.9, y: 4.05, w: 10, h: 1.2,
     fontFace: BODY_FONT, fontSize: 15, color: CREAM_MUTE, italic: true, margin: 0,
   });
 }
 
-pres.writeFile({ fileName: "seek-first-video-outlines.pptx" }).then(() => {
+pres.writeFile({ fileName: "seek-first-video-scripts.pptx" }).then(() => {
   console.log("done");
 });
