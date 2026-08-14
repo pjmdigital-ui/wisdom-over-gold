@@ -1,5 +1,9 @@
 # RSV-CE Scripture Quotation Permission — Research & Draft Request
 
+## Status
+
+**Sent 2026-08-14** to NCCrights@petradirights.com, from seekwisdomovergold@gmail.com. Awaiting response — typical turnaround for this kind of request runs 6-8 weeks based on comparable publishers' stated policies (no published number exists specifically for Petradi). Do not finalize `manuscript/00-front-matter/scripture-notice.md` or the EPUB's copyright page until their reply arrives with the required attribution wording.
+
 ## What I found
 
 **Who holds the rights:** The National Council of the Churches of Christ in the USA (NCC), through its affiliate Friendship Press, owns the RSV and RSV-CE copyright. Rights administration is currently outsourced to **Petradi International Rights Services** (took over from Riggins Rights Management in 2015).
@@ -22,7 +26,7 @@ Given that ambiguity, the safer path is requesting formal written permission rat
 
 ---
 
-## Draft permission request — ready to send
+## Permission request — as sent (2026-08-14)
 
 **To:** NCCrights@petradirights.com
 **Subject:** Permission Request — RSV Catholic Edition Scripture Quotations in Commercial Ebook — "Seek First" by Paul Mascetta
@@ -34,42 +38,39 @@ I am writing to request written permission to quote from the Revised Standard Ve
 **Book details:**
 - **Title:** *Seek First: The Four Pursuits of the Modern Catholic Man*
 - **Author:** Paul Mascetta
-- **Publisher:** [Self-published / imprint name, TBD]
-- **Format:** Ebook (EPUB), distributed commercially via Amazon Kindle Direct Publishing (and possibly other digital retailers/platforms)
-- **Print run / units:** Digital-only, print-on-demand or unlimited digital copies via KDP; anticipated lifetime sales [ADD ESTIMATE OR "unknown — self-published, no fixed print run"]
+- **Publisher:** Self-published, via Amazon Kindle Direct Publishing (KDP)
+- **Format:** Ebook (EPUB), with a print-on-demand edition possible in the future
+- **Print run / units:** Digital-only at launch; no fixed print run, distributed on demand through KDP and possibly other digital retailers
 - **Territory:** Worldwide (English language)
-- **Publication date:** [ADD TARGET DATE]
-- **Retail price:** [ADD ESTIMATED PRICE, e.g., $X.XX]
-- **Total word count of the work:** Approximately 200,000–250,000 words
+- **Publication date:** No fixed date yet — targeting publication once final production steps, including this permission, are complete
+- **Retail price:** Not yet finalized; expected to be in the standard range for a self-published devotional ebook
+- **Total word count of the work:** Approximately 200,000–210,000 words
 - **Description:** A 365-day Catholic devotional structured as one entry per day, guiding readers through four "pursuits" relevant to Catholic men's spiritual life.
 
 **Scope of quotation requested:**
-- The book quotes Scripture in nearly every one of its 365 daily entries — an estimated 400–500+ total quotations
+- The book quotes Scripture in nearly every one of its 365 daily entries — 371 total quotations, covering approximately 471 verses
 - Each quotation is short: one verse, or a small consecutive span of a few verses, per instance
-- Quotations are drawn from many different books of the Bible across both Old and New Testaments — no single book or passage is quoted at length or in its entirety
+- Quotations are drawn from 50 different books of the Bible across both Old and New Testaments — no single book or passage is quoted at length or in its entirety
 - All quotations will be reproduced verbatim and unaltered, with standard punctuation and capitalization preserved
 
 **What we are requesting:**
-1. Written permission (or confirmation that this use qualifies under your gratis/fair-use policy) to include these quotations in the ebook described above
+1. Written permission to include these quotations in the ebook described above
 2. Your required attribution/copyright notice wording for this use, to be placed in the book's front matter — we currently have a placeholder notice and want to replace it with your officially specified language before publication
-3. Confirmation of any applicable licensing fee and payment/invoicing process, if this use falls outside your gratis threshold
-4. An estimate of turnaround time for a permission decision, as we are working toward a publication target of [ADD DATE]
+3. Confirmation of any applicable licensing fee and payment/invoicing process, if applicable
+4. An estimate of turnaround time for a permission decision
 
-Please let us know if you require a completed permission request form, a sample manuscript excerpt, or any additional information (e.g., full list of quoted verses/citations) to process this request — we are happy to provide it.
+Please let me know if you require a completed permission request form, a sample manuscript excerpt, or any additional information (e.g., a full list of quoted verses/citations) to process this request — happy to provide it.
 
 Thank you for your time, and I look forward to your response.
 
 Sincerely,
-
 Paul Mascetta
-[Mailing address]
-[Phone number]
-paulmascetta@gmail.com
+seekwisdomovergold@gmail.com
 
 ---
 
-## Before sending
+## Next steps once a reply arrives
 
-- Fill in the bracketed items: publisher/imprint name, estimated sales, publication date, retail price, mailing address, phone number.
-- If Petradi's reply indicates a different desk handles RSV-CE specifically, they'll redirect you — the 1965/66 copyright date on the current placeholder notice confirms this is the right edition (not RSV-2CE/Ignatius Press).
-- Don't finalize or print the book's scripture notice until you have their specified wording in writing — it may differ from the current placeholder text in `manuscript/00-front-matter/scripture-notice.md`.
+- If Petradi's reply indicates a different desk handles RSV-CE specifically, they'll redirect — the 1965/66 copyright date on the current placeholder notice confirms this is the right edition (not RSV-2CE/Ignatius Press).
+- Don't finalize or print the book's scripture notice until their specified wording is in hand — it may differ from the current placeholder text in `manuscript/00-front-matter/scripture-notice.md`.
+- Once received, update the scripture notice with their exact required wording and rebuild the EPUB (`tools/build_epub.py`).
