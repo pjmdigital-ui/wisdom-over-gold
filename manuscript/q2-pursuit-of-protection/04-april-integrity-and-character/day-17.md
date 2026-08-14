@@ -2,7 +2,7 @@
 
 "After the game, buddy, I promise." You said it in the car, half-listening, because your son wanted to show you a card trick and you had a call in nine minutes. He held on to that word all day. You didn't remember saying it until he brought the deck over that night, already shuffled, already excited, and you had to tell him tomorrow — you were tired, and tomorrow felt true enough in the moment.
 
-It wasn't a lie, exactly. You meant it when you said it. That's the part worth sitting with: you didn't break the promise on purpose, you just didn't treat it like a promise. It was a placeholder to end a conversation, a way of buying nine minutes without paying for them. Somewhere along the way you'd started keeping two categories of commitment — the ones you write down because someone with power over you is watching, and the ones you say to a seven-year-old, which apparently don't need to survive contact with your schedule.
+It wasn't a lie, exactly. You meant it when you said it. That's the part worth sitting with: you didn't break the promise on purpose — you just used it as a placeholder to end a conversation, a way of buying nine minutes without paying for them. Somewhere along the way you'd started keeping two categories of commitment — the ones you write down because someone with power over you is watching, and the ones you say to a seven-year-old, which apparently don't need to survive contact with your schedule.
 
 Your son didn't file a complaint. He just quietly stopped bringing you the cards.
 

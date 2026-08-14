@@ -1,6 +1,6 @@
 # Day 6 — Who's on the Throne
 
-It started over something stupid — whether he'd told her about the schedule change or not. Within two minutes it wasn't about the schedule at all. It was about being right. Dan could feel himself building the case in his head even while she was still talking, lining up the text message that would prove it, the date, the time stamp, the receipts. He wasn't listening to his wife anymore. He was preparing a closing argument.
+It started over something stupid — whether he'd told her about the schedule change or not. Within two minutes the fight had become about being right. Dan could feel himself building the case in his head even while she was still talking, lining up the text message that would prove it, the date, the time stamp, the receipts. He wasn't listening to his wife anymore. He was preparing a closing argument.
 
 He won, technically. He found the text. He was right about the schedule. And he stood in the kitchen holding his phone up like evidence, watching his wife's face do something worse than anger — she just looked tired, and a little bit alone, even though he was standing three feet away from her. Being right had cost him something that mattered more than being right ever could.
 

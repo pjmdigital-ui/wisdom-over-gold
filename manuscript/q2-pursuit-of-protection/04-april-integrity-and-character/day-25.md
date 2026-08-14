@@ -1,6 +1,6 @@
 # Day 25 — Integrity When It's Inconvenient
 
-The scrape was small — a thin gray line along the bumper of a sedan two spaces down from Tom's rental car, in the far corner of an airport economy lot at 5:40 in the morning. He'd clipped it backing out, barely felt it, and when he got out to look, there was no one else in sight. No cameras that he could see. No dent, just paint transfer, the kind of mark a lot of owners wouldn't even notice for months.
+The scrape was small — a thin gray line along the bumper of a sedan two spaces down from Lachlan's rental car, in the far corner of an airport economy lot at 5:40 in the morning. He'd clipped it backing out, barely felt it, and when he got out to look, there was no one else in sight. No cameras that he could see. No dent, just paint transfer, the kind of mark a lot of owners wouldn't even notice for months.
 
 His flight boarded in fifty-five minutes, and he still had to return the rental, catch the shuttle, and clear security. Leaving a note meant finding paper, finding a pen, writing down his information, and hoping the owner wasn't the type to make it more complicated than it needed to be. Every minute he spent standing in that lot was a minute closer to sprinting through a terminal.
 
@@ -8,7 +8,7 @@ He caught himself already halfway back to his own door before he'd decided anyth
 
 Micah asks a question that cuts straight through that kind of hedge, and it deserves to be heard in full: "He has showed you, O man, what is good; and what does the LORD require of you but to do justice, and to love kindness, and to walk humbly with your God?" (Micah 6:8, RSV-CE). Notice what's missing from that verse — no clause exempting a man who's running late, no asterisk for inconvenience. Justice is required, full stop — the same requirement whether it costs you fifty dollars or fifty-five minutes, not a virtue you get to practice only when the timing works out.
 
-Most men don't fail integrity in the big, obvious tests. They fail it in this kind of moment instead — small, private, easy to justify, gone in sixty seconds if they just keep walking. The cost here was never really about the flight. It was about which version of himself Tom was willing to be when being the other version was free and unwitnessed.
+Most men don't fail integrity in the big, obvious tests. They fail it in this kind of moment instead — small, private, easy to justify, gone in sixty seconds if they just keep walking. The cost here was about which version of himself Lachlan was willing to be when being the other version was free and unwitnessed, not about the flight at all.
 
 He went back. Found a gas receipt in his glovebox, wrote his name and number on the back, tucked it under the wiper, and ran the rest of the way to the shuttle. He missed nothing but a few minutes of margin he didn't need.
 

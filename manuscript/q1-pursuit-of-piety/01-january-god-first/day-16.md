@@ -8,7 +8,7 @@ You didn't play it. You said, instead, something closer to "I don't want to win 
 
 St. Paul, writing to the Ephesians about marriage, opens the whole passage with a line that gets skipped past on the way to the more famous verses about husbands and wives: "Be subject to one another out of reverence for Christ" (Ephesians 5:21, RSV-CE). Before any instruction about roles, there's this — mutual submission, both spouses laying something down for the other, out of reverence for someone bigger than either of them. That's the frame the rest of the passage has to be read through: whoever is actually on the throne when the two of you disagree.
 
-Here's the test: when God is genuinely first, being right stops being the point of an argument with your wife, because your allegiance isn't to your own correctness anymore — it's to Him, and to what He's asked of you toward her. That reordering costs you a real thing — you'll walk away from arguments you could have won. It's worth paying, because being right was never worth what winning costs your marriage.
+Here's the test: when God is genuinely first, being right stops being the point of an argument with your wife, because your allegiance belongs to Him now, and to what He's asked of you toward her, not to your own correctness. That reordering costs you a real thing — you'll walk away from arguments you could have won. It's worth paying, because being right was never worth what winning costs your marriage.
 
 **Today:** Next time you're mid-argument with your wife and you feel the pull to play your best point, say to yourself first: "She matters more than winning this." Then ask her out loud: "What do you need from me right now?" Stop talking and listen to the answer.
 

@@ -6,7 +6,7 @@ Nobody sat down and chose to cut God out of the week. It's just that prayer does
 
 Mark 1:35 (RSV-CE) records something easy to skip past, and it's the verse that names what you've actually been telling yourself: "And in the morning, a great while before day, he rose and went out to a lonely place, and there he prayed." This is Jesus — with actual crowds waiting, actual sick people needing healing, actual disciples about to come looking for Him because demand for His time was making headlines in the region. If anyone had a legitimate excuse to treat prayer as the thing that can wait, it was Him that week. He didn't take the excuse. He got up before the demands could start and went first to the Father, and only then to the crowd.
 
-That order is the whole lesson. Jesus prayed because He knew a full schedule is exactly when a man most needs to be anchored before it starts pulling at him. The men who keep this habit through jammed weeks aren't the ones with more free time than you. They're the ones who moved prayer earlier in the day than the chaos can reach, so the choice gets made before they're too depleted to make it well.
+That order is the whole lesson. Jesus prayed because He knew a full schedule is exactly when a man most needs to be anchored before it starts pulling at him. The men who keep this habit through jammed weeks have simply moved prayer earlier in the day than the chaos can reach, so the choice gets made before they're too depleted to make it well, no extra free time required.
 
 You don't need an extra hour you don't have. Five minutes, positioned before the first fire of the day gets lit, is enough — if it actually happens before the list starts running you instead of the other way around.
 

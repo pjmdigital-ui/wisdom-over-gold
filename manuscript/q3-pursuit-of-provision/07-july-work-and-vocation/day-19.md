@@ -1,8 +1,8 @@
 # Day 19 — What You Pass On
 
-Felix had a nineteen-year-old apprentice named Milo shadowing him on a panel upgrade, and Milo kept asking why — why that breaker, why run the conduit that way instead of the shorter path, why test it twice. Good questions. Felix answered maybe half of them fully. The other half he gave a shorter version, the kind that sounds like an answer but leaves out the thing that actually took him twelve years to learn.
+Ives had a nineteen-year-old apprentice named Milo shadowing him on a panel upgrade, and Milo kept asking why — why that breaker, why run the conduit that way instead of the shorter path, why test it twice. Good questions. Ives answered maybe half of them fully. The other half he gave a shorter version, the kind that sounds like an answer but leaves out the thing that actually took him twelve years to learn.
 
-He caught himself doing it and didn't love what he saw. Felix was a good electrician, one of the best subs the contractor called first, and some part of him — a part he wouldn't have admitted to out loud — liked being the guy people called first. If Milo learned everything Felix knew, Felix would just be one more competent electrician in a town with plenty of them. There was a comfort in staying slightly ahead, slightly more essential, slightly harder to replace.
+He caught himself doing it and didn't love what he saw. Ives was a good electrician, one of the best subs the contractor called first, and some part of him — a part he wouldn't have admitted to out loud — liked being the guy people called first. If Milo learned everything Ives knew, Ives would just be one more competent electrician in a town with plenty of them. There was a comfort in staying slightly ahead, slightly more essential, slightly harder to replace.
 
 That's the belief worth naming: *if I teach him everything I know, I make myself replaceable.* It feels like self-protection. It's actually a slow theft — from Milo, who's paying attention and deserves the real answer, and from the trade itself, which only stays strong if the men who know it pass the whole thing on instead of the edited version.
 

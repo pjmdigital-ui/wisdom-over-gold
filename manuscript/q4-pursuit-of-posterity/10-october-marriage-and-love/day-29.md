@@ -1,8 +1,8 @@
 # Day 29 — A Fruitful Vine
 
-Lawrence stood at the edge of the reception hall watching his daughter's first dance, working through half a glass of champagne he wasn't sure he'd actually wanted. Between songs, his new son-in-law found him by the bar and said something Lawrence hadn't expected: that watching Lawrence and Lucille argue and make up and keep choosing each other over thirty-some years had taught him more about how to be married than anything he'd read or been told outright, including what he'd just promised a few hours earlier at the altar.
+Talbot stood at the edge of the reception hall watching his daughter's first dance, working through half a glass of champagne he wasn't sure he'd actually wanted. Between songs, his new son-in-law found him by the bar and said something Talbot hadn't expected: that watching Talbot and Lucille argue and make up and keep choosing each other over thirty-some years had taught him more about how to be married than anything he'd read or been told outright, including what he'd just promised a few hours earlier at the altar.
 
-Lawrence hadn't set out to teach anyone anything. He and Lucille had just kept doing the ordinary work of thirty-some years — the apologies, the budget arguments, the Sunday Mass they didn't always feel like attending, the long stretch in their thirties when the marriage had felt more like maintenance than love. None of it had felt like it was building toward anything beyond itself.
+Talbot hadn't set out to teach anyone anything. He and Lucille had just kept doing the ordinary work of thirty-some years — the apologies, the budget arguments, the Sunday Mass they didn't always feel like attending, the long stretch in their thirties when the marriage had felt more like maintenance than love. None of it had felt like it was building toward anything beyond itself.
 
 He'd assumed, without ever stating it, that whatever happened inside a marriage stayed inside it — a private matter between two people, its effects contained to the house they shared. Watching his daughter step into her own marriage, patterned already in ways he half-recognized from his own, told a different story.
 

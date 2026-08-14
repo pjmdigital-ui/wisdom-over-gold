@@ -10,8 +10,8 @@ I'd been telling myself these were unrelated slips, each one small enough to not
 
 Titus doesn't leave room for a man to compartmentalize his integrity by domain: "Show yourself in all respects a model of good deeds, and in your teaching show integrity, gravity" (Titus 2:7, RSV-CE). In all respects — not in the visible half of his life and not just at the office and not just in front of his kids, but as one consistent man wherever he happens to be standing. The word rules out the very defense I'd been leaning on all week: that this compromise over here doesn't touch that part of my life over there.
 
-It does. It's not four small incidents. It's one direction, showing up four times in one week, and I finally sat still long enough to see it as a single thread instead of four unconnected snags.
+It does — one direction, showing up four times in one week, and I finally sat still long enough to see it as a single thread instead of four unconnected snags.
 
-**Today:** Pick the one compromise from this week that's still bothering you the most. Go correct it concretely — repay it, retract it, redo it, apologize for it. Then write down: "These moments aren't separate. They're one pattern, and I get to decide what it adds up to."
+**Today:** Pick the one compromise from this week that's still bothering you the most. Go correct it concretely — repay it, retract it, redo it, apologize for it. Then write down: "This is one pattern, not four separate moments, and I get to decide what it adds up to."
 
 **Prayer:** Lord God Almighty, this week showed me a pattern I'd been calling a series of accidents, and I know now it was one direction the whole time. Turn that direction toward You this week, in every part of my life at once, not just the parts people are watching. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.

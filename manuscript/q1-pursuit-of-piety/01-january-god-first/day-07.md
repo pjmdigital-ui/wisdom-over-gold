@@ -6,7 +6,7 @@ He almost felt guilty for it. What right did he have to feel unsettled with a li
 
 The psalmist knew this ache by name and didn't dress it up: "As a hart longs for flowing streams, so longs my soul for thee, O God. My soul thirsts for God, for the living God" (Psalm 42:1-2, RSV-CE). He doesn't write that psalm from a collapsed life. Scholars place it in a season of real distance from the temple, real longing — but the language he reaches for is thirst, a bodily need that shows up whether or not anything around him is actually falling apart.
 
-You can solve your marriage, your finances, your health, one at a time, completely, and the ache stays exactly where it was. A man can spend years treating it as a symptom of whatever's currently going wrong in his life and never once notice it survives every fix. It's the God-shaped space every man carries — rich or broke, married or single, thriving or barely holding on. Good circumstances quiet the noise around it. They were never built to fill it. Only God fits there.
+You can solve your marriage, your finances, your health, one at a time, completely, and the ache stays exactly where it was. A man can spend years treating it as a symptom of whatever's currently going wrong in his life, never noticing that it survives every fix — the God-shaped space every man carries, rich or broke, married or single, thriving or barely holding on. Good circumstances quiet the noise around it. They were never built to fill it. Only God fits there.
 
 That Sunday afternoon was an invitation, arriving in the one moment he had nothing left to distract himself with. The ache is doing its job. It's just pointing you somewhere the sprinkler and the lawn chair were never going to be able to reach.
 

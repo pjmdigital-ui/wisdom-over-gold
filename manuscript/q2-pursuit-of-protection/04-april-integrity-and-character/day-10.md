@@ -6,7 +6,7 @@ Owen didn't nod. He also didn't correct Dale out loud in the moment — that wou
 
 In that half-second, Owen came close to doing something that never announces itself as lying: letting someone else's lie stand because staying quiet felt like the smaller sin. Nobody would have pushed if he'd let it pass. Instead he said, plainly, "The delay was on our engineering side. We fell behind on two sprints." No apology tour, no defense of Dale, no elaborate story. One true sentence and nothing else.
 
-What Owen almost did wasn't a lie by any technical definition — it was a lie by omission, letting his silence answer the question a false yes would have answered. That's the belief worth naming plainly, because it's a comfortable one: *silence isn't really lying, so it doesn't count.* It lets a man protect himself from conflict while still telling himself he never said anything false.
+What Owen almost did was a lie by omission — no technical definition required — letting his silence answer the question a false yes would have answered. That's the belief worth naming plainly, because it's a comfortable one: *silence isn't really lying, so it doesn't count.* It lets a man protect himself from conflict while still telling himself he never said anything false.
 
 Jesus doesn't leave room for that distinction. "Let what you say be simply 'Yes' or 'No'; anything more than this comes from evil" (Matthew 5:37, RSV-CE). He's not just condemning false words — He's naming the evasive space around them, the qualifiers and unnecessary silences men use to avoid committing to the truth without technically lying. A yes that isn't really yes, or a silence standing in for a no a man won't say out loud, comes from the same place a lie does.
 
