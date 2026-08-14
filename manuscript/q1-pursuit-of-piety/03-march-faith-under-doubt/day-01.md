@@ -10,7 +10,7 @@ Eight months earlier, his uncle Nick had died of pancreatic cancer at fifty-nine
 
 Scripture doesn't back up his rule. Mark tells the story of a father whose son is possessed, convulsing, thrown into fire and water since childhood — nine words the man begs Jesus to hear at the end of years of exactly this kind of worn-down hope. "Immediately the father of the child cried out and said, 'I believe; help my unbelief!'" (Mark 9:24, RSV-CE). Jesus doesn't ask him to resolve the contradiction first. He heals the boy on the strength of a faith that's still arguing with itself.
 
-That's the part Rhys's rule leaves out. Belief and doubt weren't sitting in two different men that day — they were in the same sentence, spoken by the same worn-out father, and Jesus didn't wait for the sentence to settle before He acted. The father in Mark 9 is the model, not the exception. A faith that has to feel certain before it counts isn't the faith the Gospels describe.
+That's the part Rhys's rule leaves out. Belief and doubt sat together in the same sentence that day, spoken by the same worn-out father, and Jesus didn't wait for the sentence to settle before He acted. The father in Mark 9 is the model, not the exception. A faith that has to feel certain before it counts isn't the faith the Gospels describe.
 
 **Today:** Write down the specific doubt you've been keeping out of the go-around — the actual sentence, not a softened version of it. Underneath it, write: *God can hold my doubt and my belief in the same sentence. I don't have to resolve one before I bring Him the other.* Say both sentences out loud once, alone, before you go to bed tonight.
 

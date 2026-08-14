@@ -6,7 +6,7 @@ I've said some version of that sentence about a dozen different men over the yea
 
 Why does he get an easier road than I do? It's Peter's exact question in John's Gospel, asked about the apostle John himself: "Lord, what about this man?" (John 21:21, RSV-CE). Peter had just heard Jesus predict his own death, and instead of sitting with that, he pointed at the other guy and asked what his fate would be. Jesus doesn't explain John's road at all. He says, "If it is my will that he remain until I come, what is that to you? Follow me!" (John 21:22, RSV-CE).
 
-That answer sounds almost dismissive until you sit with it. Jesus isn't refusing Peter an explanation because there isn't one — He's refusing because the explanation isn't the point. Peter's job was never to audit John's cross against his own. It was to follow. The belief under my question at that fence was that my sacrifice only counts if it's harder than the next man's, that fairness is the measure God is using. It isn't. Following is.
+That answer sounds almost dismissive until you sit with it. Jesus refuses Peter an explanation because the explanation isn't the point, not because there isn't one. Peter's job was to follow, not to audit John's cross against his own. The belief under my question at that fence was that my sacrifice only counts if it's harder than the next man's, that fairness is the measure God is using. Following is the measure instead.
 
 Comparing crosses does something specific to a man: it turns his own calling into a grievance instead of a path. Greg's easier road, if it really is easier, is just his road — not a verdict on how much God loves him more than me. Mine is mine, and the only question that actually belongs to me is whether I'm walking it.
 

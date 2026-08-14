@@ -4,11 +4,11 @@ Two weeks ago you sat with a real doubt and told no one — not your wife, not t
 
 It didn't work itself out. It just got heavier, the way anything does when it's carried alone in the dark instead of set down in the light where someone else can help hold it. Tonight, at the kitchen table after the kids are down, your wife asks what's really going on with you — not the surface version, the true one — and you have a choice you didn't have two weeks ago, because now you know what the silence costs and you're tired of paying it.
 
-So you say it. Not polished, not resolved, just true: you've been doubting, and you didn't know how to say that to her without feeling like you were failing at being the man of this house. She doesn't flinch. She's been waiting for you to trust her with it.
+So you say it. Not polished, not resolved, just true: you've been doubting, and you didn't know how to say that to her without feeling like you were failing at being the man of this house. She takes it without flinching — she's been waiting for you to trust her with it.
 
 There's a man in the Gospel of Mark whose son is desperately sick, and Jesus tells him everything is possible for one who believes. The father doesn't perform confidence he doesn't have. He says the truest sentence in the whole exchange: "Immediately the father of the child cried out and said, 'I believe; help my unbelief!'" (Mark 9:24, RSV-CE). Belief and doubt, spoken in the same breath, out loud, to the only One who could do anything about either.
 
-That's the same cry you'd been sitting on for two weeks, just never spoken. You believed enough to still show up to Mass, still pray with your kids, still want it to be true — and you doubted enough to lose sleep over it. Both were real. What changed tonight wasn't the doubt disappearing. It's that you finally said the whole sentence instead of the half that made you look put-together. The father in Mark wasn't punished for the "help my unbelief" part. That's the part Jesus healed his son right after.
+That's the same cry you'd been sitting on for two weeks, just never spoken. You believed enough to still show up to Mass, still pray with your kids, still want it to be true — and you doubted enough to lose sleep over it. Both were real. What changed tonight is that you finally said the whole sentence instead of the half that made you look put-together. Jesus healed the son immediately after the father's "help my unbelief" admission, not in spite of it.
 
 Doubt hidden in a marriage becomes two people living next to each other instead of with each other. Doubt spoken becomes something you're facing side by side, together. You didn't need to have it resolved to bring it home. You only needed to stop carrying it like a secret.
 

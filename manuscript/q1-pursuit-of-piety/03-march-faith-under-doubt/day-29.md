@@ -8,7 +8,7 @@ On a whim, before he closed the laptop, he pulled out the notebook he'd been scr
 
 But Piers's business took years to become what it is, built quarter over quarter, most of them unremarkable on their own. He'd never once judged a single quarter's numbers as the final verdict on the company. He extended it patience he wasn't extending himself. St. Paul writes to a church he loved with a confidence that has nothing to do with how far along they were: "And I am sure that he who began a good work in you will bring it to completion at the day of Jesus Christ" (Philippians 1:6, RSV-CE). Notice who's doing the finishing. Not Piers, ninety days in, grading himself against a standard he invented. God — over a timeline that runs to "the day of Jesus Christ," not to the end of a fiscal quarter.
 
-The notebook wasn't proof nothing happened. It was proof of exactly what ninety days of real work looks like from the inside — not a finished man, a man still being worked on, noticing the same patterns faster than he used to and turning back toward God more often than he did in January, even if not every day. That is the completion in progress, not the absence of it.
+The notebook was proof of exactly what ninety days of real work looks like from the inside — not a finished man, a man still being worked on, noticing the same patterns faster than he used to and turning back toward God more often than he did in January, even if not every day. That is the completion in progress, not the absence of it.
 
 **Today:** Reread your own list of truths — the one you started keeping back in January. Add one new line: *God isn't finished with me, and ninety days was never the deadline.* Then keep going tomorrow like you mean it.
 
