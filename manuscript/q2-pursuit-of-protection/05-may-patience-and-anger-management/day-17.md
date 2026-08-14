@@ -2,7 +2,7 @@
 
 Maddox was eight, sitting at the kitchen table with a math worksheet he'd already erased through twice, and Norris was on a video call two feet away with his camera on and his manager talking. Maddox reached for his water cup and knocked it straight across two of Norris's printed pages — the ones with the numbers he needed for the call.
 
-Norris didn't think. He muted his mic with one hand and grabbed the papers with the other, voice already too loud: "Would you just watch what you're doing for once?" Maddox's face did the thing kids' faces do — the quick fold, the eyes down, a silence that isn't calm, it's retreat. Norris turned his mic back on ninety seconds later like nothing had happened. Maddox sat very still for the rest of the call.
+Norris didn't think. He muted his mic with one hand and grabbed the papers with the other, voice already too loud: "Would you just watch what you're doing for once?" Maddox's face did the thing kids' faces do — the quick fold, the eyes down, a silence that's retreat, not calm. Norris turned his mic back on ninety seconds later like nothing had happened. Maddox sat very still for the rest of the call.
 
 That night, replaying it, Norris landed on the sentence he'd actually been operating on in that moment: *A raised voice is how you get a kid to take something seriously.* He'd have denied believing that if you'd asked him directly. But it's what his volume said, and it's what eight-year-old Maddox walked away having learned — not that spilled water matters, but that his father's love has a temperature, and it drops fast.
 

@@ -6,9 +6,9 @@ He hadn't cut me off. He hadn't done anything except drive a little too cautious
 
 The honest answer came later, once I was parked in my own driveway and still fuming. Forty minutes earlier, a client had told me — calmly, reasonably — that they were moving the account to someone else. I hadn't processed that. I hadn't even let myself feel it. I carried it into the car instead and handed it to the first slow-moving pickup truck I found, because a truck is easier to be angry at than a lost account and what it might say about whether I'm good enough at my job.
 
-Here's the question worth asking before the horn, not after: is this really about the man in front of me, or is he just standing where my anger can reach him? Most days the honest answer is the second one. The brake lights aren't the offense. They're the target of convenience.
+Here's the question worth asking before the horn, not after: is this really about the man in front of me, or is he just standing where my anger can reach him? Most days the honest answer is the second one. The brake lights are just the target of convenience, not the offense.
 
-Proverbs gives the alternative, built on insight rather than gritted teeth: "Good sense makes a man slow to anger, and it is his glory to overlook an offense" (Proverbs 19:11, RSV-CE). Overlooking isn't pretending nothing happened. It's recognizing that this particular offense — a cautious driver, a slow checkout line, a kid's spilled cereal — isn't carrying the weight I'm putting on it, and choosing not to unload onto it what it didn't cause.
+Proverbs gives the alternative, built on insight rather than gritted teeth: "Good sense makes a man slow to anger, and it is his glory to overlook an offense" (Proverbs 19:11, RSV-CE). Overlooking means recognizing that this particular offense — a cautious driver, a slow checkout line, a kid's spilled cereal — isn't carrying the weight I'm putting on it, not pretending nothing happened, and choosing not to unload onto it what it didn't cause.
 
 Good sense, the verse says — not good luck, not a naturally easy temperament. Sense. A decision to notice where the heat is coming from before it goes somewhere it doesn't belong.
 

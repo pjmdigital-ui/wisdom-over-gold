@@ -4,7 +4,7 @@ The email came in ten minutes before I had to walk into a room and present numbe
 
 I've been training in the mornings for about a year now — nothing dramatic, just a run or a set of hard intervals before the house wakes up, the kind of discipline where you do the uncomfortable thing on purpose because it's good for you, not because you feel like it. Standing in that hallway, I did the only version of that training available to me: I breathed. Four counts in through the nose, six counts out, slow, four times, while the email sat open on my phone screen. By the fourth breath my hands weren't shaking anymore.
 
-That's not a trick I invented. It's the same principle as the run I don't want to go on at 5:30 a.m. — the body can be trained to do the hard, right thing before the mind feels ready to. Anger spikes in the body first: heart rate, breath, muscle. If a man waits until his thinking catches up before he does anything about it, he's already lost the ten seconds where the outburst gets decided.
+It's the same principle as the run I don't want to go on at 5:30 a.m., not a trick I invented — the body can be trained to do the hard, right thing before the mind feels ready to. Anger spikes in the body first: heart rate, breath, muscle. If a man waits until his thinking catches up before he does anything about it, he's already lost the ten seconds where the outburst gets decided.
 
 Underneath that reflex sits a belief a lot of men carry around unexamined: *I can't control how I react — my temper is just how I'm wired.* That belief doesn't survive close inspection any better than "I'm just not a runner" survives a training plan. Both are trainable. Neither is fixed.
 

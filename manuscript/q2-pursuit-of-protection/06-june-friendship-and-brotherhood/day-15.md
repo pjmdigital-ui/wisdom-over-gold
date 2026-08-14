@@ -4,7 +4,7 @@ Reid's phone buzzed with a memory notification — a photo from four years ago, 
 
 This had been going on for months. Reid genuinely cared about Ross. If you'd asked him, he'd have said Ross was one of his closest friends, no hesitation. And yet an entire season had passed with nothing between them but Reid's private, recurring intention to reach out — an intention that felt, somehow, like it was already doing something. Like thinking warmly about a friend and actually calling him occupied roughly the same moral category.
 
-That's the exact belief worth naming, because it's so quiet most men never catch themselves in it: meaning to call counts as maintaining the friendship. It doesn't. A friendship that lives entirely in one man's head isn't being maintained. It's being remembered fondly while it slowly starves.
+That's the exact belief worth naming, because it's so quiet most men never catch themselves in it: meaning to call counts as maintaining the friendship. It doesn't. A friendship that lives entirely in one man's head is being remembered fondly while it slowly starves.
 
 Scripture doesn't leave room for the distinction Reid was drawing. St. Paul, writing to the Thessalonians, doesn't tell them to feel encouraging toward one another or to intend good things for each other from a distance. He tells them what they're already doing and calls them to keep doing it: "Therefore encourage one another and build one another up, just as you are doing" (1 Thessalonians 5:11, RSV-CE). Encourage and build up are actions, not postures — words that require a voice, a message, a hand actually extended toward another man, not a warm feeling logged silently and left there.
 
