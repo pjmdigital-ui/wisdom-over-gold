@@ -6,7 +6,7 @@ So when Ezra mentioned he was thinking about taking a job two states away — mo
 
 Ezra went quiet on the drive home and didn't text for two weeks.
 
-The belief operating in Douglas wasn't malicious. It was something closer to *if I've earned the right to speak into his life, I've earned the right to decide for him.* Those are not the same right, and mixing them up turns a mentor into a small god standing over another man's decisions instead of a brother standing beside them. Ezra didn't need Douglas to make the call. He needed Douglas to help him see it clearly enough to make it himself.
+The belief operating in Douglas was closer to *if I've earned the right to speak into his life, I've earned the right to decide for him* than to malice. Those are not the same right, and mixing them up turns a mentor into a small god standing over another man's decisions instead of a brother standing beside them. Ezra needed Douglas to help him see the decision clearly enough to make it himself, not to make the call for him.
 
 Scripture is specific about what counsel is for: "Where there is no guidance, a people falls; but in an abundance of counselors there is safety" (Proverbs 11:14, RSV-CE). Safety, not certainty. Counselors surround a decision with wisdom from more angles than one man can see alone — they don't replace the man's own judgment, and the verse never says the counselor gets the final word. A council advises. A king decides. Without ever putting it to a vote, Douglas had appointed himself both.
 

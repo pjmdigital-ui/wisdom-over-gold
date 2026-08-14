@@ -8,7 +8,7 @@ So: has the reflex actually changed, or has he just gotten better at hiding what
 
 St. Peter describes exactly this kind of growth, and it's worth noticing that he describes it as a ladder, not a light switch: "For this very reason make every effort to supplement your faith with virtue, and virtue with knowledge, and knowledge with self-control, and self-control with steadfastness, and steadfastness with godliness" (2 Peter 1:5-6, RSV-CE). Self-control sits as a rung in that list, not a finish line — built on what came before it, becoming footing for what comes next. Nobody arrives at self-control complete and stays there; it gets built one effort at a time, and it keeps needing rebuilding.
 
-Thirty days isn't long enough to erase a reflex a man's had his whole life. It's long enough to notice it clearly for the first time, catch it more often than not, and start proving — to himself, mostly — that the gap between provocation and reaction is something he actually has some say over.
+Thirty days is long enough to notice a lifelong reflex clearly for the first time, catch it more often than not, and start proving — to himself, mostly — that the gap between provocation and reaction is something he actually has some say over, even if it isn't long enough to erase the reflex itself.
 
 **Today:** Look back honestly at your own month, even without a notebook. Name one specific moment where the old reflex fired but the response was slower, smaller, or different than it would have been thirty days ago. Say it out loud — proof, not wishful thinking.
 

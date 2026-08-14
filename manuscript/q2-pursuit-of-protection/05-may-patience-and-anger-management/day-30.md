@@ -8,7 +8,7 @@ This time, Gabriel felt the same hot flash rise in his chest. His hand actually 
 
 Scripture named this exact trade thirty days ago, on the first page of this month, and it deserves to be heard again now that there's something real to measure it against: "He who is slow to anger is better than the mighty, and he who rules his spirit than he who takes a city" (Proverbs 16:32, RSV-CE). A city taken by force is a loud, visible conquest — armies, walls falling, a name remembered. Ruling your own spirit in a half-second gap on a two-lane road, with nobody watching and nothing to show for it afterward, will never look like that kind of victory, and it was never going to. Scripture calls it the quieter conquest, and says plainly it's the greater one.
 
-Nobody in that truck saw what almost happened and didn't. Nobody will ever know Gabriel's hand moved toward the horn and stopped. That's not a loss. That's exactly what a month of real change looks like from the inside — invisible to everyone except the man who used to react without thinking and, this time, didn't.
+Nobody in that truck saw what almost happened and didn't. Nobody will ever know Gabriel's hand moved toward the horn and stopped. That's exactly what a month of real change looks like from the inside, not a loss — invisible to everyone except the man who used to react without thinking and, this time, didn't.
 
 The mighty man takes a city and gets a monument. The patient man rules his own spirit and gets nothing but the knowledge that he did — and Proverbs says that's worth more.
 
