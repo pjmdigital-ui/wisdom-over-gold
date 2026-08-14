@@ -27,7 +27,7 @@ const SECTIONS = [
           "Psalm 42 names it exactly: “As a hart longs for flowing streams, so longs my soul for thee, O God. My soul thirsts for God, for the living God.”",
           "You can solve your marriage, your finances, your health, one at a time, completely — and the ache stays exactly where it was.",
           "It’s the God-shaped space every man carries, rich or broke, married or single. Only God fits there.",
-          "The next time you feel that ache in a good moment, not just a hard one — don’t reach for a distraction. Sit with it and say, “God, I know this is You.”",
+          "The next time you feel that ache in a good moment, not just a hard one — don’t reach for a distraction. Sit with it for sixty seconds and say, “God, I know this is You.” Then open your List of Truths and read it slowly — let it remind you the ache was never really about what’s missing.",
         ],
       },
       {
@@ -38,7 +38,7 @@ const SECTIONS = [
           "Day 2 of the book opens with your hand already knowing where the phone is before your feet hit the floor.",
           "Psalm 63 says it differently: “O God, thou art my God, I seek thee, my soul thirsts for thee.” Not “I’ll get to you once I’ve handled the inbox.” First.",
           "Whatever goes first sets the tone for everything after it.",
-          "Tonight, put your phone in another room, charging somewhere you can’t reach from bed.",
+          "Tonight, put your phone in another room, charging somewhere you can’t reach from bed. Tomorrow morning, before you touch it, say one sentence out loud that names what you actually want first: God, I want You before I want anything my phone can give me.",
         ],
       },
       {
@@ -49,7 +49,7 @@ const SECTIONS = [
           "Jesus names the alternative in Matthew 6:33: “But seek first his kingdom and his righteousness, and all these things shall be yours as well.”",
           "Before Augustine was a saint, he chased status, pleasure, and approval with real intelligence and real hunger, certain each one would finally be enough. It never was.",
           "He wrote what every man in that driveway already half-knows: “Our heart is restless until it rests in You.”",
-          "Write down, in one sentence, what you’re actually chasing right now — the thing you believe will finally make you feel like you’ve arrived.",
+          "Write down, in one sentence, what you’re actually chasing right now — the thing you believe will finally make you feel like you’ve arrived. Underneath it, write the belief that’s actually true: I already belong to God. Nothing else has to make me arrive.",
         ],
       },
       {
@@ -60,7 +60,7 @@ const SECTIONS = [
           "John writes it plainly: “If we confess our sins, he is faithful and just, and will forgive our sins and cleanse us from all unrighteousness.”",
           "Read that again for the qualifier you’ve been adding on your own. There isn’t one. Not “if we’ve hit bottom.” If we confess.",
           "He went on a Thursday, at a parish where nobody knew his name. Nothing dramatic happened. Just a quiet man saying “I absolve you” — and walking out lighter than he had in years.",
-          "Find the confession times at a parish near you, even one you’ve never been to, and go this week.",
+          "Write one sentence and mean it: I don’t have to be bad enough. I only have to be honest. Then find the confession times at a parish near you, even one you’ve never been to, and go this week.",
         ],
       },
       {
@@ -71,7 +71,7 @@ const SECTIONS = [
           "Nothing about that night is a crisis. That’s what makes it dangerous. A marriage doesn’t collapse over one night on the couch — it erodes over a thousand nights like it.",
           "St. Paul writes: “Set your minds on things that are above, not on things that are on earth.”",
           "He goes further: “Present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship.” Choosing the hard thing with your body is an offering, not a hobby.",
-          "Tonight, before you sit down, decide on purpose where the next hour goes.",
+          "Tonight, before you sit down, decide on purpose where the next hour goes. Say out loud: Comfort doesn’t get the vote tonight.",
         ],
       },
     ],
@@ -89,7 +89,7 @@ const SECTIONS = [
           "Not Peter, alone, with John catching up separately. The two of them walking up together, at the same hour — and this was already their regular pattern.",
           "If any man in the early Church had earned the right to operate alone, it was Peter. Instead, he shows up to pray with a companion as a matter of course.",
           "Their friendship wasn’t built on being alike. It was built on showing up to the same hour of prayer, the same tomb, the same council room, again and again.",
-          "Name your own version of a ninth-hour companion, and ask him today to join you for something concrete — a weekly holy hour, a morning walk, a standing call.",
+          "Name your own version of a ninth-hour companion, and ask him today to join you for something concrete. Tell him plainly why: I wasn’t made to go up to the temple by myself, and I’d rather walk up with you.",
         ],
       },
       {
@@ -129,7 +129,7 @@ const SECTIONS = [
           "Genesis says God put the first man in the garden “to till it and keep it” — work was there before the fall. It was never the punishment.",
           "The Church didn’t set aside a feast for St. Joseph because he preached or performed miracles. He’s remembered for a workshop — wood, tools, and the ordinary labor of a carpenter nobody expected anything from.",
           "Joseph never needed a countdown. The workshop was already holy ground, because the man standing in it was giving his hands to God without waiting for a better assignment.",
-          "Notice the next thought that frames your work as a sentence to survive. Replace it out loud: work is part of the good world God made, not my punishment to escape it.",
+          "Notice the next thought that frames your work as a sentence to survive. Replace it out loud: Work is part of the good world God made, not my punishment to escape it. I’m meant to tend it, not flee it.",
         ],
       },
       {
@@ -140,7 +140,7 @@ const SECTIONS = [
           "He’s not really praying about it. He’s rehearsing it — as if running the math a fourth time might change what it adds up to.",
           "St. Paul wrote to a church that had actually kept him fed during hardship, and made a promise on God’s behalf: “My God will supply every need of yours according to his riches in glory in Christ Jesus.”",
           "That doesn’t excuse the work of the ledger in daylight. It just means he can do the honest work tomorrow with a clear head instead of the anxious work tonight with a tired one.",
-          "The next time money-worry wakes you up at night, don’t reach for the banking app. Say Philippians 4:19 out loud instead.",
+          "The next time money-worry wakes you up at night, don’t reach for the banking app. Say Philippians 4:19 out loud instead — then write down the one concrete step you’ll take tomorrow, and let it wait for daylight.",
         ],
       },
       {
@@ -151,7 +151,7 @@ const SECTIONS = [
           "His father’s only response, when Dustin expects praise: “Just don’t let the number become the thing you’re actually trusting.”",
           "Jesus tells it straight in the parable of the rich fool: “Fool! This night your soul is required of you; and the things you have prepared, whose will they be?”",
           "St. John Vianney built real financial security through his parish — and kept almost none of it. He slept on a bare frame and gave the money away as it arrived.",
-          "Name the number, real or imagined, you’ve been treating as the point where you’d finally feel secure. Say it out loud: my security is God, not this number.",
+          "Name the number, real or imagined, you’ve been treating as the point where you’d finally feel secure. Say it out loud: my security is God, not this number. Then give something away this week that the old version of that sentence would never have allowed.",
         ],
       },
     ],
@@ -170,7 +170,7 @@ const SECTIONS = [
           "He’d always assumed a good father was mostly calm. Eleven minutes at a fairground showed him something else: the fear itself is what fatherhood costs.",
           "Mary’s words to the boy Jesus carry the strain of every parent who’s ever lost sight of a child: “Your father and I have been looking for you anxiously.” Joseph searched three days, with no angel and no dream to shorten the wait.",
           "Joseph wasn’t spared the fear. He carried it, searched anyway, and kept moving toward his son until he found Him.",
-          "Think of the last time real fear for your child caught you off guard. Name it to yourself honestly as love, not as a loss of control.",
+          "Think of the last time real fear for your child caught you off guard. Name it to yourself honestly as love, not as a loss of control — and tell your child today, plainly, how much finding them matters to you.",
         ],
       },
       {
@@ -180,7 +180,7 @@ const SECTIONS = [
           "Closing out a week in the book about marriage: “Sts. Louis and Zélie Martin showed what decades of unglamorous daily faithfulness in a marriage can become over time.”",
           "Their marriage wasn’t dramatic. It wasn’t a headline. It was decades of showing up.",
           "And out of that ordinary marriage came a daughter the whole Church now calls a saint.",
-          "Name one unglamorous, daily thing in your own marriage that’s actually worth recommitting to today.",
+          "Go back through your own marriage and pick the one area — fidelity, honest conversation, shared hardship, prayer — where you have the most ground left to cover. Take one specific action on it today, however small.",
         ],
       },
       {
@@ -191,7 +191,7 @@ const SECTIONS = [
           "Scripture says: “Grandchildren are the crown of the aged, and the glory of sons is their fathers.”",
           "There’s no later version of the relationship waiting on the other side of the maintenance phase. This is the relationship.",
           "The five laps across the tub, watched or half-watched, are the material his daughter’s future sense of him gets made out of, one unremarkable night at a time.",
-          "Put your phone in another room tonight — not on silent on the counter, actually in another room. Watch every single lap, and tell her what you saw.",
+          "Put your phone in another room tonight — not on silent on the counter, actually in another room. Watch every single lap, and tell her specifically what you saw, not just that you saw it.",
         ],
       },
       {
@@ -202,7 +202,7 @@ const SECTIONS = [
           "He told himself: nothing’s actually happened, so nothing’s actually wrong. Job made a different kind of decision, one he named out loud in advance: “I have made a covenant with my eyes; how then could I look upon a virgin?”",
           "Job made the decision before temptation arrived, not after. A covenant gets made on a boring Tuesday afternoon, precisely so it’s already decided by the time the real test shows up.",
           "Jonathan flew home and told his wife everything. She was hurt at first — and grateful, once it settled, that he’d told her before she found out some other way.",
-          "Name one relationship, app, or habit that’s drifted somewhere it shouldn’t have, and make a covenant about it today — before the next test, not during it.",
+          "Name one relationship, app, or habit that’s drifted somewhere it shouldn’t have, and make a covenant about it today — before the next test, not during it. Tell your wife what the covenant is and why you’re making it.",
         ],
       },
     ],

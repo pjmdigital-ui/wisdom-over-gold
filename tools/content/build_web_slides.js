@@ -14,7 +14,8 @@ const VIDEOS = [
       { headline: "Scripture names this ache directly.", body: "Psalm 42 names it exactly: “As a hart longs for flowing streams, so longs my soul for thee, O God. My soul thirsts for God, for the living God.”" },
       { headline: "You can fix everything and the ache stays.", body: "You can solve your marriage, your finances, your health, one at a time, completely — and the ache stays exactly where it was." },
       { headline: "It’s not a symptom. It’s a shape.", body: "It’s the God-shaped space every man carries, rich or broke, married or single. Only God fits there." },
-      { headline: "Here’s what to do with it.", body: "The next time you feel that ache in a good moment, not just a hard one — don’t reach for a distraction. Sit with it and say, “God, I know this is You.”" },
+      { headline: "Here’s what to do with it.", body: "The next time you feel that ache in a good moment, not just a hard one — don’t reach for a distraction. Sit with it for sixty seconds and say, “God, I know this is You.”" },
+      { headline: "Then go back to your List of Truths.", body: "Open your List of Truths and read it slowly — let it remind you the ache was never really about what’s missing." },
     ],
   },
   {
@@ -27,6 +28,7 @@ const VIDEOS = [
       { headline: "The psalmist puts God first, literally first.", body: "Psalm 63 says it differently: “O God, thou art my God, I seek thee, my soul thirsts for thee.” Not “I’ll get to you once I’ve handled the inbox.” First." },
       { headline: "Whatever goes first sets the tone for everything after.", body: "Whatever goes first sets the tone for everything after it." },
       { headline: "Try this tonight.", body: "Tonight, put your phone in another room, charging somewhere you can’t reach from bed." },
+      { headline: "Say this the moment you wake up.", body: "Tomorrow morning, before you touch it, say one sentence out loud that names what you actually want first: God, I want You before I want anything my phone can give me." },
     ],
   },
   {
@@ -39,6 +41,7 @@ const VIDEOS = [
       { headline: "Augustine chased everything you’re chasing right now.", body: "Before Augustine was a saint, he chased status, pleasure, and approval with real intelligence and real hunger, certain each one would finally be enough. It never was." },
       { headline: "He wrote the line every man in that driveway half-knows.", body: "He wrote what every man in that driveway already half-knows: “Our heart is restless until it rests in You.”" },
       { headline: "Name what you’re actually chasing.", body: "Write down, in one sentence, what you’re actually chasing right now — the thing you believe will finally make you feel like you’ve arrived." },
+      { headline: "Then write the belief that’s actually true.", body: "Underneath it, write the belief that’s actually true: I already belong to God. Nothing else has to make me arrive." },
     ],
   },
   {
@@ -50,6 +53,7 @@ const VIDEOS = [
       { headline: "John doesn’t attach a qualifier.", body: "John writes it plainly: “If we confess our sins, he is faithful and just, and will forgive our sins and cleanse us from all unrighteousness.”" },
       { headline: "There’s no threshold you have to cross first.", body: "Read that again for the qualifier you’ve been adding on your own. There isn’t one. Not “if we’ve hit bottom.” If we confess." },
       { headline: "Nothing dramatic happened. That was the point.", body: "He went on a Thursday, at a parish where nobody knew his name. Nothing dramatic happened. Just a quiet man saying “I absolve you” — and walking out lighter than he had in years." },
+      { headline: "Write this sentence and mean it.", body: "I don’t have to be bad enough. I only have to be honest." },
       { headline: "Go this week.", body: "Find the confession times at a parish near you, even one you’ve never been to, and go this week." },
     ],
   },
@@ -62,7 +66,7 @@ const VIDEOS = [
       { headline: "Marriages don’t collapse. They erode.", body: "Nothing about that night is a crisis. That’s what makes it dangerous. A marriage doesn’t collapse over one night on the couch — it erodes over a thousand nights like it." },
       { headline: "Paul names where the mind defaults to.", body: "St. Paul writes: “Set your minds on things that are above, not on things that are on earth.”" },
       { headline: "Your body doesn’t get an exemption.", body: "He goes further: “Present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship.” Choosing the hard thing with your body is an offering, not a hobby." },
-      { headline: "Decide on purpose, before you sit down.", body: "Tonight, before you sit down, decide on purpose where the next hour goes." },
+      { headline: "Decide on purpose, before you sit down.", body: "Tonight, before you sit down, decide on purpose where the next hour goes. Say out loud: Comfort doesn’t get the vote tonight." },
     ],
   },
   {
@@ -75,6 +79,7 @@ const VIDEOS = [
       { headline: "The man who’d earned the right to go alone didn’t.", body: "If any man in the early Church had earned the right to operate alone, it was Peter. Instead, he shows up to pray with a companion as a matter of course." },
       { headline: "Their friendship wasn’t built on being alike.", body: "Their friendship wasn’t built on being alike. It was built on showing up to the same hour of prayer, the same tomb, the same council room, again and again." },
       { headline: "Name your ninth-hour companion.", body: "Name your own version of a ninth-hour companion, and ask him today to join you for something concrete — a weekly holy hour, a morning walk, a standing call." },
+      { headline: "Tell him plainly why.", body: "I wasn’t made to go up to the temple by myself, and I’d rather walk up with you." },
     ],
   },
   {
@@ -110,7 +115,7 @@ const VIDEOS = [
       { headline: "Work existed before the fall.", body: "Genesis says God put the first man in the garden “to till it and keep it” — work was there before the fall. It was never the punishment." },
       { headline: "The Church remembers Joseph for a workshop.", body: "The Church didn’t set aside a feast for St. Joseph because he preached or performed miracles. He’s remembered for a workshop — wood, tools, and the ordinary labor of a carpenter nobody expected anything from." },
       { headline: "He never needed a countdown.", body: "Joseph never needed a countdown. The workshop was already holy ground, because the man standing in it was giving his hands to God without waiting for a better assignment." },
-      { headline: "Catch the thought, and replace it.", body: "Notice the next thought that frames your work as a sentence to survive. Replace it out loud: work is part of the good world God made, not my punishment to escape it." },
+      { headline: "Catch the thought, and replace it.", body: "Notice the next thought that frames your work as a sentence to survive. Replace it out loud: Work is part of the good world God made, not my punishment to escape it. I’m meant to tend it, not flee it." },
     ],
   },
   {
@@ -123,6 +128,7 @@ const VIDEOS = [
       { headline: "Paul made a promise on God’s behalf.", body: "St. Paul wrote to a church that had actually kept him fed during hardship, and made a promise on God’s behalf: “My God will supply every need of yours according to his riches in glory in Christ Jesus.”" },
       { headline: "This doesn’t cancel the daylight work.", body: "That doesn’t excuse the work of the ledger in daylight. It just means he can do the honest work tomorrow with a clear head instead of the anxious work tonight with a tired one." },
       { headline: "Say the verse instead of opening the app.", body: "The next time money-worry wakes you up at night, don’t reach for the banking app. Say Philippians 4:19 out loud instead." },
+      { headline: "Then let it wait for daylight.", body: "Write down the one concrete step you’ll take tomorrow to address the real problem. Then let it wait for daylight." },
     ],
   },
   {
@@ -135,6 +141,7 @@ const VIDEOS = [
       { headline: "Jesus doesn’t soften the parable.", body: "Jesus tells it straight in the parable of the rich fool: “Fool! This night your soul is required of you; and the things you have prepared, whose will they be?”" },
       { headline: "A saint who kept almost none of what he built.", body: "St. John Vianney built real financial security through his parish — and kept almost none of it. He slept on a bare frame and gave the money away as it arrived." },
       { headline: "Name your number, out loud.", body: "Name the number, real or imagined, you’ve been treating as the point where you’d finally feel secure. Say it out loud: my security is God, not this number." },
+      { headline: "Then prove it with your hands.", body: "Give something away this week that the old version of that sentence would never have allowed." },
     ],
   },
   {
@@ -147,7 +154,7 @@ const VIDEOS = [
       { headline: "The fear itself is what fatherhood costs.", body: "He’d always assumed a good father was mostly calm. Eleven minutes at a fairground showed him something else: the fear itself is what fatherhood costs." },
       { headline: "Joseph searched three days with no angel, no dream.", body: "Mary’s words to the boy Jesus carry the strain of every parent who’s ever lost sight of a child: “Your father and I have been looking for you anxiously.” Joseph searched three days, with no angel and no dream to shorten the wait." },
       { headline: "He wasn’t spared the fear. He carried it anyway.", body: "Joseph wasn’t spared the fear. He carried it, searched anyway, and kept moving toward his son until he found Him." },
-      { headline: "Name it as love, not a loss of control.", body: "Think of the last time real fear for your child caught you off guard. Name it to yourself honestly as love, not as a loss of control." },
+      { headline: "Name it as love, not a loss of control.", body: "Think of the last time real fear for your child caught you off guard. Name it to yourself honestly as love, not as a loss of control — and tell your child today, plainly, how much finding them matters to you." },
     ],
   },
   {
@@ -158,7 +165,7 @@ const VIDEOS = [
       { headline: "Their marriage was never a headline.", body: "Closing out a week in the book about marriage: “Sts. Louis and Zélie Martin showed what decades of unglamorous daily faithfulness in a marriage can become over time.”" },
       { headline: "It was decades of showing up.", body: "Their marriage wasn’t dramatic. It wasn’t a headline. It was decades of showing up." },
       { headline: "That ordinary marriage raised a saint.", body: "And out of that ordinary marriage came a daughter the whole Church now calls a saint." },
-      { headline: "Name your own unglamorous, daily thing.", body: "Name one unglamorous, daily thing in your own marriage that’s actually worth recommitting to today." },
+      { headline: "Pick the one area with the most ground to cover.", body: "Fidelity, honest conversation, shared hardship, prayer — go back through your own marriage and pick the one area where you have the most ground left to cover. Take one specific action on it today, however small." },
     ],
   },
   {
@@ -170,7 +177,7 @@ const VIDEOS = [
       { headline: "Scripture calls fathers the glory of their sons.", body: "Scripture says: “Grandchildren are the crown of the aged, and the glory of sons is their fathers.”" },
       { headline: "There’s no later version waiting.", body: "There’s no later version of the relationship waiting on the other side of the maintenance phase. This is the relationship." },
       { headline: "The unremarkable nights are the material.", body: "The five laps across the tub, watched or half-watched, are the material his daughter’s future sense of him gets made out of, one unremarkable night at a time." },
-      { headline: "Put the phone in the other room tonight.", body: "Put your phone in another room tonight — not on silent on the counter, actually in another room. Watch every single lap, and tell her what you saw." },
+      { headline: "Put the phone in the other room tonight.", body: "Put your phone in another room tonight — not on silent on the counter, actually in another room. Watch every single lap, and tell her specifically what you saw, not just that you saw it." },
     ],
   },
   {
@@ -183,6 +190,7 @@ const VIDEOS = [
       { headline: "A covenant is made on the boring Tuesday, not the test.", body: "Job made the decision before temptation arrived, not after. A covenant gets made on a boring Tuesday afternoon, precisely so it’s already decided by the time the real test shows up." },
       { headline: "He flew home and told her everything.", body: "Jonathan flew home and told his wife everything. She was hurt at first — and grateful, once it settled, that he’d told her before she found out some other way." },
       { headline: "Draw your line today, before the next test.", body: "Name one relationship, app, or habit that’s drifted somewhere it shouldn’t have, and make a covenant about it today — before the next test, not during it." },
+      { headline: "Tell her what the covenant is.", body: "Tell your wife what the covenant is and why you’re making it." },
     ],
   },
   {
