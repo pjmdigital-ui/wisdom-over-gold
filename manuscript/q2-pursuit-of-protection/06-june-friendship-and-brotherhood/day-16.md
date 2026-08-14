@@ -14,6 +14,6 @@ The difference isn't the information a friend has access to. Leonard didn't dig 
 
 Damon's real task is deciding whether he actually wants what he asked for back in the spring, or whether "hold me to this" was a sentence he liked the sound of more than the substance — not whether Leonard overstepped.
 
-**Today:** Call the man you asked to hold you accountable and tell him plainly: "I want you to keep asking, even when I don't bring it up first — that's not you watching me, that's you helping me." Then let him ask you one real question about the thing you asked him to watch.
+**Today:** Call the man you asked to hold you accountable and tell him plainly: "I want you to keep asking, even when I don't bring it up first — that's you helping me, not watching me." Then let him ask you one real question about the thing you asked him to watch.
 
 **Prayer:** Father in Heaven, thank You for the friend who cared enough to ask an uncomfortable question instead of staying silent. Soften the part of me that hears "restore" and flinches like it's an accusation. Give me the humility to receive gentleness as gentleness. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.

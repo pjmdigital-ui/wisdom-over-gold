@@ -12,6 +12,6 @@ This is the order most men get backward. They wait for a crisis to force the ext
 
 You don't need a friend in the room to start. You need ten honest minutes and the discipline not to flinch away from what surfaces.
 
-**Today:** Before you talk to anyone else about how you're doing, sit alone for ten minutes with a pen and finish this sentence in writing, more than once if you need to: "What I actually feel right now is ___, and I've been running past it because ___." Then say the new belief out loud: "I can name what's true in me before anyone asks — that's not weakness, that's the water Proverbs says a man of understanding knows how to draw."
+**Today:** Before you talk to anyone else about how you're doing, sit alone for ten minutes with a pen and finish this sentence in writing, more than once if you need to: "What I actually feel right now is ___, and I've been running past it because ___." Then say the new belief out loud: "Naming what's true in me before anyone asks is the water Proverbs says a man of understanding knows how to draw."
 
 **Prayer:** Lord God Almighty, forgive me for how often I run on autopilot instead of asking You to show me what's really in me. Help me sit still long enough to draw up what's true before I speak it to anyone else. Give me the patience to do the quiet work first. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
