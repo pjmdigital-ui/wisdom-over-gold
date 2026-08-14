@@ -10,7 +10,7 @@ St. Paul names the actual math to Timothy plainly: "There is great gain in godli
 
 Paul calls contentment gain — something built through repeated practice against resistance, the way strength or skill gets built, with reps most days a man doesn't feel like doing them. Every time he names what he already has and calls it enough — in a driveway, in front of a screen, at a dinner table with friends who are doing better by some metric — he's doing the actual rep. Skip the rep often enough, and no income will ever feel like enough, because the real target was always whatever the man next to him had, not the number on the sticker.
 
-Spencer didn't need a new truck. He needed to walk back inside, close the laptop, and let the one in his garage be enough for one more year.
+Spencer needed to walk back inside, close the laptop, and let the truck already in his garage be enough for one more year.
 
 **Today:** Name one thing you own that's fully adequate but that you've started resenting because of someone else's upgrade. Say out loud: "This is enough. I have food and clothing, and I am content." Then close whatever tab you were about to open to replace it.
 

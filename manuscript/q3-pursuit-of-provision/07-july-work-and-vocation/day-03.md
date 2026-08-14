@@ -10,7 +10,7 @@ St. Paul doesn't leave room for that kind of split accounting. Writing to a cong
 
 That single sentence collapses the two rooms Neil had built in his head into one. There's no version of Monday through Saturday that God isn't watching the same way He watches Sunday morning. The showroom floor is not neutral ground where a man gets to operate by a different code because no priest is standing there. It's still ground Christ is present on, still work being offered up to Him or withheld from Him, deal by deal.
 
-That doesn't mean every hard sell is automatically sin, or that closing deals is somehow beneath a man's faith. It means the question worth asking before every deal isn't "will this close" but "would I be comfortable with Christ standing at my shoulder while I make this pitch" — because He already is.
+The question worth asking before every deal isn't "will this close" but "would I be comfortable with Christ standing at my shoulder while I make this pitch" — because He already is.
 
 **Today:** Before your next call or meeting today, say this out loud, even quietly: *I'm not just serving a customer or a manager right now. I'm serving Christ, and He's already in the room.* Let that be true of one specific interaction today — the one you were most tempted to handle by the old rules.
 

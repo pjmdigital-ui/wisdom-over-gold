@@ -8,7 +8,7 @@ The belief running the whole dinner never got examined, because Cole would have 
 
 Scripture describes a man who never even gets the question wrong — he simply never asks it: "there is no end to all his toil, and his eyes are never satisfied with riches, so that he never asks, 'For whom am I toiling and depriving myself of pleasure?' This also is vanity and an unhappy business" (Ecclesiastes 4:8, RSV-CE). That man in the text has no son, no brother, no one to toil for, and toils anyway without end. Cole's version is stranger and sadder: he has the son, the daughter, the wife, sitting six feet away, and toiled through their company anyway, without ever asking who the work was actually supposed to be for.
 
-A man's presence gets measured by where his eyes go when the phone buzzes, and what his family has learned to expect from that half-second — not by the hours logged in a chair at his own table. Cole's daughter didn't need him to quit his job. She needed the half-second back.
+A man's presence gets measured by where his eyes go when the phone buzzes, and what his family has learned to expect from that half-second — not by the hours logged in a chair at his own table. Cole's daughter needed the half-second back.
 
 **Today:** At your next meal with your family, put the phone in another room — not face-down, gone. Notice how many times you reach for where it used to be, and each time, say to yourself: "I am not toiling for an inbox. I am toiling for the people at this table, and they get to see that."
 

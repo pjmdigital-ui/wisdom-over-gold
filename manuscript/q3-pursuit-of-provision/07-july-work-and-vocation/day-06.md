@@ -8,7 +8,7 @@ Proverbs doesn't size up a craftsman by asking "will anyone ever check." Solomon
 
 The kings in that proverb stand for the standard a man holds himself to when the only witness left in the room is God and his own conscience, not literal royalty. Obscure men — the ones who'll never open that wall, never know the difference, never think to check — are exactly the audience Ivan had spent two decades building his real standard around, without noticing he was doing it. Proverbs says the craftsman worth naming is the one whose habits don't shift based on who's obscure and who's watching.
 
-Ivan made the drive to the supply yard that afternoon. Not because the eight-inch gap would have collapsed the house, and not because he suddenly feared getting caught. He drove because he decided, standing in that stud bay, that he didn't want to be a man whose quality depended on an audience — and the only way to stop being that man is to stop building the habit one hidden decision at a time.
+Ivan made the drive to the supply yard that afternoon. He drove because he decided, standing in that stud bay, that he didn't want to be a man whose quality depended on an audience — not because the eight-inch gap would have collapsed the house, and not because he suddenly feared getting caught — and the only way to stop being that man is to stop building the habit one hidden decision at a time.
 
 **Today:** Find the one place in your current work where you're tempted to do less because no one would ever check — the file no one audits, the report no one reads closely, the corner nobody but you will ever know was cut. Do the fuller version anyway, and say why: *My standard stays the same whether a king is watching or nobody is.*
 

@@ -8,7 +8,7 @@ Scripture doesn't leave much room to mistake that kind of silence for love. "Bet
 
 Palmer's fear isn't unreasonable. Business partnerships have ended over less than a hard conversation about family. But the shipment that went out defective is what eleven years of trust actually looks like under pressure when nobody's willing to say the true thing out loud. Every month Palmer covers instead of speaks, the debt he's not paying gets bigger — to his partner, to the crew who already know and are losing respect for both owners, and to the brother-in-law, who's never once been told plainly what everyone else already sees.
 
-Open rebuke doesn't have to mean cruelty. It means naming what's true, directly, to the person who needs to hear it, instead of managing around it forever and calling the management peace.
+Open rebuke means naming what's true, directly, to the person who needs to hear it, instead of managing around it forever and calling the management peace.
 
 **Today:** Set a specific time this week to tell your partner exactly what you've been avoiding — plainly, without softening it into vague hints. Say the true belief to yourself first: *Telling him the truth protects this partnership. Staying silent only protects my own comfort.*
 

@@ -2,7 +2,7 @@
 
 Rowan opened a fresh page in his notebook on August 1st and wrote a single line before he'd decided what the rest of the month would look like: *The earth is the LORD's and the fulness thereof.* He wrote it because that was the verse the month opened on, and it seemed like the kind of sentence a man should write down even before he believed it all the way. Thirty-one days of budgets, debt, a hard conversation with his wife, a redirected windfall, a scare with the market, and one long look at what he was actually gripping too tightly — and tonight he opened the notebook back to that first page and read his own handwriting again.
 
-The sentence hadn't changed. Rowan had.
+Rowan was the one who'd changed.
 
 On August 1st, "the fulness thereof" had read like poetry — true in the way a lot of true things are true, at a comfortable distance from his actual bank account. A month of decisions later, it read like an audit. The fulness meant the retirement account he took real pride in. It meant the emergency fund he'd finally built. It meant the truck he'd paid off and the business he'd grown and the raise he'd earned through real, sustained effort nobody handed him. Every one of those things had felt, at some point this month, like the one exception the psalm must not have meant — surely it wasn't talking about that account, the one Rowan had actually worked for.
 
