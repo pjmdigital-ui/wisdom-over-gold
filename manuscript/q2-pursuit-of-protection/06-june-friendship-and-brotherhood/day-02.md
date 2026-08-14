@@ -10,7 +10,7 @@ Scripture has no patience for that kind of arithmetic. "Two are better than one,
 
 The self-made man is a story men tell after the fact, once the danger has passed, editing out every hand that pulled them up along the way. Nobody actually builds anything alone — not a company, not a marriage, not a life of faith. Dominic hadn't built his business alone either; he'd had a bank, a mentor who cosigned his first loan, a wife who worked nights for two years so he could reinvest everything. He'd just stopped counting those the moment counting them became inconvenient to the story.
 
-The cost of guarding that story wasn't only financial. It was the eleven weeks he spent alone with a number no one else knew, doing the falling by himself because he'd convinced himself the lifting-up part was for other men, not him.
+The cost of guarding that story went beyond the financial — it was the eleven weeks he spent alone with a number no one else knew, doing the falling by himself because he'd convinced himself the lifting-up part was for other men, not him.
 
 **Today:** Call the one man who would actually help you if he knew the real situation — a mentor, an old friend, your own father. Tell him the actual number, whatever kind it is. Say the sentence out loud as you do it: I was never meant to carry this alone, and needing you doesn't undo what I've built.
 

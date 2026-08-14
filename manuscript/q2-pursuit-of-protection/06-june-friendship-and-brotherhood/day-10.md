@@ -12,6 +12,6 @@ If the apostle who wrote most of the New Testament needed Luke in the room and a
 
 The men who actually finish hard, long-term work are rarely the ones who did it solo. They're the ones who kept a Luke close and weren't ashamed to ask for a Mark.
 
-**Today:** Write down the name of one person you've been doing a hard thing alone that you could actually ask to help. Say it plainly: "Needing someone here isn't proof I'm failing — it's how this kind of work has always gotten done." Then send the message asking.
+**Today:** Write down the name of one person you've been doing a hard thing alone that you could actually ask to help. Say it plainly: "Needing someone here is how this kind of work has always gotten done." Then send the message asking.
 
 **Prayer:** Father in Heaven, I have mistaken carrying everything alone for strength more times than I can count. Give me Paul's willingness to name the people he needed and ask for them plainly. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.

@@ -6,7 +6,7 @@ Fifty-two years old, and self-reliance had worked, as far as he could tell, for 
 
 The test results came back manageable. A cardiac scare, not a catastrophe, medication and follow-up rather than surgery. But he drove home that evening with a fact he hadn't had to face before: the years of handling everything alone hadn't made him more prepared for a real crisis. They'd made sure that when one came, there was no one positioned to help carry it.
 
-"And though a man might prevail against one who is alone, two will withstand him. A threefold cord is not quickly broken" (Ecclesiastes 4:12, RSV-CE). A single strand holds until the moment something pulls hard enough, and then it simply doesn't. That's not a flaw in the strand — it's what a single strand is. Strength under real pressure was never going to come from being harder to break alone. It comes from being braided into something that isn't one thing anymore.
+"And though a man might prevail against one who is alone, two will withstand him. A threefold cord is not quickly broken" (Ecclesiastes 4:12, RSV-CE). A single strand holds until the moment something pulls hard enough, and then it simply doesn't. That's simply what a single strand is, not a flaw in it. Strength under real pressure was never going to come from being harder to break alone. It comes from being braided into something that isn't one thing anymore.
 
 Lucas had spent three decades treating every hard season as proof the strategy was working, because he'd survived each one. What he'd actually proven was that a single cord can hold for a long time. He hadn't proven it can hold forever, and the hospital chair made that difference impossible to keep ignoring.
 
