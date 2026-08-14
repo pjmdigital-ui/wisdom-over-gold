@@ -1,0 +1,450 @@
+<title>Seek First Post Concepts</title>
+<style>
+  :root {
+    --ink: #0b0b0c;
+    --ink-raised: #141413;
+    --paper: #ece5d5;
+    --paper-dim: #b9ae93;
+    --gold: #b8923f;
+    --gold-bright: #d9b25f;
+    --rule: rgba(184, 146, 63, 0.32);
+    --accent-wash: rgba(184, 146, 63, 0.08);
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--ink);
+    color: var(--paper);
+    font-family: Georgia, "Iowan Old Style", "Palatino Linotype", "Book Antiqua", serif;
+    -webkit-font-smoothing: antialiased;
+    padding: 4.5rem 1.5rem 6rem;
+  }
+
+  .wrap { max-width: 1180px; margin: 0 auto; }
+
+  .masthead { text-align: center; margin-bottom: 4.5rem; }
+
+  .masthead .kicker {
+    font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+    font-size: 0.72rem;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--gold);
+    margin: 0 0 1.1rem;
+  }
+
+  .masthead h1 {
+    font-size: clamp(2.2rem, 5vw, 3.4rem);
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    margin: 0 0 0.9rem;
+    text-wrap: balance;
+  }
+
+  .masthead p {
+    max-width: 42em;
+    margin: 0 auto;
+    color: var(--paper-dim);
+    font-size: 1.05rem;
+    line-height: 1.6;
+  }
+
+  .divider {
+    width: 100%;
+    max-width: 1180px;
+    margin: 4rem auto;
+    display: flex;
+    align-items: center;
+    gap: 1.1rem;
+  }
+  .divider::before, .divider::after {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: var(--rule);
+  }
+  .divider span {
+    font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+    font-size: 0.7rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--gold);
+    white-space: nowrap;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2.6rem;
+  }
+
+  figure { margin: 0; }
+
+  .post {
+    aspect-ratio: 1 / 1;
+    width: 100%;
+    border-radius: 4px;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 18px 40px rgba(0, 0, 0, 0.45);
+    border: 1px solid rgba(236, 229, 213, 0.08);
+  }
+
+  figcaption {
+    margin-top: 1.1rem;
+    padding: 0 0.1rem;
+  }
+
+  figcaption .fmt {
+    font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+    font-size: 0.66rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--gold);
+    display: block;
+    margin-bottom: 0.35rem;
+  }
+
+  figcaption .why {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    font-size: 0.86rem;
+    line-height: 1.5;
+    color: var(--paper-dim);
+    margin: 0;
+  }
+
+  /* --- Card 1: pull-quote --- */
+  .card-quote {
+    background: radial-gradient(120% 140% at 50% 0%, #17130f 0%, #0b0b0c 60%);
+    justify-content: center;
+    align-items: center;
+    padding: 12% 11%;
+    text-align: center;
+  }
+  .card-quote .rule {
+    width: 52px;
+    height: 2px;
+    background: var(--gold);
+    margin: 0 auto 1.3rem;
+  }
+  .card-quote .txt {
+    font-size: 1.5rem;
+    line-height: 1.42;
+    font-weight: 600;
+    text-wrap: balance;
+  }
+  .card-quote .txt em {
+    color: var(--gold-bright);
+    font-style: normal;
+  }
+  .card-quote .attrib {
+    margin-top: 1.4rem;
+    font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+    font-size: 0.66rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--paper-dim);
+  }
+
+  /* --- Card 2: scripture --- */
+  .card-verse {
+    background: #0b0b0c;
+    justify-content: center;
+    padding: 13% 12%;
+    background-image:
+      linear-gradient(var(--rule) 1px, transparent 1px);
+    background-size: 100% 28px;
+    background-position: 0 20%;
+  }
+  .card-verse .ref {
+    font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+    font-size: 0.72rem;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--gold);
+    margin-bottom: 1rem;
+  }
+  .card-verse .txt {
+    font-style: italic;
+    font-size: 1.3rem;
+    line-height: 1.55;
+  }
+
+  /* --- Card 3: saint spotlight --- */
+  .card-saint {
+    background: linear-gradient(165deg, #141210 0%, #0b0b0c 55%);
+    padding: 10% 10% 9%;
+    justify-content: space-between;
+  }
+  .card-saint .top .eyebrow {
+    font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+    font-size: 0.66rem;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--paper-dim);
+    margin-bottom: 0.5rem;
+  }
+  .card-saint .top .name {
+    font-size: clamp(1.5rem, 5vw, 2.1rem);
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    color: var(--gold-bright);
+    text-transform: uppercase;
+    line-height: 1.15;
+  }
+  .card-saint .quote {
+    font-size: 1.08rem;
+    line-height: 1.5;
+    border-left: 2px solid var(--gold);
+    padding-left: 1rem;
+  }
+  .card-saint .cite {
+    margin-top: 1rem;
+    font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+    font-size: 0.62rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--paper-dim);
+  }
+
+  /* --- Card 4: hook question --- */
+  .card-hook {
+    background: #0b0b0c;
+    justify-content: center;
+    padding: 11%;
+  }
+  .card-hook .txt {
+    font-size: clamp(1.6rem, 6vw, 2.3rem);
+    font-weight: 700;
+    line-height: 1.18;
+    letter-spacing: 0.005em;
+  }
+  .card-hook .txt .hl {
+    color: var(--gold-bright);
+  }
+  .card-hook .tag {
+    margin-top: 1.4rem;
+    font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+    font-size: 0.66rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--gold);
+  }
+
+  /* --- Card 5: pursuit spotlight --- */
+  .card-pursuit {
+    background: #0b0b0c;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 10%;
+  }
+  .card-pursuit svg { width: 58px; height: 58px; margin-bottom: 1.1rem; }
+  .card-pursuit .label {
+    font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+    font-size: 0.72rem;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--gold);
+    margin-bottom: 0.35rem;
+  }
+  .card-pursuit .name {
+    font-size: 1.9rem;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    margin-bottom: 1rem;
+  }
+  .card-pursuit .sub {
+    font-size: 0.95rem;
+    color: var(--paper-dim);
+    max-width: 22em;
+    line-height: 1.5;
+  }
+
+  /* --- Carousel --- */
+  .carousel-rail {
+    display: flex;
+    gap: 1.1rem;
+    overflow-x: auto;
+    padding: 0.4rem 0.1rem 1rem;
+    scroll-snap-type: x proximity;
+  }
+  .slide {
+    flex: 0 0 260px;
+    aspect-ratio: 1 / 1;
+    border-radius: 4px;
+    background: #0b0b0c;
+    border: 1px solid rgba(236, 229, 213, 0.08);
+    padding: 9% 8%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    scroll-snap-align: start;
+    position: relative;
+  }
+  .slide .n {
+    position: absolute;
+    top: 6%;
+    right: 8%;
+    font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+    font-size: 0.62rem;
+    letter-spacing: 0.1em;
+    color: var(--paper-dim);
+  }
+  .slide .eyebrow {
+    font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+    font-size: 0.62rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--gold);
+    margin-bottom: 0.7rem;
+  }
+  .slide .body-txt {
+    font-size: 1.02rem;
+    line-height: 1.45;
+  }
+  .slide.cta {
+    background: linear-gradient(165deg, #1a1510, #0b0b0c);
+    align-items: flex-start;
+  }
+  .slide.cta .body-txt { font-weight: 700; font-size: 1.15rem; }
+  .slide.cta .cta-line {
+    margin-top: 1rem;
+    font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+    font-size: 0.66rem;
+    letter-spacing: 0.1em;
+    color: var(--gold-bright);
+    border-top: 1px solid var(--rule);
+    padding-top: 0.8rem;
+    width: 100%;
+  }
+
+  .carousel-wrap figcaption { max-width: 640px; }
+
+  footer {
+    margin-top: 5rem;
+    text-align: center;
+    color: var(--paper-dim);
+    font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+    font-size: 0.72rem;
+    letter-spacing: 0.08em;
+  }
+
+  @media (max-width: 640px) {
+    body { padding: 3rem 1.1rem 4rem; }
+    .grid { gap: 2rem; }
+  }
+</style>
+
+<div class="wrap">
+  <div class="masthead">
+    <p class="kicker">Seek First &middot; Instagram Post Concepts</p>
+    <h1>Five card treatments, one book</h1>
+    <p>All copy below is pulled verbatim from the manuscript — no placeholder text. Each treatment reuses the cover's palette (black ground, cream type, one gold accent) so the grid reads as one account, not five different ones.</p>
+  </div>
+
+  <div class="grid">
+    <figure>
+      <div class="post card-quote">
+        <div class="rule"></div>
+        <p class="txt">Order matters more than effort. A man can work exactly as hard chasing the wrong center as the right one &mdash; <em>only the center is different, and the center is everything.</em></p>
+        <p class="attrib">Day 1 &middot; The God of Your Own Life</p>
+      </div>
+      <figcaption>
+        <span class="fmt">Pull-quote card</span>
+        <p class="why">The single-line-of-truth format the research flagged as the top performer for faith accounts. Center-weighted, one idea, nothing competing for attention.</p>
+      </figcaption>
+    </figure>
+
+    <figure>
+      <div class="post card-verse">
+        <p class="ref">Matthew 6:33, RSV-CE</p>
+        <p class="txt">&ldquo;But seek first his kingdom and his righteousness, and all these things shall be yours as well.&rdquo;</p>
+      </div>
+      <figcaption>
+        <span class="fmt">Scripture card</span>
+        <p class="why">The book's anchor verse, treated like an illuminated page rather than a stock verse graphic &mdash; the ruled lines nod to a page from the book itself.</p>
+      </figcaption>
+    </figure>
+
+    <figure>
+      <div class="post card-saint">
+        <div class="top">
+          <p class="eyebrow">On the restless heart</p>
+          <p class="name">St. Augustine</p>
+        </div>
+        <div>
+          <p class="quote">&ldquo;Our heart is restless until it rests in You.&rdquo;</p>
+          <p class="cite">Day 1 &middot; The God of Your Own Life</p>
+        </div>
+      </div>
+      <figcaption>
+        <span class="fmt">Saint spotlight card</span>
+        <p class="why">Saint content is one of the most consistently high-engagement categories in this space. Treats the saint like a named guest, not a footnote.</p>
+      </figcaption>
+    </figure>
+
+    <figure>
+      <div class="post card-hook">
+        <p class="txt">Why does your prayer life feel <span class="hl">dead</span> even when you haven't stopped praying?</p>
+        <p class="tag">Seek First &middot; Day 21</p>
+      </div>
+      <figcaption>
+        <span class="fmt">Hook / question card</span>
+        <p class="why">Built to stop the scroll on its own, no caption needed &mdash; mirrors the exact language Catholic men actually search ("why do I feel disconnected from God").</p>
+      </figcaption>
+    </figure>
+
+    <figure>
+      <div class="post card-pursuit">
+        <svg viewBox="0 0 64 64" fill="none" stroke="var(--gold)" stroke-width="2.2">
+          <path d="M32 8 L52 16 V30 C52 44 43 54 32 58 C21 54 12 44 12 30 V16 Z" />
+          <path d="M32 22 V38 M25 30 H39" />
+        </svg>
+        <p class="label">Q2 &middot; April&ndash;June</p>
+        <p class="name">The Pursuit of Protection</p>
+        <p class="sub">Becoming the guardian your family, marriage, and character actually need.</p>
+      </div>
+      <figcaption>
+        <span class="fmt">Framework spotlight card</span>
+        <p class="why">One of four &mdash; built to post as a set across a week, teaching the book's own structure before anyone has bought it.</p>
+      </figcaption>
+    </figure>
+  </div>
+
+  <div class="divider"><span>Carousel example &middot; 4 slides</span></div>
+
+  <div class="carousel-wrap">
+    <div class="carousel-rail">
+      <div class="slide">
+        <span class="n">1 / 4</span>
+        <p class="eyebrow">The pattern</p>
+        <p class="body-txt">Two weeks in, one man's spreadsheet crisis got solved because <strong>Jonathan risked his own throne for David.</strong></p>
+      </div>
+      <div class="slide">
+        <span class="n">2 / 4</span>
+        <p class="eyebrow">The pattern, continued</p>
+        <p class="body-txt">St. Paul, chained in a Roman prison awaiting execution, still wrote asking for Luke and Mark <strong>by name.</strong></p>
+      </div>
+      <div class="slide">
+        <span class="n">3 / 4</span>
+        <p class="eyebrow">The verse</p>
+        <p class="body-txt">&ldquo;If they fall, one will lift up his fellow &mdash; but woe to him who is alone when he falls.&rdquo;<br><span style="font-size:0.7rem;letter-spacing:.08em;color:var(--gold);font-family:ui-monospace,monospace;">ECCLESIASTES 4:9&ndash;10, RSV-CE</span></p>
+      </div>
+      <div class="slide cta">
+        <p class="body-txt">I am not weaker for needing someone positioned to lift me. I am exposed without him.</p>
+        <p class="cta-line">Day 14 &middot; Seek First &middot; link in bio</p>
+      </div>
+    </div>
+    <figcaption>
+      <span class="fmt">Teaching carousel</span>
+      <p class="why">One idea per slide, ending on a line the reader can screenshot and say out loud &mdash; matches the "one point per slide, CTA on the last" pattern that performs best for teaching content, and doubles as a direct preview of a real day inside the book.</p>
+    </figcaption>
+  </div>
+
+  <footer>SEEK FIRST &middot; THE FOUR PURSUITS OF THE MODERN CATHOLIC MAN</footer>
+</div>
