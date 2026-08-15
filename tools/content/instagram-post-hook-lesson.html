@@ -1,0 +1,193 @@
+<title>The Ache Underneath</title>
+<style>
+  :root {
+    --backdrop: #1c1a17;
+    --ink: #0a0a0a;
+    --ink-edge: #050505;
+    --gold-bright: #d9b25f;
+    --gold: #b8923f;
+    --gold-dim: #7d642e;
+    --white: #f4f1e9;
+    --paper-dim: #b9ae93;
+    --rule: rgba(217, 178, 95, 0.34);
+    --ghost: rgba(217, 178, 95, 0.09);
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    min-height: 100vh;
+    background: var(--backdrop);
+    color: var(--paper-dim);
+    font-family: Georgia, "Iowan Old Style", "Palatino Linotype", "Book Antiqua", serif;
+    -webkit-font-smoothing: antialiased;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.6rem;
+    padding: 3.5rem 1.25rem 4rem;
+  }
+
+  .context {
+    max-width: 30em;
+    text-align: center;
+  }
+
+  .context .eyebrow {
+    font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+    font-size: 0.68rem;
+    letter-spacing: 0.24em;
+    text-transform: uppercase;
+    color: var(--gold-bright);
+    margin: 0 0 0.6rem;
+  }
+
+  .context p {
+    margin: 0;
+    color: var(--paper-dim);
+    font-size: 0.95rem;
+    line-height: 1.55;
+  }
+
+  /* the post itself, sized to Instagram's 4:5 portrait canvas (1080x1350) */
+  .post {
+    container-type: inline-size;
+    position: relative;
+    width: min(90vw, 480px);
+    aspect-ratio: 1080 / 1350;
+    background: var(--ink);
+    border: 1px solid var(--ink-edge);
+    box-shadow: 0 2.5rem 5rem -2rem rgba(0, 0, 0, 0.65);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* oversized ghost glyph — the post opens on a question, so the question
+     mark itself becomes the background texture that stops the scroll */
+  .post::before {
+    content: "?";
+    position: absolute;
+    top: -9cqw;
+    right: -6cqw;
+    font-size: 62cqw;
+    font-weight: 800;
+    color: var(--ghost);
+    line-height: 1;
+    pointer-events: none;
+    font-family: -apple-system, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  }
+
+  .post .hook {
+    position: relative;
+    margin: 9cqw 0 0;
+    padding: 0 9cqw;
+    font-family: -apple-system, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    font-weight: 800;
+    color: var(--white);
+    font-size: 7.4cqw;
+    line-height: 1.16;
+    letter-spacing: -0.01em;
+    text-wrap: balance;
+  }
+
+  .post .spacer { flex: 1; }
+
+  .post .lesson {
+    position: relative;
+    padding: 0 9cqw 7cqw;
+  }
+
+  .post .lesson .rule {
+    width: 11cqw;
+    height: 2px;
+    background: var(--gold);
+    margin-bottom: 4.5cqw;
+  }
+
+  .post .lesson .setup {
+    color: var(--paper-dim);
+    font-size: 4.1cqw;
+    line-height: 1.55;
+    margin: 0 0 2.2cqw;
+  }
+
+  .post .lesson .payoff {
+    color: var(--gold-bright);
+    font-weight: 700;
+    font-size: 6.4cqw;
+    line-height: 1.2;
+    margin: 0;
+  }
+
+  .post .footer {
+    position: relative;
+    padding: 4cqw 9cqw 6cqw;
+    border-top: 1px solid var(--rule);
+    display: flex;
+    justify-content: center;
+  }
+
+  .post .footer .mark {
+    font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+    font-size: 2.5cqw;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--gold-dim);
+  }
+
+  .notes {
+    max-width: 30em;
+    text-align: left;
+  }
+
+  .notes .eyebrow {
+    font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+    font-size: 0.62rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--gold);
+    margin: 0 0 0.7rem;
+  }
+
+  .notes ul {
+    margin: 0;
+    padding: 0 0 0 1.1em;
+    color: var(--paper-dim);
+    font-size: 0.88rem;
+    line-height: 1.7;
+  }
+
+  .notes li { margin-bottom: 0.35rem; }
+  .notes li:last-child { margin-bottom: 0; }
+</style>
+
+<div class="context">
+  <p class="eyebrow">Example — hook + lesson post</p>
+  <p>A blunt, modern headline earns the thumb-stop; the gold serif payoff underneath is the actual teaching, so a scroller still walks away with something even if they never open the caption.</p>
+</div>
+
+<div class="post">
+  <div class="hook">Ever feel an ache under your ribs on a good day?</div>
+  <div class="spacer"></div>
+  <div class="lesson">
+    <div class="rule"></div>
+    <p class="setup">You can solve your marriage, your finances, your health, one at a time, completely &mdash; and it stays exactly where it was.</p>
+    <p class="payoff">Only God fits there.</p>
+  </div>
+  <div class="footer">
+    <div class="mark">Seek First</div>
+  </div>
+</div>
+
+<div class="notes">
+  <p class="eyebrow">What changed, and why</p>
+  <ul>
+    <li><strong style="color: var(--paper-dim)">No name, no day, no citation</strong> &mdash; footer now reads just "Seek First." A verse reference or "Day 7" tag means nothing to someone who hasn't read the book.</li>
+    <li><strong style="color: var(--paper-dim)">A blunt headline replaces the quote-card</strong> &mdash; heavy sans-serif, left-aligned, sized to fill the frame, in the flat "stop-scrolling" register people actually see in a feed.</li>
+    <li><strong style="color: var(--paper-dim)">The question mark became the art</strong> &mdash; an oversized ghosted glyph gives the card a focal point without a photo or stock graphic.</li>
+    <li><strong style="color: var(--paper-dim)">The lesson still lands even without a caption</strong> &mdash; the gold serif block underneath is a complete two-beat teaching: the setup, then the line worth screenshotting.</li>
+    <li><strong style="color: var(--paper-dim)">Two typefaces, two jobs</strong> &mdash; sans for the hook (immediate, digital), serif for the lesson (unhurried, book-voiced) &mdash; so the shift in register from grab to teaching is felt, not just read.</li>
+  </ul>
+</div>
