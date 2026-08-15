@@ -99,6 +99,28 @@
     padding: 0 9cqw 7cqw;
   }
 
+  /* the closing line is the turn from ache to hope, so it gets a literal
+     warm glow behind it instead of sitting flat on the black like the rest */
+  .post .lesson::after {
+    content: "";
+    position: absolute;
+    left: 6cqw;
+    bottom: 2cqw;
+    width: 68cqw;
+    height: 34cqw;
+    background: radial-gradient(closest-side, rgba(217, 178, 95, 0.24), transparent 72%);
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  .post .lesson .rule,
+  .post .lesson .setup,
+  .post .lesson .payoff,
+  .post .lesson .uplift {
+    position: relative;
+    z-index: 1;
+  }
+
   .post .lesson .rule {
     width: 11cqw;
     height: 2px;
@@ -109,15 +131,24 @@
   .post .lesson .setup {
     color: var(--paper-dim);
     font-size: 4.1cqw;
-    line-height: 1.55;
-    margin: 0 0 2.2cqw;
+    line-height: 1.5;
+    margin: 0 0 2cqw;
   }
 
   .post .lesson .payoff {
     color: var(--gold-bright);
     font-weight: 700;
-    font-size: 6.4cqw;
-    line-height: 1.2;
+    font-size: 5.6cqw;
+    line-height: 1.22;
+    margin: 0 0 3cqw;
+  }
+
+  .post .lesson .uplift {
+    color: var(--white);
+    font-style: italic;
+    font-weight: 600;
+    font-size: 4.4cqw;
+    line-height: 1.48;
     margin: 0;
   }
 
@@ -164,8 +195,8 @@
 </style>
 
 <div class="context">
-  <p class="eyebrow">Example — hook + lesson post</p>
-  <p>A blunt, modern headline earns the thumb-stop; the gold serif payoff underneath is the actual teaching, so a scroller still walks away with something even if they never open the caption.</p>
+  <p class="eyebrow">Example — hook, lesson, hope</p>
+  <p>A blunt headline earns the thumb-stop, the gold line names the real teaching, and the closing line resolves it — so nobody's left sitting with just the ache.</p>
 </div>
 
 <div class="post">
@@ -175,6 +206,7 @@
     <div class="rule"></div>
     <p class="setup">You can solve your marriage, your finances, your health, one at a time, completely &mdash; and it stays exactly where it was.</p>
     <p class="payoff">Only God fits there.</p>
+    <p class="uplift">That's not a hole to fill. That's an invitation &mdash; already open.</p>
   </div>
   <div class="footer">
     <div class="mark">Seek First</div>
@@ -184,10 +216,10 @@
 <div class="notes">
   <p class="eyebrow">What changed, and why</p>
   <ul>
-    <li><strong style="color: var(--paper-dim)">No name, no day, no citation</strong> &mdash; footer now reads just "Seek First." A verse reference or "Day 7" tag means nothing to someone who hasn't read the book.</li>
+    <li><strong style="color: var(--paper-dim)">The post now ends on hope, not the ache</strong> &mdash; "Only God fits there" named the problem but left it hanging; the closing line turns it into good news instead of a diagnosis.</li>
+    <li><strong style="color: var(--paper-dim)">Light at the end of the tunnel, literally</strong> &mdash; a soft warm glow sits behind that closing line, the one bit of light on an otherwise flat black card.</li>
+    <li><strong style="color: var(--paper-dim)">No name, no day, no citation</strong> &mdash; footer just reads "Seek First." A verse reference or "Day 7" tag means nothing to someone who hasn't read the book.</li>
     <li><strong style="color: var(--paper-dim)">A blunt headline replaces the quote-card</strong> &mdash; heavy sans-serif, left-aligned, sized to fill the frame, in the flat "stop-scrolling" register people actually see in a feed.</li>
-    <li><strong style="color: var(--paper-dim)">The question mark became the art</strong> &mdash; an oversized ghosted glyph gives the card a focal point without a photo or stock graphic.</li>
-    <li><strong style="color: var(--paper-dim)">The lesson still lands even without a caption</strong> &mdash; the gold serif block underneath is a complete two-beat teaching: the setup, then the line worth screenshotting.</li>
     <li><strong style="color: var(--paper-dim)">Two typefaces, two jobs</strong> &mdash; sans for the hook (immediate, digital), serif for the lesson (unhurried, book-voiced) &mdash; so the shift in register from grab to teaching is felt, not just read.</li>
   </ul>
 </div>
