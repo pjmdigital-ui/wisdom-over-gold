@@ -6,7 +6,7 @@ The deacon nodded, then asked one more question, not unkindly: "Who starts the p
 
 *As long as I provide and don't cause problems, I've done my job leading this family.* Jonah had never said the sentence out loud, but he'd been living inside it for years — using it to measure himself against men who drank too much or disappeared on their families, and coming out ahead every time. Compared to that bar, he looked like a leader. He'd just never asked what he was actually leading toward.
 
-Joshua asked Israel to answer that question at the end of his life, after decades of watching them drift toward whatever god was convenient. He didn't lecture them about it. He made his own household's direction the argument: "choose this day whom you will serve... but as for me and my house, we will serve the LORD" (Joshua 24:15, RSV-CE). He didn't wait to see which way the room would go before deciding which way his own home would go.
+Joshua asked Israel to answer that question at the end of his life, after decades of watching them drift toward whatever god was convenient. He didn't lecture them about it. He made his own household's direction the argument. In Joshua 24:15, he tells the tribes to decide right then which god they're going to follow — and commits his own family's answer up front, regardless of what the rest of Israel chooses. He didn't wait to see which way the room would go before deciding which way his own home would go.
 
 That's the piece Jonah had missed. A household doesn't drift toward nothing while a man keeps the lights on. It drifts toward whatever actually gets modeled and initiated inside it — and if nobody's initiating anything, it drifts toward whatever's easiest that day. Jonah's house had a direction already. He'd just never been the one setting it on purpose.
 
@@ -15,3 +15,5 @@ Providing is real. Keeping the peace is real. Neither one answers Joshua's quest
 **Today:** Tonight, before the day ends, say this out loud where your family can hear it: "As for me and my house, we will serve the Lord" — and then do one specific thing that backs it up, whether that's starting grace yourself, praying with your kids at bedtime, or asking your spouse what she needs from you spiritually this week.
 
 **Prayer:** Lord God Almighty, I've measured my leadership by what I provide and what I avoid, and called that enough. Show me where my house has been drifting simply because I never set a direction on purpose. Give me the courage to lead its faith the way Joshua led his, plainly and out loud. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+JOSHUA 24:15

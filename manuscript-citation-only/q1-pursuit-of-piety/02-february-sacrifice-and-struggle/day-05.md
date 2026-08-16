@@ -6,10 +6,12 @@ They've been friends since college, partners for six years. Nate tells himself h
 
 The company is already paying for the silence. Two vendor decisions Nate would have flagged went through anyway, and one of them is going to cost real money by spring. Nate knows this. He's choosing the coffee-shop version of the conversation instead — the one where nothing gets said and nothing gets fixed — because it's the version that doesn't cost him anything today.
 
-Scripture is blunt about what real friendship requires. "Faithful are the wounds of a friend; profuse are the kisses of an enemy" (Proverbs 27:6, RSV-CE). Read plainly: a friend who tells you the hard truth, even at the cost of an uncomfortable conversation, is doing you a kindness a flatterer never will. The kisses — the easy affirmation, the coffee that stays pleasant, the text that says nothing — are what an enemy gives you, or what a coward gives himself. Nate isn't sparing Jake by saying nothing. He's withholding the one thing a real friend owes another one.
+Scripture is blunt about what real friendship requires. The pain caused by a friend who tells you the truth can be trusted, while an enemy's warmth and flattery can't (Proverbs 27:6). Read plainly: a friend who tells you the hard truth, even at the cost of an uncomfortable conversation, is doing you a kindness a flatterer never will. The easy affirmation, the coffee that stays pleasant, the text that says nothing — that's what an enemy offers, or what a coward offers himself. Nate isn't sparing Jake by saying nothing. He's withholding the one thing a real friend owes another one.
 
 The conversation Nate keeps avoiding isn't a threat to the friendship. Left undone long enough, it's what ends up threatening it — resentment builds in exactly the silence he's protecting. Wounds that come from honesty heal. Silence dressed up as kindness usually doesn't.
 
 **Today:** Think of the person you've rehearsed a hard conversation with in your head but never had — a friend, a business partner, your wife. Write the honest version of what needs to be said, then say out loud: *A faithful wound heals. My silence won't.* Send the real message, make the real call, or set the actual meeting — today, not "sometime this week."
 
 **Prayer:** Lord God Almighty, You know the conversation I keep drafting and deleting because I'd rather protect the peace than tell the truth. Give me the courage to speak plainly, in love, even when it costs me something, and trust that honesty is a better gift to the people I love than my silence has ever been. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+PROVERBS 27:6
