@@ -1,0 +1,17 @@
+# Day 12 — What You Worship, You Become
+
+You'd known Peyton since college — good guy, generous with a beer in his hand, the kind of friend who'd drive two hours to help you move. Over the last decade you watched him build a real estate portfolio that made your own finances look like a lemonade stand, and somewhere in there something in him changed, gradually — every conversation eventually turning to square footage or comps or the guy he'd just outbid on a deal. It was the new truck, then the newer truck. It was the way he'd glance at his watch during his daughter's dance recital, and the way he introduced himself at parties now with his net worth practically embedded in his job title.
+
+You had dinner with him last month and realized, driving home, that you couldn't remember the last time he'd asked you a question about your life that wasn't secretly about his. He'd gotten smaller — sharper on the metrics that mattered to him, dull to almost everything else. And underneath the mild judgment you felt about that was a plainer admission you hadn't made even to yourself: what Peyton has is actually worth wanting. You envied the truck. You envied the number. You wanted to be unsettled by what you'd seen in him, and instead some part of you wanted his life.
+
+The Psalmist describes idols this way, in Psalm 115: they have mouths that can't speak and eyes that can't see — and, he warns, the people who make them end up just like them, and so does everyone who puts their trust in them. Read that as a law, not a metaphor about ancient statues. Whatever you fix your attention and hope on, you start to resemble. Worship money and status long enough and you get sharper elbows and a duller soul — not because money is evil, but because it was never built to hold the weight you're asking it to carry.
+
+That's what makes watching a friend go this direction so uncomfortable. Every man has a Peyton-shaped temptation somewhere in his own ambition — the version of himself that would show up if he let the wrong thing sit on the throne long enough. Seeing it clearly in a friend is a mercy, if you let it be one, because it hands you the question before the number gets big enough to answer it for you: becoming like him, or becoming like the God you say you actually worship?
+
+**On St. Francis of Assisi:** Born into wealth as the son of a prosperous cloth merchant, Francis was expected to inherit both the family business and its status. Instead, he famously stripped off his fine clothes in the town square and returned them to his father, choosing poverty and total dependence on God over the life laid out for him. He gave up what he'd let sit first in his life, and became more himself for it, not less.
+
+**Today:** Name the person whose life unsettles you because you envy it. Write down, specifically, what they've made an idol of — then write one sentence underneath it: "That's not actually worth wanting more than God." Say it out loud once.
+
+**Prayer:** Father in Heaven, show me honestly what I'm chasing when I envy someone else's life. I don't want what isn't actually worth wanting more than You. Keep me from letting anything but You sit on the throne. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+PSALM 115:5, 8

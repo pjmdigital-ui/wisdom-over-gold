@@ -1,0 +1,18 @@
+# Day 28 — The Cost of Putting God First
+
+The contract was worth more than your business had made in the previous two years combined. All you had to do was sign off on marketing claims you knew weren't fully true — numbers rounded up, a testimonial you were pretty sure was fabricated, a guarantee your product couldn't actually back. Your business partner already had the pen out. "Everyone does this," he said, and he wasn't wrong about that part. He wasn't lying to you either — he genuinely didn't see the problem.
+
+You sat with it two days, and somewhere in there the sentence that made it feel safe to consider showed up: *This one's small enough not to count. It's rounding, not lying.* You ran the numbers again like a different number might change the answer. Thought about what the deal would mean — the debt paid off, the pressure finally easing. Then you thought about your kids finding out someday how the money came in, and the version of yourself who'd have to look them in the eye afterward. You turned it down. Your partner was furious. The relief you'd been hoping for didn't show up right away — mostly what you felt for a while was the size of what you'd said no to.
+
+Jesus doesn't soften this trade-off anywhere in the Gospels. In Matthew 16:26 He asks what it profits a man to gain the whole world and lose his own soul in the trade — what could a man possibly offer to buy that back. No amount of money buys back a compromised conscience once you've spent it. But the belief you were actually wrestling with had less to do with the size of the world you might gain than with the size of the lie you'd tell yourself to take it. *Small enough not to count* is exactly the maneuver Jesus rules out a few chapters earlier, when He tells His disciples what an honest man's word should sound like — in Matthew 5:37, He tells them to let their yes simply mean yes and their no simply mean no, because anything added on top of that comes from evil. No rounding. No "technically." A yes that needs footnotes and a no that needs qualifying both come from the same place — the belief that your word can flex depending on what it costs you that day.
+
+Putting God first is easy when it's free — praying in the morning, being nicer to your wife. It gets expensive fast when it means turning down the deal, losing the client, disappointing a partner who thinks you're being naive. Decide today, before the pressure is on, and write it down where future-you can find it — not so future-you remembers the decision, but so future-you can't renegotiate it into something smaller and still call it honesty.
+
+**On St. Thomas More:** More was Chancellor of England, one of the most powerful men in the country, and he lost everything — his position, his freedom, eventually his head — rather than sign his name to something he knew was a lie, even when the king himself demanded it. On the scaffold he called himself "the King's good servant, but God's first." His yes stayed yes even at the cost of his life.
+
+**Today:** Think of one place right now where doing the right thing would cost you something real. Write the decision down as a plain yes or no, no hedging, and say it out loud: *My word doesn't need footnotes.* Keep it where you'll see it when the pressure comes.
+
+**Prayer:** Father in Heaven, doing the right thing here is going to cost me something real, and part of me wants to find a way around that. Give me the courage to let my yes be yes even when it's expensive, and remind me a clean conscience is worth more than the deal. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+MATTHEW 16:26
+MATTHEW 5:37

@@ -1,0 +1,13 @@
+# Day 12 — Anxious About Money
+
+Sawyer woke up at 1:47 a.m. and did what he'd done most nights that month: opened the banking app on his phone and stared at the same three numbers he already knew by heart. The mortgage payment due on the first. The slow month his side business had just posted. The number in checking that had to somehow cover both. He ran the math again anyway, as if running it a fourth time might change what it added up to. It never did. He just lay there another hour, tired and no closer to a plan than when he'd started.
+
+He was rehearsing it more than praying about it — turning the same numbers over and over like that repetition itself was a form of responsibility, as though a man who worries hard enough at 2 a.m. is somehow doing more than a man who's already asleep. Underneath the insomnia sat a belief Sawyer had never said out loud to anyone: if he didn't personally solve this tonight, in his own head, nothing would get solved at all. The weight of the household's provision rested entirely on how well he could out-think a spreadsheet in the dark.
+
+St. Paul wrote to a church that had actually kept him fed during hardship, and out of that gratitude he made a promise on God's behalf: "And my God will supply every need of yours according to his riches in glory in Christ Jesus" (Philippians 4:19, RSV-CE). Read that sentence slowly. It promises that God will supply Sawyer's needs, measured against God's own riches — not that Sawyer has to supply them himself by out-thinking a spreadsheet at 2 a.m.
+
+That doesn't make the mortgage payment less real or excuse Sawyer from doing the work of the ledger in daylight — budgeting, saving, calling the bank about the account, all of that still matters. What it changes is where the ultimate weight sits. Sawyer has been carrying provision like it depends entirely on his own late-night calculations. Scripture is telling him who actually holds that weight, and it isn't him. He can do the honest work tomorrow with a clear head instead of doing the anxious work tonight with a tired one.
+
+**Today:** The next time money-worry wakes you up at night, don't reach for the banking app. Say Philippians 4:19 out loud instead — "My God will supply every need of mine according to His riches in glory" — and write down the one concrete step you'll take tomorrow to address the real problem. Then let it wait for daylight.
+
+**Prayer:** Father in Heaven, thank You for carrying what I keep trying to carry alone in the middle of the night. Forgive me for treating worry like it's the same thing as responsibility. Give me the discipline to do the real work in daylight and the trust to actually sleep. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.

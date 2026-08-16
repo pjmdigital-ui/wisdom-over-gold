@@ -1,0 +1,15 @@
+# Day 22 — Bring Them Up
+
+Lincoln dropped his kids at CCD every Wednesday evening, waved at the volunteer coordinator, and drove off with forty-five minutes to himself before pickup — errands, a coffee, sometimes just sitting in the parking lot answering emails. He'd set up the routine himself, found a good parish program, made sure the kids never missed a week. He considered that box checked. Faith formation was handled, the same way piano lessons and dentist appointments were handled: find the right professional, show up on time, let the expert do the actual work.
+
+The gap showed up on an ordinary car ride home, when his youngest asked, out of nowhere, why God let bad things happen to people who hadn't done anything wrong. Lincoln opened his mouth and nothing useful came out. He said something about how that was a good question for Wednesday, for the guys who really study this stuff, and changed the subject to what was for dinner. He caught himself doing it — deferring a real question about his son's soul to a program he paid tuition for, the same reflex he used for math homework he couldn't remember how to do.
+
+The belief underneath that reflex sounded reasonable enough on its own: *handing my kids' faith formation to people who know more than I do is the responsible move, not a lazy one.* It borrows the logic of every other outsourced task in a busy man's life and applies it somewhere that logic doesn't hold. A tutor can teach algebra. A catechist can teach the catechism. Neither one is the person Scripture actually names for this job.
+
+St. Paul writes to the Ephesians with no ambiguity about who's addressed: "Fathers, do not provoke your children to anger, but bring them up in the discipline and instruction of the Lord" (Ephesians 6:4, RSV-CE). Bring them up — not enroll them, not drop them off, not delegate it to whoever runs Wednesday nights at the parish. The instruction is aimed at fathers directly, and no program, however good, was built to stand in for that address.
+
+That evening Lincoln picked the question back up at the dinner table instead of leaving it in the car. He didn't have a polished answer — he fumbled through something honest about suffering and free will and trust, admitted more than once that he wasn't sure, and told his son they'd keep talking about it. His son didn't need Lincoln to have the perfect theological answer. He needed to know his father was willing to sit in the question with him instead of routing it to someone else.
+
+**Today:** Ask your child one question about what they're learning about God, and when they ask you one back, answer it yourself tonight — imperfectly if you have to — instead of pointing them toward Wednesday.
+
+**Prayer:** Father in Heaven, forgive me for treating my children's faith formation as someone else's job to finish. Give me the courage to teach them what I know of You myself, even when I don't have the polished answer ready. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.

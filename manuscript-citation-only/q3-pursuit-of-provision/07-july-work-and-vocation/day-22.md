@@ -1,0 +1,15 @@
+# Day 22 — Leading Like a Servant
+
+Holden got promoted to warehouse supervisor on a Friday and by the following Wednesday had already said, out loud, in front of four guys he used to work the floor beside: "Because I said so, that's why." One of them had asked a fair question about a scheduling change. Holden heard it as a challenge to his new title instead of a normal question from a man he'd been friends with two weeks earlier, and answered accordingly.
+
+He caught the look on their faces — not fear, just distance, the kind that shows up the moment a peer starts acting like a boss. Holden told himself it was necessary. New authority, he reasoned, needs to be established early or it never gets respected at all. So for the first month he led with volume and title where he used to lead with example, and wondered privately why the crew that used to laugh with him now just did what he said and nothing more.
+
+The belief steering all of it rarely gets said in those words, but it was running Holden's whole approach: *authority means people do what I say; that's what makes me the leader now.* It's a common enough belief that most new managers never examine it. It also produces exactly the crew Holden got — compliant, careful, and no longer telling him the truth about anything, because the truth wasn't welcome from a man leading by decree.
+
+Jesus corrects this directly, in front of disciples jockeying for exactly the kind of authority Holden had just been handed: "You know that those who are supposed to rule over the Gentiles lord it over them, and their great men exercise authority over them. But it shall not be so among you; but whoever would be great among you must be your servant, and whoever would be first among you must be slave of all. For the Son of man also came not to be served but to serve, and to give his life as a ransom for many" (Mark 10:42-45, RSV-CE). Not so among you. The world's model of authority runs downhill — power flowing from the top to justify itself. Christ's model runs the other direction: the man with the most authority using it to serve the men under him, not to be served by them.
+
+Holden still makes the decisions and still holds the schedule firm — what changes is that the schedule gets explained instead of decreed, the mistakes get corrected face to face instead of over the radio in front of everyone, and the four guys who used to be his peers find out the promotion didn't change who actually has their back on a bad day.
+
+**Today:** Think of one decision you've been making by authority alone — "because I said so," implied or spoken. Go explain the actual reasoning behind it to the person affected, and ask them one honest question about how it's landing.
+
+**Prayer:** Father in Heaven, forgive me for leading the way the world leads, using position to be served instead of to serve. Make me the kind of leader who earns trust through service, the way Your Son did. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.

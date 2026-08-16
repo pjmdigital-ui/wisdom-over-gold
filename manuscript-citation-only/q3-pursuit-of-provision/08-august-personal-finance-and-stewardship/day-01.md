@@ -1,0 +1,17 @@
+# Day 1 — Whose Money Is This
+
+Davey spread the year-end statements across the kitchen table on a Sunday night — the mortgage payoff progress, the 401(k) balance that had finally crossed a number he'd been chasing since his twenties, the business account that had carried the family through a slow spring without him once missing a payroll. He sat back and let himself feel it: eleven years of that business, thousands of estimates written by hand before he ever hired an office manager, a hundred Saturdays he could have spent somewhere else. He'd built this.
+
+His wife came in with two coffees, glanced at the spread of numbers, and mentioned that their parish was still short on its building fund, and had he thought about what they might give this year. Davey felt something tighten in his chest before he'd even decided how to answer. Not anger — a door closing. *I earned every dollar of this myself. What I do with it is mine to decide.* He didn't say it out loud. He didn't have to. It had been running the whole conversation from underneath.
+
+That sentence sounds reasonable, even virtuous, dressed up as personal responsibility. Nobody handed Davey his business. He built it with his own decisions, on nights he could have quit. But underneath the reasonable sentence sits a much older claim, the same one made in the garden with far less to their name: I decide what belongs to me and what I do with it.
+
+Scripture opens the ledger differently before a man ever gets to spend a dollar. "The earth is the LORD's and the fulness thereof, the world and those who dwell therein" (Psalm 24:1, RSV-CE). Not most of it. Not the part left over after a man's effort has claimed its share. The fulness — the whole thing, including the business Davey built with his own two hands, the skill he built it with, and the health that let him work eleven years of Saturdays in the first place. David wrote that verse as a king, a man who could have claimed as much ownership as anyone in his kingdom, and he opened his song by giving all of it back before he sang another word.
+
+That doesn't erase what Davey actually did. God doesn't need the effort disowned, just correctly placed. A steward and an owner can do the exact same work with the exact same hands. What separates them is whether the man believes the thing he's managing was ever really his to begin with. An owner spends however he wants and resents anyone who questions it. A steward asks a different question before every decision: what would the actual Owner want done with this?
+
+That question sits underneath everything this month will ask a man to look at — his giving, his debt, his comparison to other men, his fear of running out. Get this one wrong, and every other financial habit inherits the distortion. Get it right, and the rest becomes a matter of practice, not belief.
+
+**Today:** Write down one thing you own outright — a paid-off truck, a savings account, a business you built — and say out loud: "This was never fully mine. God, You entrusted it to me." Let that sentence sit under every financial decision you make this month.
+
+**Prayer:** Lord God Almighty, I've spent years calling what I earned my own, as if my effort were the final word on who it belongs to. Show me every place I've claimed ownership that was always Yours to begin with. Teach me to hold what I have with open hands, as a steward and not an owner. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.

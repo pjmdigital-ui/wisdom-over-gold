@@ -1,0 +1,15 @@
+# Day 15 — What You Don't Have Is Loud
+
+Nate has a nightly habit he's never called a habit, just something his thumb does after the kids are down: scroll for ten minutes before bed. Last night it was a guy from his old sales team posting from a boat in the Gulf. The night before, a college roommate's promotion announcement. Somewhere in there, a couple he and his wife knew years ago, standing in front of a kitchen renovation that cost more than Nate's car.
+
+By the time he sets the phone down, Nate has run a full inventory without meaning to: the boat he doesn't have, the title he hasn't earned yet, the kitchen still stuck in 1998. He could recite that list in his sleep. What he couldn't have told you, if you'd asked him right then, is what sat two rooms away — two kids finally sleeping through the night after a rough stretch, a mortgage payment he and his wife had fought hard to keep manageable, a body that still works well enough to coach his son's team on Saturdays. None of that made the list. It never does. The missing thing is always louder than the present one.
+
+That's how comparison works on every man who lets his attention run unsupervised. The things you don't have announce themselves. The things you already have go quiet, precisely because they're not asking anything of you. A man can live inside a life full of real gifts and still spend every night mentally itemizing the handful of things absent from it, and after enough nights, that inventory starts to feel like the truth of his life instead of a small, distorted slice of it.
+
+St. Paul wrote to the Philippians from a prison cell — not a metaphorical one, an actual cell, with real reasons to catalog what he lacked. Instead he wrote: "Not that I complain of want; for I have learned, in whatever state I am, to be content. I know how to be abased, and I know how to abound; in any and all circumstances I have learned the secret of facing plenty and hunger, abundance and want" (Philippians 4:11-12, RSV-CE). Paul is explicit that this wasn't natural to him — he says he *learned* it. Contentment is a skill built over time, not a personality trait some men are handed and others aren't.
+
+Nate's real problem was that his attention had been trained, ten minutes a night, to inventory absence instead of presence. That's a trainable habit, which means it's also retrainable.
+
+**Today:** Before you pick up your phone tonight, write two short lists: what you don't have that you've been dwelling on, and what's truly present in your life right now — specific, not vague. Read the second list out loud. Then say: *What I have is real, and I've been letting what I lack drown it out.*
+
+**Prayer:** Lord God Almighty, I've spent too many nights cataloging what's missing while the life You've truly given me sat unnoticed a few feet away. Teach me the contentment Paul had to learn, and quiet the part of me that keeps score against other men. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.

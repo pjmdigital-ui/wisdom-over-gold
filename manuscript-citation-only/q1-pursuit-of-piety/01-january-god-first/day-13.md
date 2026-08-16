@@ -1,0 +1,15 @@
+# Day 13 — Small Surrenders
+
+The rule had always been no phones at dinner. You'd said it to your kids a hundred times, usually while glancing at your own phone face-down on the table beside your plate — close enough to feel the buzz, far enough to pretend you weren't waiting for it. One night your ten-year-old asked, mid-sentence about something that happened at school, "Are you even listening?" You weren't, not really. You were three-quarters present, the other quarter somewhere in your inbox.
+
+It bothered you enough that you tried something small the next night — you left the phone in the other room entirely, on the charger, ringer off. Twenty-two minutes of dinner. That's all it was. And here's the question worth asking honestly: if it's only twenty-two minutes, why did it feel like such an effort to actually do it? You noticed your daughter told a longer story than usual. Your wife caught your eye across the table twice, like she noticed the difference too. And you noticed your own hand, twice, reaching toward where the phone used to sit, finding nothing there.
+
+Jesus says, almost in passing, in a parable about stewardship, in Luke 16:10: whoever can be trusted with very little can be trusted with much, and whoever is dishonest in small things will be dishonest in large ones too. He's talking about money, about trust, about the character a man reveals in the tiny unwatched moments nobody's grading him on — but the principle cuts exactly here. Notice what the verse doesn't measure: the size of the thing. It measures whether you were faithful in it. Twenty-two minutes without a phone was a small rehearsal, nothing worth bragging about — proof to yourself that you can put something down when nothing's forcing you to.
+
+That's the belief worth naming and rejecting: *this is too small to matter.* It feels true every single time, about every single small thing — the phone, the extra ten minutes, the word held back instead of said — because none of them look like much in isolation. But putting God first rarely shows up as one enormous, cinematic decision. It shows up as a string of small ones, stacked, day after day, until the stacking itself becomes the man you are. Get the small ones wrong consistently and no grand gesture later makes up for it. Get them right consistently, especially when nobody's watching, and you become the kind of man who's actually capable of the big surrender when it's finally required of him.
+
+**Today:** At your next meal with your family, put your phone in a different room — not on silent, not face-down, gone. Before you sit down, say to yourself: "This is small, and small is exactly the point." Notice, without judging yourself, how many times you reach for where the phone used to be.
+
+**Prayer:** Lord God Almighty, help me stop telling myself the small things don't count, even something as small as my phone at the table. Let the people in front of me get all of me, not three-quarters. Teach me to be faithful in the small unwatched moments so I'm ready for the bigger ones. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+LUKE 16:10

@@ -1,0 +1,15 @@
+# Day 6 — The Father Who Formed a Saint
+
+Landon had been getting up twenty minutes early most mornings that year to pray before the house woke up — nothing dramatic, just a chair in the corner of the kitchen, a Bible, a cup of coffee going cold while he sat with it. He never mentioned it to his kids. He assumed they didn't notice, or wouldn't care if they did. Then one morning his twelve-year-old wandered in early for a glass of water, saw him sitting there, and said nothing, just filled her glass and left. Weeks later she mentioned to her mother, almost in passing, that she liked knowing Dad prayed every morning "even when nobody made him."
+
+Landon hadn't set out to teach her anything. He'd just kept showing up to that chair. It hadn't occurred to him that a habit nobody praised or noticed could be doing real work anyway.
+
+*If it's not visible or dramatic, it's probably not accomplishing much* — that was the assumption Landon had been operating on, the same one that makes a lot of men reserve real spiritual effort for the moments that feel significant and let the ordinary mornings slide. Moses told Israel something that cuts against that assumption directly: "keep your soul diligently, lest you forget the things which your eyes have seen, and lest they depart from your heart all the days of your life; make them known to your children and your children's children" (Deuteronomy 4:9, RSV-CE). The instruction calls him to keep watch over his own soul, day after unremarkable day, and let his children absorb what they see him keeping.
+
+**On St. Louis Martin:** the father of St. Thérèse of Lisieux, canonized alongside his wife, St. Zélie, ran an unremarkable household by any standard an outsider would have used to judge it. He rose early to pray. He took his daughters to Mass and adoration without making a production of it. He was patient with a temperament that wasn't naturally patient, and he stayed faithful to ordinary practices for decades with no way of knowing what they'd produce. What they produced was a daughter who became one of the most influential saints of the modern Church, and who said plainly that her father's example had shaped her more than any sermon. Louis never engineered that outcome. He just kept getting up.
+
+Landon's kitchen chair was the same mechanism, running at a much smaller scale, with no way yet to know what it was building.
+
+**Today:** Name one small, unglamorous practice of faith you've been doing privately — prayer, Mass, confession, a habit nobody's ever praised you for — and let your kids see it happen at least once this week, without turning it into a lesson.
+
+**Prayer:** Father in Heaven, I've assumed the parts of my faith nobody notices don't count for much. Show me that You're building something in my children through those repeated, unnoticed moments, whether I ever see the result or not. Give me the patience to keep showing up to the ordinary practices, the way Louis did. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.

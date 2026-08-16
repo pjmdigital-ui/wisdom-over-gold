@@ -1,0 +1,17 @@
+# Day 1 — Ready to Tend
+
+Martin sat in his truck in the driveway at 6:15 a.m., engine running, heater off, looking at a spreadsheet on his phone instead of pulling out. Four jobs today. Two water heaters, a slab leak, and a bid he needed to write for a bathroom remodel he probably wouldn't get. Eighteen years of pipe and drain and other people's flooded basements, and some mornings the whole thing still felt like nothing more than the toll he paid to keep the lights on at home.
+
+His wife had asked him something the night before that he hadn't answered well. They were doing dishes, and she said, almost offhand, "What do you actually want all this to be about?" He'd said something about paying off the truck and getting the kids through school, and she'd nodded like that was a fine answer, but it wasn't the answer to what she'd asked. She was asking what the work itself meant to him, and he didn't have anything to say to that, because he'd never once considered that it needed to mean something.
+
+*My work is just how I pay for the life that actually matters. It has nothing to do with my faith* — that was the sentence running underneath eighteen years of Martin's mornings, never once said out loud, never once questioned. Church was where faith lived. The truck, the invoices, the crawl spaces under other men's houses — that was just the cost of admission to Sunday.
+
+Scripture draws a much harder line around that sentence than Martin ever had. St. Paul writes to Timothy: "If any one does not provide for his relatives, and especially for his own family, he has disowned the faith and is worse than an unbeliever" (1 Timothy 5:8, RSV-CE). Read that slowly. Not a nice bonus to faith. Not a separate category from faith. Failing to provide is named, directly, as a denial of faith itself — language Paul doesn't use lightly anywhere else in his letters. Which means the reverse has to be true as well. A man who gets up in the dark and drives to a stranger's flooded basement so his own family eats is living out his faith with his hands, not doing something merely adjacent to it.
+
+That reframes the whole eighteen years, not just today. The work was already the real life — the actual, physical, unglamorous shape God's love for Martin's family was taking every single day, whether he recognized it or not. Provision meant the daily tending of something God had put directly into his hands and trusted him to keep, not just the number that hit the bank account on Friday.
+
+That's the whole ground this month stands on: work is one of the primary places a man glorifies God or doesn't, five and six days a week, long before he ever sets foot in a pew again — not a curse to serve time in, and not a compartment sealed off from Sunday.
+
+**Today:** Tonight, tell your wife — or say it plainly to yourself if there's no one to tell — exactly what your work is actually for, in one honest sentence. Not the money. The purpose underneath the money. Write that sentence down somewhere you'll see it before tomorrow's first job: *I am ready to tend what God has actually given me to do.*
+
+**Prayer:** Lord God Almighty, forgive me for treating my work as nothing more than the price of the life I actually wanted. Help me see every job, every invoice, every early morning as part of how I love and provide for the people You've placed in my care. Give me eyes to see this work as Yours before I ever start the truck. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.

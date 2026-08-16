@@ -1,0 +1,15 @@
+# Day 3 — The Anger That Isn't About What You Think
+
+Theo's son spilled a full glass of milk across a stack of invoices Theo had spent the evening organizing on the kitchen table, and Theo came out of his chair like the table itself had caught fire. He grabbed a towel, threw it down harder than a towel needed to be thrown, and told his eight-year-old — who was already close to tears — to "watch what you're doing for once." The boy went to his room without being told to. Theo stood there holding a soaked towel, breathing harder than the situation explained.
+
+It wasn't really about the milk. He knew that even as it was happening, the way a man can watch himself do something and still not manage to stop doing it. Two hours earlier his business partner had told him, over the phone, that a deal they'd both been counting on had fallen through — a deal Theo had privately promised himself would finally put them ahead instead of just even. He hadn't told his wife yet. He hadn't told anyone yet. He'd come home and started reorganizing invoices because it was a problem small enough to solve.
+
+So why did his son's spilled milk get the full weight of what a collapsed deal deserved? Ask that honestly and the answer isn't flattering: it's easier to be furious at a kid over a glass of milk than to sit with the fear underneath the real thing — that Theo might not be able to provide the way he'd told himself he would. Milk is a safe target. It can't ask him hard questions back.
+
+Scripture doesn't tell Theo his anger was fake, or that he should have swallowed it whole. "Be angry but do not sin; do not let the sun go down on your anger" (Ephesians 4:26, RSV-CE). The fear was real. The anger it produced wasn't the sin — where he aimed it was. He had the rest of that day to name what scared him and bring it to the one place that could hold it. Instead he brought it to a third grader over three dollars of spilled milk, and by the time the sun went down, nothing about the real deal had moved an inch, but something between him and his son had.
+
+Most men's worst outbursts aren't really about what set them off. The trigger is just the nearest soft target when something heavier is already sitting on his chest, unnamed and unspoken. Find the actual source before sundown and there's a real chance to deal with it honestly. Let the sun go down still telling yourself it was about the milk, and it settles in for the night — and finds a new target again tomorrow.
+
+**Today:** Before you go to bed tonight, name in writing the thing that was actually eating at you the last time you overreacted to something small. Then go to whoever caught the blast and say, "That wasn't about you — here's what it was really about," and let them see the real thing instead of the cover story.
+
+**Prayer:** Lord God Almighty, I've aimed real fear at people who didn't cause it because they were closer and safer to hit than the actual problem. Help me find the honest name for what's troubling me before I let it spill onto someone who doesn't deserve it. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.

@@ -1,0 +1,15 @@
+# Day 23 — Consider It Joy
+
+Bruce and Beatrice had the same argument in different clothes at least once a month: Bruce ran cold in the mornings, said less than Beatrice wanted, and Beatrice read the silence as distance even when nothing was wrong. Beatrice, in turn, wanted to process everything out loud in real time, which to Bruce felt like being cross-examined before he'd had coffee. Ten years in, they could each predict the other's opening line before it landed. That Tuesday went the way it always went — a flat "you okay?" met with a flat "I'm fine," followed by the same low-grade tension neither of them enjoyed and neither of them knew how to end.
+
+Bruce brought it up with his brother that weekend, half-venting, half-hoping for a fix. "We've had the exact same fight for a decade. Something's broken if it keeps coming back." His brother, married longer, just shrugged. "Maybe that's the part that's working."
+
+*A good marriage shouldn't keep hitting the same friction over and over* was the assumption underneath Bruce's frustration, that recurring conflict was proof of a flaw somewhere rather than something a marriage was actually supposed to do something with. James names a different function for exactly this kind of repeated difficulty: "Count it all joy, my brethren, when you meet various trials, for you know that the testing of your faith produces steadfastness. And let steadfastness have its full effect, that you may be perfect and complete, lacking in nothing" (James 1:2-4, RSV-CE). James is describing the kind of trial that keeps showing back up, doing its slow work on a man's character precisely because it doesn't resolve and get shelved after one round.
+
+Bruce had been treating the recurring morning tension as a problem to eliminate. James suggested treating it as a forge, the specific friction built to work on the specific patience, the specific listening, the specific steadiness Bruce actually lacked. Ten years of the same argument had been doing something more precise than either of them realized: identifying exactly where Bruce still needed to grow.
+
+The next morning, Beatrice asked her usual "you okay?" Bruce caught himself starting the usual "I'm fine," and stopped. "Honestly, I'm tired and short this morning, and I know that reads as distant. I'm working on it." Beatrice blinked, surprised, and said, "That's all I ever wanted to hear."
+
+**Today:** Name the one argument or friction point that keeps recurring in your marriage. Instead of treating it as a flaw to fix, name one specific character trait — patience, honesty, steadiness — it's actually forming in you, and thank God for it today.
+
+**Prayer:** Lord God Almighty, I've treated the same recurring friction in my marriage as proof something's wrong instead of the place You're actually forming something in me. Help me count today's testing as joy the way Your Word calls me to, and let it do its full work instead of resisting it. Give me the steadiness to become the husband this friction keeps asking me to be. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.

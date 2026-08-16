@@ -1,0 +1,17 @@
+# Day 16 — What You Teach Without Speaking
+
+Anthony sat on the couch with his eight-year-old on a Saturday morning, working through the boy's allowance envelope — three dollars for saving, two for giving, five for spending, a system he'd built off a chart he printed years ago and never updated. He explained compound interest in words a third-grader could follow, patient, thorough, a little proud of himself for taking the time. His son nodded along, eyes drifting toward the Legos on the floor, more interested in getting back to them than in the time value of money.
+
+Two days later, at the hardware store, Anthony picked up a cordless drill he didn't need — the one at home still worked fine — because this one was on sale and looked better in the truck bed. He put it on a card already carrying a balance he hadn't touched in four months. His son stood right next to him and asked why they were buying a new one when they already had a good drill. "Because it's a good deal, bud," Anthony said, and moved on to the next aisle.
+
+That night his son asked if he could use "it's a good deal" as his reason for wanting a video game. Anthony laughed it off at the time. Lying in bed later, replaying the day, he realized his son hadn't absorbed a single thing from Saturday's lecture on saving. He had absorbed everything from Monday's drill.
+
+The sentence running underneath that gap, if Anthony had ever said it out loud, would have sounded almost reasonable: *my kids learn about money from what I tell them, not from what I actually do with it.* He would have denied believing that if you'd asked him directly on Saturday morning. He was living inside it every Monday regardless, treating the envelope lesson as the curriculum and the credit card swipe as a private, unrelated matter that had nothing to do with fatherhood.
+
+Scripture puts the emphasis somewhere Anthony's chart never did: "Train up a child in the way he should go, and when he is old he will not depart from it" (Proverbs 22:6, RSV-CE). A child's real curriculum is the daily residue a father leaves behind without meaning to — the tone of his voice at the register, what he does when a bill is higher than expected, whether "we'll figure it out later" is said with confidence or with dread — far more than any seminar delivered once a week with a printed handout. Kids are remarkably poor students of speeches and remarkably fluent students of habits. They will forget the allowance chart. They will remember the drill.
+
+It calls for an honest father, not a perfect one who never buys anything unnecessary — a man willing to let his kids see the whole picture instead of curating a Saturday-morning version of himself and hoping the rest goes unnoticed. Anthony's son needed to watch his father put the drill back on the shelf once, and say why, out loud, so the boy could hear the same math applied to the person doing the teaching.
+
+**Today:** Identify one financial habit your kids have actually watched you practice this month that contradicts something you've told them about money. Correct the habit in front of them today, and say out loud why you're doing it — let them watch the lesson land on you before you ask it to land on them.
+
+**Prayer:** Father in Heaven, forgive me for the times my example has taught my children something different from what my words did. Make my habits with money trustworthy enough that I don't have to worry what my kids are learning when I think no one's watching. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.

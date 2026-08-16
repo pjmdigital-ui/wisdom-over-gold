@@ -1,0 +1,17 @@
+# Day 1 — One Flesh
+
+Emerson and Elena got married in a chapel that could barely fit both families, and for the first year and a half he told anyone who asked that he'd never been happier in his life. Then the ordinary weight of two schedules, two families with opinions, and one mortgage payment started pressing on places that had never been tested. A trip they'd saved a year for fell apart over money two weeks before they left. An offhand comment about his mother turned into a three-day silence neither of them knew how to end. The marriage had simply stopped feeling like the wedding day, and Emerson had started keeping a private tally of exactly when that had happened.
+
+He said it to his brother over beers, half-joking, in the tone men use to test whether a thought is safe to say out loud: "I love her. I'm just not sure I'm happy right now." His brother didn't have an answer. Neither did Emerson — only a growing suspicion that happiness was the whole point of getting married, and its absence some months was evidence something had gone wrong.
+
+*If marriage is supposed to make me happy, and I'm not happy, either something's broken or I married the wrong person.* Emerson had never put the sentence together that plainly, not even to himself, but it was running underneath the tally he kept without meaning to.
+
+Scripture doesn't open the marriage story with a promise of happiness. It opens with a diagnosis and a gift: "Then the LORD God said, 'It is not good that the man should be alone; I will make him a helper fit for him'" (Genesis 2:18, RSV-CE). What follows the creation of the woman is the founding sentence of every marriage since: "Therefore a man leaves his father and his mother and cleaves to his wife, and they become one flesh" (Genesis 2:24, RSV-CE). One flesh names a fact about who Emerson now is, not a feeling — bound to Elena at a level deeper than mood, the same way his own body stays his on the days he doesn't feel like it.
+
+That's the reordering Emerson needed. Feelings toward a spouse rise and fall like weather, real but not load-bearing. What holds the structure up is the covenant underneath the weather — the daily decision to keep giving himself to her whether the feeling shows up that day or not. A man who measures his marriage only by how happy this particular month feels will eventually find a month that fails the test, and mistake that failure for proof. The friction Emerson had been logging as evidence of a mistake was, more often, the place his love for Elena was being asked to grow past the version that only shows up when it's easy.
+
+This is the ground the rest of this month stands on: covenant, self-gift, a bond that doesn't renegotiate its terms when the feeling dips. How he speaks to her, how he fights with her, how he stays faithful to her — all of it grows out of whether he believes that first sentence.
+
+**Today:** Write down one specific way you've been measuring your marriage by how it feels this month rather than by the covenant underneath it. Then tell your wife, in your own words, one way you're recommitting to her today regardless of how this particular week has gone.
+
+**Prayer:** Lord God Almighty, I've measured my marriage by whether it makes me happy instead of remembering what I actually promised. Thank You for the covenant You wrote into marriage before I ever felt anything toward my wife at all. Teach me to keep giving myself to her on the hard days, not only the easy ones. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.

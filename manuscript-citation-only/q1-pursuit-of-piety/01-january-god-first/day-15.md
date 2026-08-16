@@ -1,0 +1,17 @@
+# Day 15 — God First at Work
+
+The contract was worth more than your firm had billed in the last two quarters combined. You'd been chasing it for months, and now it came down to one line in the proposal — a performance guarantee you knew, if you were honest, your team couldn't actually hit. Not by a lot. Close enough that you could talk yourself into it if you softened the language just right, buried the caveat in a subordinate clause the client's lawyer probably wouldn't flag until it was too late to matter.
+
+Your business partner was already drafting it that way when you looked over his shoulder. "We'll figure it out once we're in," he said — and underneath that sentence was the real belief, the one neither of you said out loud: this is small enough that it won't actually hurt anyone. You had the pen in your hand — literally, you were about to initial the page — and you felt that specific, familiar tug: the one where you know exactly what the right thing is, and you can also see, with total clarity, the version of your bank account if you just don't do it.
+
+St. Paul writes to the Colossians, in a passage originally addressed to servants working under masters who could exploit them, in 3:23-24: whatever the task, do it wholeheartedly, as though working for the Lord rather than for men — because it's the Lord who pays out the real reward, and He's the one you're actually serving. That verse asks a sharper question than "did you work hard." It asks whose approval you're actually working for. The client's signature, your partner's respect, this quarter's number — or God's?
+
+That question changes what the corner looks like. If the client is your ultimate audience, a soft lie in a subordinate clause really is small enough not to matter — a rounding error nobody will ever trace back to you. If God is, there's no clause small enough to hide in, because nothing is actually hidden from Him. You put the guarantee back to something true — a number your team could actually deliver — and lost some leverage in the negotiation because of it. The deal still closed, for less. Your partner was annoyed for about a week. But you didn't spend the next year of the contract managing a lie, and you slept fine that night, which turned out to be worth more than the difference.
+
+Nobody puts "God first" on a P&L. It shows up instead in the sentence you're willing to strike from a proposal when nobody but you would ever have known it was there.
+
+**Today:** Think of one place in your current work — a proposal, an invoice, a conversation you've been avoiding — where you've been shading the truth to protect an outcome. Write down: "This isn't too small to matter, and I'm not the only one watching." Correct it this week, even if it costs you something.
+
+**Prayer:** Lord God Almighty, don't let me shade the truth to protect an outcome, even when it costs me. Help me remember that nothing I do is too small to matter to You. I want to work for Your approval, not just the client's signature or this quarter's number. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+COLOSSIANS 3:23-24

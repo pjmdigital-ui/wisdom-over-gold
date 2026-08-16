@@ -1,0 +1,22 @@
+# Day 31 — The Rest of the Year
+
+Thirty days ago you sat in a truck, or a kitchen, or wherever your own version of that stillness happened, and felt the flat quiet of a goal that didn't deliver what it promised. Maybe it was a deal that closed and left you empty. Maybe it was an ordinary Tuesday that finally cracked open the question you'd been outrunning for years: what are you actually building your life around? A month has passed since then — not a transformed month, if you're honest. You snapped at your wife more than once, missed prayer some mornings, caught yourself back on the throne of your own life more times than you'd like to count.
+
+Somewhere in the last few days, a version of Day 1's flat quiet came back, wearing a different sentence: *Thirty-one days should have fixed this by now.* You did the reading, wrote the sentence, prayed the prayers — and here you are on the last day, still capable of snapping at your wife over a dish in the sink. Some part of you wanted this month to work like a light switch: flip it once, stay lit forever. It didn't, and the voice telling you that means it failed is selling you the same finish-line lie the deal sold you on Day 1.
+
+St. Paul names what this month actually was, in a verse this whole book stands on, Romans 12:2: he calls for a mind renewed, transformed, not merely patched up. Renewal, not repair. A repair happens once and holds. A renewal is a thing you keep doing — the way you renew a lease, a vow, a commitment — because the thing it renews doesn't stay fixed on its own. Thirty-one days did exactly what renewal does: it happened, and it will need to happen again tomorrow. That was always the plan.
+
+Matthew 6:33 opened this month, and it's worth hearing again now that it's had thirty-one days to work on you: seek His kingdom and His righteousness first, and everything else you need falls into place after that. You've tested that verse for a month — in your marriage, at work, with your money, in the silence you forced yourself into more than once. You've seen where seeking Him first cost you something, and you're still here, so you know it was worth the cost. You've also seen how fast the old order reasserts itself the moment you stop paying attention — the whole reason this has to be a practice you keep returning to, not a project you finish and file away.
+
+Eleven months are still ahead, and the pursuits still to come only mean anything built on top of this one. A man chasing what's next for his own glory just builds a more impressive version of the emptiness he started with. A man chasing it for God's glory has a foundation that doesn't shift when the win doesn't feel like enough.
+
+**On St. Augustine:** He spent years chasing exactly what Day 1 described — status, pleasure, approval, certain each one would finally be enough — before he wrote the line that's followed him for sixteen centuries: "Our heart is restless until it rests in You." He didn't arrive at rest once and stay there, either — he spent the rest of his life as a bishop still choosing, daily, to turn back toward the God he'd found. That's the arc this month has been tracing in you: a restless heart that has started, again and again, to turn toward the One who can actually hold it.
+
+You are further from being the god of your own life than you were thirty-one days ago, not because Day 31 finished the work Day 1 started, but because you now know the work doesn't finish. It renews, tomorrow morning and the morning after that.
+
+**Today:** Reread the one sentence you wrote on Day 1 — what you were chasing. Underneath it, write one new sentence, out loud first, then on the page: *This isn't finished. It renews tomorrow, and I'm choosing it again.* Keep both pages. Let February find you still choosing.
+
+**Prayer:** Lord God Almighty, thirty-one days in, my heart is still restless and still climbs back onto its own throne when I stop paying attention. Keep drawing me back to You, not just this month but every month after it, until this restlessness finally learns to rest in You. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+ROMANS 12:2
+MATTHEW 6:33

@@ -1,0 +1,15 @@
+# Day 16 — Enough
+
+Wyatt found out about the sale in the parking lot of his own shop, standing next to the mower he'd just finished servicing. A guy he'd come up in the landscaping trade with, same age, same start, texted him a photo of a signed letter of intent: three routes bought out, a fleet doubled overnight. Wyatt typed "that's huge, congrats" and meant it, mostly, and then sat in his truck for ten minutes doing math that had nothing to do with the invoice on his clipboard.
+
+His own company was healthy. Fifteen years in, steady clients, two guys on payroll he paid on time every week, no debt. None of that mattered for those ten minutes. What mattered was the number in his head — the size his friend's company had just become versus the size his own still was — and the quiet verdict that number handed down: *you're behind.*
+
+Wyatt had run that math before, with different men and different numbers, and it always ended the same way. There was no number that would have satisfied him that afternoon, because the problem was never the number. The problem was a belief he'd never said out loud, not even to his wife: *if someone else's business is growing faster than mine, mine isn't good enough.* By that measure he'd never once have felt like he'd arrived, because there is always a bigger route, a bigger fleet, a bigger sale two towns over.
+
+Scripture puts a flat stop on that math, and it doesn't do it gently: "Keep your life free from love of money, and be content with what you have; for he has said, 'I will never fail you nor forsake you'" (Hebrews 13:5, RSV-CE). Content with what you have — not with what you have compared to the next guy's letter of intent. The verse promises something sturdier than growth: that his worth was never sitting in the size of the fleet to begin with, and the God who provided fifteen steady years isn't waiting on a bigger number before He counts Wyatt's work as enough.
+
+**On St. Zélie Martin:** Zélie ran her own lace-making business out of her home in Alençon while raising five daughters who lived to adulthood, one of whom became a Doctor of the Church. Her business did well — well enough to eventually let her husband quit his own trade and work alongside her — but her letters to her brother and sister-in-law show a woman more consumed with her children's souls than with outgrowing her competitors. Zélie built something real without needing it to be the biggest thing in Alençon.
+
+**Today:** Write down the actual number you privately compare yourself against — a friend's revenue, a peer's title, whatever it is — and next to it write one sentence: "My worth was never sitting in that number." Say it out loud once before you go to bed.
+
+**Prayer:** Father in Heaven, forgive me for measuring my worth against another man's success instead of resting in what You have already given me. Root out the comparison before it steals the contentment You've made available to me right now. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.

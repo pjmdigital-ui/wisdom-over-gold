@@ -1,0 +1,15 @@
+# Day 11 — The Danger of Needing Airtight Proof
+
+Mike's buddy pitched him on a small equipment-rental business two years ago — solid numbers, a proven model in three other cities, a partner willing to put in sweat equity Mike didn't have to match. Mike asked for the spreadsheets. Then he asked for three years of comparable market data. Then he wanted to talk to two owners in other states, then reread the contract twice more, then wanted one more quarter to see how the partner's current venture performed. By the time Mike felt fully sure, his buddy had found another partner and the opportunity was gone.
+
+It wasn't the first time. He'd dated his wife for four years before proposing, not because he doubted her but because he wanted to be certain — really certain, no residual what-ifs — before he said the words. He'd sat on the sideline of his parish's men's ministry for a full year, watching, asking questions, waiting to be sure it wasn't just a phase before he'd commit his Tuesday nights to it. Every big decision in Mike's life ran through the same filter: gather enough proof first, and the risk disappears.
+
+The risk just gets handed to someone else — the buddy who got the other partner, the year of ministry Mike wasn't part of, the years his wife spent wondering if he was ever going to be sure. Certainty bought at the price of never moving is a way of avoiding the one thing every real commitment requires.
+
+Scripture doesn't define faith as certainty verified in advance. "Now faith is the assurance of things hoped for, the conviction of things not seen" (Hebrews 11:1, RSV-CE). Assurance and conviction — not proof. Not a spreadsheet with every variable accounted for. Faith operates precisely in the space where full verification isn't available, which is the space where almost every decision that matters really lives: marriage, fatherhood, a career move, trusting God with an outcome you can't see the end of.
+
+Mike's real operating rule, never once spoken out loud but obeyed every time a decision came due, was this: *I can't move until I'm sure.* Dressed up as prudence, it's fear setting the terms before faith ever gets a vote. A man who waits for airtight proof before every commitment is building a life entirely out of the decisions too small to require any trust at all.
+
+**Today:** Name one decision — in your marriage, your work, or your faith — that you've been stalling on because you're waiting to feel fully certain first. Write down what you truly know, and admit what you don't. Then say out loud: *I don't need airtight proof to move — I need enough conviction to trust.* Take one real step on that decision today, not the whole leap, just the next honest move.
+
+**Prayer:** Lord God Almighty, I've let my need to be fully sure keep me from moving on things that were asking for my trust, not my certainty. Give me the conviction to act on what I've been given instead of waiting for proof You never promised. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.

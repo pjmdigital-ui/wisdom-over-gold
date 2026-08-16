@@ -1,0 +1,15 @@
+# Day 20 — The Treasures of the Church
+
+Brad's neighbor pulled a new truck into the driveway across the street on a Saturday morning, and Brad found himself out on his own lawn twenty minutes later, doing yard work that didn't strictly need doing, glancing over more than the task required. By that afternoon he was on his phone looking up trim packages on the same model, running numbers on a trade-in for a truck that had another four good years left in it. Nothing about his truck had changed since breakfast. Something about how it felt to park it next to his neighbor's had changed completely.
+
+He caught himself mid-search and asked the honest question: did he actually need a new truck, or did he need the neighbor, and everyone else on the street, to look at his driveway and draw a particular conclusion about him? He knew the answer before he finished asking. What Brad was really after was what the truck would say on his behalf, to men who'd never asked him a single question about how he was actually doing.
+
+The belief under that impulse is one most men would deny holding if you asked them directly, and would keep acting on anyway: *what I own, and what other men see me own, is a fair measure of what I've made of myself.* Brad had built a genuinely solid life — steady work, a healthy marriage, kids who were doing fine — and none of it felt as real to him in that moment as a truck bed did.
+
+Scripture aims squarely at that instinct: "As for the rich in this world, charge them not to be haughty, nor to set their hopes on uncertain riches but on God who richly furnishes us with everything to enjoy" (1 Timothy 6:17, RSV-CE). Haughty is the precise word for what was happening on Brad's lawn — not greed exactly, but a quiet contest for standing, played out in driveways and parking lots, where the prize is a version of respect that evaporates the moment someone parks something bigger.
+
+**On St. Lawrence:** Lawrence was a deacon in third-century Rome, entrusted with the Church's material goods and her care for the poor. When a Roman prefect demanded he hand over the Church's treasures, Lawrence asked for three days, then returned leading a crowd of the poor, the sick, and the widowed he served. "These," he said, "are the treasures of the Church." He was martyred for the answer. Lawrence had access to real wealth and real status, and he pointed at the people he served instead — the opposite instinct from the one that had Brad reaching for his phone in the driveway.
+
+**Today:** Name the one purchase you have been considering mainly because of what it would say about you to other men, not because you need it. Cancel or postpone it today, and replace the impulse with a specific act of generosity toward someone who could never repay you or notice the trade-off.
+
+**Prayer:** Father in Heaven, forgive me for measuring my worth by what other men see when they look at what I own. Set my hope on You instead of on uncertain riches, and make me a man whose treasures look more like Lawrence's than my neighbor's driveway. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.

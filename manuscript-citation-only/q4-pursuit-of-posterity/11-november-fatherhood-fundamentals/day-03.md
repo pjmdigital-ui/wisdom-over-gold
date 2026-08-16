@@ -1,0 +1,17 @@
+# Day 3 — Presence Over Perfection
+
+Pierce came home from a bad day at work and stood in the living room doorway watching his two-year-old daughter Marlow build a wobbly tower out of blocks on the rug. She looked up, said "Daddy, down!" and patted the floor next to her. He stayed standing. Arms crossed, phone still in his hand from the car, jaw tight from a conversation with his boss he hadn't finished having in his head yet. He told her "in a minute, buddy," and didn't mean it as a lie, but a minute became fifteen, became her losing interest and wandering off to find her mother instead.
+
+He caught his own reflection in the dark television screen while he stood there — arms folded, shoulders up near his ears, phone glowing in his hand — and realized that was the posture Marlow had been getting most evenings lately. Not absence exactly. He was in the room. But nothing about how he stood in it said *come here* to a kid who couldn't yet read anything except a body.
+
+*I'll really be present once things calm down at work, once I'm not this wound up.* Pierce had been telling himself some version of that for months, waiting for a version of himself worth getting down on the floor for — relaxed, unhurried, fully arrived. He kept mistaking his own tension for a reason to hold back instead of a reason to sit down anyway.
+
+The disciples had a version of this instinct too, guarding Jesus's time from a crowd of children they judged unworthy of His full attention. His response corrected the assumption directly: "But when Jesus saw it he was indignant, and said to them, 'Let the children come to me, do not hinder them; for to such belongs the kingdom of God'" (Mark 10:14, RSV-CE). Jesus didn't wait for a better moment to receive them. He didn't ask them to wait until He'd finished being fully Himself with the adults first. He turned His whole body toward them, arms open, exactly as He was.
+
+Marlow didn't need Pierce arriving calm, composed, and finished processing his day. She needed him on the floor, arms uncrossed, phone somewhere else, before any of that resolved. Presence is something a father can give in the middle of not having himself together at all, long before he has himself calm, composed, or finished processing anything — and most days, that half-together version is the only one on offer.
+
+**On presence:** the body says what a father hasn't decided to say. Crossed arms, a held phone, shoulders angled toward the door instead of the child — kids read that fluently long before they can name it, the same way they read an open lap and a lowered voice as *safe*. What a father's posture says to a two-year-old is often more honest than anything he'd tell you about how much he loves her.
+
+**Today:** The next time your kid asks you to get down on the floor, phone down, do it within sixty seconds — even mid-task, even unfinished inside. Notice what your body does when you actually turn toward them instead of just staying in the room.
+
+**Prayer:** Lord God Almighty, I've waited for a calmer version of myself before I gave my kids my full attention, when they needed me as I actually was. Thank You for a Savior who turned toward children exactly as He was, arms open, no better moment required. Teach me to get down on the floor today, tension and all, instead of waiting for it to pass. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.

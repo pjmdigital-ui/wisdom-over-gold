@@ -1,0 +1,17 @@
+# Day 2 — Before the Fall, There Was Work
+
+Andrew kept a countdown running in the corner of his mind most Tuesdays. Nine years, four months until he hit thirty from the firm and could take the pension. He'd sit in his cubicle running reconciliations, half-listening to his own thoughts drift toward a dock somewhere, a boat, mornings with nothing on the calendar. The job itself he thought of the way most men in his row thought of theirs — a sentence to be served, quietly, until parole.
+
+He said it to a younger associate over lunch once, half-joking, the way men say true things they've never examined: "We're all just doing time in here until real life starts." The kid laughed. Andrew didn't correct him, because he believed it. Work, in his mind, was Eden's leftover punishment — the thing Adam got stuck with after he ruined everything, the curse a man endures so he can afford the parts of life that actually matter.
+
+Genesis tells a different story than the one Andrew had been carrying around for two decades. Before sin ever entered the picture — before the tree, before the serpent, before any curse was spoken over the ground — Scripture already has Adam working: "The LORD God took the man and put him in the garden of Eden to till it and keep it" (Genesis 2:15, RSV-CE). Till it and keep it. That's paradise, not punishment. God placed man in a perfect world and gave him work to do in it before anything had gone wrong at all.
+
+The Fall added thorns, thistles, and sweat to work — friction that hadn't been there before. But the labor itself was there from the very first chapter of the human story, handed to Adam by God as part of a very good creation, not tacked on afterward as a penalty. Andrew's countdown clock had the whole thing backward: he'd been handed, all along, a small share of the same task God gave the first man in the garden, not waiting out a curse — and he'd spent twenty years wishing it away.
+
+**On St. Joseph the Worker:** the Church didn't set aside a feast for Joseph because he preached or performed miracles. He's remembered largely for a workshop — for wood, tools, and the ordinary labor of a carpenter in a small town nobody expected anything from. He raised the Son of God the same way Andrew raises a spreadsheet: showing up, doing the next honest task, day after unremarkable day. Joseph never needed a countdown. He didn't experience his work as a sentence to be endured before something holier began. The workshop was already holy ground, because the man standing in it was giving his hands to God without waiting for a better assignment.
+
+Andrew's cubicle is tilled ground he's been given to keep, the same as any garden entrusted to a man to work — just with different tools than Adam had.
+
+**Today:** Notice the next thought that frames your work as a sentence to survive rather than ground to tend. Stop and replace it out loud: *Work is part of the good world God made, not my punishment to escape it. I'm meant to tend it, not flee it.* Then finish the next task in front of you as if it actually mattered — because it does.
+
+**Prayer:** Father in Heaven, forgive me for treating the work You gave me as a curse to outlast instead of ground You entrusted to me. Thank You for Joseph's example of an ordinary workshop made holy by an honest man's hands. Teach me to tend what's in front of me today instead of counting down to some easier life. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
