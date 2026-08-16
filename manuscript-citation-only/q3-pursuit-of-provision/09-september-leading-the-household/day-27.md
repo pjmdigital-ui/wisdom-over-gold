@@ -8,10 +8,12 @@ Norman noticed it in the car later, dropping his oldest at a friend's house — 
 
 The belief had never been questioned because it looked so much like responsibility: *my job is to keep this house in order, and joy is what happens on its own once order is in place, if it happens at all.* Order had become the whole assignment, while joy slipped into an optional bonus round, not really part of the job at all.
 
-Nehemiah tells the exiles who've just heard the Law read aloud, and wept over how far short they'd fallen, not to spend the day in grief. Instead: "Go your way, eat the fat and drink sweet wine and send portions to him for whom nothing is prepared; for this day is holy to our Lord; and do not be grieved, for the joy of the LORD is your strength" (Nehemiah 8:10, RSV-CE). The people had every reason for heaviness that day — real failure, real conviction. Nehemiah tells them to feast anyway, because joy was the strength they'd need to keep going after getting it wrong, not the reward for having gotten it right in the first place.
+Nehemiah tells the exiles who've just heard the Law read aloud, and wept over how far short they'd fallen, not to spend the day in grief. Instead, in Nehemiah 8:10, he tells them to go celebrate — eat rich food, drink something sweet, and send portions to anyone with nothing prepared — because the day is holy and grief has no place in it; the strength they'll need going forward comes from delighting in the Lord, not from dwelling on what they got wrong. The people had every reason for heaviness that day — real failure, real conviction. Nehemiah tells them to feast anyway, because joy was the strength they'd need to keep going after getting it wrong, not the reward for having gotten it right in the first place.
 
 Norman had confused a house that felt correct with a house that felt strong. They aren't automatically the same thing, and a home run entirely on correction produces compliant kids who've learned to manage their father, not a household anyone draws strength from.
 
 **Today:** Do something at home tonight with no correcting purpose at all — play the game to lose, laugh at the joke that isn't that funny, let a small rule slide — and tell your family afterward, out loud, that you want this house to feel like somewhere they want to be, not just somewhere they behave.
 
 **Prayer:** Lord God Almighty, forgive me for running my home like a project to manage instead of a gift to enjoy. Teach me to lead with joy that actually strengthens my family, not just order that keeps them quiet. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+NEHEMIAH 8:10

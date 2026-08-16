@@ -8,10 +8,12 @@ She'd learned the loophole, not the rule, and she'd learned it from watching him
 
 Emory had operated for years on the assumption that if he said the right thing to his kids often enough, clearly enough, that was the thing that would actually shape them — the instruction as the real inheritance, his example as background noise underneath it. He'd never reasoned it out that plainly, but it was the math behind every lecture he'd given: say it well enough, often enough, and the saying does the work. The dinner table proved otherwise in about four seconds, and it did the proving without a single word.
 
-The psalmist, praying as an old man, asks God for something specific. He asks for something more than having said something true once: to still be proclaiming it, present tense and ongoing, long enough for the next generation to actually receive it. "So even to old age and gray hairs, O God, do not forsake me, till I proclaim thy might to all the generations to come" (Psalm 71:18, RSV-CE). What survives in a child is whatever a father kept doing long after the words that first taught it were forgotten.
+The psalmist, praying as an old man, asks God for something specific. He asks for something more than having said something true once: to still be proclaiming it, present tense and ongoing, long enough for the next generation to actually receive it. In Psalm 71:18, he prays that even in old age, with gray hair, God won't abandon him — precisely so he can keep declaring God's power to every generation still to come. What survives in a child is whatever a father kept doing long after the words that first taught it were forgotten.
 
 Four seconds of a Thursday had taught Emory's daughter more than any lecture about presence ever had — repeated probably a dozen times he'd never noticed, until it became simply how the family ate.
 
 **Today:** Name one specific thing you've been teaching your kids with words that you're actually undoing with your actions, and fix the action first — today, in front of them, without announcing that's what you're doing.
 
 **Prayer:** Lord God Almighty, show me the gap between what I say to my children and what I actually let them watch me do. Give me the years and the faithfulness to make my example worth inheriting, not just my instructions. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+PSALM 71:18

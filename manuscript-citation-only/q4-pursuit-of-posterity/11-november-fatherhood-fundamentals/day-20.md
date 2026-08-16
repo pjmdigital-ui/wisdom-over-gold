@@ -4,7 +4,7 @@ Alden stopped outside Mabel's door one night to say goodnight and heard his wife
 
 *Praying for "the kids" as a group is enough — the specifics are for men with more time than I have* — that was the quiet assumption running his prayer life, and hearing Marion's version made it obvious how little it actually cost him to believe.
 
-Job didn't pray that way for his children. When his sons finished their round of feasting together, Scripture says, "Job would send and sanctify them, and he would rise early in the morning and offer burnt offerings according to the number of them all; for Job said, 'It may be that my sons have sinned, and cursed God in their hearts.' Thus Job did continually" (Job 1:5, RSV-CE). Job didn't offer one sacrifice for the household. He offered one for each son, by number, out of a father's specific concern for what was actually happening in each of their hearts — and he did it continually, not just on the nights it occurred to him.
+Job didn't pray that way for his children. When his sons finished their round of feasting together, Scripture says, in Job 1:5, that Job would send for them and consecrate them, rising early to offer a burnt offering for each one individually, worried that one of them might have sinned or cursed God in his heart — and that this was his regular practice, not an occasional one. Job didn't offer one sacrifice for the household. He offered one for each son, by number, out of a father's specific concern for what was actually happening in each of their hearts — and he did it continually, not just on the nights it occurred to him.
 
 Alden had three kids and three real, specific things going on in their lives, and he'd been folding all of it into six generic words for longer than he wanted to admit. Specificity is what fatherly prayer actually looks like — attention paid to a particular child's particular struggle, carried to God by name, rather than a household lumped into one headcount.
 
@@ -13,3 +13,5 @@ That night Alden went in after Marion finished and sat on the edge of Zeke's bed
 **Today:** Tonight, pray for each of your children by name — not together, one at a time if you can — and name one specific, real thing each one is facing right now. Say it out loud, where they can hear you.
 
 **Prayer:** Father in Heaven, forgive me for how easily "the kids" has replaced Camille, Zeke, and Mabel in my prayers. Teach me to carry each of them to You by name, the way Job did for his own sons, with real attention to what each one is actually facing. Let them grow up knowing their father prays for them specifically, not just generally. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+JOB 1:5

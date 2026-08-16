@@ -6,10 +6,12 @@ Some of us grew up with a father who was rarely around to say anything at all. S
 
 *I turned out this way because of what was done to me, and there's no real changing it now* — that's the thought that shows up right after the outburst, half excuse and half despair, and it's convenient precisely because it asks nothing of me.
 
-Scripture doesn't let that thought stand. "The son shall not suffer for the iniquity of the father, nor the father suffer for the iniquity of the son; the righteousness of the righteous shall be upon himself, and the wickedness of the wicked shall be upon himself" (Ezekiel 18:20, RSV-CE). I'm not bound to repeat my father's account. Whatever he got wrong with me doesn't get the final word on what I do with Reuben — I answer for that myself, today, one apology and one changed word at a time. That doesn't excuse what my father did, and it doesn't let me hide behind him either.
+Scripture doesn't let that thought stand. Ezekiel 18:20 draws the line plainly: a son doesn't bear the guilt of his father's sin, nor a father the guilt of his son's — each person answers for his own righteousness, and his own wrongdoing, on his own account. I'm not bound to repeat my father's account. Whatever he got wrong with me doesn't get the final word on what I do with Reuben — I answer for that myself, today, one apology and one changed word at a time. That doesn't excuse what my father did, and it doesn't let me hide behind him either.
 
 This takes longer than one evening. If what's underneath your own outbursts traces back to real wounds from your own upbringing, a good confessor or a counselor who knows this territory can do for you what gritted teeth alone won't. For a lot of men, that outside help is what finally makes the change stick.
 
 **Today:** Name the one specific phrase or pattern from your own father — spoken too often, or never spoken at all — that you catch yourself repeating. Write down the exact different words you'll say the next time that moment comes, so you're not improvising in the heat of it.
 
 **Prayer:** Lord God Almighty, You know what was done to me before I ever became a father myself, and You know what I've already passed on without meaning to. Free me from repeating what hurt me, without letting me use it as an excuse for what I choose today. Give me the humility to get real help where I need it, and the patience to keep trying with Reuben even after I fail him. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+EZEKIEL 18:20

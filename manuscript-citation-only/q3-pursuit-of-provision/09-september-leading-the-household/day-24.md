@@ -15,3 +15,5 @@ Leading a household gets proven at 7:15 on a Wednesday, in a cold driveway, with
 **Today:** Go to whoever heard the harder version of you this week — the one your Sunday self would be ashamed of — and say the true belief out loud to them: *Leading this house means living it, not just knowing it.* Then name specifically what you'll do differently the next time it's hard.
 
 **Prayer:** Father in Heaven, forgive me for the gap between what I say I believe and what my family actually sees me live. Close that gap in me — not just in what I know, but in what I do the next time I'm tired and tested. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+JAMES 1:22

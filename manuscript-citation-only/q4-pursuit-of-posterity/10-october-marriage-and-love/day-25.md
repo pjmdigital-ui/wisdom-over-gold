@@ -15,3 +15,5 @@ That night, instead of the usual nod on his way past her at the sink, Farrell st
 **Today:** Write down three specific, true things about your wife — not "good mom," not "great wife," but real and particular to her. Say all three to her tonight, by name, out loud.
 
 **Prayer:** Lord God Almighty, forgive me for how easily I can list what frustrates me about my wife and how hard I have to work to name what I actually admire in her. Teach me to praise her the way You've praised me — specifically, generously, and out loud. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+PROVERBS 31:28-29

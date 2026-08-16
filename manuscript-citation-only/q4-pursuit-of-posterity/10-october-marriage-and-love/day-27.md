@@ -6,7 +6,7 @@ Driving home, Beau found an old photo Isabel had sent him from her phone that mo
 
 Somewhere along the way he'd started treating that feeling as something that belonged to a specific decade of his life — real, but finished, the way a season ends. What they had now, he figured without ever quite saying it, was the steadier, less thrilling version that simply came after.
 
-Proverbs doesn't write to a man about to be married. It writes to one already well into the marriage, and it doesn't tell him to remember a rejoicing that used to happen. It commands one still going on: "Let your fountain be blessed, and rejoice in the wife of your youth" (Proverbs 5:18, RSV-CE). The wife of his youth, in this verse, is still his wife right now — the command is present tense, addressed to a man decades past the wedding, not a man reminiscing about one.
+Proverbs doesn't write to a man about to be married. It writes to one already well into the marriage, and it doesn't tell him to remember a rejoicing that used to happen. In Proverbs 5:18, it commands one still going on: let his marriage be blessed, and let him take delight in the wife of his youth. The wife of his youth, in this verse, is still his wife right now — the command is present tense, addressed to a man decades past the wedding, not a man reminiscing about one.
 
 Delight in a marriage works the same way faithfulness does — a discipline a man keeps choosing to practice long after the chemistry that made it effortless has settled into something familiar and easy to neglect, not a phase with a natural expiration date built into it.
 
@@ -15,3 +15,5 @@ That night Beau brought the photo up on his phone at dinner instead of the remod
 **Today:** Pull up one specific memory of something you loved about your wife early on, and tell her about it tonight — not as nostalgia for a version of the marriage that's over, but as something you're choosing to notice about her again, right now.
 
 **Prayer:** Lord God Almighty, forgive me for treating delight in my wife like something that belonged to an earlier chapter instead of a discipline I'm still called to practice. Reignite what's faded between us, and give me the will to keep choosing it. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+PROVERBS 5:18

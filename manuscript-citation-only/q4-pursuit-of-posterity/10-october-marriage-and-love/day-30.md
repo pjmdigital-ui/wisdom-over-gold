@@ -6,7 +6,7 @@ He thought back over the month in pieces. The first week had cost him something 
 
 None of the thirty days had resolved the marriage the way a finished project gets resolved. They'd shown him, instead, what he'd actually been building with Rosalind all along, one ordinary decision at a time, whether he'd meant to build it that way or not.
 
-"Lo, sons are a heritage from the LORD, the fruit of the womb a reward" (Psalm 127:3, RSV-CE) had felt, the first time Winston read past this month's own scripture, like it belonged to a different month entirely — fatherhood, not marriage. Standing in the kitchen on the last night of October, he understood the psalm differently. Whatever gets handed down through a household doesn't start in the nursery. It starts here, in the marriage the children are eventually born into, shaped by two people's ordinary faithfulness or its absence years before anyone shows up to inherit it.
+Psalm 127:3, which calls children a heritage from the Lord and the fruit of the womb a reward, had felt, the first time Winston read past this month's own scripture, like it belonged to a different month entirely — fatherhood, not marriage. Standing in the kitchen on the last night of October, he understood the psalm differently. Whatever gets handed down through a household doesn't start in the nursery. It starts here, in the marriage the children are eventually born into, shaped by two people's ordinary faithfulness or its absence years before anyone shows up to inherit it.
 
 What October built in Winston, November is about to ask him to hand off. This quarter turns next toward fatherhood specifically — not the household leadership September already covered, but the up-close, daily work of raising the children a marriage like his is meant to produce and form. Everything Winston spent this month relearning about covenant, communication, fidelity, and delight doesn't get set aside for that next chapter. It becomes the ground the next chapter stands on, the way a house needs its foundation finished before anyone can safely build the rooms above it.
 
@@ -15,3 +15,5 @@ Winston turned off the kitchen light and went up to find Rosalind. The marriage 
 **Today:** Write one sentence naming what your marriage is actually building — not how it feels this week, but what it's forming in you and, eventually, in whoever comes after you. Say it out loud to your wife tonight.
 
 **Prayer:** Father in Heaven, thank You for a month that showed me how much of my marriage is a covenant I'm still building, whether I notice the construction or not. Prepare me for what comes next, and let the foundation Rosalind and I have laid this month hold what You're about to build on top of it. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+PSALM 127:3
