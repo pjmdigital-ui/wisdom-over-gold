@@ -6,10 +6,12 @@ It wasn't the first time. He'd dated his wife for four years before proposing, n
 
 The risk just gets handed to someone else — the buddy who got the other partner, the year of ministry Mike wasn't part of, the years his wife spent wondering if he was ever going to be sure. Certainty bought at the price of never moving is a way of avoiding the one thing every real commitment requires.
 
-Scripture doesn't define faith as certainty verified in advance. "Now faith is the assurance of things hoped for, the conviction of things not seen" (Hebrews 11:1, RSV-CE). Assurance and conviction — not proof. Not a spreadsheet with every variable accounted for. Faith operates precisely in the space where full verification isn't available, which is the space where almost every decision that matters really lives: marriage, fatherhood, a career move, trusting God with an outcome you can't see the end of.
+Scripture doesn't define faith as certainty verified in advance. Hebrews 11:1 frames it as trusting in what you can't yet hold in your hand — banking on the hoped-for future, standing firm on what remains unseen. That kind of trust — not proof. Not a spreadsheet with every variable accounted for. Faith operates precisely in the space where full verification isn't available, which is the space where almost every decision that matters really lives: marriage, fatherhood, a career move, trusting God with an outcome you can't see the end of.
 
 Mike's real operating rule, never once spoken out loud but obeyed every time a decision came due, was this: *I can't move until I'm sure.* Dressed up as prudence, it's fear setting the terms before faith ever gets a vote. A man who waits for airtight proof before every commitment is building a life entirely out of the decisions too small to require any trust at all.
 
 **Today:** Name one decision — in your marriage, your work, or your faith — that you've been stalling on because you're waiting to feel fully certain first. Write down what you truly know, and admit what you don't. Then say out loud: *I don't need airtight proof to move — I need enough conviction to trust.* Take one real step on that decision today, not the whole leap, just the next honest move.
 
 **Prayer:** Lord God Almighty, I've let my need to be fully sure keep me from moving on things that were asking for my trust, not my certainty. Give me the conviction to act on what I've been given instead of waiting for proof You never promised. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+HEBREWS 11:1

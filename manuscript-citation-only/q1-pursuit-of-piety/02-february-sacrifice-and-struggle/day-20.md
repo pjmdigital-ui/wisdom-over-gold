@@ -6,7 +6,7 @@ He had the correction typed and ready before he'd even said a word: a version wh
 
 Ask most men whether admitting a mistake is expensive and they'll say no, of course not, we all make mistakes. Watch what they actually do in the room when it's their mistake and you'll see the real math running: *being wrong in front of people costs more than the mistake itself did.* The ego prices correction higher than error, every time, and pays whatever it takes to avoid the bill — a reputation, a friendship, sometimes years of quiet resentment from the people who watched him dodge it.
 
-Scripture prices it the opposite way. "The fear of the Lord is instruction in wisdom, and humility goes before honor" (Proverbs 15:33, RSV-CE). Honor doesn't arrive first and humility follow as its reward. Humility goes first — it's the road, not the toll paid at the end of it. A man protecting his image in the room is spending everything to avoid the very thing that would actually earn him something real, and he rarely even notices the trade he's making.
+Scripture prices it the opposite way. It tells us that reverence for the Lord is what teaches a man wisdom, and that humility comes before honor, not after it (Proverbs 15:33). Honor doesn't arrive first and humility follow as its reward. Humility goes first — it's the road, not the toll paid at the end of it. A man protecting his image in the room is spending everything to avoid the very thing that would actually earn him something real, and he rarely even notices the trade he's making.
 
 Pride is rarely loud enough to recognize in the moment. It usually just sounds like a reasonable explanation, delivered in a calm, competent voice that resembles nothing so much as the truth.
 

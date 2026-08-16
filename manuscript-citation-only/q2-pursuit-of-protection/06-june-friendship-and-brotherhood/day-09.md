@@ -17,3 +17,5 @@ That's the part worth sitting with. Jonathan's loyalty had been settled long bef
 **Today:** Name one relationship where you've been hedging your loyalty to protect your own standing. Say plainly, to yourself or out loud: "This friendship is worth more than my comfort with the people watching it." Then do one thing today that proves it — a text, a call, a word said in the room where it costs you something.
 
 **Prayer:** Lord God Almighty, You have seen every time I've held back from a friend to protect my own standing with someone else. Give me Jonathan's settled loyalty — decided before the pressure comes, not scrambled together during it. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+1 SAMUEL 20:17

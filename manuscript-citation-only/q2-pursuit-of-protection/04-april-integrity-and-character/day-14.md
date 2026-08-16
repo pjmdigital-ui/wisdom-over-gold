@@ -8,8 +8,10 @@ Four dollars at a kiosk isn't a chancellorship. But ask yourself honestly: if yo
 
 That's the real weight of More's line to the crowd at his execution — "I die the king's good servant, but God's first." He was reporting the conclusion of a life spent ordering his loyalties correctly in rooms far smaller than that one, not claiming a virtue he'd suddenly discovered on the scaffold. This week you read about a contractor who lost three buildings, a man who wouldn't let silence lie for him, a seller who fixed a contract no one asked him to fix, a homeowner who disclosed a crack that cost him his own closing date, a father who found out his Sunday self and his Monday self weren't as different as he thought. None of those men were facing an axe. All of them were practicing the same thing More practiced.
 
-David prays this without claiming a spotless record: "Vindicate me, O LORD, for I have walked in my integrity, and I have trusted in the LORD without wavering" (Psalm 26:1, RSV-CE). He's asking to be judged by the direction of an entire life, not by any single misstep isolated from it. That's available to you starting with whatever's in front of you this week, four dollars or four hundred thousand.
+David prays this without claiming a spotless record: he asks God to vindicate him on the grounds that he has walked in integrity and trusted the Lord without wavering. He's asking to be judged by the direction of an entire life, not by any single misstep isolated from it. That's available to you starting with whatever's in front of you this week, four dollars or four hundred thousand.
 
 **Today:** Return to the four-dollar version of the test currently in front of you — the small compromise no one would ever catch. Correct it today, plainly, and say to yourself: *I am not building toward integrity someday. I am practicing it right now, in the room no one is watching.*
 
 **Prayer:** Father in Heaven, thank You for the example of a man who kept his integrity small before he ever had to keep it large. Let today's small honesty be practice for whatever You ask of me later. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+PSALM 26:1

@@ -15,3 +15,5 @@ Cody left the highlighted list on the fridge without adding another mark to it t
 **Today:** Pick one thing you've been redoing behind someone in your house — a chore, a plan, a decision — and let it stand exactly as they did it, without comment or correction. Say it plainly to yourself: "Leading this house means trusting the people God gave me to lead, not managing every decision myself."
 
 **Prayer:** Lord God Almighty, I've mistaken control for care more times than I'd like to admit. Teach me to trust my wife's judgment and let my kids learn by doing, even when they get it wrong. Grow in me the humility Your word asks for — the kind that counts others' good above my own preference for how things get done. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+PHILIPPIANS 2:3-4

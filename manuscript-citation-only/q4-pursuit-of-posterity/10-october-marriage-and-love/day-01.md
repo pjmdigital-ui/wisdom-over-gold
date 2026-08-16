@@ -15,3 +15,6 @@ This is the ground the rest of this month stands on: covenant, self-gift, a bond
 **Today:** Write down one specific way you've been measuring your marriage by how it feels this month rather than by the covenant underneath it. Then tell your wife, in your own words, one way you're recommitting to her today regardless of how this particular week has gone.
 
 **Prayer:** Lord God Almighty, I've measured my marriage by whether it makes me happy instead of remembering what I actually promised. Thank You for the covenant You wrote into marriage before I ever felt anything toward my wife at all. Teach me to keep giving myself to her on the hard days, not only the easy ones. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+GENESIS 2:18
+GENESIS 2:24

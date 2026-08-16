@@ -6,7 +6,7 @@ Each project, on its own, made sense. He could explain the upside of every singl
 
 The belief under all five tabs rarely gets said out loud, because it sounds responsible: *keeping options open is safer than committing to just one thing.* It produces five half-built businesses instead of one real one — a client relationship burning down while Garrett researches print-on-demand margins. Options multiplied past a certain point stop being opportunity and start being the reason nothing ships.
 
-St. Paul, writing to a church he loved, names the alternative in a single line that reads almost too simple for how hard it is to live: "Brethren, I do not consider that I have made it my own; but one thing I do, forgetting what lies behind and straining forward to what lies ahead" (Philippians 3:13, RSV-CE). One thing I do. Not five things I'm managing. Paul had plenty he could have chased — his own credentials, his old life, a dozen legitimate causes worth his time — and he named a single trajectory instead and let the rest go. Not because the other things were worthless, but because a man straining forward with his whole weight moves differently than a man distributing that same weight across five directions at once.
+St. Paul, writing to a church he loved, names the alternative in a single line that reads almost too simple for how hard it is to live. In Philippians 3:13, he says he doesn't consider himself to have arrived yet, but there's really only one thing he's doing: letting go of what's behind him and reaching, with everything he has, toward what's ahead. One thing he's doing. Not five things he's managing. Paul had plenty he could have chased — his own credentials, his old life, a dozen legitimate causes worth his time — and he named a single trajectory instead and let the rest go. Not because the other things were worthless, but because a man straining forward with his whole weight moves differently than a man distributing that same weight across five directions at once.
 
 Garrett needed to close ten tabs, finish the overdue client project, and let the other four sit untouched until that one thing was actually done and paid for.
 
@@ -15,3 +15,5 @@ That afternoon he sent the client an honest message — the project would be don
 **Today:** Name the one project or client that most needs your undivided attention this week. Close or pause everything else you're juggling — literally close the tabs, mute the notifications — and work only that one thing until it's finished or genuinely can't move forward without someone else.
 
 **Prayer:** Father in Heaven, forgive me for scattering the attention You gave me across a dozen half-finished things instead of finishing what's actually in front of me. Give me Paul's single-minded focus on the one thing that matters today. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+PHILIPPIANS 3:13

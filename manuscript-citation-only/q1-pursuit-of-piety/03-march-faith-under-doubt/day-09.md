@@ -15,3 +15,5 @@ St. Peter, writing to Christians who had far more reason to hide what they belie
 **Today:** Pick the one theological question you've dismissed without ever really researching it — write it down. Spend thirty focused minutes tonight studying it seriously, using a real source (the Catechism is a good place to start). Then write: *Studying my faith with the same rigor I bring to everything else is what I'm supposed to do.* Say it out loud once before you close the notebook.
 
 **Prayer:** Lord God Almighty, I've let myself off the hook from ever really examining what I believe, hiding behind a habit of skepticism I never once applied to You. Give me the honesty to study this the way I study everything I take seriously, and the courage to follow wherever it leads. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+1 PETER 3:15

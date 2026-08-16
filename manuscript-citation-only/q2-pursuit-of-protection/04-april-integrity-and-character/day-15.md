@@ -8,7 +8,7 @@ He didn't say it. Walt named his price — twenty-two — and Dean told him, pla
 
 The belief behind Dean's rehearsed line was that a negotiation is a different moral zone than the rest of life, where withholding what you know, or framing true facts to mislead, doesn't count as dishonesty because it's just how the game is played. Every man who's negotiated anything has reached for some version of that belief, because the game genuinely does reward it.
 
-Scripture doesn't grade negotiations on a curve. "A false balance is an abomination to the LORD, but a just weight is his delight" (Proverbs 11:1, RSV-CE). A balance is rigged the same way whether a man tips it with an outright lie or with a technically-true sentence engineered to produce a false impression. God isn't measuring the cleverness of the deception. He's measuring the weight.
+Scripture doesn't grade negotiations on a curve. Proverbs says a rigged scale disgusts the Lord, while an honest weight pleases Him. A balance is rigged the same way whether a man tips it with an outright lie or with a technically-true sentence engineered to produce a false impression. God isn't measuring the cleverness of the deception. He's measuring the weight.
 
 Dean's eight thousand dollars is gone. What isn't gone is the plain fact that the price he paid was the actual value of what he got — which is a kind of peace a discounted excavator was never going to buy him.
 
