@@ -17,3 +17,5 @@ What Provision built in Harlan this quarter, Posterity is about to ask him to ha
 **Today:** Say the words out loud in your own kitchen, in front of whoever's home to hear it: "As for me and my house, we will serve the LORD." Then name one ordinary decision tomorrow morning that will actually point your house in that direction.
 
 **Prayer:** Father in Heaven, thank You for a quarter that taught me provision runs through my hands, my money, and now the household those first two are meant to serve — always wider than a paycheck. Let my house follow the direction I set for it because I set it toward You, on purpose, starting tomorrow morning. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+JOSHUA 24:15
