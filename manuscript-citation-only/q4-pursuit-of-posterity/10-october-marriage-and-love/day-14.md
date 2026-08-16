@@ -6,10 +6,12 @@ He thought about Tuesday, when he'd noticed himself waiting for Odette to apolog
 
 None of those moments would show up if you asked Xavier how his week had gone. He'd have said it was a good one, and by the usual measures it was. That's what made looking back at it Sunday night worth doing at all — the week that looks fine from the outside is exactly the one a man needs to check for what got left unsaid underneath it.
 
-Proverbs offers this week the same line Xavier had leaned on back in September, from a different angle: "A soft answer turns away wrath, but a harsh word stirs up anger" (Proverbs 15:1, RSV-CE). He'd applied it to his son that month, learning to ask real questions instead of coasting on "fine." This week it pointed at his marriage instead. A soft answer carries real content, delivered without an edge — honesty, not just an agreeable tone or a quiet one. The softness he owed Odette had less to do with avoiding hard subjects and everything to do with how he handled them once he stopped avoiding them.
+Proverbs offers this week the same line Xavier had leaned on back in September, from a different angle: Proverbs 15:1 teaches that a gentle response defuses anger while a sharp word only stirs it up further. He'd applied it to his son that month, learning to ask real questions instead of coasting on "fine." This week it pointed at his marriage instead. A soft answer carries real content, delivered without an edge — honesty, not just an agreeable tone or a quiet one. The softness he owed Odette had less to do with avoiding hard subjects and everything to do with how he handled them once he stopped avoiding them.
 
 Humility, communication, presence — three separate lessons on paper, the same muscle in practice: choosing her over his own comfort, again and again, in small moments nobody else would ever see. Tuesday's apology, once he finally offered it instead of waiting her out. Thursday's phone, once he finally put it down. A marriage rarely turns on one dramatic moment. It turns on which of these small choices a man makes, repeated often enough that they become who he actually is at home.
 
 **Today:** Look back over your own past week with your wife. Name one moment you handled well and one you didn't. Tell her both, out loud: "Here's where I did right by you this week, and here's where I want to do better."
 
 **Prayer:** Father in Heaven, this week showed me both how far I've come with my wife and how far I still have to go. Thank You for the small victories, and give me the humility to keep working on the rest. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+PROVERBS 15:1

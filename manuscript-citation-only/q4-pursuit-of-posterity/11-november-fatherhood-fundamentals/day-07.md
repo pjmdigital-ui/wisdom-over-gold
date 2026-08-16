@@ -4,10 +4,12 @@ Rhett sat on the back steps Sunday evening while his wife Wren got their daughte
 
 Six different men, six different Tuesdays, one thread running under all of it: a child is always reading something off his father, whether the father means to be teaching anything or not. The correcting, the blessing, the crossed arms, the loud singing or its absence — none of it goes unnoticed. It becomes, slowly, a kid's working idea of what a father is, and later, without either of them choosing it, what God is.
 
-Proverbs names what that adds up to over the long run, not just in a single week: "A righteous man who walks in his integrity — blessed are his sons after him!" (Proverbs 20:7, RSV-CE). The blessing named here comes from compounding, not a single grand gesture — a father who keeps walking in integrity, day after ordinary day, until his children inherit something they never had to be taught in words. They simply grow up standing in it.
+Proverbs names what that adds up to over the long run, not just in a single week: in Proverbs 20:7, a father who walks in his own integrity is promised a blessing that carries down to his sons after him. The blessing named here comes from compounding, not a single grand gesture — a father who keeps walking in integrity, day after ordinary day, until his children inherit something they never had to be taught in words. They simply grow up standing in it.
 
 Rhett hadn't fixed anything permanently this week. He'd noticed things about himself he hadn't let himself see before, which is a smaller kind of progress but a real one. Integrity that gets handed down doesn't start with a single dramatic overhaul. It starts with a man willing to keep noticing.
 
 **Today:** Pick the one moment from this week's themes that landed hardest — presence, blessing, delight, discouragement, or fear disguised as anger. Do the smallest concrete version of it again today, on purpose, before the week's insight fades into next week's routine.
 
 **Prayer:** Lord God Almighty, thank You for a week that showed me more clearly what my kids are actually absorbing from how I father them. Keep me walking in integrity even on the days no one's watching closely enough to notice. Let what I hand down to my children come from that steadiness, not from whatever mood I happen to be in. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+PROVERBS 20:7

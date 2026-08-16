@@ -6,10 +6,12 @@ He didn't think about it every day anymore. But it surfaced whenever the guy's n
 
 That's the belief worth naming directly: forgiveness feels like it erases the wrong, so withholding it feels like the last way left to insist the wrong was real. A man protects his sense of justice by refusing to let go, as if his grip is what's keeping the scales honest.
 
-St. Paul tells the Colossians something that doesn't ask a man to pretend the wrong wasn't a wrong: "forbearing one another and, if one has a complaint against another, forgiving each other; as the Lord has forgiven you, so you also must forgive" (Colossians 3:13, RSV-CE). Paul assumes the complaint is legitimate, telling them to forgive anyway rather than to stop having grievances, on the same terms Christ forgave them: not because the debt was small, but despite it being real. The measure is the mercy already extended to the man doing the forgiving, not the size of the wrong.
+St. Paul tells the Colossians something that doesn't ask a man to pretend the wrong wasn't a wrong: he tells them to bear with each other, and if anyone has a grievance against someone else, to forgive as freely as the Lord forgave them (Colossians 3:13). Paul assumes the complaint is legitimate, telling them to forgive anyway rather than to stop having grievances, on the same terms Christ forgave them: not because the debt was small, but despite it being real. The measure is the mercy already extended to the man doing the forgiving, not the size of the wrong.
 
 Steve's partner never apologized and probably never will. Forgiveness was always going to cost Steve something instead — the grip, the tight feeling, the last bit of leverage that came from staying owed.
 
 **Today:** Name the person you're still keeping a private account against, and say the sentence out loud, even if he never hears it: "I forgive you, and I'm not waiting for you to earn it." Then do one thing today that matches it — delete the old email thread, stop rehearsing the story to the next person who asks, or pray for him by name once.
 
 **Prayer:** Lord God Almighty, You have forgiven me far more than I've ever had to forgive anyone else. Give me the strength to release the debt I've been holding, even though it's real and even though it costs me. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+COLOSSIANS 3:13

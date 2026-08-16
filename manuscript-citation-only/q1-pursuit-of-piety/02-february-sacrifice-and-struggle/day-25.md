@@ -4,7 +4,7 @@ Two years ago my business partner walked out mid-project and left me holding con
 
 That's the part nobody warns you about — the wound doesn't have to stay open to still be infected. Mine had scarred over on the surface while something underneath kept working on me for two years: a sharper edge with new hires, a reflex to assume bad faith in partnerships I hadn't even started yet, a small satisfaction whenever I heard his new company was struggling.
 
-The author of Hebrews names the exact mechanism at work: "See to it that no one fail to obtain the grace of God; that no 'root of bitterness' spring up and cause trouble, and by it the many become defiled" (Hebrews 12:15, RSV-CE). A root doesn't announce itself. It works underground, out of sight, and by the time it "springs up" — in a flat voice at a dinner table, in a reflex toward the next guy who wants to partner with you — it's already been growing a long time. Hebrews is specific that it doesn't stay contained to one man, either: it spreads and defiles the people around him, which is exactly what I'd been doing to my new hires without meaning to.
+The author of Hebrews names the exact mechanism at work: he warns his readers to make sure no one misses out on the grace of God, and that no root of bitterness grows up to cause trouble and end up poisoning many people around it (Hebrews 12:15). A root doesn't announce itself. It works underground, out of sight, and by the time it breaks the surface — in a flat voice at a dinner table, in a reflex toward the next guy who wants to partner with you — it's already been growing a long time. Hebrews is specific that it doesn't stay contained to one man, either: it spreads and defiles the people around him, which is exactly what I'd been doing to my new hires without meaning to.
 
 Unprocessed suffering doesn't sit still and wait for a man to get around to it. It converts — into suspicion, into a shorter fuse, into a cynicism I didn't have five years ago and couldn't quite trace back to its source unless I was honest about where it started.
 
@@ -13,3 +13,5 @@ If a root like this has been growing for years, the fix isn't more willpower to 
 **Today:** Name the root — the specific person or event the bitterness traces back to, out loud, by name. Then say: *I'm not going to let what he did to me two years ago decide how I treat everyone after him.* Pick one relationship where you've noticed the edge showing up, and do one deliberately generous thing for that person this week.
 
 **Prayer:** Lord God Almighty, there's a root in me I told myself I'd already pulled out, and I'm still finding its fruit in how I treat other people. Dig it out of me for good, and heal what he did to me two years ago. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+HEBREWS 12:15

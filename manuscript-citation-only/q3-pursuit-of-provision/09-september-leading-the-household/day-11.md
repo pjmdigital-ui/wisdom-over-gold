@@ -6,7 +6,7 @@ It wasn't. Upstairs, his younger son was crying into a pillow over a game he sti
 
 The belief was one he'd never said out loud, because it sounded reasonable enough not to question: peace in this house means the noise stops. If nobody's yelling, I've done my job.
 
-Jesus doesn't say blessed are the quiet, or blessed are the ones who make the noise stop. "Blessed are the peacemakers, for they shall be called sons of God" (Matthew 5:9, RSV-CE). A peacemaker does something — the word itself is active, a maker, not a muter. Silencing a fight and making peace between two people are different skills entirely, and Ronan had only ever practiced the first one.
+Jesus doesn't say blessed are the quiet, or blessed are the ones who make the noise stop. In Matthew 5:9, He blesses the peacemakers instead, promising that they'll be known as children of God for it. A peacemaker does something — the word itself is active, a maker, not a muter. Silencing a fight and making peace between two people are different skills entirely, and Ronan had only ever practiced the first one.
 
 Real peacemaking would have cost him more than eight seconds. It would have meant sitting on the floor between two boys, hearing both sides, and staying in the room until something resembling understanding replaced the anger — not until the volume simply dropped. Peacemaking moves slower than peacekeeping and pays off less immediately, because it doesn't produce quiet on command. It produces something that holds after the room empties out again.
 
@@ -15,3 +15,5 @@ That night Ronan went back upstairs. He didn't fix everything in ten minutes, bu
 **Today:** The next time conflict erupts between your kids, or between you and your wife, resist the urge to simply shut it down. Sit with them until something is actually resolved, and tell yourself beforehand: "My job is to make peace, not just enforce quiet."
 
 **Prayer:** Lord God Almighty, forgive me for settling for silence instead of real peace in my own home. Give me the patience to sit with my family's conflicts instead of just shutting them down. Make me a peacemaker the way Your Son calls me to be, not just a man who's good at ending noise. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+MATTHEW 5:9

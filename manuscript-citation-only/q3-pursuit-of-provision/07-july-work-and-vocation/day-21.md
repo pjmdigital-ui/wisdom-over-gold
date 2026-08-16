@@ -4,7 +4,7 @@ This week traded the shop floor and the job site for the parts of work that don'
 
 None of those men were wrong to want more — a bigger client list, a finished project, a promotion earned. The problem this week kept circling was letting the want run unmeasured against someone else's number, or letting it run without a process behind it, or letting it run so wide across five directions that nothing actually got built. Ambition needs banks, the same way a river does, or the same current that could have been power turns into a flood that ruins whatever's downstream — usually a family, sometimes a friendship, sometimes just a Tuesday that never got the attention it deserved.
 
-St. Paul gives the antidote in a passage that sounds almost too simple for how much it costs to actually live: "Have no anxiety about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. And the peace of God, which passes all understanding, will keep your hearts and your minds in Christ Jesus" (Philippians 4:6-7, RSV-CE). Not have no ambition — have no anxiety. The peace on offer here comes from bringing the wanting itself to God instead of running the math alone at midnight, and trusting Him with what happens after the request is made.
+St. Paul gives the antidote in a passage that sounds almost too simple for how much it costs to actually live. In Philippians 4:6-7 he tells his readers not to be anxious about anything, but instead to bring every request to God directly, in prayer, with gratitude — and promises that the peace which follows, a peace beyond what reason alone could produce, will stand guard over their hearts and minds in Christ. Not have no ambition — have no anxiety. The peace on offer here comes from bringing the wanting itself to God instead of running the math alone at midnight, and trusting Him with what happens after the request is made.
 
 That's the thread underneath every scene this week: a man's peace was never supposed to be hostage to a number he doesn't fully control. The number matters. It's worth working for, planning for, praying over. It was never supposed to be the thing his heart rested in.
 
@@ -13,3 +13,5 @@ Look back over the five days before this one and notice how often the fix wasn't
 **Today:** Name the one ambition, comparison, or unfinished project that's been running loudest in your head this week. Bring it to God directly — out loud, specific, no polish — and hand Him the outcome instead of carrying it alone through another week.
 
 **Prayer:** Lord God Almighty, thank You for a week that named my restlessness honestly instead of letting me call it drive. Take the anxiety I've been carrying about work I can't fully control, and give me Your peace in its place. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+PHILIPPIANS 4:6-7

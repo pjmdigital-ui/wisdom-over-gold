@@ -6,10 +6,12 @@ Nate would tell you he's not an ungrateful man. He goes to Mass. He prays before
 
 "Must be nice" measures his own life against someone else's highlight reel and comes up short, every time, on purpose. Boats and corner offices are just the current props. The belief running the whole routine is this: *what I have only counts if it compares well to what other people have.* By that math, Nate will always lose, because there's always a bigger boat somewhere.
 
-St. Paul writes to a young, struggling church, one with real reasons to feel behind — "give thanks in all circumstances; for this is the will of God in Christ Jesus for you" (1 Thessalonians 5:18, RSV-CE). Not thanks for the circumstances that flatter him. Thanks *in* all of them — the ones with a boat in the driveway and the ones without. Thanksgiving here is God's will for Nate regardless of how his life measures up to anyone else's or how the comparison shakes out, because the comparison was never the point.
+St. Paul writes to a young, struggling church, one with real reasons to feel behind. In 1 Thessalonians 5:18, he tells them that being thankful no matter what's happening around them is God's actual will for them in Christ Jesus. Not thanks for the circumstances that flatter him. Thanks in the middle of all of them — the ones with a boat in the driveway and the ones without. Thanksgiving here is God's will for Nate regardless of how his life measures up to anyone else's or how the comparison shakes out, because the comparison was never the point.
 
 The habit doesn't break by trying harder to feel grateful in the abstract. It breaks by catching the specific phrase in the specific moment and replacing it with something true. "Must be nice" is comparison talking. The counter-move is naming, out loud, what's actually his — not to win an argument with himself, but because it's real and it's been sitting there unthanked while he was busy watching someone else's boat.
 
 **Today:** The next time you catch yourself thinking or saying some version of "must be nice," stop and say out loud instead, "What I have is enough, and it's a gift, whether or not anyone else has more of it." Do this at least once today, in front of your family if you can — let them hear the correction, not just the complaint.
 
 **Prayer:** Father in Heaven, I've let comparison steal my thanks more times than I can count, and my kids are starting to copy it. Break the habit in me before it becomes theirs. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+1 THESSALONIANS 5:18

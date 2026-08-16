@@ -4,10 +4,12 @@ Denny built a business worth eight figures from a single delivery truck. Everyon
 
 Ray sat near the back, a former employee of Denny's himself, and drove home rattled in a way he didn't expect. He'd spent the last two years building his own legacy plan — the succession structure, the trust, the number he wants to hit before he steps back from the company. All of it assumes the same thing Denny's eulogies dismantled without anyone meaning to: that legacy is the thing you leave behind — the balance sheet, the building with your name on it, proof that you mattered because of what you accumulated.
 
-Scripture keeps pointing somewhere else. "A good name is to be chosen rather than great riches, and favor is better than silver or gold" (Proverbs 22:1, RSV-CE). Not richer than riches — chosen instead of them, when the two compete for a man's limited time and attention. A good name here doesn't mean a famous one. It means the kind of reputation a janitor still remembers accurately thirty years later, when there's nothing left to gain by flattering the man in the casket.
+Scripture keeps pointing somewhere else. Proverbs 22:1 puts a good name and genuine favor above great wealth or silver and gold. Not richer than riches — chosen instead of them, when the two compete for a man's limited time and attention. A good name here doesn't mean a famous one. It means the kind of reputation a janitor still remembers accurately thirty years later, when there's nothing left to gain by flattering the man in the casket.
 
 Ray's estate plan isn't wrong to have. Providing for a family is part of the job. But he'd let the provision plan become the whole plan without noticing the shift, as if the number in the trust document was the actual inheritance and the character was just a pleasant bonus if there happened to be time for it. Denny's life argued the ratio runs the other way — the name outlasts the number, and it's built the same unglamorous way the janitor described: one remembered name, one kept promise, one closed building, at a time.
 
 **Today:** Ask someone who knows you well — your spouse, an adult child, a close friend — what they'd actually say about you at your funeral if they were being honest. Listen without arguing. Then do one specific thing today that builds the name you want them to be able to say truthfully: a call to make right, an apology owed, someone's name you should actually learn.
 
 **Prayer:** Lord God Almighty, I've spent more energy protecting what I'll leave behind than building the name I'll leave it with. Let my character outgrow my balance sheet, starting today. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+PROVERBS 22:1

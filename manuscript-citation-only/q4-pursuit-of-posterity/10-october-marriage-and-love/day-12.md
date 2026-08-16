@@ -6,7 +6,7 @@ By the third interruption she stopped talking altogether and just nodded along t
 
 Micah operated on a belief that had served him fine at work: if he could identify the fix fast, he'd done his job. Applied to Colette's bad day, it meant he heard about a third of what she actually said before his brain moved on to solving it, as though a hard day were a support ticket to close rather than a person standing in front of him wanting to be heard before she wanted to be fixed.
 
-James is blunt about the order of operations: "Know this, my beloved brethren. Let every man be quick to hear, slow to speak, slow to anger" (James 1:19, RSV-CE). Quick to hear comes first, ahead of speaking, ahead of even the good and useful things a man might have to say. James doesn't tell him to skip the advice forever. He tells him what order to put it in, and most men, Micah included, run the order backward without noticing, because speaking fast feels like caring fast.
+James is blunt about the order of operations, in James 1:19: every man should be quick to listen, slow to speak, and slow to anger. Quick to hear comes first, ahead of speaking, ahead of even the good and useful things a man might have to say. James doesn't tell him to skip the advice forever. He tells him what order to put it in, and most men, Micah included, run the order backward without noticing, because speaking fast feels like caring fast.
 
 What Colette needed at that table was her husband sitting in the frustration with her for longer than ninety seconds, not a strategy for the department head. A wife who stops finishing her sentences around her husband has usually learned something specific: that finishing them won't change what happens next.
 
@@ -15,3 +15,5 @@ Micah went back to her later that night and asked her to tell him the whole thin
 **Today:** Ask your wife to tell you about something on her mind, and set yourself a rule going in: no advice, no fixing, no interrupting until she's completely finished. Let the silence after she stops talking last a few extra seconds before you respond.
 
 **Prayer:** Father in Heaven, I've mistaken speaking fast for loving well more times than I can count. Slow me down enough to actually hear my wife before I try to fix what she hasn't even finished telling me. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+JAMES 1:19

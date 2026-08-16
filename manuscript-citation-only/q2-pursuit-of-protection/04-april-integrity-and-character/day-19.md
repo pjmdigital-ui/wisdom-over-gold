@@ -6,7 +6,7 @@ The next morning you saw her at the mailbox. "Morning," you said, and smiled, an
 
 Somewhere in the last decade, a second version of you got built — one with your opinions but not your face, your grievances but not your handshake, and that version says things the man at the mailbox never would. He's freer with contempt because contempt costs him nothing when it can't be traced to a face he has to live behind for the rest of the week.
 
-Scripture doesn't have a category for words that come from an account instead of a mouth. "Let no evil talk come out of your mouths, but only such as is good for edifying, as fits the occasion, that it may impart grace to those who hear" (Ephesians 4:29, RSV-CE). St. Paul is writing about speech, but the standard applies to the man behind the words, not the organ that produces them — whether what comes out of him builds someone up or tears them down. A typed sentence at 6 a.m. comes from the same man as a spoken one at the mailbox. The keyboard doesn't grant you a second soul to say things through.
+Scripture doesn't have a category for words that come from an account instead of a mouth. St. Paul tells the Ephesians to let no corrupting talk come out of their mouths at all — only words that build others up, fitted to the moment, that actually give something good to the person hearing them. St. Paul is writing about speech, but the standard applies to the man behind the words, not the organ that produces them — whether what comes out of him builds someone up or tears them down. A typed sentence at 6 a.m. comes from the same man as a spoken one at the mailbox. The keyboard doesn't grant you a second soul to say things through.
 
 Here's the belief worth naming plainly, because it rarely gets said out loud: *the version of me with no name attached isn't really me, so it doesn't count against my character.* That's the whole permission slip. It's also false. If you'd be ashamed to say a sentence with your name on it, typing it under a different name doesn't clean it — it just adds cowardice to whatever else was already wrong with the sentence.
 
@@ -15,3 +15,5 @@ An integrated man says the same things in both rooms. Not because he's timid onl
 **Today:** Go back and read your last five comments, posts, or replies made under any name that isn't fully, obviously yours. For each one, ask: "Would I say this to her face at the mailbox?" Delete or rewrite the ones you wouldn't, and say to yourself: "I'm the same man online as I am at the door."
 
 **Prayer:** Lord God Almighty, forgive me for the words I've let a keyboard talk me into that my own mouth would have refused. Make me the same man behind a screen that I am in front of a face, so that everything I say builds instead of wounds. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+EPHESIANS 4:29

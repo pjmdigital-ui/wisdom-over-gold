@@ -6,7 +6,7 @@ He told himself the same thing every time a supervisor asked: I'll catch up on r
 
 The belief running the whole six weeks was simple enough to fit on an index card: more toil now buys my family more of me later. Lawrence had never once tested it against the evidence sitting across the dinner table from him most nights.
 
-Solomon, a man who tested nearly every possible answer to what makes a life worth living, ran the same math and landed somewhere unexpected: "Better is a handful of quietness than two hands full of toil and a striving after wind" (Ecclesiastes 4:6, RSV-CE). He isn't praising laziness in that verse. The man he sets the quiet handful against isn't resting — he's grasping with both hands, working himself past any reasonable return, chasing wind that was never going to stay caught. Solomon's math says the smaller amount, held in peace, outweighs the larger amount grasped after.
+Solomon, a man who tested nearly every possible answer to what makes a life worth living, ran the same math and landed somewhere unexpected. In Ecclesiastes 4:6, he weighs one hand held in peace against two hands grasping at endless labor, and concludes the single hand wins — calling the alternative nothing but chasing after air. He isn't praising laziness in that verse. The man he sets the quiet handful against isn't resting — he's grasping with both hands, working himself past any reasonable return, chasing wind that was never going to stay caught. Solomon's math says the smaller amount, held in peace, outweighs the larger amount grasped after.
 
 Lawrence's math had assumed his family's presence was a debt that could go unpaid for a while and get settled later, with interest, once the stretch finally ended. Presence doesn't work like a line of credit. Every missed Saturday was a cost paid in full the day it happened, by his kids, whether or not Lawrence noticed the bill arrive.
 
@@ -15,3 +15,5 @@ He turned down the next available overtime slot and put in for a Saturday off in
 **Today:** Decline the next optional overtime shift or travel opportunity you're tempted to say yes to automatically, and protect the evening it would have cost you. Tell yourself: "A handful of quietness with my family is worth more than two hands full of everything this extra shift promises."
 
 **Prayer:** Lord God Almighty, forgive me for treating my family's evenings like a debt I could repay whenever it was convenient for me. Teach me the math Solomon learned the hard way — that a small handful held in peace outweighs everything I could grasp for with both hands. Give me the courage to say no to hours my family will never get back. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+ECCLESIASTES 4:6

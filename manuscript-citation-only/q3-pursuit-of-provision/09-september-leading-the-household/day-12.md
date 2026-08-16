@@ -4,7 +4,7 @@ Jesse had spent the whole spring season telling his son the same line after ever
 
 Jesse had never said the belief in so many words, but it had been running underneath his whole season of coaching: instruction was the job. If he said the right thing to his son enough times, it would take root regardless of what Jesse himself did under pressure.
 
-St. Paul writing to young Timothy doesn't separate the two that easily. "Let no one despise your youth, but set the believers an example in speech and conduct, in love, in faith, in purity" (1 Timothy 4:12, RSV-CE). Paul doesn't tell Timothy to teach well; he tells him to become an example, pairing speech and conduct in the same breath as though the two only ever travel together. A father's version of that verse runs the same direction. His son needed an example of composure a great deal more than he needed one more lecture about it.
+St. Paul writing to young Timothy doesn't separate the two that easily. In 1 Timothy 4:12, he tells Timothy not to let anyone look down on him for his age, but instead to become a model for other believers — in what he says, how he lives, in love, in faith, in purity. Paul doesn't tell Timothy to teach well; he tells him to become an example, pairing speech and conduct in the same breath as though the two only ever travel together. A father's version of that verse runs the same direction. His son needed an example of composure a great deal more than he needed one more lecture about it.
 
 A twelve-year-old remembers almost nothing of what his father tells him to do over the course of a season. He remembers what his father actually does in the sixth inning of a close game, in full view of both dugouts. Jesse's lecture about controlling his temper had been true as a principle and useless the moment his own example contradicted it in front of the one person he'd been telling it to all year.
 
@@ -13,3 +13,5 @@ He found his son walking to the car after the game and didn't excuse it or expla
 **Today:** Think of one thing you've been telling your kids to do that you haven't been doing yourself. Name it honestly, apologize if it's warranted, and change the specific behavior today, not just the wording of the lecture. Say to yourself: "My kids learn from what I do more than what I say, so today my example leads."
 
 **Prayer:** Father in Heaven, forgive me for the times my example has undercut everything I've told my kids to become. Give me the humility to admit it plainly when I fail to live up to my own words. Let my conduct teach what my lectures alone never could. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+1 TIMOTHY 4:12

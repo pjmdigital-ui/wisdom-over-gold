@@ -6,7 +6,7 @@ He mentioned it to his father that weekend, expecting something like pride back.
 
 *Once I have enough saved, I'll finally be secure* — that was the sentence Dustin had been building his whole financial life around without ever writing it down, the sticky-note number standing in for something closer to salvation than savings.
 
-Christ tells a story about exactly this man. A rich landowner, after a windfall harvest, decides to tear down his barns and build bigger ones: "And I will say to my soul, Soul, you have ample goods laid up for many years; take your ease, eat, drink, be merry" (Luke 12:19, RSV-CE). That night, God speaks directly into the plan: "Fool! This night your soul is required of you; and the things you have prepared, whose will they be?" (Luke 12:20, RSV-CE). Christ closes the parable with the verdict plainly stated: "So is he who lays up treasure for himself, and is not rich toward God" (Luke 12:21, RSV-CE).
+Christ tells a story about exactly this man. A rich landowner, after a windfall harvest, decides to tear down his barns and build bigger ones, and tells himself he can finally sit back and enjoy years of plenty he's now sure he has coming. That night, God speaks directly into the plan, calling the man a fool and asking him plainly who will end up with everything he's built, since his life is being demanded of him this very night. Christ closes the parable with the verdict plainly stated in Luke 12:21: that is what happens to a man who stores up treasure for himself while remaining poor in what actually matters to God.
 
 Scripture nowhere condemns a full barn. The rich fool's failure was mistaking the barn for the foundation his soul actually stood on — treating a number, however large, as a kind of security only God can actually provide. The barn can be seized, taxed, inflated away, or simply outlived by the man who filled it, the way it very nearly was that same night.
 
@@ -17,3 +17,5 @@ The trust Dustin had already transferred onto that sticky note was the problem, 
 **Today:** Name the number, real or imagined, you've been treating as the point where you'd finally feel secure. Say out loud: "My security is God, not this number." Then give something away this week that the old version of that sentence would never have allowed.
 
 **Prayer:** Father in Heaven, I've built a floor out of savings and called it security, when only You can actually hold me up. Forgive me for trusting a number more than I trust You. Teach me to hold what I've saved with an open hand, ready to give even while I plan ahead. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+LUKE 12:19-21

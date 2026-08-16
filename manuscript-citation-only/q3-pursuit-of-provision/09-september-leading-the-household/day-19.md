@@ -4,7 +4,7 @@ Malcolm helped his son load the last box into the car three weeks before move-in
 
 That assumption is where the belief hid: *watching me will teach him everything he needs; I don't need to actually say it.* It's a comfortable belief, because it asks nothing of a father beyond continuing to do what he was already doing. It also leaves the most important things unsaid indefinitely, on the theory that they're somehow being absorbed anyway.
 
-Scripture doesn't let a father off with example alone. St. Paul tells Titus, "Likewise urge the younger men to control themselves. Show yourself in all respects a model of good deeds, and in your teaching show integrity, gravity" (Titus 2:6-7, RSV-CE). The model and the teaching sit side by side in that sentence, both required, neither substituting for the other. A young man needs to see the thing lived and hear it named. One without the other leaves half the lesson missing.
+Scripture doesn't let a father off with example alone. In Titus 2:6-7, St. Paul tells Titus to urge the younger men toward self-control, and to be a model of good deeds himself in every respect — showing integrity and seriousness not only in how he lives but in how he teaches. The model and the teaching sit side by side in that instruction, both required, neither substituting for the other. A young man needs to see the thing lived and hear it named. One without the other leaves half the lesson missing.
 
 **On St. Louis IX of France:** before Louis left on crusade, not knowing whether he would return, he wrote his son Philip a set of instructions — not a strategy for ruling, but how to love God, deal justly, care for the poor, and keep his own soul intact under the weight of power. Louis didn't trust that a crown alone would teach his son how to wear it well. He wrote it down, plainly, because he understood that some things a son needs said to him directly, not left to inference.
 
@@ -13,3 +13,5 @@ Malcolm didn't have a crusade or a crown, just a driveway and three weeks before
 **Today:** Write your son or daughter a short, specific letter naming one or two convictions you want them to carry, things you've assumed they already know. Give it to them today, in writing, instead of trusting your example to say it for you.
 
 **Prayer:** Lord God Almighty, forgive me for assuming my children will absorb what matters most without my ever saying it plainly. Give me the words today to put into writing what I've only shown, and the courage to hand it over. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+TITUS 2:6-7

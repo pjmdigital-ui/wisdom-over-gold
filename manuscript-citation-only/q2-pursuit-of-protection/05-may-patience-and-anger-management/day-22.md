@@ -6,10 +6,12 @@ He wasn't an angry man. People who knew him would have said the opposite — eve
 
 That's the part explosive anger doesn't have and the slow burn does: patience. Leif had been patient with his resentment for six years, tending it carefully, never confronting it and never releasing it either — just keeping it warm. A man who blows up at least clears the air, however badly. A man who simmers keeps the fire lit and calls it being the bigger person.
 
-Leviticus names exactly two paths for a grievance, not a third way, and says only one of them avoids sin: "You shall not hate your brother in your heart, but you shall reason with your neighbor, lest you bear sin because of him" (Leviticus 19:17, RSV-CE). Notice what the verse doesn't say. It doesn't say pretend the offense never happened. It doesn't say let it go and never speak of it. It says reason with him — go say the actual thing, out loud, to the person who did it. The alternative is hatred that has learned to hold very still and call itself peace.
+Leviticus names exactly two paths for a grievance, not a third way, and says only one of them avoids sin. Leviticus 19:17 instructs against carrying hatred toward a brother silently in your heart, and calls instead for going and speaking honestly with your neighbor about it, so you don't end up sharing in his guilt by staying quiet. Notice what the verse doesn't say. It doesn't say pretend the offense never happened. It doesn't say let it go and never speak of it. It says go speak honestly with him — say the actual thing, out loud, to the person who did it. The alternative is hatred that has learned to hold very still and call itself peace.
 
 Leif's silence at Thanksgiving looked like restraint from across the table. From inside it, it was six years of unpaid debt collecting interest in a place his brother-in-law would never see it coming due.
 
 **Today:** Name the one relationship where you've been keeping a ledger instead of having a conversation. Say to yourself: "Staying silent about this is a debt I keep charging interest on, not peace." Then reach out and say one honest sentence about it to the actual person, not to yourself at two in the morning.
 
 **Prayer:** Father in Heaven, I've mistaken silence for peace more than once, letting resentment stay warm instead of bringing it into the open where it could be dealt with. Give me the courage to reason honestly with the people I've been keeping a private score against. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+LEVITICUS 19:17

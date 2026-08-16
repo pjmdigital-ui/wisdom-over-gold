@@ -6,7 +6,7 @@ His brother-in-law, debt-free by choice and a little insufferable about it at fa
 
 *Everybody carries some debt — it's just how life works now* — that was the actual belief underneath Tobias's eleven thousand dollars, never stated as plainly as that but doing all the work anyway. Debt had stopped registering as a real number with a real cost and started registering as background noise, the same category as gas prices or the weather, a fact of modern life rather than a decision with consequences he was living inside every month.
 
-Solomon draws a much sharper line than "how life works now": "The rich rules over the poor, and the borrower is the slave of the lender" (Proverbs 22:7, RSV-CE). Slave is the actual word Solomon reaches for, not inconvenience, not annoyance, not a line item. A debt a man carries casually is still, in the plain terms of Proverbs, someone else's claim on his future work. Every dollar of that eleven thousand had already been spent, but the labor to pay it back was still owed, month after month, to whoever held the note — a real master, even if the monthly payment felt too small to notice.
+Solomon draws a much sharper line than "how life works now": in Proverbs 22:7 he says the one with wealth rules over the one without it, and the man who borrows makes himself a slave to the one who lent him the money. Slave is the actual word Solomon reaches for, not inconvenience, not annoyance, not a line item. A debt a man carries casually is still, in the plain terms of Proverbs, someone else's claim on his future work. Every dollar of that eleven thousand had already been spent, but the labor to pay it back was still owed, month after month, to whoever held the note — a real master, even if the monthly payment felt too small to notice.
 
 That word doesn't land as an exaggeration once a man actually does the math Tobias had been avoiding. Interest compounding on a revolving balance for over a year had already cost him more than the couch and the phone combined were worth. He was paying rent on money someone else still owned, not for the things he'd already bought and used up months ago.
 
@@ -15,3 +15,5 @@ Freedom, in Proverbs' terms, means no lender holds a claim on tomorrow's paychec
 **Today:** Pull up every balance you're carrying — cards, loans, financing plans — and read the actual interest rate on each one, out loud, today. Write the total interest you'll pay this year alone if nothing changes. Then pick the smallest balance and pay more than the minimum on it this week.
 
 **Prayer:** Father in Heaven, I've treated debt as background noise instead of the real claim on my future that it is. Show me every place I've let a lender's terms shape my freedom without my noticing. Give me the discipline to work my way out from under what I owe. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+PROVERBS 22:7

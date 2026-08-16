@@ -6,10 +6,12 @@ Four different rooms — the kitchen, the highway, the phone, the hallway before
 
 The kid didn't deserve the volume. The driver didn't cause the account you lost. The stranger online wasn't worth the hour you gave him. In every one of those rooms, you were managing your own discomfort — and the fastest, easiest way to unload discomfort is on the person standing closest to you, whether or not they had anything to do with causing it.
 
-James names the alternative not as a single virtue but as a whole different way of operating: "the wisdom from above is first pure, then peaceable, gentle, open to reason, full of mercy and good fruits, without uncertainty or insincerity" (James 3:17, RSV-CE). Read that list slowly. Peaceable. Gentle. Open to reason. Full of mercy. Not one of those words describes a man reacting to what's closest at hand. Every one describes a man who has already decided, before the moment arrives, what kind of man he's going to be inside it.
+James names the alternative not as a single virtue but as a whole different way of operating. James 3:17 describes wisdom that comes from above as pure first, and then peace-loving, gentle, willing to yield, full of mercy and good results, free of favoritism or pretense. Read that list slowly. Peaceable. Gentle. Open to reason. Full of mercy. Not one of those words describes a man reacting to what's closest at hand. Every one describes a man who has already decided, before the moment arrives, what kind of man he's going to be inside it.
 
 That's the difference between this week's four scenes and the man James describes — not that the wise man never feels the spike of anger, but that he's already decided what he does with it before the kid spills the water, before the truck brakes for no reason, before the phone lights up at midnight.
 
 **Today:** Pick one of this week's four rooms — kids, traffic, screens, or the body under pressure — and write one sentence about what you're actually going to do differently there next time it happens. Keep the sentence somewhere you'll see it before you're back in that room.
 
 **Prayer:** Lord God Almighty, this week showed me how many different rooms my anger is willing to walk into, and how rarely it was ever about the room I was standing in. Give me the wisdom from above James describes, decided ahead of time instead of reached for in the moment. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+JAMES 3:17

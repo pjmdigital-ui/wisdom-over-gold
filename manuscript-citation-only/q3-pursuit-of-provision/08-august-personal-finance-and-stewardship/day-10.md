@@ -4,7 +4,7 @@ Tate stood at the counter of the electronics store with his card already out, wa
 
 Why deny himself something he could technically afford, if he wanted it now and the payments were manageable? That was the question running under the whole decision, and it sounded reasonable enough to keep him standing at the register instead of walking away. Nobody was forcing this purchase. He had a job, he had credit available, and the emotional case for waiting felt thin next to the size of the television in front of him.
 
-St. Paul frames the question differently, using an athlete as the example. "Every athlete exercises self-control in all things. They do it to receive a perishable wreath, but we an imperishable" (1 Corinthians 9:25, RSV-CE). The athlete Paul has in mind restrains himself because he's chasing something better than the immediate craving, not because the thing he's avoiding is evil, and getting there requires saying no to a hundred smaller yeses along the way. The discipline itself matters less than what it earns.
+St. Paul frames the question differently, using an athlete as the example. In 1 Corinthians 9:25 he points out that every athlete in training disciplines himself in every area — all for a prize that won't even last, a wreath that withers within days, while the prize a Christian is after never fades. The athlete Paul has in mind restrains himself because he's chasing something better than the immediate craving, not because the thing he's avoiding is evil, and getting there requires saying no to a hundred smaller yeses along the way. The discipline itself matters less than what it earns.
 
 Tate's want wasn't wrong. Wanting a nicer television is not a moral failure. What was missing was any evidence that he could say no to a want just because he'd decided to, rather than because his bank account eventually forced the issue for him. A man who can't delay a purchase he can technically finance is a man whose money decisions are being made by his impulses, not by him — and that habit doesn't stay contained to televisions. It shows up again with trucks, vacations, and every future decision that requires him to want something now and choose something better later.
 
@@ -13,3 +13,5 @@ He put the television back on the shelf and bought the phone charger. By itself,
 **Today:** Identify the next non-essential purchase you're tempted to make on credit, and wait thirty days before buying it — no exceptions, no rationalizing. Tell yourself out loud: "I can want this and still say no to it today. My money answers to my decisions, not my urges."
 
 **Prayer:** Father in Heaven, thank You for every want You've given me the strength to say no to before. Build that same self-control into how I spend money, not just how I spend my time. Let today's small no be practice for the bigger ones still coming. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+1 CORINTHIANS 9:25

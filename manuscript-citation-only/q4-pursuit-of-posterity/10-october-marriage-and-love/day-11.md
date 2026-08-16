@@ -4,7 +4,7 @@ Julius sat in the garage a little after midnight, engine cold, radio off, turnin
 
 He let himself run the number he'd been avoiding: what would actually happen if he left. Not an affair, nothing that dramatic — just an honest inventory of an exit. He told himself the reasonable version of it, the one that sounded almost noble: he'd promised a version of himself who felt a certain way about her twelve years ago, in a tux, at twenty-six, and a man wasn't obligated to keep honoring feelings he no longer had. The vow, in his private accounting, had an expiration date built into it that nobody had mentioned out loud at the altar.
 
-Scripture doesn't leave that kind of accounting room to work with. Numbers records the law given about a vow made to God: "When a man vows a vow to the LORD, or swears an oath to bind himself by a pledge, he shall not break his word; he shall do according to all that proceeds out of his mouth" (Numbers 30:2, RSV-CE). The weight of the vow doesn't rest on how the man feels the day he's asked to keep it. It rests on the fact that he said it, in front of God, and God takes a man's word seriously even on the days the man doesn't.
+Scripture doesn't leave that kind of accounting room to work with. Numbers 30:2 lays down the law given about a vow made to God: a man who makes a vow to the Lord, or binds himself by an oath, is not to break his word — he's held to everything he said. The weight of the vow doesn't rest on how the man feels the day he's asked to keep it. It rests on the fact that he said it, in front of God, and God takes a man's word seriously even on the days the man doesn't.
 
 A wedding vow is exactly this kind of vow: a word given in front of God, meant to hold regardless of the feeling underneath it on any given day. Julius had made his in front of a priest and forty witnesses and, more to the point, in front of God, and no amount of exhaustion in this season changed what he'd actually said that day. What he wanted was an exit from something hard, and the vow was the one obstacle standing between him and calling that exit reasonable.
 
@@ -13,3 +13,5 @@ He put the ring back on before he went inside — a small, almost embarrassing g
 **Today:** Say your wedding vow out loud today, the actual words if you remember them, or the substance of them if you don't — "for better or worse, until death." Tell yourself plainly: "I gave my word, and my word still holds, whatever season we're in right now."
 
 **Prayer:** Lord God Almighty, some seasons make my promise feel heavier than the day I made it, and I've caught myself looking for a reasonable-sounding way out. Remind me that my word to her was also a word to You, and hold me to it even on the days I'd rather You didn't. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+NUMBERS 30:2

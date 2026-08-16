@@ -4,7 +4,7 @@ Jonathan had been texting with someone on the client's side for months before he
 
 He was in a hotel room in Denver when her name lit up his phone at 11pm and his hand went for it before his mind caught up with what it was doing. He didn't answer. He sat there long enough to notice how badly he'd wanted to.
 
-*Nothing's actually happened, so nothing's actually wrong* — that was the ground Jonathan had been standing on, and it was thinner than he wanted to admit. Job made a different kind of decision, one he named out loud as a settled fact rather than a feeling he'd wait to have: "I have made a covenant with my eyes; how then could I look upon a virgin?" (Job 31:1, RSV-CE). Job made the decision before temptation ever arrived, not after — a covenant, a binding decision settled in advance rather than negotiated in the moment of testing.
+*Nothing's actually happened, so nothing's actually wrong* — that was the ground Jonathan had been standing on, and it was thinner than he wanted to admit. Job made a different kind of decision, one he named out loud as a settled fact rather than a feeling he'd wait to have. In Job 31:1, he declares that he had already bound himself by a covenant concerning his own eyes, ruling out even looking at a young woman with desire. Job made the decision before temptation ever arrived, not after — a covenant, a binding decision settled in advance rather than negotiated in the moment of testing.
 
 That's the piece Jonathan had skipped. He'd been relying on willpower in the exact moment a text lit up his phone, which is the moment a man is least equipped to decide anything well. A covenant gets made earlier, on a boring Tuesday afternoon with nothing on the line, precisely so it's already decided by the time the moment with something on the line arrives.
 
@@ -13,3 +13,5 @@ Jonathan flew home Thursday and told Charlotte everything — the months of text
 **Today:** Name one relationship, app, or habit that's drifted somewhere it shouldn't have — even if nothing has "happened" yet — and make a covenant with your eyes about it today: a specific line you're drawing before the next test, not during it. Tell your wife what the covenant is and why you're making it.
 
 **Prayer:** Father in Heaven, I've let myself believe that thinking and looking don't cost anything as long as I never act. Give me Job's kind of resolve — a decision made in advance, not a willpower test I keep gambling on in the moment. Guard my eyes and my heart before the next test arrives, not just after. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+JOB 31:1

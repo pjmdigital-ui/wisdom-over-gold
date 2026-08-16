@@ -8,10 +8,12 @@ It's the same principle as the run I don't want to go on at 5:30 a.m., not a tri
 
 Underneath that reflex sits a belief a lot of men carry around unexamined: *I can't control how I react — my temper is just how I'm wired.* That belief doesn't survive close inspection any better than "I'm just not a runner" survives a training plan. Both are trainable. Neither is fixed.
 
-Scripture puts the qualities together in Titus, not as separate virtues but as one description of a man fit to lead: he must not be "arrogant or quick-tempered" (Titus 1:7, RSV-CE), but instead "master of himself, upright, holy, and self-controlled" (Titus 1:8, RSV-CE). Master of himself. Not naturally calm. Not lucky with his temperament. Master — a word that implies practice, repetition, a body brought under command on purpose, the same way you'd train a muscle.
+Scripture puts the qualities together in Titus, not as separate virtues but as one description of a man fit to lead. Titus 1:7-8 says he can't be arrogant or quick-tempered, but instead has to be a man in command of himself — upright, holy, disciplined. In command of himself. Not naturally calm. Not lucky with his temperament. In command — a word that implies practice, repetition, a body brought under command on purpose, the same way you'd train a muscle.
 
 The eight people in that conference room never knew what the hallway cost me. They just saw a man who opened with the numbers instead of an excuse. That's the whole point of the training — nobody sees the breath. They only see what it bought you.
 
 **Today:** The next time you feel anger rise before you've had a chance to think it through, do four rounds of the breath: four counts in, six counts out. Say to yourself while you do it: "My body can be trained, and so can this."
 
 **Prayer:** Father in Heaven, I've let my body make my decisions for me more times than I want to count, calling it just my temper instead of something I could train. Make me a man who is master of himself, the way Your Word describes, one breath and one hard morning at a time. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+TITUS 1:7-8

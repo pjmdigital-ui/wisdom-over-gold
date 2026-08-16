@@ -17,3 +17,5 @@ Adrian's group was supposed to function less like a hospital he could check out 
 **Today:** If you've quietly drifted from a group, a mentor, or a friend who once held you accountable, reach out today and go back — not because you're in crisis, but because you're not. Say plainly: "I don't stay in community because I'm broken. I stay because staying is how I don't become broken again."
 
 **Prayer:** Father in Heaven, I have treated the help You sent me as a debt I could pay off and walk away from. Keep me in the rooms and relationships that formed me, even now that the crisis has passed. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+HEBREWS 10:24-25

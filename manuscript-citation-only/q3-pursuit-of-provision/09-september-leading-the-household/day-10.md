@@ -15,3 +15,5 @@ Tuesday's results came back clear. But the four days in between taught Ethan som
 **Today:** Name a place in your marriage or fatherhood right now where you've been performing calm instead of leaning on God's presence for real. Tell your wife the truth about how you're actually doing, out loud, tonight: "I'm not the one holding this together. God is, and I get to lean on that instead of faking it."
 
 **Prayer:** Father in Heaven, thank You for staying present through a week I didn't handle as well as I wanted to. Forgive me for hiding behind a calm face instead of leaning on You where my family could see it. Let my steadiness come from Your presence this week, not my own performance. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+JOSHUA 1:9

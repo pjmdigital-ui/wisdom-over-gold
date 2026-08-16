@@ -8,10 +8,12 @@ Six weeks in, Kayla sent something clearly flirtatious, and Aaron didn't respond
 
 "Protecting her" was the belief Aaron used to justify withholding, and it's one of the more convincing ones a man tells himself, because it borrows the language of love while doing the opposite of what love requires. He was protecting himself from an uncomfortable conversation, and dressing the decision up as care for Rachel so he wouldn't have to look at it plainly.
 
-St. Paul's instruction to the Ephesians doesn't leave room for that kind of managed disclosure between people who belong to each other: "Therefore, putting away falsehood, let every one speak the truth with his neighbor, for we are members one of another" (Ephesians 4:25, RSV-CE). A husband and wife are the closest possible fit for "members one of another" — not two separate parties negotiating what the other needs to know, but one body where withholding from her is functionally withholding from himself.
+St. Paul's instruction to the Ephesians doesn't leave room for that kind of managed disclosure between people who belong to each other: he tells them to put away lying and speak truthfully with one another, because they belong to each other as parts of the same body. A husband and wife are the closest possible fit for that kind of belonging — not two separate parties negotiating what the other needs to know, but one body where withholding from her is functionally withholding from himself.
 
 Rachel didn't need protecting from six weeks of harmless-sounding texts. She needed the whole truth on day one, so she could trust the account Aaron gave her of his own life, including the parts that were genuinely nothing.
 
 **Today:** Tell your wife the thing you've been managing rather than sharing — the version of events you've been editing down to avoid a hard conversation. Give her the whole account today, including the part where you decided not to tell her sooner.
 
 **Prayer:** Father in Heaven, I've called it protecting her when it was really protecting myself from a conversation I didn't want to have. Give me the courage to give my wife the whole truth, not the edited version. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+EPHESIANS 4:25

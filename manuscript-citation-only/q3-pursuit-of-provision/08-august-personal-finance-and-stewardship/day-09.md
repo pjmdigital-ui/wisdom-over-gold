@@ -4,7 +4,7 @@ The mechanic called Marsh on a Thursday afternoon with the number: twenty-six hu
 
 "We'll catch up next month," he told her that night, the way he always told her. He believed it too, mostly. Marsh ran a decent HVAC business, brought in enough most months, and had never once sat down and asked what would happen the month something big broke — because in his mind, something big breaking was a problem for whenever it actually showed up, not a thing worth preparing for in advance. He worked hard. He figured hard work was the backup plan.
 
-Scripture points him somewhere he wasn't looking. "Go to the ant, O sluggard; consider her ways, and be wise. Without having any chief, officer or ruler, she prepares her food in summer, and gathers her sustenance in harvest" (Proverbs 6:6-8, RSV-CE). Nobody assigns the ant her task. No foreman stands over her ordering the summer's work. She stores food in the season of plenty because the season of need is coming whether she plans for it or not, and by the time it arrives, planning is no longer an option — only rationing is.
+Scripture points him somewhere he wasn't looking. Proverbs 6:6-8 sends the lazy man to go study the ant: with no boss and no one standing over her, she stores up her food in summer and gathers her supply at harvest, wise enough on her own to prepare before she has to. Nobody assigns the ant her task. No foreman stands over her ordering the summer's work. She stores food in the season of plenty because the season of need is coming whether she plans for it or not, and by the time it arrives, planning is no longer an option — only rationing is.
 
 Marsh's hustle is real, but hustle only ever answers a need after it's already standing in front of him with a bill attached. The ant doesn't wait for winter to teach her discipline. She works while the sun is still out and nothing is urgent yet, precisely because urgency is a terrible time to start building margin. A man who only ever responds to crisis will spend his whole life one bad month behind, no matter how hard he works inside each of those months.
 
@@ -13,3 +13,5 @@ An emergency fund is the ant's harvest for a man who doesn't have room to spare 
 **Today:** Open a separate savings account — even if you fund it with fifty dollars to start — and set up an automatic transfer into it before you do anything else with today's paycheck. Say it plainly: "I prepare before the trouble arrives; I don't wait for trouble to teach me."
 
 **Prayer:** Lord God Almighty, forgive me for treating every crisis as a surprise when so many of them were foreseeable. Give me the discipline to prepare in the calm months instead of scrambling in the hard ones. Teach me the ant's patience with money the way You've already taught me the ant's patience with work. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+PROVERBS 6:6-8

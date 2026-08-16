@@ -15,3 +15,5 @@ Dean's eight thousand dollars is gone. What isn't gone is the plain fact that th
 **Today:** Before your next negotiation — a deal, a raise, a price on something you're selling — write down any information you know that the other side doesn't, and decide now, before you're in the room, that you'll volunteer it rather than let their ignorance set the price.
 
 **Prayer:** Lord God Almighty, I've treated negotiating as a place where the normal rules bend, and I want to stop pretending that's true. Let my word carry the same weight at the table as it does everywhere else. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+PROVERBS 11:1

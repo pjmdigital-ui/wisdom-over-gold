@@ -6,10 +6,12 @@ He caught himself doing it and didn't love what he saw. Ives was a good electric
 
 That's the belief worth naming: *if I teach him everything I know, I make myself replaceable.* It feels like self-protection. It's actually a slow theft — from Milo, who's paying attention and deserves the real answer, and from the trade itself, which only stays strong if the men who know it pass the whole thing on instead of the edited version.
 
-St. Paul wrote to a younger man he was training for exactly this kind of moment, and he didn't hedge: "and what you have heard from me before many witnesses entrust to faithful men who will be able to teach others also" (2 Timothy 2:2, RSV-CE). Entrust — not hoard, not ration out in a way that keeps you needed. Paul's whole instruction to Timothy assumes the knowledge is meant to keep moving, generation past generation, and that a teacher who sits on what he knows has misunderstood what it was for.
+St. Paul wrote to a younger man he was training for exactly this kind of moment, and he didn't hedge. In 2 Timothy 2:2, he tells Timothy to take everything he's heard Paul teach, in front of many witnesses, and hand it off to trustworthy men who are capable of teaching it to still others after them. Entrust — not hoard, not ration out in a way that keeps you needed. Paul's whole instruction to Timothy assumes the knowledge is meant to keep moving, generation past generation, and that a teacher who sits on what he knows has misunderstood what it was for.
 
 **On St. John Baptist de La Salle:** De La Salle gave up a comfortable position as a canon and spent his life training teachers for poor children who had no one else willing to educate them — founding schools, writing the curriculum, living alongside the men he trained instead of directing them from a distance. He built something specifically so it wouldn't depend on him: an order of teaching brothers who could carry the work forward long after he was gone. He wanted the work to outlast him, not to keep himself indispensable to it.
 
 **Today:** Think of the one skill or shortcut you've been giving the shortened version of to someone junior to you — a coworker, an apprentice, your own kid. Teach them the full version today, the part that actually took you years to learn, without holding anything back.
 
 **Prayer:** Lord God Almighty, forgive me for guarding what You taught me instead of passing it on freely. Give me the confidence to build men who can do this work as well as I can, or better. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+2 TIMOTHY 2:2

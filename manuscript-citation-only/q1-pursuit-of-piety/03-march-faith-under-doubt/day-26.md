@@ -6,10 +6,12 @@ Always believed. That wasn't true. Kingsley had walked away from the Church for 
 
 It isn't. Kingsley has been operating on a belief he never examined: *if I live the faith in front of him, he'll absorb the story on his own.* Watching and knowing are not the same thing, and the letter in his hands was the proof — his son could describe the routine down to the pew number and still get the actual story wrong, because nobody had ever sat him down and told him what really happened.
 
-The psalmist assumes something Kingsley's generation let slip without ever deciding to: that the story has to be spoken, deliberately, or it doesn't survive the next generation intact. "We will not hide them from their children, but tell to the coming generation the glorious deeds of the LORD, and his might, and the wonders which he has wrought" (Psalm 78:4, RSV-CE). Not display them. Not model them and hope. *Tell.* The psalm is written as a promise a father makes out loud, because the writer knew exactly how easily a real story turns into a vague impression by the third generation if nobody says the words.
+The psalmist assumes something Kingsley's generation let slip without ever deciding to: that the story has to be spoken, deliberately, or it doesn't survive the next generation intact. In Psalm 78:4, the writer commits to not hiding any of it from the children — to telling the next generation outright about the Lord's mighty deeds and the wonders He's done. Not display them. Not model them and hope. Speak them. The psalm is written as a promise a father makes out loud, because the writer knew exactly how easily a real story turns into a vague impression by the third generation if nobody says the words.
 
 Kingsley's son isn't going to reconstruct a broken engagement and a Christmas Eve pew from watching his father say grace before dinner. He needs the actual sentences — what happened, what Kingsley believed before, what changed, what he believes now and why. That story is the inheritance, not the routine that resulted from it.
 
 **Today:** Sit down with your kid — tonight, this week, don't let it drift — and tell your actual faith story out loud: what you believed, what happened, what's different now. Say it plainly: *I'm telling you this because you deserve to know the real story, not just watch the routine it left behind.* Then let them ask you anything.
 
 **Prayer:** Father in Heaven, I've let my kids watch my faith instead of hearing it, and I know a routine isn't the same as a story. Give me the words and the nerve to tell them what actually happened in me, before I assume they already know. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+PSALM 78:4

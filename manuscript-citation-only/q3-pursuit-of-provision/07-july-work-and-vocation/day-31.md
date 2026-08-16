@@ -1,6 +1,6 @@
 # Day 31 — What Provision Actually Means
 
-Vernon remembers exactly where he was on July 1st when he read the verse that opened this month, because it landed like an accusation. "If any one does not provide for his relatives, and especially for his own family, he has disowned the faith and is worse than an unbeliever" (1 Timothy 5:8, RSV-CE). He'd read it the way most men do the first time — as a scorecard on his paycheck. Was he making enough. Was the mortgage covered, the retirement account funded, the number on the pay stub respectable enough to count as providing. By that measure he'd graded himself decent enough and moved on with his July.
+Vernon remembers exactly where he was on July 1st when he read the verse that opened this month, because it landed like an accusation — 1 Timothy 5:8, the line about a man who fails to provide for his own household having, in effect, denied his faith and sunk lower than someone who never believed at all. He'd read it the way most men do the first time — as a scorecard on his paycheck. Was he making enough. Was the mortgage covered, the retirement account funded, the number on the pay stub respectable enough to count as providing. By that measure he'd graded himself decent enough and moved on with his July.
 
 Thirty days later, on the last night of the month, Vernon read the same verse again and heard something he'd missed the first time.
 
@@ -17,3 +17,5 @@ July asked what provision actually means. Vernon's answer, thirty-one days in, h
 **Today:** Write the true belief in your own words: *Provision means tending everything God has put in my hands, not just cashing the paycheck at the end of the week.* Then do one act of provision today that has nothing to do with money — check on someone who's easy to overlook, finish the unglamorous task nobody's watching, have the conversation you've been putting off.
 
 **Prayer:** Lord God Almighty, thank You for a month that stretched what I thought providing meant. Let me leave July as a man who tends what You've entrusted to me, in the unseen places as much as the visible ones, and carry that into whatever comes next. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+1 TIMOTHY 5:8

@@ -6,7 +6,7 @@ He caught his own reflection in the dark television screen while he stood there 
 
 *I'll really be present once things calm down at work, once I'm not this wound up.* Pierce had been telling himself some version of that for months, waiting for a version of himself worth getting down on the floor for — relaxed, unhurried, fully arrived. He kept mistaking his own tension for a reason to hold back instead of a reason to sit down anyway.
 
-The disciples had a version of this instinct too, guarding Jesus's time from a crowd of children they judged unworthy of His full attention. His response corrected the assumption directly: "But when Jesus saw it he was indignant, and said to them, 'Let the children come to me, do not hinder them; for to such belongs the kingdom of God'" (Mark 10:14, RSV-CE). Jesus didn't wait for a better moment to receive them. He didn't ask them to wait until He'd finished being fully Himself with the adults first. He turned His whole body toward them, arms open, exactly as He was.
+The disciples had a version of this instinct too, guarding Jesus's time from a crowd of children they judged unworthy of His full attention. His response corrected the assumption directly: in Mark 10:14, He grew indignant at the disciples for turning the children away and told them plainly to let the little ones come to Him, unhindered, because the kingdom of God belongs to ones just like them. Jesus didn't wait for a better moment to receive them. He didn't ask them to wait until He'd finished being fully Himself with the adults first. He turned His whole body toward them, arms open, exactly as He was.
 
 Marlow didn't need Pierce arriving calm, composed, and finished processing his day. She needed him on the floor, arms uncrossed, phone somewhere else, before any of that resolved. Presence is something a father can give in the middle of not having himself together at all, long before he has himself calm, composed, or finished processing anything — and most days, that half-together version is the only one on offer.
 
@@ -15,3 +15,5 @@ Marlow didn't need Pierce arriving calm, composed, and finished processing his d
 **Today:** The next time your kid asks you to get down on the floor, phone down, do it within sixty seconds — even mid-task, even unfinished inside. Notice what your body does when you actually turn toward them instead of just staying in the room.
 
 **Prayer:** Lord God Almighty, I've waited for a calmer version of myself before I gave my kids my full attention, when they needed me as I actually was. Thank You for a Savior who turned toward children exactly as He was, arms open, no better moment required. Teach me to get down on the floor today, tension and all, instead of waiting for it to pass. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+MARK 10:14

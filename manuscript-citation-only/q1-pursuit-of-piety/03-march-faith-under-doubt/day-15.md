@@ -6,10 +6,12 @@ By the time he sets the phone down, Nate has run a full inventory without meanin
 
 That's how comparison works on every man who lets his attention run unsupervised. The things you don't have announce themselves. The things you already have go quiet, precisely because they're not asking anything of you. A man can live inside a life full of real gifts and still spend every night mentally itemizing the handful of things absent from it, and after enough nights, that inventory starts to feel like the truth of his life instead of a small, distorted slice of it.
 
-St. Paul wrote to the Philippians from a prison cell — not a metaphorical one, an actual cell, with real reasons to catalog what he lacked. Instead he wrote: "Not that I complain of want; for I have learned, in whatever state I am, to be content. I know how to be abased, and I know how to abound; in any and all circumstances I have learned the secret of facing plenty and hunger, abundance and want" (Philippians 4:11-12, RSV-CE). Paul is explicit that this wasn't natural to him — he says he *learned* it. Contentment is a skill built over time, not a personality trait some men are handed and others aren't.
+St. Paul wrote to the Philippians from a prison cell — not a metaphorical one, an actual cell, with real reasons to catalog what he lacked. Instead, in Philippians 4:11-12, he tells them he isn't speaking out of need, because he has trained himself to be at peace no matter what his circumstances are — whether he has little or much, whether he's going hungry or well fed. Paul is explicit that this wasn't natural to him — he says he had to train himself into it. Contentment is a skill built over time, not a personality trait some men are handed and others aren't.
 
 Nate's real problem was that his attention had been trained, ten minutes a night, to inventory absence instead of presence. That's a trainable habit, which means it's also retrainable.
 
 **Today:** Before you pick up your phone tonight, write two short lists: what you don't have that you've been dwelling on, and what's truly present in your life right now — specific, not vague. Read the second list out loud. Then say: *What I have is real, and I've been letting what I lack drown it out.*
 
 **Prayer:** Lord God Almighty, I've spent too many nights cataloging what's missing while the life You've truly given me sat unnoticed a few feet away. Teach me the contentment Paul had to learn, and quiet the part of me that keeps score against other men. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+PHILIPPIANS 4:11-12

@@ -4,10 +4,12 @@ The life insurance agent had called Vaughn three times over the past year, and t
 
 That question sounds spiritual. It isn't. It treats faith and preparation as competitors, as though reaching for an umbrella means you doubt the sun will ever come back out. Vaughn wears his seatbelt every time he drives without wondering whether it insults God's protection over the road. He locks his front door at night without treating the lock as a statement of distrust. Somehow, only in the specific case of his family's financial protection, he'd let a vague spiritual instinct talk him out of ordinary responsibility.
 
-Proverbs draws a hard line between two kinds of men facing the same road: "A prudent man sees danger and hides himself; but the simple go on, and suffer for it" (Proverbs 27:12, RSV-CE). The prudent man in that verse sees the same danger as the simple man walking beside him and takes it seriously enough to act. The simple man is just unprepared, and the verse doesn't romanticize what that costs him. Prudence, in Scripture's own accounting, is wisdom. Presumption — walking into danger and calling it trust — is the thing Scripture actually warns against.
+Proverbs draws a hard line between two kinds of men facing the same road, in Proverbs 27:12: the sensible man spots danger ahead and takes cover, while the reckless one just keeps walking into it and pays the price. The prudent man in that verse sees the same danger as the simple man walking beside him and takes it seriously enough to act. The simple man is just unprepared, and the verse doesn't romanticize what that costs him. Prudence, in Scripture's own accounting, is wisdom. Presumption — walking into danger and calling it trust — is the thing Scripture actually warns against.
 
 Vaughn's family would face the same grief either way if something happened to him. The only question prudence answers is whether they'd face it with a paid-off mortgage and a plan, or with grief stacked on top of a financial crisis he could have prevented with one phone call he kept avoiding. God's provision has never meant a man gets to skip the ordinary work of providing.
 
 **Today:** Make the one phone call or fill out the one form you've been avoiding under the cover of "trusting God" — the insurance quote, the will, the beneficiary update. Say plainly: "Trusting God and preparing for my family are the same act, not opposite ones."
 
 **Prayer:** Lord God Almighty, forgive me for hiding behind faith language to avoid ordinary responsibility. Give me the same care for my family's future that a prudent man gives to the road ahead of him. Let today's call be an act of trust, not a lack of it. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+PROVERBS 27:12

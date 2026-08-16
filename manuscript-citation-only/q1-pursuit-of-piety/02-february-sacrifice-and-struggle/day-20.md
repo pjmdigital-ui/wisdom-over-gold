@@ -13,3 +13,5 @@ Pride is rarely loud enough to recognize in the moment. It usually just sounds l
 **Today:** Go back to Mark's meeting in your own life — the mistake you've been explaining away instead of owning — and say the plain version out loud to the person it affects: "I was wrong, and here's what I got wrong." No qualifiers, no context that softens it first. Say it before you build the better-sounding version.
 
 **Prayer:** Father in Heaven, forgive me for the times I've protected my image instead of telling the truth about my own mistakes. Give me the humility to admit clearly where I was wrong, trusting that You honor honesty over appearances. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+PROVERBS 15:33

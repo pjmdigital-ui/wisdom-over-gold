@@ -6,10 +6,13 @@ Then I thought again about Moses at the rock — forty years leading a people wh
 
 That's an uncomfortable ledger to sit with. It would be easier if the story worked the way I want to believe mine does — that a long record of holding it together buys a man some room for the one time he doesn't. Moses's story says otherwise. The belief underneath my Sunday-night self-congratulation was exactly that: *I've earned enough good behavior this week that one blow-up wouldn't really cost anything.* Moses had earned more good behavior than I ever will, over a longer span than my one week, and the rock still cost him what it cost him. A track record isn't a bank of credit against future anger. Every moment stands on its own.
 
-The ask here is narrower and harder than despairing over one bad instant or demanding a flawless week: govern the next moment, this one, on its own terms, without borrowing against how well the last ten went. Psalm 37 puts it as a direct command, no qualifiers attached: "Refrain from anger, and forsake wrath! Fret not yourself; it tends only to evil" (Psalm 37:8, RSV-CE). Refrain — not eventually, not once you've built enough discipline, right now, in whatever moment is currently testing you. The verse asks for one governed instant at a time, repeated for the rest of a life, not a changed man by Friday.
+The ask here is narrower and harder than despairing over one bad instant or demanding a flawless week: govern the next moment, this one, on its own terms, without borrowing against how well the last ten went. Psalm 37 puts it as a direct command, no qualifiers attached: hold back from anger, let go of wrath, don't work yourself into a state over it — that path only leads somewhere worse. Not eventually, not once you've built enough discipline — right now, in whatever moment is currently testing you. The verse asks for one governed instant at a time, repeated for the rest of a life, not a changed man by Friday.
 
 What Moses's example asks of an ordinary man is the willingness to take each provoking moment as its own event, with its own stakes, regardless of how well yesterday went, not superhuman restraint forever — because yesterday's record was never the thing standing between him and the Promised Land. This one moment always was.
 
 **Today:** Look back honestly at one moment this week where you held it together and one where you didn't. Say plainly: "This next moment stands on its own — my track record doesn't cover it." Name out loud the specific situation most likely to test you again this coming week, before it arrives.
 
 **Prayer:** Father in Heaven, I've quietly counted on my better days to excuse my worse ones, the way Moses might have counted on forty years of faithfulness. Teach me to govern each moment as its own test, not as a bill against a balance I think I've already paid. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+NUMBERS 20:10-12
+PSALM 37:8
