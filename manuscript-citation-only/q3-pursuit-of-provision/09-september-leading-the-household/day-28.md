@@ -6,7 +6,7 @@ Monday had been about handing his kids' faith over to Sunday school and calling 
 
 Six different mornings, six different failures, one thread underneath all of them: Callahan had been treating his household like something to administer — assign the faith lessons, manage the crisis, correct the behavior, keep the schedule — instead of something to shepherd, which is a different job with a different posture entirely.
 
-St. Peter, writing to the elders of the early Church about exactly this distinction, could just as easily be writing to a father: "Tend the flock of God that is your charge, not by constraint but willingly, not for shameful gain but eagerly, not as domineering over those in your charge but being examples to the flock" (1 Peter 5:2-3, RSV-CE). Tend, not manage. Willingly, not because someone has to. By example, not by force. Every failure on Callahan's page that week traced back to one of those three words done backward — faith outsourced instead of tended, patience demanded instead of modeled, order enforced instead of offered.
+St. Peter, writing to the elders of the early Church about exactly this distinction, could just as easily be writing to a father. In 1 Peter 5:2-3, he tells them to shepherd the flock entrusted to them — not because they're forced to, but willingly; not chasing what's in it for them, but eagerly; not lording it over the people in their care, but leading by the example they set. Tend, not manage. Willingly, not because someone has to. By example, not by force. Every failure on Callahan's page that week traced back to one of those three words done backward — faith outsourced instead of tended, patience demanded instead of modeled, order enforced instead of offered.
 
 A shepherd gets his flock to follow by walking in front of them toward something worth reaching, day after ordinary day, until following him is just what they do — not by being right more often than they are.
 
@@ -15,3 +15,5 @@ Callahan closed the notebook without a clean resolution to any single failure fr
 **Today:** Read back through your own week — the small failures you'd rather not examine — and write one sentence naming where you managed your household instead of shepherding it. Say Peter's phrase out loud as your own aim: *I want to lead by example, not by force.*
 
 **Prayer:** Father in Heaven, You have shepherded me my whole life without ever once forcing me toward You. Teach me to lead my own household the same way — by example, not constraint, tending instead of managing. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+1 PETER 5:2-3

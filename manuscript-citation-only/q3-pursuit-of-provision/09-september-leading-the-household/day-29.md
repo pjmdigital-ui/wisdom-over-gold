@@ -8,7 +8,7 @@ August's pages turned to money, and they were harder to read back honestly. He'd
 
 September's pages, still fresh, were about the house those first two months had been funding without his ever asking whether it was actually being led. Faith formation he'd been outsourcing. A temper that didn't match his Sunday lessons. A rule he'd been enforcing on his kids and breaking himself under the table. A house that ran on correction instead of joy. Different failures than July's or August's, same shape underneath: something entrusted to him, treated for a while like something he'd earned the right to run however he pleased.
 
-St. Paul, defending his own ministry to a church quick to rank apostles against each other, names the actual standard that matters: "This is how one should regard us, as servants of Christ and stewards of the mysteries of God. Moreover it is required of stewards that they be found trustworthy" (1 Corinthians 4:1-2, RSV-CE). Trustworthy — not clever, not impressive, not even, primarily, successful — is the single word Paul uses for what a steward owes the owner of what's been entrusted to him.
+St. Paul, defending his own ministry to a church quick to rank apostles against each other, names the actual standard that matters. In 1 Corinthians 4:1-2, he says people should think of him and his fellow workers as servants of Christ, stewards entrusted with God's mysteries, and that the one thing required of any steward is to be found trustworthy with what's been placed in his care. Trustworthy — not clever, not impressive, not even, primarily, successful — is the single word Paul uses for what a steward owes the owner of what's been entrusted to him.
 
 Three months, three different things entrusted to Sullivan — his hands and his hours, his money, his household — and the same single question sitting underneath all three the whole time, whether he'd noticed it or not: when nobody was checking, was he running what he'd been given like it belonged to God or like it belonged to him?
 
@@ -17,3 +17,5 @@ Sullivan closed the notebook on a page that wasn't finished, because none of it 
 **Today:** Read back over your own last three months — actual notes if you kept any, memory if you didn't — and write one sentence naming the single thread connecting how you handled your work, your money, and your household. Say it out loud: *I don't own what's been given to me. I only get to be found trustworthy with it.*
 
 **Prayer:** Lord God Almighty, thank You for three months that showed me how much of my life was never actually mine to begin with — my work, my money, my household, all on loan from You. Find me trustworthy with everything You've entrusted to me, today and every day after. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+1 CORINTHIANS 4:1-2

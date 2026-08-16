@@ -4,10 +4,12 @@ Merton sat at his kitchen table late Sunday night, the house quiet, running back
 
 Different rooms, different circumstances, one question sitting underneath every story: does whatever happens to a man get the final say over what it means, or does Someone else? Merton had spent most of his life assuming the answer depended on the outcome — that hope was a verdict handed down after the fact, once he could see how things turned out.
 
-"We know that in everything God works for good with those who love him, who are called according to his purpose" (Romans 8:28, RSV-CE). St. Paul doesn't write that everything that happens is good — that isn't what the verse says, and it isn't what this week's stories showed either. He writes that God works for good in everything, present tense, ongoing, which is a different and harder claim: that the lost promotion, the empty chair, the waiting, the cell, the fear finally named for what it was — none of it sits outside what God is actively using.
+Romans 8:28 makes the claim plainly: that in everything, God is working for the good of those who love Him, who are called according to His purpose. St. Paul doesn't write that everything that happens is good — that isn't what the verse says, and it isn't what this week's stories showed either. He writes that God works for good in everything, present tense, ongoing, which is a different and harder claim: that the lost promotion, the empty chair, the waiting, the cell, the fear finally named for what it was — none of it sits outside what God is actively using.
 
 That claim doesn't hand a man a finished explanation for why any particular week went the way it did. It hands him something narrower and more usable: permission to stop waiting for the story to resolve before trusting that God is already working inside it. Merton hadn't solved anything major that week, his own or anyone else's. What had shifted was smaller and, he suspected, more durable: a growing suspicion that hope isn't a mood he was waiting to feel again, but a fact about who God is that held steady under five very different kinds of hard, none of them wrapped up neatly by Sunday night.
 
 **Today:** Look back at your own past week. Name one hard thing from it you haven't yet handed over to God, and say out loud, specifically about it: "God is working this for good, even now."
 
 **Prayer:** Lord God Almighty, this week showed me more than one way hope can survive a hard circumstance, and I want to actually believe it instead of just admiring it in other men's stories. Work for good in whatever I'm still carrying alone tonight. Keep me from mistaking a hard season for an abandoned one. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+ROMANS 8:28

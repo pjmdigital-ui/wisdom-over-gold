@@ -13,3 +13,5 @@ That's the race Zachary has stopped watching. Beckham's mile time is Beckham's r
 **Today:** Write down one sentence and say it out loud before you see Beckham tonight: "My race is my faithfulness as a father — not his stopwatch." Then ask him about his day without mentioning the meet, the time, or the recruiting emails first. Let him bring it up if he wants to.
 
 **Prayer:** Father in Heaven, forgive me for measuring my fatherhood by what shows up on a scoreboard instead of by my own faithfulness to You and to my son. Help me finish my own race well, whatever Beckham's turns out to look like, and let him know he's loved apart from anything he achieves. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+2 TIMOTHY 4:7
