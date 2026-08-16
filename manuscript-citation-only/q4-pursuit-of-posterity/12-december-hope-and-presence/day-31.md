@@ -4,7 +4,7 @@ This book opened on its very first page with a man named Mark, sitting in his tr
 
 You may have read that page on a January morning that feels like a different life now. You may be reading these two entries back to back this afternoon, the whole year compressed into an hour. Either way, underneath the truck and the deal and that empty feeling, Day One was only ever asking one question, and it's the same question this final page has to answer honestly: what are you seeking first?
 
-Here's the truth, in the same words the book opened on, verified again and unchanged: "But seek first his kingdom and his righteousness, and all these things shall be yours as well" (Matthew 6:33, RSV-CE).
+Here's the truth this whole book opened on, still standing exactly where it started: seek God's kingdom first, in the words of Matthew 6:33, and everything else — the deal, the marriage, the whole life a man is building — finds its place after that, not before it.
 
 A year of these pages hasn't made you a finished man. You know that better than anyone reading this could tell you. Some Tuesday in the last month probably still found you managing your marriage instead of loving it, or measuring your work by a number instead of a calling, or reaching for your own strength before it occurred to you to ask for help. St. Augustine's restless heart — the one this book named on its very first page — doesn't quiet permanently in a year, or in ten, or in a lifetime this side of heaven. It slowly learns to come home faster than it used to. That's the actual outcome a year like this one was built to produce.
 
@@ -15,3 +15,5 @@ Tomorrow this book ends and an ordinary Tuesday starts, with no page number on i
 **Today:** Find this book's first page — the actual copy if you still have it near you, or just your memory of that morning. Read the two sentences you wrote in the margin: what you were chasing, and the truth underneath it. Underneath them, in today's date, write two new sentences — what you're chasing right now, and the same truth, said again: *I already belong to God. Nothing else has to make me arrive.* Then set a reminder for one year from today to do it a third time. Not to grade the year behind you. To come back to center, the same way tomorrow morning will ask you to come back to center, and the morning after that, for the rest of your life.
 
 **Prayer:** Lord God Almighty, thank You for a year that didn't finish me but did turn me, over and over, back toward You. I know tomorrow will ask me to choose You first all over again, the same as it did on the very first page of this year. Keep drawing my restless heart home, today and every day I have left. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+MATTHEW 6:33

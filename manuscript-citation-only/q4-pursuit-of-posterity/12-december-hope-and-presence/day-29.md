@@ -8,7 +8,7 @@ November's cards turned to the kids. A line about catching his own temper before
 
 December's cards, the freshest in the pile, were about something harder to point to directly: waiting without knowing the timeline, staying present with a grieving neighbor instead of rushing to fix her, a real gift that cost him something instead of the easy one, a strength he'd finally admitted he didn't have on his own.
 
-St. Paul, writing to a Corinthian church busy ranking its own leaders against each other, names the one thing that actually determines whether any of it holds: "For no other foundation can any one lay than that which is laid, which is Jesus Christ" (1 Corinthians 3:11, RSV-CE). Paul isn't talking about the quality of the building. He's talking about what it's sitting on. A marriage built on Christ becomes covenant; without Him it slides into management. A fatherhood built on Christ becomes patient sacrifice; without Him it slides into control, or performance for an audience. A hope built on Christ holds through a winter with no clear end; without Him it collapses the first time circumstances stop cooperating.
+St. Paul, writing to a Corinthian church busy ranking its own leaders against each other, names the one thing that actually determines whether any of it holds. In 1 Corinthians 3:11 he tells them plainly that no one can lay any foundation other than the one already laid, which is Jesus Christ Himself. Paul isn't talking about the quality of the building. He's talking about what it's sitting on. A marriage built on Christ becomes covenant; without Him it slides into management. A fatherhood built on Christ becomes patient sacrifice; without Him it slides into control, or performance for an audience. A hope built on Christ holds through a winter with no clear end; without Him it collapses the first time circumstances stop cooperating.
 
 Three months, three different rooms of Lane's life — his marriage, his kids, his own hope — and one question sitting under every card in that jar whether he'd noticed it while writing them or not: was Christ actually holding this, or was he.
 
@@ -17,3 +17,5 @@ He read every card twice before folding them back into the jar, unfinished, beca
 **Today:** Read back over your own last three months — notes if you kept any, memory if you didn't — and name the one foundation question running under your marriage, your fatherhood, and your hope this quarter. Say it out loud: *I don't build any of this on my own. Christ is the only foundation that holds.*
 
 **Prayer:** Lord God Almighty, thank You for three months that showed me the same foundation running under my marriage, my children, and my hope, whether I noticed it or not. Let me build on Christ on purpose, in every part of my life, instead of discovering by accident where the foundation was missing. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+1 CORINTHIANS 3:11
