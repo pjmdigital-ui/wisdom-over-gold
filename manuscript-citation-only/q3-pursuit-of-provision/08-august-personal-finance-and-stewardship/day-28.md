@@ -4,10 +4,12 @@ Bishop spent Sunday afternoon rereading this week's entries instead of the game 
 
 Six different tests, six different amounts of money, and one question running under all of them: what does this man actually believe he's for. Not what he believes about budgeting or generosity or debt as separate categories, but what he believes his money, his years, and his choices are actually building toward, once the immediate decision is made and the receipt is filed.
 
-Proverbs names the limit on all of it in a single unsentimental line: "For riches do not last for ever; and does a crown endure to all generations?" (Proverbs 27:24, RSV-CE). Even a crown — the most secure, most permanent-looking form of wealth and power available to a man in the ancient world — doesn't outlast the man wearing it. The verse just before it tells a shepherd to know the condition of his flocks well, to give real attention to what's actually in front of him, because that ordinary daily tending is worth more over time than treasure that eventually disappears no matter how carefully it's guarded.
+Proverbs names the limit on all of it in a single unsentimental line, in Proverbs 27:24: riches don't last forever, and not even a crown holds up generation after generation. Even a crown — the most secure, most permanent-looking form of wealth and power available to a man in the ancient world — doesn't outlast the man wearing it. The verse just before it tells a shepherd to know the condition of his flocks well, to give real attention to what's actually in front of him, because that ordinary daily tending is worth more over time than treasure that eventually disappears no matter how carefully it's guarded.
 
 That's the thread underneath every entry this week: not a hierarchy of failures to feel bad about, but a single test repeated in six different forms. Does this man tend what's actually in front of him — the debt, the daughter, the loss, the impulse, the number on the return, the stranger's water heater — or does he keep reaching past it for something that will outlast him, when nothing he can hold in his hands ever will.
 
 **Today:** Go back through this week's six entries and name the one that landed closest to home. Finish the action step you skipped, and say the belief that ties the whole week together: *What I tend matters more than what I accumulate, because none of it was ever going to last forever anyway.*
 
 **Prayer:** Father in Heaven, this week showed me how much of my attention goes toward building something that won't outlast me. Teach me to tend faithfully what You've actually placed in front of me, and hold the rest with open hands. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+PROVERBS 27:24

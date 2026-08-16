@@ -13,3 +13,5 @@ That's a harder thing to hold than a clean before-and-after, and I don't think i
 **Today:** Don't perform being fine today, for your kids, your spouse, or the relatives who ask how you're doing. Tell one person the truth about this Christmas, without adding "but I'm okay" at the end.
 
 **Prayer:** Lord God Almighty, this first Christmas without my father sits heavier than I let on to the people around me, and I don't want to keep pretending otherwise for the sake of everyone else's cheer. Let me hold my grief and the hope You've given me at the same time, without rushing past either one. Be near to my family this year the way You are near to me in this. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+1 THESSALONIANS 4:13

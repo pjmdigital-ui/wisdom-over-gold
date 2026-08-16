@@ -1,6 +1,6 @@
 # Day 31 — One Flesh, Revisited
 
-Barnaby still has the paper the priest read from at his and Adele's wedding, folded into the back of an old missal neither of them opens much anymore. Genesis, chapter two: "Therefore a man leaves his father and his mother and cleaves to his wife, and they become one flesh" (Genesis 2:24, RSV-CE). He remembers hearing it that day the way most men do — as a beautiful line about the two of them, about the wedding itself, about a threshold he was crossing that morning and would finish crossing by that evening.
+Barnaby still has the paper the priest read from at his and Adele's wedding, folded into the back of an old missal neither of them opens much anymore. Genesis, chapter two: the verse about a man leaving his father and mother to be joined to his wife, the two of them becoming one flesh. He remembers hearing it that day the way most men do — as a beautiful line about the two of them, about the wedding itself, about a threshold he was crossing that morning and would finish crossing by that evening.
 
 Twenty-some years later, that isn't what the verse means to him anymore. Leaving his father and mother wasn't a single walk down an aisle; it took years — an argument in his late twenties that finally moved his loyalty from his mother's opinion of Adele to his wife's actual voice, another one in his forties when he had to choose Adele's read on a family decision over what his father had always expected of him. Cleaving wasn't decided once at an altar either; it got decided again on a Tuesday when he chose telling Adele the truth about a mistake over managing what she'd think of him, and again on a hard year when staying meant something because leaving had, for the first time, felt like a real option. One flesh wasn't a metaphor he understood on his wedding day so much as a description of what thirty-one days spent looking hard at his own marriage this past month showed him is still being formed — thirty-one days that started with a version of this same verse and end with it again.
 
@@ -13,3 +13,5 @@ October closes here, but the covenant it described carries on past the month, th
 **Today:** Read Genesis 2:24 out loud to your wife tonight, the way it was likely read at your own wedding. Tell her one specific way you've seen "one flesh" become true between you since — not on the wedding day, but in the years after it.
 
 **Prayer:** Lord God Almighty, thank You for a covenant that costs more and means more than I understood the day I made it. Let the leaving and the cleaving keep happening in me, today and for as long as You give Adele and me together. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+GENESIS 2:24

@@ -15,3 +15,5 @@ That's the posture Clement is being asked to hold, and it costs him something di
 **Today:** Don't try to fix, fund, or reach Roan any harder than you have been — that isn't the work today. Send this Sunday's text the same as always, expecting nothing back, and then write one sentence somewhere you'll see it tomorrow morning: "I am still watching the road." Not a strategy for bringing him home faster. Just evidence, for yourself, of which father you're choosing to be while you wait.
 
 **Prayer:** Father in Heaven, You watched for me long before I turned back toward You, and You never once used my distance as a reason to stop looking. Keep my eyes on the road for Roan. Keep my heart from hardening into a man who's quit hoping just because hoping hurts, and give me the strength to keep loving him with no guarantee of when I'll get to see it answered. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+LUKE 15:20
