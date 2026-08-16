@@ -11,3 +11,5 @@ A twenty-five-dollar card mailed with no note was a receipt Hartley could show h
 **Today:** Give something today that actually costs you — real time, real comfort, or money you'd already planned to spend on yourself — to one specific person who needs it. Don't tell anyone else you did it.
 
 **Prayer:** Lord God Almighty, forgive me for calling the easy, convenient gift generosity when it barely cost me anything. Thank You for the gift of Your Son, which cost You everything and asked nothing in return. Teach me to give the way You gave — at real cost, on purpose, without needing credit for it. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+2 CORINTHIANS 9:15
