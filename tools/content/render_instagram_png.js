@@ -1,15 +1,17 @@
-// Renders tools/content/instagram-post-hook-lesson.html's ".post" card to a
+// Renders any hook-lesson-style Instagram post HTML's ".post" card to a
 // high-resolution PNG at Instagram's real feed-post pixel size (1080x1350).
 // Requires: npm install playwright-core (chromium is pre-fetched in this
 // environment at /opt/pw-browsers — adjust CHROMIUM_PATH elsewhere).
+// Usage: node render_instagram_png.js [source.html] [output.png]
+// Defaults to instagram-post-hook-lesson.html / sf_ig_the_ache_underneath.png.
 const { chromium } = require("playwright-core");
 const path = require("path");
 const fs = require("fs");
 
 const CHROMIUM_PATH = "/opt/pw-browsers/chromium-1194/chrome-linux/chrome";
-const SRC = path.join(__dirname, "instagram-post-hook-lesson.html");
+const SRC = path.resolve(__dirname, process.argv[2] || "instagram-post-hook-lesson.html");
 const OUT_DIR = path.join(__dirname, "..", "..", "build", "instagram");
-const OUT_FILE = "sf_ig_the_ache_underneath.png";
+const OUT_FILE = process.argv[3] || "sf_ig_the_ache_underneath.png";
 
 function extractPost(html) {
   const start = html.indexOf('<div class="post">');
