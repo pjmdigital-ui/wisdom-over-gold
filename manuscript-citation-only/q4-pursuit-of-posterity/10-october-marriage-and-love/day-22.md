@@ -4,7 +4,7 @@ Gordon and Eleanor's shared calendar was a small miracle of logistics — soccer
 
 He mentioned it to a friend, almost as a joke, and the friend asked a question Gordon didn't have a ready answer for: "When's the last time you asked her out, actually out, like you used to?" Gordon laughed it off, then couldn't stop thinking about it. He and Eleanor ran their household extremely well, with almost no real conflict between them, and had started calling that smooth operation the marriage itself, without either of them ever deciding to.
 
-*As long as everything's handled, we're doing fine* had become Gordon's whole standard for the relationship, which meant a marriage that functioned perfectly could still be starving without either of them noticing the shortage. The Song of Solomon describes a very different kind of attention, one spouse actively pursuing the other: "My beloved speaks and says to me: 'Arise, my love, my fair one, and come away'" (Song of Solomon 2:10, RSV-CE). The bridegroom is calling his wife toward him, specifically and by name, wanting her company for its own sake rather than anything she'd get done once she arrived.
+*As long as everything's handled, we're doing fine* had become Gordon's whole standard for the relationship, which meant a marriage that functioned perfectly could still be starving without either of them noticing the shortage. The Song of Solomon describes a very different kind of attention, one spouse actively pursuing the other. In Song of Solomon 2:10, the bridegroom calls out to his bride, inviting her to rise up and come away with him. The bridegroom is calling his wife toward him, specifically and by name, wanting her company for its own sake rather than anything she'd get done once she arrived.
 
 Gordon couldn't remember the last time he'd asked Eleanor for anything that wasn't functional. He decided that Saturday to fix exactly one evening, not the whole pattern, and let the calendar handle the rest.
 
@@ -15,3 +15,5 @@ That night, once the kids were down, he found Eleanor folding laundry and said, 
 **Today:** Ask your wife out today — a real invitation, specific day and time, with one condition: no logistics talk allowed. Let it be pursuit, not scheduling.
 
 **Prayer:** Father in Heaven, I've let a well-run household stand in for romance for too long. Give me the same kind of pursuit toward my wife that Your Word describes — calling her toward me for her own sake, not for what gets accomplished once she's there. Help me choose her again today, on purpose. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+SONG OF SOLOMON 2:10

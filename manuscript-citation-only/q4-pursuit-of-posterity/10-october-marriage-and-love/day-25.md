@@ -6,7 +6,7 @@ Driving home, Farrell ran the same exercise on Priya without meaning to, and the
 
 He'd been telling himself for years that noticing what needed fixing was just what a good husband did — paying attention, staying honest, not going soft. Somewhere in there, actually praising her had turned into something optional, sentimental, not really his job.
 
-Proverbs closes its portrait of a capable wife with her own husband's voice, and it isn't generic: "Her children rise up and call her blessed; her husband also, and he praises her: 'Many women have done excellently, but you surpass them all'" (Proverbs 31:28-29, RSV-CE). That's not private approval kept to himself. He says it, specifically, in words good enough that someone bothered to write them down centuries later. The praise is aimed, not vague — not "she's a good wife" but a real claim about a real woman, spoken where she can hear it.
+Proverbs closes its portrait of a capable wife with her own husband's voice, and it isn't generic. In Proverbs 31:28-29, her children call her blessed, and her husband praises her outright, telling her that many women do noble things but she surpasses them all. That's not private approval kept to himself. He says it, specifically, in words good enough that someone bothered to write them down centuries later. The praise is aimed, not vague — not "she's a good wife" but a real claim about a real woman, spoken where she can hear it.
 
 Farrell could recite Priya's flaws in his sleep because he'd been rehearsing them for years without meaning to. He couldn't recite her actual virtues with the same fluency, because he'd almost never had to say them out loud. A man will sharpen whatever he keeps handling. He'd been handling the wrong list.
 

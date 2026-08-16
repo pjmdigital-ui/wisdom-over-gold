@@ -13,3 +13,5 @@ The car on Tuesday was as much a road to teach on as anywhere Nathaniel would ev
 **Today:** The next time one of your kids asks you something real — about God, about death, about why something happened — don't defer it to a better moment. Pull over, put the phone down, whatever it takes, and answer him right there, even imperfectly.
 
 **Prayer:** Lord God Almighty, I've been treating the ordinary minutes with my son like they don't count, saving the real conversations for a time that keeps slipping away from us. Help me see the car ride and the dinner table as the sacred ground they actually are. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+DEUTERONOMY 11:19

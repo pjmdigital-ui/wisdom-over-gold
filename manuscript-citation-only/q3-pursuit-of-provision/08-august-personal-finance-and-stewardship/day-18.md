@@ -8,10 +8,12 @@ What made this morning different was that Brendan caught himself doing it — wa
 
 The sentence underneath the resistance, if he'd been honest with himself in that minute, was blunt: *helping him would cost me something I'd rather keep.* What he didn't want to spend was the discomfort of eye contact with a man whose life had gone somewhere his hadn't, the two minutes of not knowing what to say, the small tear in the illusion that his morning belonged entirely to him — certainly not the twenty dollars, which he spent more of some weeks on coffee without thinking twice.
 
-Scripture names this exact scene with uncomfortable precision: "But if any one has the world's goods and sees his brother in need, yet closes his heart against him, how does God's love abide in him?" (1 John 3:17, RSV-CE). Not a man who lacks the goods to give — a man who has them, sees the need clearly, and closes his heart anyway. The verse asks what happened in that specific minute, at that specific gas station, when Brendan had exactly what the moment required and chose the long way around instead.
+Scripture names this exact scene with uncomfortable precision. First John 3:17 asks how the love of God can possibly still be alive in a man who has what he needs, sees his brother in real need, and shuts his heart against him anyway. Not a man who lacks the goods to give — a man who has them, sees the need clearly, and closes his heart anyway. The verse asks what happened in that specific minute, at that specific gas station, when Brendan had exactly what the moment required and chose the long way around instead.
 
 **On St. Vincent de Paul:** Vincent de Paul spent his life organizing real, sustained care for the poor of seventeenth-century France — not just collecting money from a distance, but insisting the men and women he recruited visit the poor in person, sit with them, look them in the eye. He believed charity that never costs the giver anything real isn't the kind Christ had in mind, and he built entire religious communities around that conviction.
 
 **Today:** The next time you see a real need today — a person, not a cause — do not calculate the cost first. Walk toward it instead of around it, and give something that actually costs you: time, eye contact, a real conversation, not just spare change dropped without breaking stride.
 
 **Prayer:** Father in Heaven, forgive me for the times I've seen a need clearly and closed my heart against it because helping would cost me something. Give me the courage to walk toward the next one instead of routing around it. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+1 JOHN 3:17

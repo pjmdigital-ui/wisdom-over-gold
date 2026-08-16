@@ -15,3 +15,5 @@ There was a real problem on that job site, and Connor was reasonable to be frust
 **Today:** Before you defend your next flash of anger as "justified," ask three questions honestly: Is this actually about an injustice, or about me? Am I still in control right now, or is this controlling me? Who does this serve besides my own pride? Say out loud: "Being right about the problem doesn't make me right about how I responded to it."
 
 **Prayer:** Lord God Almighty, I've used the idea of righteous anger to excuse reactions that were really about my own pride and my own comfort. Show me the difference between zeal for what's right and rage over what's mine, and give me the honesty to tell them apart before I act. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+MATTHEW 21:12-13

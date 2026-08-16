@@ -11,3 +11,5 @@ Notice what actually changed the moment for Zacchaeus: fourfold repayment, named
 **Today:** Name the one financial wrong you've never actually made right — a debt, a shortcut, a number you know isn't clean — and take the first concrete step toward repaying it: write the check, make the call, or set the meeting. Say plainly: "This debt doesn't get smaller by staying silent. It gets smaller by being paid."
 
 **Prayer:** Lord God Almighty, You know the exact number I've been carrying and calling settled when it never actually was. Give me Zacchaeus's courage to name it and repay it instead of managing it quietly in my own head. Let today be the day I stop rationalizing and start making it right. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+LUKE 19:8-9

@@ -6,7 +6,7 @@ He was looking for a pen one night and opened the drawer on her side of the bed.
 
 He closed the drawer and sat on the edge of the bed longer than he could explain to himself, let alone to her.
 
-For years the arrangement had seemed simple enough: she believed, he didn't much anymore, and the marriage ran fine regardless. St. Paul, writing to a church with mixed marriages of believers and non-believers, says something that cuts straight through that arrangement: "the unbelieving husband is consecrated through his wife, and the unbelieving wife is consecrated through her husband. Otherwise, your children would be unclean, but as it is they are holy" (1 Corinthians 7:14, RSV-CE). Paul isn't describing a private hobby that happens to run alongside a marriage. He's describing a household already being shaped by one spouse's faith, whether the other spouse has caught up to it yet or not.
+For years the arrangement had seemed simple enough: she believed, he didn't much anymore, and the marriage ran fine regardless. St. Paul, writing to a church with mixed marriages of believers and non-believers, says something that cuts straight through that arrangement. In 1 Corinthians 7:14, he teaches that a believing spouse's faith sanctifies the marriage itself — the unbelieving husband or wife is made holy through the believing one, and their children are counted holy as a result rather than left outside of it. Paul isn't describing a private hobby that happens to run alongside a marriage. He's describing a household already being shaped by one spouse's faith, whether the other spouse has caught up to it yet or not.
 
 Noelle's rosary in the car had already been working inside their marriage for years, page after dated page, long before Wallace found the notebook that proved it.
 
@@ -15,3 +15,5 @@ Noelle's rosary in the car had already been working inside their marriage for ye
 **Today:** If someone in your life — a wife, a mother, anyone — has been carrying prayer for you while you stayed on the outside of it, tell them tonight that you know. Then pray one thing yourself, out loud, in your own words, so tonight it isn't hers to carry alone.
 
 **Prayer:** Father in Heaven, thank You for the people who kept praying for me even when I gave them no evidence it was working. Forgive me for treating their faith as separate from mine instead of already doing something inside our home. Give me the courage to stop watching from the outside and start answering. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+1 CORINTHIANS 7:14

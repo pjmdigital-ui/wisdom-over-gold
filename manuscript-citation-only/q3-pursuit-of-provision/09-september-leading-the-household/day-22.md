@@ -6,10 +6,12 @@ The gap showed up on an ordinary car ride home, when his youngest asked, out of 
 
 The belief underneath that reflex sounded reasonable enough on its own: *handing my kids' faith formation to people who know more than I do is the responsible move, not a lazy one.* It borrows the logic of every other outsourced task in a busy man's life and applies it somewhere that logic doesn't hold. A tutor can teach algebra. A catechist can teach the catechism. Neither one is the person Scripture actually names for this job.
 
-St. Paul writes to the Ephesians with no ambiguity about who's addressed: "Fathers, do not provoke your children to anger, but bring them up in the discipline and instruction of the Lord" (Ephesians 6:4, RSV-CE). Bring them up — not enroll them, not drop them off, not delegate it to whoever runs Wednesday nights at the parish. The instruction is aimed at fathers directly, and no program, however good, was built to stand in for that address.
+St. Paul writes to the Ephesians with no ambiguity about who's addressed. In Ephesians 6:4, he tells fathers directly not to provoke their children to anger, but to raise them in the Lord's own discipline and instruction. Raise them — not enroll them, not drop them off, not delegate it to whoever runs Wednesday nights at the parish. The instruction is aimed at fathers directly, and no program, however good, was built to stand in for that address.
 
 That evening Lincoln picked the question back up at the dinner table instead of leaving it in the car. He didn't have a polished answer — he fumbled through something honest about suffering and free will and trust, admitted more than once that he wasn't sure, and told his son they'd keep talking about it. His son didn't need Lincoln to have the perfect theological answer. He needed to know his father was willing to sit in the question with him instead of routing it to someone else.
 
 **Today:** Ask your child one question about what they're learning about God, and when they ask you one back, answer it yourself tonight — imperfectly if you have to — instead of pointing them toward Wednesday.
 
 **Prayer:** Father in Heaven, forgive me for treating my children's faith formation as someone else's job to finish. Give me the courage to teach them what I know of You myself, even when I don't have the polished answer ready. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+EPHESIANS 6:4

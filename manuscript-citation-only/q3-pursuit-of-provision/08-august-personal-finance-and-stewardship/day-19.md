@@ -8,10 +8,12 @@ Jim didn't say no. He also didn't say yes for two more days, long enough that hi
 
 The belief driving that closed hand rarely announces itself with numbers attached: *if I give this away, I'll have less, and less is dangerous — no matter how much "more" I'm currently sitting on.* Scarcity runs on a feeling that has nothing to do with the actual figures, not on whatever the bank statement says, which is exactly why a man with a healthy savings account can hoard as reflexively as a man with none.
 
-Scripture draws the opposite conclusion from the one Jim's instinct reached: "One man gives freely, yet grows all the richer; another withholds what he should give, and only suffers want. A liberal man will be enriched, and one who waters will himself be watered" (Proverbs 11:24-25, RSV-CE). This is a plain, unsentimental claim about how open hands and closed hands actually function over a lifetime — the giver ends up watered, the withholder ends up wanting, regardless of what the spreadsheet says on the day of the decision.
+Scripture draws the opposite conclusion from the one Jim's instinct reached. Proverbs 11:24-25 says one man gives freely and ends up richer for it, while another holds back more than he should and ends up worse off — the generous man ends up enriched himself, the way a man who waters others' fields ends up watered in return. This is a plain, unsentimental claim about how open hands and closed hands actually function over a lifetime — the giver ends up watered, the withholder ends up wanting, regardless of what the spreadsheet says on the day of the decision.
 
 Jim called his brother-in-law back the following week, after the crisis had already passed, and told him the truth: he'd hesitated out of a fear that didn't match his actual finances, and he was sorry it took him two days to offer what he could have offered in an hour. He set aside a standing amount now, specifically earmarked for exactly this kind of call, so the next time his phone rang, his hand wouldn't have to fight itself before it opened.
 
 **Today:** Look honestly at whether your hesitation to give — money, time, or help — comes from an actual constraint or from a scarcity fear that doesn't match your real situation. If it's fear, give something today anyway, to someone specific, before you've had time to talk yourself out of it.
 
 **Prayer:** Lord God Almighty, forgive me for the times I've withheld out of fear when I actually had enough to give. Loosen my grip on what You've entrusted to me, and make me a man whose hand opens before it closes. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+PROVERBS 11:24-25
