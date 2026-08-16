@@ -8,10 +8,12 @@ Miles sat with the document open for two days before he called the buyer's attor
 
 The belief working underneath Miles's two days of hesitation was really a belief about what honesty requires: that a man is only obligated to correct what he's asked about directly, and anything left in shadow by someone else's mistake is fair to keep. Fine print becomes the place a lot of men practice this habit, letting an unclear clause do the lying they'd never do themselves.
 
-Scripture treats commercial exactness as a moral category, not a technical one. God's instruction to Israel was concrete: "You shall have just balances, just weights, a just ephah, and a just hin: I am the LORD your God, who brought you out of the land of Egypt" (Leviticus 19:36, RSV-CE). A balance and a weight are small, boring objects. God didn't attach that command to grand betrayals — He attached it to the ordinary instruments a man uses every day to measure what he owes someone else. A contract clause is a modern weight on a modern scale. It's either honest or it isn't, regardless of who drafted it first.
+Scripture treats commercial exactness as a moral category, not a technical one. God's instruction to Israel was concrete: keep honest scales, honest weights, honest measures for grain and for liquid, because He is the Lord who brought them out of Egypt, and that history obligates them even in the marketplace. A balance and a weight are small, boring objects. God didn't attach that command to grand betrayals — He attached it to the ordinary instruments a man uses every day to measure what he owes someone else. A contract clause is a modern weight on a modern scale. It's either honest or it isn't, regardless of who drafted it first.
 
 Miles's business sold for exactly what it was worth once Ridgeview was named — not more, because he'd already promised it verbally, but not less than an honest account of what he was selling.
 
 **Today:** Reread one document you're currently a party to — a contract, an invoice, a listing — specifically looking for a place where an unclear word or omission currently benefits you. Fix it in writing today, even if no one asked you to, and say to yourself: *My integrity doesn't wait to be caught.*
 
 **Prayer:** Lord God Almighty, I know there are places in my business where I've let unclear terms work in my favor instead of speaking up. Give me the honesty to fix what's ambiguous before anyone catches it, not after. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+LEVITICUS 19:36

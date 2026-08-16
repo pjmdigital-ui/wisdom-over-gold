@@ -6,10 +6,12 @@ His wife brought it up first, gently, after a week where the family hadn't sat d
 
 *A good family culture happens naturally if you love your kids enough* — that was the assumption underneath Oliver's whole approach, and it was costing him every rhythm that wasn't being deliberately protected. Love doesn't build a rhythm by itself. A rhythm gets built the same way anything else does — on purpose, repeated, defended against whatever's trying to crowd it out.
 
-"Unless the LORD builds the house, those who build it labor in vain" (Psalm 127:1, RSV-CE) points at something Oliver's family needed structurally, not only spiritually. A house gets built with actual materials — habits laid down in order, repeated until they hold weight. A family that never decides what its regular week looks like has laid no beams for God to bless in the first place. The Lord builds through the rhythms a man actually sets, not around the absence of them.
+Psalm 127:1 points at something Oliver's family needed structurally, not only spiritually: it teaches that a house raised without the Lord's hand in it is effort spent for nothing, no matter how busy the builder stays. A house gets built with actual materials — habits laid down in order, repeated until they hold weight. A family that never decides what its regular week looks like has laid no beams for God to bless in the first place. The Lord builds through the rhythms a man actually sets, not around the absence of them.
 
 Oliver didn't need a bigger plan. He needed a smaller, sturdier one — three or four non-negotiables he and his wife actually agreed on and defended against the calendar, instead of hoping a good week would assemble itself out of good intentions. A rhythm that only survives an easy week is really just a preference, and preferences lose to the calendar every time something better comes along.
 
 **Today:** Sit down with your spouse tonight and pick two household rhythms to protect starting this week — one meal, one prayer time, one regular block of rest — and put them on the calendar like any other commitment you wouldn't casually cancel.
 
 **Prayer:** Father in Heaven, I've let my family's week get built by whatever's loudest instead of by what actually matters. Forgive me for assuming a good home would just happen if we loved each other enough. Help me lay down rhythms worth defending, and build our house on them the way only You truly can. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+PSALM 127:1

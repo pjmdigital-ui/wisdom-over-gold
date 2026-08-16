@@ -8,12 +8,14 @@ He called Marcus back the next morning and said he'd fix the walls at his own co
 
 The belief sitting underneath Nolan's hesitation in that truck was never spoken out loud, not even to himself, but it ran the whole negotiation: *If I don't bend here, I lose everything I've built.* That belief treats a man's security as something a client hands him one contract at a time, and integrity as a luxury he can only afford once he's already safe.
 
-Shadrach, Meshach, and Abednego stood in front of a furnace with the same math working against them, at a scale Nolan never had to face. Nebuchadnezzar gave them one more chance to bow to his golden image. Their answer didn't come with a guarantee attached: "our God whom we serve is able to deliver us from the burning fiery furnace; and he will deliver us out of your hand, O king. But if not, be it known to you, O king, that we will not serve your gods or worship the golden image which you have set up" (Daniel 3:17-18, RSV-CE).
+Shadrach, Meshach, and Abednego stood in front of a furnace with the same math working against them, at a scale Nolan never had to face. Nebuchadnezzar gave them one more chance to bow to his golden image. Their answer didn't come with a guarantee attached: they told the king plainly that the God they served was able to rescue them from the flames and would deliver them from his power — but even if He chose not to, they wanted him to know they still would not serve his gods or bow to the image he had set up.
 
-That "but if not" is the whole hinge. They didn't know they'd walk out of the fire. They said no before they knew the ending. Integrity that only holds when a man is confident it will work out is easy to mistake for the real thing. The version that costs something is the one he keeps when he can't see how it turns out.
+That refusal to hedge on the outcome is the whole hinge. They didn't know they'd walk out of the fire. They said no before they knew the ending. Integrity that only holds when a man is confident it will work out is easy to mistake for the real thing. The version that costs something is the one he keeps when he can't see how it turns out.
 
 Nolan doesn't know yet whether he'll cover payroll through March. What he knows is that his income was never actually coming from Marcus Whitfield in the first place.
 
 **Today:** Name, in writing, the specific compromise someone is currently pressuring you toward — and underneath it, write your own "but if not": *I will hold this line whether or not it works out in my favor, because my provision doesn't come from the outcome.* Say the sentence out loud to your wife or a friend who will hold you to it, not just to yourself.
 
 **Prayer:** Lord God Almighty, I don't know how this will turn out, and I'm scared of what holding the line might cost me. Give me the kind of trust that doesn't wait for a guarantee before it obeys You. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+DANIEL 3:17-18

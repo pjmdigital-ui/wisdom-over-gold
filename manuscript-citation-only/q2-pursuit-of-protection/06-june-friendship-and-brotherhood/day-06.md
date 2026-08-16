@@ -6,10 +6,12 @@ Fifty-two years old, and self-reliance had worked, as far as he could tell, for 
 
 The test results came back manageable. A cardiac scare, not a catastrophe, medication and follow-up rather than surgery. But he drove home that evening with a fact he hadn't had to face before: the years of handling everything alone hadn't made him more prepared for a real crisis. They'd made sure that when one came, there was no one positioned to help carry it.
 
-"And though a man might prevail against one who is alone, two will withstand him. A threefold cord is not quickly broken" (Ecclesiastes 4:12, RSV-CE). A single strand holds until the moment something pulls hard enough, and then it simply doesn't. That's simply what a single strand is, not a flaw in it. Strength under real pressure was never going to come from being harder to break alone. It comes from being braided into something that isn't one thing anymore.
+Ecclesiastes 4:12 makes the same point with a picture instead of an argument: a man alone can be overpowered, but two together can stand their ground, and multiple strands woven together hold in a way a single strand never will. A single strand holds until the moment something pulls hard enough, and then it simply doesn't. That's simply what a single strand is, not a flaw in it. Strength under real pressure was never going to come from being harder to break alone. It comes from being braided into something that isn't one thing anymore.
 
 Lucas had spent three decades treating every hard season as proof the strategy was working, because he'd survived each one. What he'd actually proven was that a single cord can hold for a long time. He hadn't proven it can hold forever, and the hospital chair made that difference impossible to keep ignoring.
 
 **Today:** Identify two men you trust enough to actually be a cord with — not just friendly acquaintances, men who'd show up. Call both this week and propose something concrete and recurring: a standing Tuesday call, a monthly breakfast, whatever fits. Tell them plainly why: I've been carrying things alone for too long, and a threefold cord isn't quickly broken. I want to be braided into something, not just holding on by myself.
 
 **Prayer:** Father in Heaven, I've mistaken surviving alone for being strong, and I don't want to find out the difference the way Lucas did. Show me which men You've already placed nearby to be braided into my life for real. Give me the humility to ask before a crisis forces the question. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+ECCLESIASTES 4:12

@@ -4,7 +4,7 @@ Sunday evening Mass, and Nate knelt down in the pew with a week he was glad to s
 
 Growing up, he'd heard the phrase "offer it up" from his grandmother constantly, usually about something small — a headache, a boring chore — and he'd always taken it as a throwaway line, the Catholic version of "walk it off." Kneeling there, he realized he'd never actually done it, not once. He gutted through hard weeks. He didn't offer them.
 
-Gutting a week out means gripping the hardship tighter and pushing through it on willpower until it's over. Offering it means handing it to God before it's over, on purpose, by name, and trusting Him to use it, the way St. Paul describes: "I appeal to you therefore, brethren, by the mercies of God, to present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship" (Romans 12:1, RSV-CE).
+Gutting a week out means gripping the hardship tighter and pushing through it on willpower until it's over. Offering it means handing it to God before it's over, on purpose, by name, and trusting Him to use it, the way St. Paul describes to the Romans: in view of everything God has already done for them in His mercy, he urges them to offer their bodies — their whole, ordinary, everyday selves — back to Him as a living sacrifice, set apart and pleasing to Him, which is the truest way they can worship (Romans 12:1).
 
 Paul isn't only talking about grand religious acts. A living sacrifice is still living — it goes to work Monday, still has the bad back, still has the daughter who slammed the door. Presenting it means the ordinary week itself, cost and all, becomes the thing laid on the altar rather than something separate from it. That's a full week's reframe available to any man kneeling in a pew on a Sunday night with nothing dramatic to report, just a normal amount of hard.
 
@@ -15,3 +15,5 @@ He thought about the harder stretches of the past couple weeks — the crisis he
 **Today:** Before you go to bed tonight, name the hardest thing from this past week out loud and say: *I'm offering this week to You as my spiritual worship, not just gutting it out.* Then let it go — don't replay it again tomorrow.
 
 **Prayer:** Father in Heaven, this week wore me down in small ways I usually just push through without bringing to You. Take this ordinary hard week and use it for something, the way only You can. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+ROMANS 12:1

@@ -6,7 +6,7 @@ Around week six, a friend at the gym asked how he was holding up, and Joe caught
 
 That instinct is worth naming, because plenty of men run on it: *if love costs me something visible, I should downplay the cost so it still counts as love and not as martyrdom.* Said out loud, it's a strange belief — as though love only counts when it's free, when the truth runs the other direction entirely.
 
-Jesus doesn't downplay what love costs. He says it plainly: "Greater love has no man than this, that a man lay down his life for his friends" (John 15:13, RSV-CE). Jesus measures love here by what a man is willing to lay down — his time, his body, his sleep, his own comfort. The feeling underneath is optional. The laying down is the proof.
+Jesus doesn't downplay what love costs. He says it plainly: there is no greater love a man can show than laying his own life down for the people he loves (John 15:13). Jesus measures love here by what a man is willing to lay down — his time, his body, his sleep, his own comfort. The feeling underneath is optional. The laying down is the proof.
 
 Joe wasn't dying for Erin. But eleven weeks of 2 a.m. alarms ran the same math on a smaller scale: love spent, not just felt. That cost was the receipt for a love that was real, proof it had substance underneath the feeling. A marriage where nothing is ever laid down for the other person is a peaceful-looking marriage that's never actually been tested, and a man doesn't find out what his love is made of until something asks him to give up sleep, or money, or the version of his week he'd planned.
 
@@ -15,3 +15,5 @@ Joe told a few close friends about the surgery and the recovery timeline. He did
 **Today:** Name one specific thing your marriage is currently asking you to lay down — sleep, a hobby, being right in an argument, an evening you wanted for yourself. Do it today without mentioning the cost to her, and say to yourself afterward: *That cost me something, and that's exactly what makes it love.*
 
 **Prayer:** Lord God Almighty, I've wanted my love for my wife to look effortless instead of admitting what it actually costs some days. Give me the strength to keep laying things down for her without keeping score. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+JOHN 15:13

@@ -1,6 +1,6 @@
 # Day 8 — Peter and John
 
-Scripture records something easy to read past about Sts. Peter and John: "Now Peter and John were going up to the temple at the hour of prayer, the ninth hour" (Acts 3:1, RSV-CE). Not Peter, alone, with John catching up separately. Not Peter sending John ahead to save time. The two of them walking up together, at the same hour, to do the same thing, was already their regular pattern. By the time Luke records this scene, Peter and John had already been paired through the Gospels and would keep being paired through the rest of Acts: sent together to prepare the Passover, running together to the empty tomb, arrested together and questioned together before the same council.
+Scripture records something easy to read past about Sts. Peter and John. Acts 3:1 opens with the two of them heading up to the temple together for the customary hour of afternoon prayer. Not Peter, alone, with John catching up separately. Not Peter sending John ahead to save time. The two of them walking up together, at the same hour, to do the same thing, was already their regular pattern. By the time Luke records this scene, Peter and John had already been paired through the Gospels and would keep being paired through the rest of Acts: sent together to prepare the Passover, running together to the empty tomb, arrested together and questioned together before the same council.
 
 It would be easy to assume Peter, of all men, needed no one walking beside him. He'd preached at Pentecost and seen three thousand converted in a single day. He was the rock the Lord had named him. If any man in the early Church had earned the right to operate alone on the strength of his own calling, it was Peter. Instead, the record shows him going up to pray with a companion as a matter of course, the same way he'd go up to pray at all.
 
@@ -13,3 +13,5 @@ That's worth remembering the next time a friendship feels effortful because a ma
 **Today:** Name your own version of a ninth-hour companion — one man you could invite into a regular, specific practice, not just an occasional catch-up. Ask him today to join you for something concrete: a weekly holy hour, a morning walk, a standing call before work. Tell him plainly why: I wasn't made to go up to the temple by myself, and I'd rather walk up with you.
 
 **Prayer:** Father in Heaven, thank You for the example of Peter and John, two men bound together through years of shared calling instead of carrying it alone. Show me the companion You've placed nearby for my own hour of prayer. Give me the humility to ask him, and the follow-through to keep showing up once he says yes. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+ACTS 3:1

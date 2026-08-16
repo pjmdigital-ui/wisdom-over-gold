@@ -6,10 +6,12 @@ He drafted the resignation email twice and deleted it twice. Not because he didn
 
 That belief treats a job like a vending machine — put in effort, get out comfort, and if the machine's broken, find another one. It doesn't account for the possibility that the hard, honest, unglamorous version of the work might be exactly the assignment.
 
-St. Paul tells Timothy directly what following Christ costs a man in practical terms: "Share in suffering as a good soldier of Christ Jesus" (2 Timothy 2:3, RSV-CE). A soldier doesn't get to requisition a different war because this one's uncomfortable. He stays at his post because the post is where he's needed, and leaving it undefended costs more than staying ever will. Paul isn't talking about employment law. He's talking about a posture — showing up to the hard, honest post instead of the easy one, because someone has to hold the line there.
+St. Paul tells Timothy directly what following Christ costs a man in practical terms: he calls him to accept hardship the way a good soldier of Christ Jesus would (2 Timothy 2:3). A soldier doesn't get to requisition a different war because this one's uncomfortable. He stays at his post because the post is where he's needed, and leaving it undefended costs more than staying ever will. Paul isn't talking about employment law. He's talking about a posture — showing up to the hard, honest post instead of the easy one, because someone has to hold the line there.
 
 None of this means every hard job is the right job, or that leaving is always weakness dressed up as endurance. Some exits are wisdom. But Dave wasn't weighing wisdom. He was weighing comfort against discomfort and calling the answer principle. A man who's serious about sacrifice has to ask a harder question than "does this still feel good": is this post still one only I can hold, and am I leaving it because I've discerned that, or because I'm tired of the fight. If the honest answer is the second one, the fatigue needs tending, not an exit ramp dressed up as a career move.
 
 **Today:** Before you answer any pull toward an easier exit — a job, a project, a hard conversation you've been avoiding — write down the real reason you're considering it. Then write this sentence and mean it: "Staying here isn't a mistake just because it's hard." Let that sentence, not your exhaustion, make the call.
 
 **Prayer:** Lord God Almighty, give me the strength to hold my post when holding it costs me and leaving would be so easy to justify. Show me the difference between wisdom telling me to go and fatigue telling me to quit. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+2 TIMOTHY 2:3

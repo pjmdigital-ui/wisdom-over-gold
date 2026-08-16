@@ -8,10 +8,12 @@ Curtis called his agent the next morning anyway and disclosed the old estimate. 
 
 Anna's version of the situation sounded reasonable, even careful — the ordinary belief that shows up whenever honesty is about to cost real money: *if I'm not required to say it, saying it anyway is just self-sabotage.* Most men never test that belief, because most men never find the old estimate in the drawer four days before closing.
 
-David describes the kind of man who can stand in God's presence as one "who swears to his own hurt and does not change" (Psalm 15:4, RSV-CE). Not a man who never makes a costly promise — a man who keeps the costly one anyway, after he already knows what it will cost him. That's the entire test. Anyone can be honest before the price is set. Integrity is what a man does after he already knows the number.
+David describes the kind of man who can stand in God's presence as one who keeps his word even after it turns out to cost him, and doesn't go back on it. Not a man who never makes a costly promise — a man who keeps the costly one anyway, after he already knows what it will cost him. That's the entire test. Anyone can be honest before the price is set. Integrity is what a man does after he already knows the number.
 
 Curtis relisted the house six weeks later, this time with the disclosure current from the start. He doesn't know yet if he'll make the school deadline. What he knows is which man he was when the number was on the table.
 
 **Today:** If there's a truth you're currently sitting on because disclosing it will cost you money, a deal, or an opportunity, disclose it today — in writing, to the person who needs to hear it — before you let the deadline decide for you.
 
 **Prayer:** Father in Heaven, I'm afraid of what honesty is going to cost me right now, and I want a way around paying it. Give me the strength to keep my word even after I already know the price. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+PSALM 15:4

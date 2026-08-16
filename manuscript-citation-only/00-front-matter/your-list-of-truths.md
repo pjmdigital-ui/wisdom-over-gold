@@ -1,10 +1,10 @@
 # Your List of Truths
 
-Before he fought Goliath, David didn't talk himself into courage with a slogan. He reached for evidence: "The LORD who delivered me from the paw of the lion and from the paw of the bear, will deliver me from the hand of this Philistine" (1 Samuel 17:37, RSV-CE). Before the giant, he remembered the lion and the bear. He built his courage on a list of things that were actually, specifically true.
+Before he fought Goliath, David didn't talk himself into courage with a slogan. He reached for evidence, reminding Saul that the same God who had already rescued him from a lion's claws and a bear's would rescue him now, from this Philistine's hand as well. Before the giant, he remembered the lion and the bear. He built his courage on a list of things that were actually, specifically true.
 
 I keep a version of that list myself. When I'm discouraged, I don't try to think positive in some vague, greeting-card way — I read specific, true things about my own life that I know for certain, and I let them do what they actually do: remind me of who I am and what God has already carried me through.
 
-One thing has to be said plainly before you build your own, because it's easy to get backward: this is not an exercise in total honesty. Total honesty about yourself includes your failures, your sins, your worst moments — and that's real, and it matters, and it has its own place in this book (that's what Day 9 is for). This list is something narrower and more deliberate. St. Paul tells the Philippians exactly how to choose what to dwell on: "whatever is true, whatever is honorable, whatever is just, whatever is pure, whatever is lovely, whatever is gracious, if there is any excellence, if there is anything worthy of praise, think about these things" (Philippians 4:8, RSV-CE). Notice he doesn't say *whatever is true* and stop there. True is the floor, not the whole instruction. He's telling you to select, on purpose, from everything that's true about you, the things that are also honorable and lovely and worth praising — and let those be what you come back to.
+One thing has to be said plainly before you build your own, because it's easy to get backward: this is not an exercise in total honesty. Total honesty about yourself includes your failures, your sins, your worst moments — and that's real, and it matters, and it has its own place in this book (that's what Day 9 is for). This list is something narrower and more deliberate. St. Paul tells the Philippians exactly how to choose what to dwell on. In Philippians 4:8, he runs through a whole list of what deserves a place in your mind — what's true, yes, but also what's honorable, what's right, what's pure, what's admirable, what's decent, anything excellent or worth commending — and tells them to keep their thoughts fixed there. Notice he doesn't say *whatever is true* and stop there. True is the floor, not the whole instruction. He's telling you to select, on purpose, from everything that's true about you, the things that are also honorable and lovely and worth praising — and let those be what you come back to.
 
 Most men, when you ask them to list good things about themselves, either can't find any or automatically reach for the disqualifying truth instead — the failure, the debt, the thing they still feel guilty about. That instinct isn't humility. It's a different kind of distortion, and Scripture doesn't ask it of you. You're not being dishonest by refusing to let the hard truths crowd out the good ones. You're doing what Philippians 4:8 actually tells you to do.
 
@@ -44,3 +44,6 @@ _____________________________________________
 _____________________________________________
 
 Keep this page. Several days this year will point you back to it — not because reading a list fixes what's actually wrong, but because a discouraged man rarely needs new information. He needs to be reminded of what's already true.
+
+1 SAMUEL 17:37
+PHILIPPIANS 4:8

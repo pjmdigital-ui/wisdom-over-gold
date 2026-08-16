@@ -6,7 +6,7 @@ At the Saturday coffee meetup his church men's group ran, someone always asked h
 
 So he kept transferring money nobody knew was moving, kept answering "growing fast" to men who would have helped him in an afternoon if he'd told them the real number. The belief running underneath all of it was simple and never once examined: if I built this alone, I have to fix it alone, or everyone will find out I was never as capable as I let them believe.
 
-Scripture has no patience for that kind of arithmetic. "Two are better than one, because they have a good reward for their toil. For if they fall, one will lift up his fellow; but woe to him who is alone when he falls and has not another to lift him up" (Ecclesiastes 4:9-10, RSV-CE). Notice the verse doesn't promise the fall won't happen. It assumes it will. The only variable it's interested in is whether there's a hand nearby when it does.
+Scripture has no patience for that kind of arithmetic. Ecclesiastes 4:9-10 makes the case plainly: two men working together get a better return on their labor than one man alone, because when one of them stumbles, the other is right there to lift him back up — and a man who falls with no one positioned to help him is in real trouble. Notice the verse doesn't promise the fall won't happen. It assumes it will. The only variable it's interested in is whether there's a hand nearby when it does.
 
 The self-made man is a story men tell after the fact, once the danger has passed, editing out every hand that pulled them up along the way. Nobody actually builds anything alone — not a company, not a marriage, not a life of faith. Dominic hadn't built his business alone either; he'd had a bank, a mentor who cosigned his first loan, a wife who worked nights for two years so he could reinvest everything. He'd just stopped counting those the moment counting them became inconvenient to the story.
 
@@ -15,3 +15,5 @@ The cost of guarding that story went beyond the financial — it was the eleven 
 **Today:** Call the one man who would actually help you if he knew the real situation — a mentor, an old friend, your own father. Tell him the actual number, whatever kind it is. Say the sentence out loud as you do it: I was never meant to carry this alone, and needing you doesn't undo what I've built.
 
 **Prayer:** Father in Heaven, I have let a story about being self-made keep me from the very hands You placed nearby to lift me. Forgive the pride that made hiding feel safer than asking. Give me one honest conversation today, and the humility to let it change something. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+ECCLESIASTES 4:9-10

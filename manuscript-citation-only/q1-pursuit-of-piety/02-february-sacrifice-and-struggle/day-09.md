@@ -6,7 +6,7 @@ That night, alone in the garage, he did what he always did when something broke:
 
 He didn't find one. He never would. Somewhere in that garage he landed on a belief he'd probably carried for years without naming it: *if I can't understand why God allowed this, I can't trust Him with it.* Understanding first, trust second — that order had worked fine for problems with answers. This wasn't one of those.
 
-St. Peter doesn't hand his readers an explanation for their suffering either. He offers something else: "But rejoice in so far as you share Christ's sufferings, that you may also rejoice and be glad when his glory is revealed" (1 Peter 4:13, RSV-CE). Notice the word he reaches for — share. Not explain, not justify. Share. Peter is pointing at union, not information: a suffering that connects a man to Christ's own suffering is doing something real in him whether or not the why ever arrives.
+St. Peter doesn't hand his readers an explanation for their suffering either. He offers something else: he tells them to rejoice to the extent that they share in what Christ Himself suffered, so that they will also be overjoyed when His glory is finally revealed (1 Peter 4:13). Notice the word Peter reaches for — share. Not explain, not justify. Share. Peter is pointing at union, not information: a suffering that connects a man to Christ's own suffering is doing something real in him whether or not the why ever arrives.
 
 That's a hard trade for a man who wants answers before he'll hand something over. But the men who wait for a full explanation before they'll trust God with their grief wait a long time, because full explanations for losses like this mostly don't come, not in this life. The real invitation is to let the loss become the place where a man stops managing his own pain alone and lets it join Christ's — which was never explained to Him either, not in any way that made the waiting easier.
 
@@ -15,3 +15,5 @@ Vidal and his wife went back for a follow-up appointment three weeks later. The 
 **Today:** Instead of searching for an explanation tonight, say to God directly: *I don't understand this, and I'm not waiting until I do to bring it to You. I'm sharing it with You now.* Write that sentence where your wife can see it too, if she's carrying this with you.
 
 **Prayer:** Lord God Almighty, I don't have an explanation for this loss and I may never get one, but I don't want to keep holding it alone while I wait for answers that might not come. Let this grief bring me closer to You instead of further away. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+1 PETER 4:13

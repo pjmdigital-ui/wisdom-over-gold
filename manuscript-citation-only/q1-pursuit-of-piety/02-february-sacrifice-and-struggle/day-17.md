@@ -6,10 +6,12 @@ He ran the math the way men run math when they've already decided the answer. Th
 
 Here's what was actually underneath that math, if he'd said it plainly instead of dressing it up as logistics: *I've already given enough; this one's mine.* Not selfishness exactly — more like a ledger he'd been keeping without meaning to, where every sacrifice made was a withdrawal he was now owed back.
 
-St. Paul writes to the Philippians with a standard that doesn't leave room for a ledger like that: "Let each of you look not only to his own interests, but also to the interests of others" (Philippians 2:4, RSV-CE). Not instead of his own interests — Paul doesn't ask a man to hate the cabin, the rifle, or his friends. He asks him to stop treating his own wants as the default that everything else has to argue its way past. The interests of others don't wait for a man's ledger to clear first.
+St. Paul writes to the Philippians with a standard that doesn't leave room for a ledger like that: he tells them not to look only to their own interests, but to pay real attention to what other people need as well (Philippians 2:4). Not instead of his own interests — Paul doesn't ask a man to hate the cabin, the rifle, or his friends. He asks him to stop treating his own wants as the default that everything else has to argue its way past. The interests of others don't wait for a man's ledger to clear first.
 
 Tom didn't cancel the whole weekend. He called his buddies, told them he'd fly up Sunday after the play instead of Thursday with everyone else, and spent three evenings that week gluing plywood flats in a middle school gym, sunburned from the daytime job and tired in a way that had nothing to do with hunting. Nobody but his daughter noticed. That was the point — the ledger he'd been keeping never had her as the one making withdrawals from him in the first place.
 
 **Today:** Look at what's already on your calendar this week that's just for you, and find one thing on it you're willing to trade for something your family needs. Say the words to your family before you make the trade: "This isn't a withdrawal I'm owed back." Then make the call or send the text that gives the time away.
 
 **Prayer:** Lord God Almighty, forgive me for keeping score with the time I give my family, as if love were a ledger instead of a gift. Help me give my time freely today, without needing it counted or repaid. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+PHILIPPIANS 2:4

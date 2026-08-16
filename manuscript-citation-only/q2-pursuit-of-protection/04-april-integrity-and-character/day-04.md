@@ -8,10 +8,12 @@ Have you ever noticed that the justification arrives before the wrong thing does
 
 I wanted to believe the excuse was reasonable because I was the one who'd built it, and it felt like my own honest reasoning rather than a rationalization in a mask. That's the trap. My heart was a lawyer working for a client it had already decided to defend, not a neutral judge weighing the situation fairly.
 
-Jeremiah names this with a bluntness most of us would rather skip past: "The heart is deceitful above all things, and desperately corrupt; who can understand it?" (Jeremiah 17:9, RSV-CE). Not occasionally misleading. Deceitful above all things — meaning the very instrument I use to judge whether I'm being honest is itself the thing most likely to lie to me, and do it convincingly, because it has a personal stake in the outcome. Trusting my gut on questions of my own integrity is like asking a defendant to also serve as his own judge.
+Jeremiah names this with a bluntness most of us would rather skip past: the human heart, he says, is capable of deceiving a man worse than anything else could, twisted in ways so deep that no one can fully see to the bottom of it. Not occasionally misleading. The most deceptive thing I own — meaning the very instrument I use to judge whether I'm being honest is itself the thing most likely to lie to me, and do it convincingly, because it has a personal stake in the outcome. Trusting my gut on questions of my own integrity is like asking a defendant to also serve as his own judge.
 
 That's why the justification shows up early and dressed so well. It's advocacy, not reasoning — advocating for me, which is exactly why I can't be the one who evaluates it alone.
 
 **Today:** The next time you catch a justification forming before you've acted, stop and write it down word for word. Then write the honest reason underneath it. Read both to someone you trust — a spouse, a friend, a priest — before you decide anything. Tell them: "I don't trust my own reasons on this one. I need a standard outside myself."
 
 **Prayer:** Father in Heaven, I've caught my own heart building excuses before I've even done anything wrong, and I know now I can't be the only judge of my own motives. Give me people who will tell me the truth when my reasoning can't be trusted. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+JEREMIAH 17:9

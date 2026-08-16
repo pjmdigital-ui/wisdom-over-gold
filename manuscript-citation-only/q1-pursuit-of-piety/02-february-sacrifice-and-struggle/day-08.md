@@ -6,7 +6,7 @@ He sat there a long time before he could make himself go back inside. Eleven peo
 
 That question is the real one under the collapse. Not how to fix it — he already knew the honest answer was that he probably couldn't. The question eating at him was whether fifteen years, ending like this, amounted to anything beyond a decade and a half of effort that produced pain and then more pain. Somewhere along the way he'd started operating on a belief he'd never said out loud: *suffering is dead weight you carry until it's over. It doesn't build anything.*
 
-St. Paul says something almost offensive to that belief in Colossians 1:24: "Now I rejoice in my sufferings for your sake, and in my flesh I complete what is lacking in Christ's afflictions for the sake of his body, that is, the church" (RSV-CE). Paul isn't describing suffering as a hurdle between himself and a better life. He describes it as work — as something that completes, fills up, accomplishes. United to Christ, his pain becomes useful to people he may never meet. It gets spent on them.
+St. Paul says something almost offensive to that belief in Colossians 1:24: he tells his readers that he rejoices in what he suffers on their behalf, because in his own body he is filling up what still remains of Christ's afflictions, for the sake of the Church, which is Christ's body. Paul isn't describing suffering as a hurdle between himself and a better life. He describes it as work — as something that completes, fills up, accomplishes. United to Christ, his pain becomes useful to people he may never meet. It gets spent on them.
 
 That's the pivot a lot of men never make. Suffering gritted through for no reason beyond getting to the other side wears a man down and leaves him bitter, because he was never built to suffer for nothing. Suffering offered — handed over, on purpose, for someone — is a different event entirely, even when the external facts don't change. The bank call is still the bank call. But a man who offers his fifteen years and this ending to God, for his wife, for his kids, for the eleven families walking out the door with him, is spending that loss on purpose instead of merely absorbing it.
 
@@ -15,3 +15,5 @@ That's the pivot a lot of men never make. Suffering gritted through for no reaso
 **Today:** Name one specific person your current hardship can be offered for — your wife, your kids, a friend carrying something similar — and say out loud: *This suffering isn't empty. I'm offering it for [name].* Write that sentence somewhere you'll see it tomorrow morning.
 
 **Prayer:** Father in Heaven, I've been trying to shoulder this loss alone like it's only mine to survive, and I'm asking You to help me offer it instead — for the people it actually affects, and for Your purposes I can't see yet. Turn what feels like waste into something that means something. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+COLOSSIANS 1:24

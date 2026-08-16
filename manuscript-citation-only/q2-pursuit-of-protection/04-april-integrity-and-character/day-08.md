@@ -8,10 +8,12 @@ Five hundred years ago, a man faced a version of that same request with immeasur
 
 That line is the whole of the month's belief and its reframe compressed into nine words. More didn't refuse Henry because he had a grudge against kings, or because obedience itself was the enemy. He refused because Henry had asked for something that wasn't his to give — a portion of allegiance that belonged to God alone, dressed up as an ordinary act of loyalty.
 
-Jesus draws that same line when the Pharisees try to trap Him over paying taxes to Caesar: "They said, 'Caesar's.' Then he said to them, 'Render therefore to Caesar the things that are Caesar's, and to God the things that are God's'" (Matthew 22:21, RSV-CE). It's not a rejection of legitimate authority — Caesar gets what's actually his. It's a boundary line around what Caesar never had a claim to in the first place. A boss, a board, a client, a culture can ask a man for real and rightful things: his effort, his time, his respect. None of them can ask for his conscience. That belongs to God, and no amount of "everyone does it this way" transfers the title.
+Jesus draws that same line when the Pharisees try to trap Him over paying taxes to Caesar: shown a coin bearing Caesar's image, He tells them to give Caesar what belongs to Caesar, and give God what belongs to God. It's not a rejection of legitimate authority — Caesar gets what's actually his. It's a boundary line around what Caesar never had a claim to in the first place. A boss, a board, a client, a culture can ask a man for real and rightful things: his effort, his time, his respect. None of them can ask for his conscience. That belongs to God, and no amount of "everyone does it this way" transfers the title.
 
 Weldon's checklist wasn't Henry's oath. But the shape of the request was identical in miniature — sign the thing that isn't true yet, because refusing seems disproportionate to what's being asked. It rarely feels disproportionate at the time. That's exactly how it gets signed.
 
 **Today:** Locate the one place this week where what's being asked of you actually belongs to God, not to whoever's asking. State it clearly: "I can serve the people over me honestly, but I don't get to hand them what belongs to God." Then decline the one thing on your list that crosses that line.
 
 **Prayer:** Father in Heaven, I've signed off on things that were smaller than they should have felt uncomfortable being, and called it loyalty instead of what it was. Give me More's clarity to give Caesar what's his and keep for You what's Yours alone. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+MATTHEW 22:21

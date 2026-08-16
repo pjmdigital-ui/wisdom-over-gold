@@ -6,10 +6,12 @@ By the third night he'd built a quiet verdict against himself and started living
 
 This is where a lot of men opt out without ever announcing it — not because they've decided honesty doesn't matter, but because they've decided they've already failed the test too badly to still be taking it. It's a subtle trade: guilt over one real failure gets swapped for permission to stop caring about all the failures still ahead of him.
 
-Scripture describes the man who belongs in God's presence with a specific, deliberate word: "O LORD, who shall sojourn in thy tent? Who shall dwell on thy holy hill? He who walks blamelessly, and does what is right, and speaks truth from his heart" (Psalm 15:1-2, RSV-CE). Blamelessly is not the same word as sinlessly. A man who walks blamelessly is a man in motion, facing the right direction, putting one honest step in front of the last one — not a man who has never stumbled on the path. The psalm doesn't ask whether he's arrived. It asks which way he's walking.
+Scripture describes the man who belongs in God's presence with a specific, deliberate word: Psalm 15 asks who gets to dwell close to God, on His holy hill, and answers that it's the man who walks blamelessly, does what is right, and speaks the truth he actually holds in his heart. Blamelessly is not the same word as sinlessly. A man who walks blamelessly is a man in motion, facing the right direction, putting one honest step in front of the last one — not a man who has never stumbled on the path. The psalm doesn't ask whether he's arrived. It asks which way he's walking.
 
 Zane's failure four years ago was real, and it deserved to be named honestly rather than explained away — that much of his self-judgment was earned. But the conclusion he drew from it was a different thing entirely, and it was false: that one bad stretch of road disqualifies a man from the whole walk. Integrity was never a title you earn once and either keep spotless or forfeit forever. It's a direction you choose again, every day, including — especially — the days after you've gotten it wrong.
 
 **Today:** Name one specific way you've failed at honesty or character that you've been using as proof you don't get to try anymore. Say plainly: "Integrity is the direction I'm walking, not a record I've kept perfectly." Then take one small honest action today in that same area — the exact place you gave up on yourself.
 
 **Prayer:** Lord God Almighty, I've let old failures convince me I forfeited the right to keep trying, and I know that's not how You see it. Turn me back toward the right direction today, not because I've earned it, but because You keep calling me back to the walk. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+PSALM 15:1-2

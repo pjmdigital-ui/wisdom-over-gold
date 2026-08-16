@@ -6,10 +6,12 @@ I've gone to Mass nearly every Sunday of my life. I went through CCD, made my co
 
 That gap between inherited and owned doesn't announce itself. It hides behind decades of regular Mass attendance and looks, from the outside, exactly like real faith — until an eleven-year-old asks a direct question and there's nothing underneath the habit to answer with.
 
-St. Paul names the alternative when he writes to a young man named Timothy about faith passed down through his family: "I am reminded of your sincere faith, a faith that dwelt first in your grandmother Lois and your mother Eunice and now, I am sure, dwells in you" (2 Timothy 1:5, RSV-CE). Notice what Paul doesn't say. He doesn't credit Timothy's faith to Lois and Eunice as though it simply belongs to them, handed to him unchanged. He says it now dwells in Timothy — present tense, his own, having taken root in him specifically, even though it started somewhere else. Inherited and owned aren't opposites. But one has to become the other, and that only happens through some kind of deliberate work.
+St. Paul names the alternative when he writes to a young man named Timothy about faith passed down through his family. In 2 Timothy 1:5, Paul recalls the sincere faith that lived first in Timothy's grandmother Lois, then his mother Eunice, and tells him he's convinced that same faith now lives in Timothy too. Notice what Paul doesn't say. He doesn't credit Timothy's faith to Lois and Eunice as though it simply belongs to them, handed to him unchanged. He says it now dwells in Timothy — present tense, his own, having taken root in him specifically, even though it started somewhere else. Inherited and owned aren't opposites. But one has to become the other, and that only happens through some kind of deliberate work.
 
 I can't answer for my father's faith. I can only find out whether mine actually holds up when I go looking for the reasons behind it instead of just the habit of it.
 
 **Today:** Pick one thing you've believed your whole life without ever asking why the Church teaches it — the Eucharist, confession, whatever your son's version of the question is. Look up the actual answer this week: a priest, a solid book, the Catechism itself. Then tell someone, out loud: *This isn't just my father's faith anymore. I looked into it, and I believe it myself.*
 
 **Prayer:** Father in Heaven, I have been living off a faith I inherited without ever making it fully my own, and my son's question showed me exactly where the gap is. Give me the discipline to go find the real answers instead of coasting on habit. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+
+2 TIMOTHY 1:5
