@@ -41,6 +41,6 @@ Comment "Amen" if this hit home, and send it to a man who needs to hear it today
 
 *(`instagram-post-anxious-search.html`)*
 
-Losing your temper right after a scare with your kid doesn't make you a bad father — it means you love him enough to be terrified of losing him. God didn't spare St. Joseph three days of that exact terror searching Jerusalem for a missing twelve-year-old Jesus. He didn't make Joseph calm about it. He just kept him searching until he found his son. That's what God actually asks of a father: not fearlessness, but faithfulness that keeps moving through the fear.
+That flash of anger the moment you find your lost kid isn't really anger — it's love, arriving too fast for you to recognize it as anything else. God didn't spare St. Joseph three days of that exact terror searching Jerusalem for a missing twelve-year-old Jesus. He didn't make Joseph calm about it. He just kept him faithfully searching until he found his son. The lesson isn't to feel less — it's to not let that fear come out as an edge in your voice. Name it as love instead, and tell your kid plainly what finding them means to you.
 
 Comment "Amen" if this hit home, and send it to a man who needs to hear it today.
