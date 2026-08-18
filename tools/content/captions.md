@@ -34,3 +34,13 @@ Comment "Amen" if this hit home, and send it to a man who needs to hear it today
 Money anxiety has a way of hitting hardest at 2am — running the same numbers over and over, like enough repetition might finally change what they add up to. It won't, and it was never supposed to be on you to make it add up alone. Do the honest work in daylight: the budget, the plan, the next step. Tonight, let God carry the part that was always His to carry.
 
 Comment "Amen" if this hit home, and send it to a man who needs to hear it today.
+
+---
+
+## The Anxious Search
+
+*(`instagram-post-anxious-search.html`)*
+
+Losing your temper right after a scare with your kid doesn't make you a bad father — it means you love him enough to be terrified of losing him. God didn't spare St. Joseph three days of that exact terror searching Jerusalem for a missing twelve-year-old Jesus. He didn't make Joseph calm about it. He just kept him searching until he found his son. That's what God actually asks of a father: not fearlessness, but faithfulness that keeps moving through the fear.
+
+Comment "Amen" if this hit home, and send it to a man who needs to hear it today.

@@ -11,7 +11,7 @@ How to make a new black/gold Instagram post for `@seekwisdomovergold`, and why i
    node render_instagram_png.js instagram-post-<topic-slug>.html sf_ig_<topic-slug>.png
    ```
    Requires `npm install playwright-core` once (chromium is already present at `/opt/pw-browsers` in this environment). Output lands in `build/instagram/` at 3240x4050px — 3x a real 1080x1350 IG feed post.
-4. **Actually look at the rendered PNG before calling it done.** Check the footer handle isn't clipped and nothing overflows the bottom of the canvas. This format has broken silently before when copy ran long — always verify visually, don't trust the CSS math alone.
+4. **Actually look at the rendered PNG before calling it done.** Check the footer handle isn't clipped and nothing overflows the bottom of the canvas. This format has broken silently before when copy ran long — always verify visually, don't trust the CSS math alone, and don't trust the script exiting 0 either (see the rendering-glitch note below — it fails silently).
 
 ## Format history — why it looks like this
 
@@ -21,6 +21,14 @@ Three rounds of user feedback shaped the current version, in order:
 2. **Went too far the other way**: added specific details from the source story (a mortgage due on the first, a slow business month). Feedback: too specific — it pinned the post to one guy's exact situation instead of a moment any reader would recognize. Fix: keep concrete *behavior* (checking a balance, running the numbers again, staying up), drop the narrow *scenario* (mortgage, business).
 3. **Reference format supplied by the user** (Benjamin Lundquist's IG posts — white background, black text, yellow-highlighted opening line, dense unbroken paragraph, ends "Amen.", "type amen and share" CTA in the caption): adopted the **content structure** — one flowing paragraph instead of a broken-up card, opening claim highlighted, "Amen." as the literal last word — while keeping **our own black/gold palette** instead of copying his white/yellow look or using his name/handle/photo. Also noticed his posts keep God as the active grammatical subject throughout ("God is not starting over with you... He is building...", not just "you should trust God") — our first pass at this structure was still mostly about the reader's behavior with God mentioned once at the end; rewrote to put God at the center of most sentences.
 4. **Font size**: shipped at 3.45cqw-4.3cqw first, got "hard to read, make it bigger" twice in a row. Landed on **5.6cqw** with copy cut to ~50-60 words total. The lesson: when told to make it bigger, cut the copy *first*, then push the size — don't just nudge the number and hope it still fits.
+
+## A real rendering bug — read this before writing long copy
+
+The renderer (`render_instagram_png.js`) works around a genuine Chromium headless bug on this build: naive element/clip screenshots reliably composite a duplicate ghost of part of the page into the output PNG. The script's fix (padded viewport + uncropped screenshot + real pixel crop afterward) solves the general case, but a second, content-dependent version of the same glitch showed up on a post whose highlighted `.thesis` span wrapped to 5 lines — deterministic, byte-identical across repeated runs, gone as soon as the copy was trimmed to 4 lines. The root cause was never fully isolated (file-write timing, fsync, paint-settle waits, and cache/filename reuse were all tested and ruled out — only cutting the copy fixed it). Until this is understood better:
+
+- Keep the `.thesis` span to **at most ~4 wrapped lines**.
+- Keep total body copy near the ~50-60 word budget below.
+- **Always open the rendered PNG and look at it.** The script exiting 0 and printing "wrote ..." is not evidence the image is correct — this bug produces a valid, well-formed PNG that is just visibly wrong.
 
 ## The rules, distilled
 
@@ -43,7 +51,7 @@ Three rounds of user feedback shaped the current version, in order:
 
 - `instagram-post-template.html` — start here for a new post.
 - `render_instagram_png.js` — the renderer. Takes `[source.html] [output.png]` as optional CLI args; defaults to the very first post if you call it with no args.
-- `instagram-post-anxious-about-money.html` — the current reference implementation of the format above (money anxiety / Philippians 4:19).
+- `instagram-post-anxious-about-money.html`, `instagram-post-anxious-search.html` — current reference implementations of the format above (money anxiety / Philippians 4:19; fatherhood fear / St. Joseph and the finding in the temple).
 - `instagram-post-hook-lesson.html`, `instagram-post-covenant-eyes.html` — earlier posts still using the superseded v1 card structure (headline hook + separate lesson block). Not yet retrofitted to the current format — do that before reusing them as a reference.
 - `instagram-post-mockups.html` — an earlier, even older concept grid (multiple post-type mockups: pull-quote, scripture card, saint spotlight, etc.), predates the black/gold-only direction being locked in. Historical reference only.
 - `captions.md` — the caption text for the caption field under each post (not on the image itself): a standard CTA line reused across every post, plus a short summary paragraph per post. Add a new entry here whenever a new post ships.

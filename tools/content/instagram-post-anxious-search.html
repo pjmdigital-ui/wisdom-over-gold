@@ -11,7 +11,7 @@
   IG feed post). See README.md in this folder for the full style guide
   and the history of how this format was arrived at.
 -->
-<title>[Post Title — internal use only, not shown on the card]</title>
+<title>The Anxious Search</title>
 <style>
   :root {
     --backdrop: #1c1a17;
@@ -96,11 +96,7 @@
   /* 5.6cqw is the validated size for ~50-60 words of body copy (roughly
      4-6 lines of Instagram text after the highlighted thesis). If your
      draft runs longer than that, CUT THE COPY — don't shrink this
-     number back down. Legibility beat density when we tested both.
-     ALSO: keep the .thesis span itself to at most ~4 wrapped lines — a
-     5-line thesis has reproduced a real Chromium screenshot glitch that
-     silently corrupts the rendered PNG. See README.md's "A real
-     rendering bug" section before writing a long thesis. */
+     number back down. Legibility beat density when we tested both. */
   .post .body p {
     margin: 0;
     color: var(--paper);
@@ -167,31 +163,12 @@
   .notes li:last-child { margin-bottom: 0; }
 </style>
 
-<div class="context">
-  <p class="eyebrow">Template — fill in and rename</p>
-  <p>Copy this file, replace the [bracketed] placeholders below, delete this .context block and the .notes block at the bottom (they're for in-browser reference only and are stripped out by the renderer anyway since it only extracts .post), then render.</p>
-</div>
-
 <div class="post">
   <div class="body">
     <div class="rule"></div>
-    <p><span class="thesis">[1-2 sentence opening claim. Second person ("you"). Names the reader's actual behavior/moment AND what God is doing about it — mirrors "You're so consumed with X that you're missing what God is doing Y."]</span> [2-4 more sentences continuing the paragraph. At least half the sentences should have GOD as the grammatical subject doing something active right now — "God is...", "He is...", "He has never..." — not just describing what the reader should do. End with a short directive to the reader, then let the paragraph's last word be] <span class="amen">Amen.</span></p>
+    <p><span class="thesis">Losing your temper after a scare doesn't make you a bad father. It means you love him enough to be terrified of losing him.</span> God didn't spare Joseph three days of that same terror. He kept him searching until he found his son. That's what God asks: not fearlessness, but faithfulness that keeps moving through fear. <span class="amen">Amen.</span></p>
   </div>
   <div class="footer">
     <div class="mark">@seekwisdomovergold</div>
   </div>
-</div>
-
-<div class="notes">
-  <p class="eyebrow">Checklist before rendering</p>
-  <ul>
-    <li>One flowing paragraph, ~50-60 words total (including the highlighted thesis). Cut copy to fit the 5.6cqw size — don't shrink the font to fit more copy.</li>
-    <li>The highlighted .thesis span wraps to AT MOST ~4 lines. A 5-line thesis has triggered a real rendering glitch that silently corrupts the output PNG — see README.md.</li>
-    <li>Content sourced from an actual day/story in the manuscript, paraphrased in the author's voice. No scripture quoted directly (citation-only rule — see main manuscript's house style).</li>
-    <li>Concrete BEHAVIOR (checking a balance, lying awake, running numbers) not a narrow SCENARIO (a specific mortgage, a specific business) — the goal is a moment most readers recognize, not one guy's exact situation.</li>
-    <li>God is the active subject in most of the sentences after the thesis, not just a mention at the end.</li>
-    <li>No name, no day, no verse citation anywhere on the card. Footer is just the handle.</li>
-    <li>No hyperlinks or outside references of any kind.</li>
-    <li>Render, then LOOK at the PNG before delivering — check the footer isn't clipped, nothing overflows the 1350px canvas, and nothing is duplicated/ghosted anywhere on the card.</li>
-  </ul>
 </div>
