@@ -46,4 +46,5 @@ Three rounds of user feedback shaped the current version, in order:
 - `instagram-post-anxious-about-money.html` — the current reference implementation of the format above (money anxiety / Philippians 4:19).
 - `instagram-post-hook-lesson.html`, `instagram-post-covenant-eyes.html` — earlier posts still using the superseded v1 card structure (headline hook + separate lesson block). Not yet retrofitted to the current format — do that before reusing them as a reference.
 - `instagram-post-mockups.html` — an earlier, even older concept grid (multiple post-type mockups: pull-quote, scripture card, saint spotlight, etc.), predates the black/gold-only direction being locked in. Historical reference only.
+- `captions.md` — the caption text for the caption field under each post (not on the image itself): a standard CTA line reused across every post, plus a short summary paragraph per post. Add a new entry here whenever a new post ships.
 - `build_video_outlines_pptx.js`, `build_web_slides.js` — unrelated: the 17-video PPTX/HTML teleprompter scripts, not Instagram content.
