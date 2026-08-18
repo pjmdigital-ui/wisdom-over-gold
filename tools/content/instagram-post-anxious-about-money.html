@@ -8,9 +8,10 @@
     --gold: #b8923f;
     --gold-dim: #7d642e;
     --white: #f4f1e9;
+    --paper: #e4ddcc;
     --paper-dim: #b9ae93;
     --rule: rgba(217, 178, 95, 0.34);
-    --ghost: rgba(217, 178, 95, 0.09);
+    --highlight: rgba(217, 178, 95, 0.2);
   }
 
   * { box-sizing: border-box; }
@@ -64,102 +65,44 @@
     flex-direction: column;
   }
 
-  /* oversized ghost glyph — the post opens on a question, so the question
-     mark itself becomes the background texture that stops the scroll */
-  .post::before {
-    content: "?";
-    position: absolute;
-    top: -9cqw;
-    right: -6cqw;
-    font-size: 62cqw;
-    font-weight: 800;
-    color: var(--ghost);
-    line-height: 1;
-    pointer-events: none;
-    font-family: -apple-system, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  .post .body {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 9cqw 9cqw;
   }
 
-  .post .hook {
-    position: relative;
-    margin: 9cqw 0 0;
-    padding: 0 9cqw;
-    font-family: -apple-system, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
-    font-weight: 800;
-    color: var(--white);
-    font-size: 7.4cqw;
-    line-height: 1.16;
-    letter-spacing: -0.01em;
-    text-wrap: balance;
-  }
-
-  .post .spacer { flex: 1; }
-
-  .post .lesson {
-    position: relative;
-    padding: 0 9cqw 7cqw;
-  }
-
-  /* the closing line is the turn from worry to hope, so it gets a
-     literal warm glow behind it instead of sitting flat on the black */
-  .post .lesson::after {
-    content: "";
-    position: absolute;
-    left: 6cqw;
-    bottom: 0;
-    width: 74cqw;
-    height: 40cqw;
-    background: radial-gradient(closest-side, rgba(217, 178, 95, 0.24), transparent 72%);
-    pointer-events: none;
-    z-index: 0;
-  }
-
-  .post .lesson .rule,
-  .post .lesson .setup,
-  .post .lesson .payoff,
-  .post .lesson .uplift,
-  .post .lesson .amen {
-    position: relative;
-    z-index: 1;
-  }
-
-  .post .lesson .rule {
+  .post .body .rule {
     width: 11cqw;
     height: 2px;
     background: var(--gold);
-    margin-bottom: 4.5cqw;
+    margin-bottom: 5cqw;
   }
 
-  .post .lesson .setup {
-    color: var(--paper-dim);
-    font-size: 4.1cqw;
-    line-height: 1.5;
-    margin: 0 0 2cqw;
+  .post .body p {
+    margin: 0;
+    color: var(--paper);
+    font-size: 3.75cqw;
+    line-height: 1.62;
   }
 
-  .post .lesson .payoff {
+  /* the opening claim reads like the rest, but carries a soft gold
+     highlight behind it — the same "mark it up" move a highlighter makes
+     on paper, translated into our black/gold system instead of yellow */
+  .post .body .thesis {
+    background: var(--highlight);
     color: var(--gold-bright);
     font-weight: 700;
-    font-size: 5.6cqw;
-    line-height: 1.22;
-    margin: 0 0 3cqw;
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+    padding: 0.08em 0.1em;
+    border-radius: 2px;
   }
 
-  .post .lesson .uplift {
-    color: var(--white);
-    font-style: italic;
-    font-weight: 600;
-    font-size: 4.4cqw;
-    line-height: 1.48;
-    margin: 0 0 2.4cqw;
-  }
-
-  .post .lesson .amen {
-    color: var(--gold-dim);
-    font-size: 2.9cqw;
-    letter-spacing: 0.14em;
-    text-transform: uppercase;
-    font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
-    margin: 0;
+  .post .body .amen {
+    color: var(--gold-bright);
+    font-weight: 700;
   }
 
   .post .footer {
@@ -204,19 +147,14 @@
 </style>
 
 <div class="context">
-  <p class="eyebrow">Third post, same system</p>
-  <p>Concrete behavior (checking the balance, running the math again, staying up), not a specific scenario (mortgage, side business) — so more men actually see themselves in it instead of just one guy's situation.</p>
+  <p class="eyebrow">Fourth pass — new structure, same look</p>
+  <p>Referencing the "notes app" testimony-post format (dense single paragraph, opening claim highlighted, closes on "Amen") &mdash; kept in our own black/gold system instead of the white background and yellow highlighter.</p>
 </div>
 
 <div class="post">
-  <div class="hook">Ever check your bank balance at 2am, hoping it changed?</div>
-  <div class="spacer"></div>
-  <div class="lesson">
+  <div class="body">
     <div class="rule"></div>
-    <p class="setup">The same numbers, over and over. Running the math a fourth time doesn't change what it adds up to &mdash; it just keeps you awake.</p>
-    <p class="payoff">You can't out-think a spreadsheet in the dark.</p>
-    <p class="uplift">Do the real work in daylight &mdash; budget it, make the plan, take the next step. Tonight, let God carry it instead.</p>
-    <p class="amen">Amen.</p>
+    <p><span class="thesis">You keep running the same numbers at 2am, certain that if you think about them hard enough, they'll finally add up different. They won't.</span> Worry feels like responsibility because it costs you something &mdash; your sleep, your peace, a clear head. But feeling the cost isn't the same as doing the work. The real work only happens in daylight: the budget, the plan, the next right step. What you're doing at 2am is trying to carry, alone, a weight you were never asked to carry by yourself. You can't out-think a spreadsheet in the dark. Close the app. Do the real work tomorrow, with rested eyes and a clear head. Tonight, hand what you can't fix to the God who already knows how it ends. <span class="amen">Amen.</span></p>
   </div>
   <div class="footer">
     <div class="mark">@seekwisdomovergold</div>
@@ -224,10 +162,11 @@
 </div>
 
 <div class="notes">
-  <p class="eyebrow">Sourcing</p>
+  <p class="eyebrow">What changed</p>
   <ul>
-    <li>Drawn from the book's teaching on Philippians 4:19 &mdash; the promise that provision is God's to supply, not something a man has to out-think alone at 2am.</li>
-    <li>No scripture is quoted directly, consistent with the citation-only approach the book itself is moving toward.</li>
-    <li>Same rule as the other posts: no name, no day, no verse reference &mdash; just the account handle.</li>
+    <li><strong style="color: var(--paper-dim)">One flowing paragraph, not a broken-up card</strong> &mdash; reads like a testimony someone typed out in one sitting, not a designed graphic with separate hook/lesson/hope blocks.</li>
+    <li><strong style="color: var(--paper-dim)">Gold highlight instead of yellow</strong> &mdash; the opening claim gets the same "mark it up" treatment as the reference post, just in a color that belongs to our palette.</li>
+    <li><strong style="color: var(--paper-dim)">"Amen." lands inline, not as a separate signature line</strong> &mdash; it's the last word of the paragraph, the way the reference posts actually end.</li>
+    <li><strong style="color: var(--paper-dim)">Same sourcing rules as always</strong> &mdash; grounded in Philippians 4:19 and the book's Sawyer story, no scripture quoted directly, no name, no day, no verse citation.</li>
   </ul>
 </div>
