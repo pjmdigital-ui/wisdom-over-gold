@@ -41,6 +41,6 @@ Comment "Amen" if this hit home, and send it to a man who needs to hear it today
 
 *(`instagram-post-anxious-search.html`)*
 
-That flash of anger the moment you find your lost kid isn't really anger — it's love, arriving too fast for you to recognize it as anything else. God didn't spare St. Joseph three days of that exact terror searching Jerusalem for a missing twelve-year-old Jesus. He didn't make Joseph calm about it. He just kept him faithfully searching until he found his son. The lesson isn't to feel less — it's to not let that fear come out as an edge in your voice. Name it as love instead, and tell your kid plainly what finding them means to you.
+You think that edge in your voice after a scare means you're failing as a father. But God isn't asking you to feel less. St. Joseph wasn't calm for three days searching Jerusalem for a missing twelve-year-old Jesus — he was terrified, and God didn't ask him to stop feeling it. He asked him to keep searching until he found his son. Let your own fear sound like love instead of an edge, and tell your kid plainly what finding them means to you.
 
 Comment "Amen" if this hit home, and send it to a man who needs to hear it today.

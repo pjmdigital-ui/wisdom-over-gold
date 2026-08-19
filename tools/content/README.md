@@ -44,6 +44,7 @@ The renderer (`render_instagram_png.js`) works around a genuine Chromium headles
 - Source every post from an actual day/story in the manuscript. Paraphrase in the author's voice — **never quote scripture directly**, consistent with the citation-only approach the main manuscript itself is moving toward (see `manuscript-citation-only/` and its own `00-front-matter/scripture-notice.md`).
 - Concrete **behavior**, not a narrow **scenario**. "Checking your bank balance at 2am" is universal; "the mortgage due on the first" is one guy's situation. Favor the former.
 - **God is the active subject** in most sentences after the opening thesis — "God is...", "He is...", "He has never..." — not just a passive mention at the end.
+- **The thesis names what the reader thinks/feels; the body turns on what God actually does.** The clearest version of this format is literally "You think X — but God Y": name the reader's assumption or feeling in the thesis, then let the very next sentence contradict or reframe it with something God is doing or asking. Don't let the thesis alone carry the lesson (e.g. "losing your temper means you love him" reads as endorsing the temper) — the turn is the point, not the naming.
 - No name, no day, no verse citation on the card itself. If the person wants to know the book/day/verse behind a post, that belongs in the caption, not the image.
 - No hyperlinks or outside references of any kind — the author does not want the book linking out to other websites.
 
