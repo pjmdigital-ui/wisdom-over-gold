@@ -1,0 +1,178 @@
+<!--
+  SEEK FIRST — Instagram post template (v2, "testimony" format)
+  =================================================================
+  This is the base template for every future black/gold Instagram post.
+  Copy this file to a new name (e.g. instagram-post-<topic-slug>.html),
+  fill in the content per the rules below, then render it with:
+
+    node render_instagram_png.js instagram-post-<topic-slug>.html sf_ig_<topic-slug>.png
+
+  Output lands in build/instagram/ at 3240x4050px (3x a real 1080x1350
+  IG feed post). See README.md in this folder for the full style guide
+  and the history of how this format was arrived at.
+-->
+<title>The Moving Number</title>
+<style>
+  :root {
+    --backdrop: #1c1a17;
+    --ink: #0a0a0a;
+    --ink-edge: #050505;
+    --gold-bright: #d9b25f;
+    --gold: #b8923f;
+    --gold-dim: #7d642e;
+    --white: #f4f1e9;
+    --paper: #e4ddcc;
+    --paper-dim: #b9ae93;
+    --rule: rgba(217, 178, 95, 0.34);
+    --highlight: rgba(217, 178, 95, 0.2);
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    min-height: 100vh;
+    background: var(--backdrop);
+    color: var(--paper-dim);
+    font-family: Georgia, "Iowan Old Style", "Palatino Linotype", "Book Antiqua", serif;
+    -webkit-font-smoothing: antialiased;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.6rem;
+    padding: 3.5rem 1.25rem 4rem;
+  }
+
+  .context {
+    max-width: 30em;
+    text-align: center;
+  }
+
+  .context .eyebrow {
+    font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+    font-size: 0.68rem;
+    letter-spacing: 0.24em;
+    text-transform: uppercase;
+    color: var(--gold-bright);
+    margin: 0 0 0.6rem;
+  }
+
+  .context p {
+    margin: 0;
+    color: var(--paper-dim);
+    font-size: 0.95rem;
+    line-height: 1.55;
+  }
+
+  /* the post itself, sized to Instagram's 4:5 portrait canvas (1080x1350) */
+  .post {
+    container-type: inline-size;
+    position: relative;
+    width: min(90vw, 480px);
+    aspect-ratio: 1080 / 1350;
+    background: var(--ink);
+    border: 1px solid var(--ink-edge);
+    box-shadow: 0 2.5rem 5rem -2rem rgba(0, 0, 0, 0.65);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .post .body {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 9cqw 9cqw;
+  }
+
+  .post .body .rule {
+    width: 11cqw;
+    height: 2px;
+    background: var(--gold);
+    margin-bottom: 5cqw;
+  }
+
+  /* 5.6cqw is the validated size for ~50-60 words of body copy (roughly
+     4-6 lines of Instagram text after the highlighted thesis). If your
+     draft runs longer than that, CUT THE COPY — don't shrink this
+     number back down. Legibility beat density when we tested both.
+     ALSO: keep the .thesis span itself to at most ~4 wrapped lines — a
+     5-line thesis has reproduced a real Chromium screenshot glitch that
+     silently corrupts the rendered PNG. See README.md's "A real
+     rendering bug" section before writing a long thesis. */
+  .post .body p {
+    margin: 0;
+    color: var(--paper);
+    font-size: 5.6cqw;
+    line-height: 1.5;
+  }
+
+  /* the opening claim reads like the rest, but carries a soft gold
+     highlight behind it — the same "mark it up" move a highlighter makes
+     on paper, translated into our black/gold system instead of yellow */
+  .post .body .thesis {
+    background: var(--highlight);
+    color: var(--gold-bright);
+    font-weight: 700;
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+    padding: 0.08em 0.1em;
+    border-radius: 2px;
+  }
+
+  .post .body .amen {
+    color: var(--gold-bright);
+    font-weight: 700;
+  }
+
+  .post .footer {
+    position: relative;
+    padding: 4cqw 9cqw 6cqw;
+    border-top: 1px solid var(--rule);
+    display: flex;
+    justify-content: center;
+  }
+
+  .post .footer .mark {
+    font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+    font-size: 3.6cqw;
+    letter-spacing: 0.04em;
+    color: var(--gold-dim);
+  }
+
+  .notes {
+    max-width: 30em;
+    text-align: left;
+  }
+
+  .notes .eyebrow {
+    font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+    font-size: 0.62rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--gold);
+    margin: 0 0 0.7rem;
+  }
+
+  .notes ul {
+    margin: 0;
+    padding: 0 0 0 1.1em;
+    color: var(--paper-dim);
+    font-size: 0.88rem;
+    line-height: 1.7;
+  }
+
+  .notes li { margin-bottom: 0.35rem; }
+  .notes li:last-child { margin-bottom: 0; }
+</style>
+
+<div class="post">
+  <div class="body">
+    <div class="rule"></div>
+    <p><span class="thesis">You think hitting that number will finally make you feel like you've made it.</span> But God already settled your worth before you closed a single deal. Solomon reached every number a man could chase and called it smoke in his hands. God isn't waiting behind your next win &mdash; stop missing what's real to chase a feeling no number has ever delivered. <span class="amen">Amen.</span></p>
+  </div>
+  <div class="footer">
+    <div class="mark">@seekwisdomovergold</div>
+  </div>
+</div>

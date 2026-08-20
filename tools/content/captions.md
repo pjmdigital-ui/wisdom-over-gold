@@ -44,3 +44,13 @@ Comment "Amen" if this hit home, and send it to a man who needs to hear it today
 You think that edge in your voice after a scare means you're failing as a father. But God isn't asking you to feel less. St. Joseph wasn't calm for three days searching Jerusalem for a missing twelve-year-old Jesus — he was terrified, and God didn't ask him to stop feeling it. He asked him to keep searching until he found his son. Let your own fear sound like love instead of an edge, and tell your kid plainly what finding them means to you.
 
 Comment "Amen" if this hit home, and send it to a man who needs to hear it today.
+
+---
+
+## The Moving Number
+
+*(`instagram-post-the-moving-number.html`)*
+
+You think hitting that number will finally make you feel like you've made it. But God already settled your worth before you closed a single deal. Solomon reached every number a man could reach — every want fulfilled the moment he wanted it — and called it all vanity, a striving after wind. The number will always move, because it was never actually what you were after. Stop trading what's real for a feeling no title has ever delivered.
+
+Comment "Amen" if this hit home, and send it to a man who needs to hear it today.
