@@ -10,7 +10,7 @@ He'd been living for years on a belief he'd never once said out loud. Hearing hi
 
 Proverbs draws a straight line most men would rather not look at directly. A father who walks with integrity leaves his sons blessed, simply by having lived that way in front of them. The blessing is the character itself, carried forward into the next generation. Children don't learn integrity from a lecture about honesty. They learn it from which version of the truth Dad reaches for when it's inconvenient. Nathan had spent no time explicitly teaching his daughter to lie. He hadn't needed to. She was simply paying better attention to him than he was to himself.
 
-**Today:** Return to whoever was in the room the last time you shaded the truth for convenience — a child, a spouse, a friend — and correct it out loud in front of them. Tell them straight: "I want to be honest with you even when it costs me something small, because that's who I'm becoming." Let them watch you fix it, not just hear you announce it.
+**Today:** Go back to whoever was in the room the last time you shaded the truth for convenience — a child, a spouse, a friend. Correct it out loud in front of them. Tell them straight: "I want to be honest with you even when it costs me something small, because that's who I'm becoming." Let them watch you fix it, not just hear you announce it.
 
 **Prayer:** Lord God Almighty, I've handed off small dishonesties as if they don't matter, and someone I love has been watching and learning from every one of them. Make me the kind of man whose children inherit the truth instead of the shortcut. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
 

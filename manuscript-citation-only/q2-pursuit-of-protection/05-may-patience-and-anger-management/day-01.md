@@ -8,7 +8,7 @@ I never would have said the real sentence out loud, because I had never said it 
 
 Proverbs 14:29 names this reflex plainly. A man who is slow to anger has real understanding. A man with a quick temper doesn't just make a mistake quietly. He puts it on display for everyone to see, like something set up on a stage with the lights on. My four seconds of feeling powerful put my folly on display for that whole room. Silas said almost nothing for the rest of the meeting. Neither did anyone else.
 
-What I was really chasing was proof, mostly for myself, that I'm not the kind of man people walk over. That's pride wearing the costume of leadership. Underneath the costume is a man who needed a room full of witnesses to a fight nobody else even knew was happening. Real understanding looks quiet next to that. It waits one more beat before it speaks. It asks a question instead of throwing a line. It never needs an audience to know it happened.
+What I was really chasing was proof, mostly for myself, that I'm not the kind of man people walk over. Pride wears the costume of leadership well. Underneath the costume is a man who needed a room full of witnesses to a fight nobody else even knew was happening. Real understanding looks quiet next to that. It waits one more beat before it speaks. It asks a question instead of throwing a line. It never needs an audience to know it happened.
 
 **Today:** Think of the person you spoke to fastest and hardest this week. Maybe it was a call you cut short, or a line you didn't need to say the way you said it. Go to that person and say plainly, "I reacted instead of leading, and I'm sorry." Then write down the sentence you're replacing it with: *real strength is what I can hold before I speak, not how fast I react.*
 
