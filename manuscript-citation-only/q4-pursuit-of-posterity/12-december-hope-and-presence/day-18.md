@@ -10,6 +10,6 @@ That doesn't shorten Kyle and Maren's wait or promise it ends the way they want.
 
 **Today:** Tell your spouse directly, out loud, that you're still hoping — not just carrying the disappointment silently next to her. Then take the one small practical step you've been putting off, as evidence you're still in this and not giving up on it.
 
-**Prayer:** Father in Heaven, three years of waiting and disappointment have made it hard some months to keep hoping instead of just enduring. Let me be a man who waits for You instead of one who quietly writes You off. Be near to Maren in this too; she's carrying a weight I can't fully share. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+**Prayer:** Father in Heaven, three years of waiting and disappointment have made it hard some months to keep hoping instead of just enduring. Let me be a man who waits for You instead of one who quietly writes You off. Be near to Maren in this too. She's carrying a weight I can't fully share. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
 
 LAMENTATIONS 3:24-25

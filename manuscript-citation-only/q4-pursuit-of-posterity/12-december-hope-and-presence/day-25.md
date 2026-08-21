@@ -6,7 +6,7 @@ He felt fine about it for about a day. Then he did the math on his own December:
 
 Hartley had been telling himself for years that generosity was a box you checked, something given, technically, no matter the size. St. Paul spends two full chapters pushing the Corinthians past exactly that instinct, urging a scattered, half-hearted people toward giving that actually costs the giver something, and then closes the whole appeal in 2 Corinthians 9:15 by thanking God for a gift too great for words to capture. Paul isn't talking about a gift card. He's talking about a Son handed over completely, at a cost nobody could round up to a number. That's the shape generosity is supposed to take after: not the leftover, not the easy round number, but something that actually costs the one giving it.
 
-A twenty-five-dollar card mailed with no note was a receipt Hartley could show himself that he'd technically responded, not real generosity. It was proof of nothing, aimed at no one but his own conscience.
+A twenty-five-dollar card mailed with no note wasn't real generosity — it was a receipt Hartley could show himself that he'd technically responded, proof of nothing, aimed at no one but his own conscience.
 
 **Today:** Give something today that actually costs you — real time, real comfort, or money you'd already planned to spend on yourself — to one specific person who needs it. Don't tell anyone else you did it.
 

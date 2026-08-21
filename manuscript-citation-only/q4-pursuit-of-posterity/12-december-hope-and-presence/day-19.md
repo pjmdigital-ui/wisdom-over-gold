@@ -12,6 +12,6 @@ Craig's cell was not a starvation bunker, and his night wasn't nearly as severe 
 
 **Today:** Name the room you're actually in tonight, whatever it is, and make one call tomorrow morning you've been avoiding — a sponsor, a counselor, your wife — before you try to solve anything else about the situation.
 
-**Prayer:** Lord God Almighty, tonight doesn't look anything like a place where hope should live, and I've been telling myself it can't, not yet. Teach me that You're already here with me before anything about my circumstances changes. Give me the courage to make the call I've been avoiding. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
+**Prayer:** Lord God Almighty, tonight doesn't look anything like a place where hope should live, and I've been telling myself it can't, not yet. Teach me that You're already here with me before anything about my situation changes. Give me the courage to make the call I've been avoiding. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
 
 2 CORINTHIANS 4:17
