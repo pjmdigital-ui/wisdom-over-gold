@@ -6,7 +6,7 @@ At a Friday cookout, a coworker named Kian mentioned he'd spent his lunch break 
 
 Lars opened his mouth and had nothing. He'd read the fine print on a car loan more carefully than he'd ever read anything about the faith he'd dismissed at nineteen. He'd built a whole identity around being a man who doesn't believe things without evidence, and never once turned that same discipline on the question itself.
 
-The belief under Lars's confidence was simple, and he'd never said it out loud: *smart, careful men don't need faith — they figure things out.* He'd filed religion under "settled, unexamined" long ago and never reopened the file. That's its own kind of unexamined belief, not the careful thinking he thought it was.
+The belief under Lars's confidence was simple, and he'd never said it out loud: *smart, careful men don't need faith — they figure things out.* He'd filed religion under "settled, unexamined" long ago and never reopened the file. That filing itself was an unexamined belief, dressed up as careful thinking.
 
 St. Peter, writing to Christians who had far more reason to hide what they believed than Lars ever will, doesn't tell them to fall back on feeling when questioned. In 1 Peter 3:15, he tells them to always be ready to give a reasoned answer to anyone who asks them why they hope the way they do, and to give it with gentleness and respect. A defense means reasons. It means the case has been built, not just felt. Peter assumes a Christian has done the work, that faith and thinking were never supposed to be at war.
 
