@@ -6,7 +6,7 @@ Push on that sentence and here's what it's really saying: I'll give once the bud
 
 Matthew 6:21 says it in one plain line: wherever your treasure is, your heart will end up there too. Jesus is describing how the human heart actually works. Your heart doesn't lead your money. Your money leads your heart. Put your money toward comfort and safety, and your heart follows, worrying about it, protecting it, measuring your peace by what's in the account. Put your money toward God's work, and your heart starts to follow that instead.
 
-This is why a tight month is the real test, not a flush one. Giving out of extra money costs you nothing. Of course you'll give when you don't even feel it leave. Giving when the number in your account makes you wince is the kind that actually changes you, because it takes trust instead of just spare cash. A man who only gives when it's easy has already put his money first. God gets whatever's left over, which is never the treasure. It's only the crumbs.
+This is why a tight month is the real test, not a flush one. Giving out of extra money costs you nothing. Of course you'll give when you don't even feel it leave. Giving when the number in your account makes you wince is the kind that actually changes you, because it takes trust instead of just spare cash. A man who only gives when it's easy has already put his money first. God gets whatever's left over — the crumbs, never the treasure.
 
 Every dollar you give on purpose, especially the ones that hurt to give, is a small reminder that none of it was ever fully yours. You were always a steward, not an owner. The tight budget didn't create that truth. It just showed you how tightly you'd been holding onto something you never owned.
 
