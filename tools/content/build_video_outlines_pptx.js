@@ -21,13 +21,14 @@ const SECTIONS = [
     videos: [
       {
         title: "The Ache Underneath",
-        source: "Day 7, January",
+        source: "Day 7, January + Your List of Truths (front matter)",
         bullets: [
           "Ever feel a low ache under your ribs on a day when everything is actually going right?",
-          "It hit one man on a Sunday afternoon — lawn chair, kids in the sprinkler, a business that finally didn’t keep him up at night. Good marriage. Healthy kids. And that same ache under his ribs anyway.",
-          "Psalm 42 names it exactly: “As a hart longs for flowing streams, so longs my soul for thee, O God. My soul thirsts for God, for the living God.”",
-          "You can solve your marriage, your finances, your health, one at a time, completely — and the ache stays exactly where it was. It’s the God-shaped space every man carries. Only God fits there.",
-          "The next time you feel that ache in a good moment, not just a hard one — don’t reach for a distraction. Sit with it for sixty seconds and say, “God, I know this is You.” Then open your List of Truths and read it slowly — let it remind you the ache was never really about what’s missing.",
+          "It hit one man on a lawn chair, mid-Sunday, with nothing actually wrong — kids in the sprinkler, a business that finally didn’t keep him up at night, good marriage, healthy kids. By every measure that mattered to him at twenty-five, he’d made it. And that same ache under his ribs showed up anyway. He almost felt guilty for it — but the ache wasn’t asking his permission.",
+          "Psalm 42 names this exact thing, and not from a collapsed life: “As a hart longs for flowing streams, so longs my soul for thee, O God. My soul thirsts for God, for the living God.” Scholars place it in a season of real longing, not a life falling apart — the ache shows up whether or not anything around you is actually wrong.",
+          "You can solve your marriage, your finances, your health, one at a time, completely — and the ache stays exactly where it was. It’s the God-shaped space every man carries. Good circumstances just quiet the noise around it. They were never built to fill it. Only God fits there. It isn’t broken — it’s pointing you somewhere the lawn chair was never going to reach.",
+          "The next time you feel that ache in a good moment, not just a hard one — don’t reach for a distraction. Sit with it for sixty seconds and say, “God, I know this is You.”",
+          "Then read something called a List of Truths — not generic positivity, but specific, provable things: what you’ve overcome, what you’ve stayed faithful to, what God has actually done in your life. David did this before Goliath — he remembered the lion and the bear before he faced the giant. Write fifteen lines like it, and keep them where you’ll actually see them.",
         ],
       },
       {
