@@ -12,7 +12,7 @@ St. Paul, writing to a Corinthian church busy ranking its own leaders against ea
 
 Three months, three different rooms of Lane's life — his marriage, his kids, his own hope — and one question sitting under every card in that jar whether he'd noticed it while writing them or not: was Christ actually holding this, or was he.
 
-He read every card twice before folding them back into the jar, unfinished, because none of it actually was. Posterity wasn't a subject he'd covered in three months and could set down for good. It was a foundation question he'd keep answering, one ordinary night at a time, for as long as he had a marriage, children, and a reason to hope — which is to say, for the rest of his life.
+He read every card twice before folding them back into the jar, unfinished, because none of it actually was. Posterity turned out to be a foundation question, not a subject he could cover in three months and set down for good. He'd keep answering it, one ordinary night at a time, for as long as he had a marriage, children, and a reason to hope — which is to say, for the rest of his life.
 
 **Today:** Read back over your own last three months — notes if you kept any, memory if you didn't — and name the one foundation question running under your marriage, your fatherhood, and your hope this quarter. Say it out loud: *I don't build any of this on my own. Christ is the only foundation that holds.*
 

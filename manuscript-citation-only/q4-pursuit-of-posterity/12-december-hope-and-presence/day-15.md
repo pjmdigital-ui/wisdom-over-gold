@@ -10,7 +10,7 @@ That's a hard sentence to believe from inside a Tuesday like Emeric's. It doesn'
 
 Emeric didn't find a new job that month. What he found, three weeks in, was that he was praying more honestly than he had in years, and that his kids hadn't actually noticed the loss of status he'd been quietly mourning. They'd noticed him around more, and they liked it. None of that undid the real financial pressure sitting on him. It did mean the suffering was doing something in him, alongside everything it was taking from him.
 
-**Today:** Name one piece of suffering in your life right now that you've only been counting as pure loss. Write down one thing — even a small one — it might actually be building in you: endurance, character, a hope not tied to your circumstances improving first.
+**Today:** Name one piece of suffering in your life right now that you've only been counting as pure loss. Write down one thing — even a small one — it might actually be building in you: endurance, character, a hope not tied to your situation improving first.
 
 **Prayer:** Lord God Almighty, I've been treating hardship as proof that something has gone wrong instead of trusting You to build something real through it. Help me see what this season is producing in me, not just what it's taking away. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
 

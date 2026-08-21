@@ -2,7 +2,7 @@
 
 Ambrose runs a small remodeling crew. On a Thursday in early December, his biggest client for the year cut the back half of a kitchen project, three weeks after Ambrose had already ordered the cabinets. The deposit was already spent on materials sitting in a warehouse with nowhere to go. He did the math in his truck in about ninety seconds and knew exactly how bad it was.
 
-That afternoon he told his crew it was no big deal, that they'd be fine, that something else would come through. He told himself the same thing walking into the house that night, and he told his wife, Corrine, a version of it too — vague, upbeat, nothing about actual numbers. It took her three days to notice the checking account and ask him directly what had happened. When she finally saw the real gap, what upset her wasn't the loss itself. It was how long he'd kept smiling through it instead of just telling her.
+That afternoon he told his crew it was no big deal, that they'd be fine, that something else would come through. He told himself the same thing walking into the house that night, and he told his wife, Corrine, a version of it too — vague, upbeat, nothing about actual numbers. It took her three days to notice the checking account and ask him directly what had happened. When she finally saw the real gap, what upset her more than the loss itself was how long he'd kept smiling through it instead of just telling her.
 
 He told the crew everything was fine. He told Corrine everything was fine. He told himself everything was fine. None of those sentences were actually hope. They were a refusal to look at the number until looking became unavoidable — cheerfulness standing in for a trust he hadn't actually chosen to have.
 
