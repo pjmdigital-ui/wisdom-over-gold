@@ -14,9 +14,9 @@ import markdown as md
 from ebooklib import epub
 
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-MANUSCRIPT = os.path.join(REPO, "manuscript")
+MANUSCRIPT = os.path.join(REPO, "manuscript-citation-only")
 FRONT = os.path.join(MANUSCRIPT, "00-front-matter")
-COVER_PATH = os.path.join(MANUSCRIPT, "Seek First Cover.png")
+COVER_PATH = os.path.join(REPO, "manuscript", "Seek First Cover.png")
 OUT_PATH = os.path.join(REPO, "build", "Seek First - Paul Mascetta.epub")
 
 QUARTERS = [
@@ -153,6 +153,16 @@ p {
     font-size: 0.85em;
     margin-top: 40%;
 }
+
+.scripture-ref {
+    margin-top: 1.6em;
+    text-align: center;
+    font-style: normal;
+    font-size: 0.8em;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #96762a;
+}
 """
 
 
@@ -184,6 +194,29 @@ def read_md(path):
 
 def strip_html_comments(text):
     return re.sub(r"<!--.*?-->", "", text, flags=re.DOTALL).strip()
+
+
+def title_case_ref(line):
+    words = line.strip().split(" ")
+    out = []
+    for w in words:
+        out.append(w if re.match(r"^[\d:.,-]+$", w) else w[:1].upper() + w[1:].lower())
+    return " ".join(out)
+
+
+def split_citation_footer(raw):
+    """Citation-only day files end with one or more bare, ALL-CAPS verse
+    reference lines (e.g. MATTHEW 6:33). Pull those off so they can be
+    rendered as a small styled reference line instead of a shouting
+    paragraph in the middle of the prose."""
+    paras = re.split(r"\n\s*\n", raw.strip())
+    footer_lines = []
+    while paras and paras[-1].strip() and not re.search(r"[a-z]", paras[-1]):
+        block = paras.pop()
+        lines = [l.strip() for l in block.split("\n") if l.strip()]
+        footer_lines = lines + footer_lines
+    body = "\n\n".join(paras)
+    return body, footer_lines
 
 
 def make_chapter(uid, title, html_body, filename):
@@ -292,7 +325,11 @@ def main():
                 first_line_match = re.match(r"^# (.+)\n", raw)
                 day_title = first_line_match.group(1) if first_line_match else dfname
                 body = raw[first_line_match.end():] if first_line_match else raw
+                body, footer_lines = split_citation_footer(body)
                 html_body = f'<h1 class="day-title">{day_title}</h1>' + md_to_html(body)
+                if footer_lines:
+                    ref_text = " &middot; ".join(title_case_ref(l) for l in footer_lines)
+                    html_body += f'<p class="scripture-ref">{ref_text}</p>'
                 dchap = add_chapter(day_title, html_body, in_toc=False)
                 day_chaps.append(dchap)
             month_section = epub.Section(f"{month_name} — {month_theme}", href=mchap.file_name)
