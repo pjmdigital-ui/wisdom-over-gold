@@ -47,11 +47,11 @@ Comment "Amen" if this hit home, and send it to a man who needs to hear it today
 
 ---
 
-## Venting Isn't Honesty
+## Not the Scoreboard
 
-*(`instagram-post-venting-isnt-honesty.html`)*
+*(`instagram-post-not-the-scoreboard.html`)*
 
-You think saying whatever's true, however it comes out, makes you honest. Proverbs calls that something else — a fool gives full vent to his anger, but a wise man quietly holds it back. God isn't asking you to perform a calm you don't feel, just to hold what's yours instead of dumping it on whoever's closest. Find the person you unloaded on this week and tell them the truth you skipped the first time: not what went wrong in your day, but that you're sorry for the weight you handed them.
+You think that if what you built goes under, so do you. But God never tied your worth to the scoreboard you built. St. Paul wrote from chains, dependent on a church's gift just to eat, and still called contentment a secret he'd learned — not a circumstance he'd been handed. Every promise you kept, every year you showed up, stays true whether the business survives or not. Your worth was never the market's to hold.
 
 Comment "Amen" if this hit home, and send it to a man who needs to hear it today.
 
