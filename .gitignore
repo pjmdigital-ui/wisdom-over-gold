@@ -1,4 +1,6 @@
 build/*.epub
+build/*.pdf
+__pycache__/
 tools/ghl-automation/screenshots/*.png
 build/*.pptx
 build/web-slides/
