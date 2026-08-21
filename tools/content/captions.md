@@ -47,6 +47,16 @@ Comment "Amen" if this hit home, and send it to a man who needs to hear it today
 
 ---
 
+## The Real Thing
+
+*(`instagram-post-the-real-thing.html`)*
+
+You think it's really the small thing that just set you off. But God already knows what's actually sitting on your chest — the small thing was just the safest target, the one that couldn't ask you hard questions back. He isn't asking you to swallow the fear underneath it or pretend it wasn't there; He's asking you to bring it to Him before the sun goes down, instead of unloading it on whoever happened to be closest. Find the real thing tonight and name it out loud.
+
+Comment "Amen" if this hit home, and send it to a man who needs to hear it today.
+
+---
+
 ## Apologizing First
 
 *(`instagram-post-apologize-first.html`)*
