@@ -47,6 +47,16 @@ Comment "Amen" if this hit home, and send it to a man who needs to hear it today
 
 ---
 
+## Apologizing First
+
+*(`instagram-post-apologize-first.html`)*
+
+You think waiting for her to apologize first means you're standing your ground. But God never asked you to win the argument — He asked you to outdo her in honor, to go first instead of waiting to be moved toward. Pride keeps a ledger of who's owed what; God doesn't keep one. Go to your wife today and apologize for your actual part in it, plainly, with no "but you also" attached.
+
+Comment "Amen" if this hit home, and send it to a man who needs to hear it today.
+
+---
+
 ## The Moving Number
 
 *(`instagram-post-the-moving-number.html`)*
