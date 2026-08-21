@@ -1,6 +1,6 @@
 # Day 13 — Hating Correction
 
-Declan had built the third-quarter forecast himself. He walked the regional VP through it slide by slide and was two questions from wrapping the call clean when the VP stopped him. The growth assumption in the northeast territory didn't match the actual pipeline data from the CRM, and hadn't for two reporting cycles. It was a real error, not a nitpick. It was the kind that would have set three other people's targets on a number that didn't exist.
+Declan had built the third-quarter forecast himself. He walked the regional VP through it slide by slide and was two questions from wrapping the call clean when the VP stopped him. The growth assumption in the northeast territory didn't match the actual pipeline data from the CRM, and hadn't for two reporting cycles. It was a real error, not a nitpick — the kind that would have set three other people's targets on a number that didn't exist.
 
 Declan felt his neck go hot before he'd even finished processing what the VP said. He didn't own the mistake out loud. He explained it instead. The CRM sync issue. The rep who'd been slow entering data. The tight turnaround he'd had to build the deck under. Every sentence was true. Not one of them was the answer the moment actually called for, which was simply: you're right, I missed it, let me fix it.
 
