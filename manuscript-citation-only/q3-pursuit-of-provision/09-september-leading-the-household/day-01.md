@@ -10,7 +10,7 @@ Joshua asked Israel that same question at the end of his life. He'd spent decade
 
 That was the piece Jonah had missed. A household doesn't just stand still while a man keeps the lights on. It drifts toward whatever actually gets modeled and started inside it. If nobody starts anything, it drifts toward whatever's easiest that day. Jonah's house already had a direction. He'd just never been the one setting it on purpose.
 
-Providing is real. Keeping the peace is real. But neither one answers Joshua's question. A man can do both faithfully for thirty years. He can still never be the one his kids remember starting a prayer. He can still never be the one who asked a hard question about God at dinner, or named what the family actually believes and why. Somebody sets that tone in every house. It doesn't have to be the father. That's exactly the problem.
+Providing is real. Keeping the peace is real. But neither one answers Joshua's question. A man can do both faithfully for thirty years. He can still never be the one his kids remember starting a prayer. He can still never be the one who asked a hard question about God at dinner, or named what the family actually believes and why. Somebody sets that tone in every house, and too often it never has to be the father — that's exactly the problem.
 
 **Today:** Tonight, before the day ends, say this out loud where your family can hear it: "As for me and my house, we will serve the Lord." Then do one specific thing to back it up. Start grace yourself. Pray with your kids at bedtime. Or ask your spouse what she needs from you spiritually this week.
 
