@@ -18,6 +18,17 @@ MANUSCRIPT = os.path.join(REPO, "manuscript-citation-only")
 FRONT = os.path.join(MANUSCRIPT, "00-front-matter")
 COVER_PATH = os.path.join(REPO, "manuscript", "Seek First Cover.png")
 OUT_PATH = os.path.join(REPO, "build", "Seek First - Paul Mascetta.epub")
+FONT_DIR = os.path.join(REPO, "tools", "fonts")
+
+# Embedded fonts: (file, family, weight, style)
+FONTS = [
+    ("SourceSerif4-Regular.ttf", "Source Serif 4", "400", "normal"),
+    ("SourceSerif4-Italic.ttf", "Source Serif 4", "400", "italic"),
+    ("SourceSerif4-SemiBold.ttf", "Source Serif 4", "600", "normal"),
+    ("Spectral-SemiBold.ttf", "Spectral", "600", "normal"),
+    ("Spectral-SemiBoldItalic.ttf", "Spectral", "600", "italic"),
+    ("Spectral-Bold.ttf", "Spectral", "700", "normal"),
+]
 
 QUARTERS = [
     ("q1-pursuit-of-piety", "Part One", "The Pursuit of Piety", [
@@ -42,127 +53,156 @@ QUARTERS = [
     ]),
 ]
 
-CSS_CONTENT = """
+FONT_FACES = "\n".join(
+    f"""@font-face {{
+    font-family: '{family}';
+    font-weight: {weight};
+    font-style: {style};
+    src: url(../fonts/{fname}) format('truetype');
+}}"""
+    for fname, family, weight, style in FONTS
+)
+
+CSS_CONTENT = f"""
 @namespace epub "http://www.idpf.org/2007/ops";
 
-body {
-    font-family: Georgia, "Iowan Old Style", "Palatino Linotype", "Book Antiqua", serif;
-    line-height: 1.5;
+{FONT_FACES}
+
+body {{
+    font-family: "Source Serif 4", Georgia, "Iowan Old Style", "Palatino Linotype", "Book Antiqua", serif;
+    color: #2b2318;
+    line-height: 1.55;
     margin: 0;
     padding: 0 1em;
-}
+}}
 
-h1, h2, h3 {
-    font-family: Georgia, "Iowan Old Style", "Palatino Linotype", "Book Antiqua", serif;
+h1, h2, h3 {{
+    font-family: "Spectral", Georgia, "Iowan Old Style", "Palatino Linotype", "Book Antiqua", serif;
     font-weight: 700;
-    line-height: 1.25;
-}
+    color: #2b2318;
+    line-height: 1.2;
+}}
 
-.divider-page {
+.divider-page {{
     text-align: center;
     margin-top: 35%;
-}
+}}
 
-.divider-kicker {
+.divider-kicker {{
+    font-family: "Spectral", Georgia, serif;
+    font-style: italic;
+    font-weight: 600;
     letter-spacing: 0.15em;
     text-transform: uppercase;
     font-size: 0.85em;
-    color: #6b5a2a;
+    color: #93691f;
     margin-bottom: 0.5em;
-}
+}}
 
-.divider-title {
+.divider-title {{
+    font-family: "Spectral", Georgia, serif;
     font-size: 2em;
     font-weight: 700;
     margin: 0.2em 0;
-}
+}}
 
-.divider-sub {
+.divider-sub {{
     font-size: 1.1em;
     font-style: italic;
     margin-top: 0.4em;
-}
+    color: #6b5c42;
+}}
 
-.day-title {
-    font-size: 1.4em;
-    border-bottom: 1px solid #ccc;
+.day-title {{
+    font-family: "Spectral", Georgia, serif;
+    font-weight: 600;
+    font-style: italic;
+    font-size: 1.5em;
+    border-bottom: 1px solid #d8c79a;
     padding-bottom: 0.3em;
     margin-bottom: 1em;
-}
+    color: #2b2318;
+}}
 
-p {
+p {{
     margin: 0 0 1em 0;
     text-align: justify;
-}
+}}
 
-.saint-callout, .today-step, .prayer-block {
+.saint-callout, .today-step, .prayer-block {{
     margin: 1.3em 0;
     padding: 0.8em 1em;
-    border-left: 3px solid #96762a;
-    background: #f7f3e8;
-}
+    border-left: 3px solid #93691f;
+    background: #ece0c0;
+}}
 
-.prayer-block {
-    border-left-color: #8a3324;
-    background: #f6ece8;
+.prayer-block {{
+    border-left-color: #b3822a;
+    background: #f0e6c9;
     font-style: italic;
-}
+}}
 
-.titlepage {
+.titlepage {{
     text-align: center;
     margin-top: 25%;
-}
+}}
 
-.titlepage h1 {
+.titlepage h1 {{
+    font-family: "Spectral", Georgia, serif;
     font-size: 2.6em;
     margin-bottom: 0.1em;
-}
+    letter-spacing: 0.02em;
+}}
 
-.titlepage .subtitle {
+.titlepage .subtitle {{
     font-size: 1.3em;
     font-style: italic;
     margin: 0.6em 0 1.5em 0;
-}
+    color: #6b5c42;
+}}
 
-.titlepage .pursuits {
+.titlepage .pursuits {{
     font-size: 0.95em;
     letter-spacing: 0.05em;
     margin: 1.5em 0;
-    color: #6b5a2a;
-}
+    color: #93691f;
+}}
 
-.titlepage .verse {
+.titlepage .verse {{
     font-style: italic;
     margin-top: 2em;
-}
+    color: #6b5c42;
+}}
 
-.titlepage .author {
+.titlepage .author {{
+    font-family: "Spectral", Georgia, serif;
     font-size: 1.4em;
     font-weight: 700;
     margin-top: 2.5em;
-}
+}}
 
-.titlepage .tagline {
+.titlepage .tagline {{
     font-size: 0.85em;
     letter-spacing: 0.1em;
     text-transform: uppercase;
-    color: #6b5a2a;
-}
+    color: #93691f;
+}}
 
-.copyright-page {
+.copyright-page {{
     font-size: 0.85em;
     margin-top: 40%;
-}
+    color: #6b5c42;
+}}
 
-.scripture-ref {
+.scripture-ref {{
     margin-top: 1.6em;
     text-align: center;
     font-style: normal;
     font-size: 0.8em;
     letter-spacing: 0.08em;
     text-transform: uppercase;
-    color: #96762a;
-}
+    color: #93691f;
+}}
 """
 
 
@@ -252,6 +292,16 @@ def main():
 
     css = epub.EpubItem(uid="style_main", file_name="style/main.css", media_type="text/css", content=CSS_CONTENT)
     book.add_item(css)
+
+    for i, (fname, family, weight, style) in enumerate(FONTS):
+        with open(os.path.join(FONT_DIR, fname), "rb") as f:
+            font_item = epub.EpubItem(
+                uid=f"font_{i}",
+                file_name=f"fonts/{fname}",
+                media_type="application/font-sfnt",
+                content=f.read(),
+            )
+        book.add_item(font_item)
 
     spine = ["cover", "nav"]
     toc = []
