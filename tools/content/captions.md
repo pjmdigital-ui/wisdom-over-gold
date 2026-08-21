@@ -47,11 +47,11 @@ Comment "Amen" if this hit home, and send it to a man who needs to hear it today
 
 ---
 
-## The Real Thing
+## Venting Isn't Honesty
 
-*(`instagram-post-the-real-thing.html`)*
+*(`instagram-post-venting-isnt-honesty.html`)*
 
-You think it's really the small thing that just set you off. But God already knows what's actually sitting on your chest — the small thing was just the safest target, the one that couldn't ask you hard questions back. He isn't asking you to swallow the fear underneath it or pretend it wasn't there; He's asking you to bring it to Him before the sun goes down, instead of unloading it on whoever happened to be closest. Find the real thing tonight and name it out loud.
+You think saying whatever's true, however it comes out, makes you honest. Proverbs calls that something else — a fool gives full vent to his anger, but a wise man quietly holds it back. God isn't asking you to perform a calm you don't feel, just to hold what's yours instead of dumping it on whoever's closest. Find the person you unloaded on this week and tell them the truth you skipped the first time: not what went wrong in your day, but that you're sorry for the weight you handed them.
 
 Comment "Amen" if this hit home, and send it to a man who needs to hear it today.
 
