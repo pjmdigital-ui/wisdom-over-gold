@@ -283,6 +283,7 @@ def main():
     book.add_metadata("DC", "description", "A 365-day devotional for Catholic fathers and family men, built around four pursuits: Piety, Protection, Provision, and Posterity.")
     book.add_metadata("DC", "subject", "Religion & Spirituality / Christian Living")
     book.add_metadata("DC", "rights", "Copyright (c) Paul Mascetta. All rights reserved.")
+    book.add_metadata("DC", "publisher", "Wisdom Over Gold")
 
     with open(COVER_PATH, "rb") as f:
         book.set_cover("cover.png", f.read())
@@ -337,6 +338,7 @@ def main():
     copyright_html = f"""<div class="copyright-page">
 <p>Seek First: The Four Pursuits of the Modern Catholic Man</p>
 <p>Copyright &copy; 2026 Paul Mascetta</p>
+<p>Published by Wisdom Over Gold &middot; wisdomovergold.com</p>
 <p>All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the author, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.</p>
 {scripture_notice_html}
 <p>This is a work of nonfiction. Except where the author explicitly identifies an account as his own true story (most notably in the Introduction), the real-world scenarios that open each daily entry are illustrative composites and do not depict specific, identifiable individuals or events.</p>
