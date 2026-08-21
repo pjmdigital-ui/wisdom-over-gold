@@ -8,7 +8,7 @@ Underneath the shortcut he didn't take was a belief plenty of men act on without
 
 Proverbs draws a straight line between actual labor and actual reward. Proverbs 14:23 says all the real, sweated-over work pays off eventually, while empty talk about work leads nowhere but lack. Toil is the sweat, the extra row of fasteners, the part of the job that happens under a roof deck where no inspector will ever crawl. Mere talk is everything that only resembles work — the version that looks finished from the ground, sounds finished in a status update, and isn't actually finished underneath. The verse promises the toil is where the profit actually lives, seen or not.
 
-Fletcher's twenty minutes were owed to the work itself. They weren't owed to the foreman who never asked, or the homeowner who'll never climb up to check. They were owed to doing the thing right because it's right, not because someone's grading it. That standard has to survive being alone on a roof in July heat, or it was only ever a costume worn for other people.
+Fletcher's twenty minutes were owed to the work itself, not to the foreman who never asked or the homeowner who'll never climb up to check. He owed it to doing the thing right because it's right, not because someone's grading it. That standard has to survive being alone on a roof in July heat, or it was only ever a costume worn for other people.
 
 **Today:** Find the one part of your work today that nobody checks, grades, or would ever notice if you shorted it. Do that part exactly right anyway, and tell yourself plainly: "This work is real even when no one sees it — the toil is the profit, not the applause."
 

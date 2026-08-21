@@ -8,7 +8,7 @@ St. Peter names the correction directly, in a single sentence built for exactly 
 
 That reframes what this whole week was actually testing: whether Micah can hold his position, his money, and his skill the way a steward holds someone else's property, carefully, honestly, and ready to give an account of it whenever it's asked for, rather than how good a manager, salesman, or business owner he looks by the world's measure.
 
-Nobody closes a week like this having become a perfect steward. The bar was never perfection. It was whether Micah started managing his position, his honesty, and his money like something entrusted to him, rather than something he'd earned the right to hoard, hide, or wield however he wanted.
+Nobody closes a week like this having become a perfect steward. The bar was whether Micah started managing his position, his honesty, and his money like something entrusted to him, rather than something he'd earned the right to hoard, hide, or wield however he wanted. Perfection was never the bar.
 
 **Today:** Go back through this week's entries and name the one that described you most accurately — the corner you've cut, the number you've chased, the conversation you've avoided. Say it plainly: *What I've been given at work is mine to steward well and hand back an honest account of, not mine to keep or wield.* Then take the one action from that day you skipped.
 
