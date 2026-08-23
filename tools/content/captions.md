@@ -61,7 +61,7 @@ Comment "Amen" if this hit home, and send it to a man who needs to hear it today
 
 *(`instagram-post-hope-in-the-room.html`)*
 
-You think hope has to wait until the room changes. St. Maximilian Kolbe carried hope into a starvation bunker at Auschwitz, leading condemned men in prayer instead of despair — two weeks before anything about his situation improved. Nothing changed before his hope did. God was already there with him. He's already in your room too, right now, before anything about your situation changes.
+You think hope has to wait until things get better. St. Maximilian Kolbe had hope in a starvation bunker at Auschwitz, leading other men in prayer — two weeks before anything got better. Things didn't change first. His hope did. God is with you right now, before anything changes.
 
 Comment "Amen" if this hit home, and send it to a man who needs to hear it today.
 
