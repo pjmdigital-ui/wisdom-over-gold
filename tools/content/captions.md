@@ -47,6 +47,16 @@ Comment "Amen" if this hit home, and send it to a man who needs to hear it today
 
 ---
 
+## Actually Calling Him
+
+*(`instagram-post-actually-calling-him.html`)*
+
+You think thinking about calling him counts as staying close. God doesn't ask you to feel encouraging toward a friend from a distance — He tells you to actually reach out and build him up. A friendship that only lives in your head is being remembered fondly while it slowly starves. No covenant in Scripture was ever sealed by a good intention.
+
+Comment "Amen" if this hit home, and send it to a man who needs to hear it today.
+
+---
+
 ## Not the Scoreboard
 
 *(`instagram-post-not-the-scoreboard.html`)*
