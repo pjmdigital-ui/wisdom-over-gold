@@ -57,6 +57,16 @@ Comment "Amen" if this hit home, and send it to a man who needs to hear it today
 
 ---
 
+## Hope in the Room
+
+*(`instagram-post-hope-in-the-room.html`)*
+
+You think hope has to wait until the room changes. St. Maximilian Kolbe carried hope into a starvation bunker at Auschwitz, leading condemned men in prayer instead of despair — two weeks before anything about his situation improved. Nothing changed before his hope did. God was already there with him. He's already in your room too, right now, before anything about your situation changes.
+
+Comment "Amen" if this hit home, and send it to a man who needs to hear it today.
+
+---
+
 ## Not the Scoreboard
 
 *(`instagram-post-not-the-scoreboard.html`)*
