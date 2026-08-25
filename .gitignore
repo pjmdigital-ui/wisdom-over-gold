@@ -5,4 +5,6 @@ tools/ghl-automation/screenshots/*.png
 build/*.pptx
 build/web-slides/
 build/instagram/
+build/audio-script/
+build/*.zip
 node_modules/
