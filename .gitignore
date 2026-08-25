@@ -7,4 +7,5 @@ build/web-slides/
 build/instagram/
 build/audio-script/
 build/*.zip
+build/*.txt
 node_modules/
