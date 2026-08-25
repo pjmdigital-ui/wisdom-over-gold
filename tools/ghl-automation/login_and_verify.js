@@ -81,16 +81,29 @@ try { fs.unlinkSync(CODE_FILE); } catch (_) {}
   }
 
   console.log("STATE=code_received_submitting");
-  const codeInput = page
-    .locator('input[type="text"], input[type="tel"], input[type="number"], input[inputmode="numeric"]')
-    .first();
-  await codeInput.waitFor({ timeout: 10000 });
-  await codeInput.fill(code);
+  // The OTP UI is 6 separate single-digit boxes, not one text field.
+  const digitBoxes = page.locator('input[type="text"], input[type="tel"], input[type="number"], input[inputmode="numeric"]');
+  await digitBoxes.first().waitFor({ timeout: 10000 });
+  const count = await digitBoxes.count();
+  const digits = code.replace(/\D/g, "").split("");
 
-  const verifyBtn = page.getByRole("button", { name: /verify|confirm|submit/i }).first();
-  await verifyBtn.click();
+  if (count >= digits.length) {
+    for (let i = 0; i < digits.length; i++) {
+      await digitBoxes.nth(i).click();
+      await page.keyboard.type(digits[i], { delay: 80 });
+    }
+  } else {
+    await digitBoxes.first().fill(code);
+  }
   await page.waitForTimeout(4000);
   await page.screenshot({ path: "screenshots/22-after-verify.png" });
+
+  const verifyBtn = page.getByRole("button", { name: /verify|confirm|submit/i }).first();
+  if (await verifyBtn.count()) {
+    await verifyBtn.click();
+    await page.waitForTimeout(4000);
+    await page.screenshot({ path: "screenshots/23-after-verify-click.png" });
+  }
 
   bodyText = await page.locator("body").innerText().catch(() => "");
   const stillBlocked = /verify security code|invalid code|incorrect code/i.test(bodyText);
