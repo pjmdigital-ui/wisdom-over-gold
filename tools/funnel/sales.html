@@ -106,11 +106,16 @@
     margin: 0 auto 28px;
   }
 
-  .hero img {
+  /* ---- cover showcase (mid-page) ---- */
+  .cover-showcase {
+    text-align: center;
+  }
+
+  .cover-showcase img {
     display: block;
     width: 100%;
     max-width: 300px;
-    margin: 0 auto 30px;
+    margin: 0 auto;
     box-shadow: 0 30px 60px -20px rgba(43, 35, 24, 0.35);
     border-radius: 4px;
   }
@@ -295,6 +300,53 @@
     margin-right: 10px;
   }
 
+  /* ---- order bump ---- */
+  .order-bump {
+    max-width: 380px;
+    margin: 0 auto 26px;
+    text-align: left;
+    background: var(--callout-bg);
+    border: 1.5px solid var(--gold);
+    border-radius: 8px;
+    padding: 14px 16px;
+    display: flex;
+    gap: 12px;
+    align-items: flex-start;
+    cursor: pointer;
+  }
+
+  .order-bump input[type="checkbox"] {
+    margin-top: 3px;
+    width: 17px;
+    height: 17px;
+    accent-color: var(--gold);
+    flex-shrink: 0;
+  }
+
+  .order-bump .bump-label {
+    display: block;
+    font-weight: 700;
+    font-size: 15px;
+  }
+
+  .order-bump .bump-desc {
+    display: block;
+    font-size: 13.5px;
+    color: var(--ink-soft);
+    margin-top: 4px;
+  }
+
+  .order-total {
+    font-size: 14px;
+    color: var(--ink-soft);
+    margin-bottom: 16px;
+  }
+
+  .order-total strong {
+    color: var(--ink);
+    font-size: 16px;
+  }
+
   /*
     GHL NOTE: replace this button with GHL's native Order Form /
     payment element (Stripe or GHL Payments) wired to the Seek
@@ -369,7 +421,6 @@
 
 <div class="wrap hero">
   <span class="eyebrow">A 365-Day Devotional</span>
-  <img src="https://assets.cdn.filesafe.space/Pie9yvZA1BYJnWPk99Yj/media/6a8de618cdd4b797a364dfca.png" alt="Seek First: The Four Pursuits of the Modern Catholic Man, by Paul Mascetta">
   <h1>Seek First: The Four Pursuits of the Modern Catholic Man</h1>
   <p class="sub">One devotion a day for men who want to lead their families, run their businesses, and keep their faith &mdash; without pretending any of it is easy.</p>
   <a href="#order" class="cta-button">Get Seek First Today &rarr;</a>
@@ -426,6 +477,12 @@
   </div>
 </section>
 
+<section class="cover-showcase">
+  <div class="wrap">
+    <img src="https://assets.cdn.filesafe.space/Pie9yvZA1BYJnWPk99Yj/media/6a8de618cdd4b797a364dfca.png" alt="Seek First: The Four Pursuits of the Modern Catholic Man, by Paul Mascetta">
+  </div>
+</section>
+
 <section class="whats-inside">
   <div class="wrap">
     <h2>What Each Day Actually Looks Like</h2>
@@ -478,15 +535,21 @@
   <div class="wrap">
     <h2>Get Seek First Today</h2>
     <div class="order-box">
-      <div class="eyebrow">365 Days &middot; Print &amp; Digital</div>
-      <div class="price">[[$PRICE]]</div>
+      <div class="eyebrow">365 Days &middot; Digital</div>
+      <div class="price">$9</div>
       <div class="price-sub">One-time purchase. No subscription.</div>
       <ul>
         <li>All 365 daily devotions &mdash; Piety, Protection, Provision, Posterity</li>
         <li>Digital access (EPUB + PDF) delivered instantly</li>
-        <li>[[Physical copy shipped, if offering print]]</li>
         <li>Access to the Seek First membership area</li>
       </ul>
+      <label class="order-bump" for="audio-bump">
+        <input type="checkbox" id="audio-bump">
+        <span>
+          <span class="bump-label">Add the Audio Narration &mdash; [[+$BUMP PRICE]]</span>
+          <span class="bump-desc">Every day, narrated in Paul's own voice. Listen on your commute instead of just reading.</span>
+        </span>
+      </label>
       <a href="#" class="cta-button">[[Connect to GHL order form / payment]] &rarr;</a>
     </div>
   </div>
@@ -511,13 +574,9 @@
       <h3>Is this only for Catholic men?</h3>
       <p>It's written from a Catholic perspective, with the Church's saints and sacraments as reference points &mdash; but the four pursuits apply to any man trying to lead his family and keep his word.</p>
     </div>
-    <div class="faq-item">
-      <h3>[[Add a shipping / delivery FAQ once fulfillment is decided]]</h3>
-      <p>[[Answer]]</p>
-    </div>
   </div>
 </section>
 
 <footer>
-  <div class="wrap">&copy; [[YEAR]] PJM Digital Media Corp &middot; Seek First is a product of Wisdom Over Gold &middot; wisdomovergold.com</div>
+  <div class="wrap">&copy; 2026 PJM Digital Media Corp &middot; Seek First is a product of Wisdom Over Gold &middot; wisdomovergold.com</div>
 </footer>
