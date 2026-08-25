@@ -99,6 +99,7 @@ def write(path, content):
 def main():
     all_book_parts = []
     day_count = 0
+    introduction_content = ""
 
     # ---- Front matter ----
     front_out = os.path.join(OUT_DIR, "00-front-matter")
@@ -107,6 +108,8 @@ def main():
             continue
         content = convert_front_matter_file(os.path.join(be.FRONT, fname))
         write(os.path.join(front_out, fname.replace(".md", ".txt")), content)
+        if fname == "introduction.md":
+            introduction_content = content
 
     # ---- Quarters / months / days ----
     for qfolder, part_label, part_title, months in be.QUARTERS:
@@ -127,8 +130,12 @@ def main():
             write(os.path.join(OUT_DIR, "_combined-by-month", f"{mfolder}.txt"), month_combined)
             all_book_parts.append(month_combined)
 
-    # ---- Full-book combined file ----
-    write(os.path.join(OUT_DIR, "_combined-full-book.txt"), "\n\n\n".join(all_book_parts))
+    # ---- Full-book combined file (introduction + all days) ----
+    full_book_parts = []
+    if introduction_content:
+        full_book_parts.append(introduction_content)
+    full_book_parts.extend(all_book_parts)
+    write(os.path.join(OUT_DIR, "_combined-full-book.txt"), "\n\n\n".join(full_book_parts))
 
     print(f"Wrote {day_count} day files + front matter to {OUT_DIR}")
 
