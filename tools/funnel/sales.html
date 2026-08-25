@@ -1,0 +1,522 @@
+<!--
+  SEEK FIRST — Funnel skeleton, page 2 of 3: SALES PAGE
+  =================================================================
+  Skeleton pass — real structure and voice, placeholder copy marked
+  [[LIKE THIS]] (price, testimonials, order-form wiring). Built to
+  paste into a GHL funnel step. See ../funnel/README.md for GHL
+  upload notes (fonts, image hosting, form + payment wiring).
+-->
+<title>Seek First: The Four Pursuits of the Modern Catholic Man</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Spectral:wght@600;700&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --paper: #f5efdd;
+    --paper-deep: #ece0c0;
+    --ink: #2b2318;
+    --ink-soft: #6b5c42;
+    --gold: #93691f;
+    --gold-bright: #b3822a;
+    --border: #d8c79a;
+    --callout-bg: #f0e6c9;
+  }
+
+  * { box-sizing: border-box; }
+
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: "Source Serif 4", Georgia, "Iowan Old Style", "Palatino Linotype", "Book Antiqua", serif;
+    overflow-x: hidden;
+  }
+
+  h1, h2, h3 {
+    font-family: "Spectral", Georgia, serif;
+    font-weight: 700;
+    color: var(--ink);
+    line-height: 1.15;
+    margin: 0;
+  }
+
+  .wrap {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 24px;
+  }
+
+  p { line-height: 1.65; }
+
+  .eyebrow {
+    display: inline-block;
+    font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+    font-size: 13px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--gold);
+    background: var(--callout-bg);
+    border: 1px solid var(--border);
+    padding: 6px 14px;
+    border-radius: 999px;
+    margin-bottom: 18px;
+  }
+
+  .cta-button {
+    display: inline-block;
+    background: var(--gold);
+    color: var(--paper);
+    padding: 18px 36px;
+    font-family: "Spectral", Georgia, serif;
+    font-weight: 700;
+    font-size: 18px;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+    transition: background 0.2s ease, transform 0.2s ease;
+  }
+
+  .cta-button:hover {
+    background: var(--gold-bright);
+    transform: translateY(-1px);
+  }
+
+  .center { text-align: center; }
+
+  /* ---- hero ---- */
+  .hero {
+    padding: 60px 0 40px;
+    text-align: center;
+  }
+
+  .hero h1 {
+    font-size: 42px;
+    max-width: 18em;
+    margin: 0 auto 18px;
+  }
+
+  .hero .sub {
+    font-size: 20px;
+    color: var(--ink-soft);
+    max-width: 38em;
+    margin: 0 auto 28px;
+  }
+
+  .hero img {
+    width: 100%;
+    max-width: 300px;
+    box-shadow: 0 30px 60px -20px rgba(43, 35, 24, 0.35);
+    border-radius: 4px;
+    margin-bottom: 30px;
+  }
+
+  /* ---- section shells ---- */
+  section {
+    padding: 48px 0;
+    border-top: 1px solid var(--border);
+  }
+
+  section h2 {
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+
+  section h2.left { text-align: left; }
+
+  /* ---- author story ---- */
+  .story p {
+    font-size: 17.5px;
+    margin: 0 0 18px;
+  }
+
+  .story p:last-child { margin-bottom: 0; }
+
+  .story .signoff {
+    font-style: italic;
+    color: var(--ink-soft);
+    margin-top: 20px;
+  }
+
+  /* ---- problem list ---- */
+  .problem-list {
+    display: grid;
+    gap: 14px;
+    max-width: 640px;
+    margin: 0 auto;
+  }
+
+  .problem-item {
+    background: #fffdf5;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 16px 20px;
+    font-size: 16.5px;
+    display: flex;
+    gap: 12px;
+    align-items: flex-start;
+  }
+
+  .problem-item .mark {
+    color: var(--gold);
+    font-weight: 700;
+    flex-shrink: 0;
+  }
+
+  /* ---- four pursuits ---- */
+  .pursuits {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 18px;
+  }
+
+  .pursuit-card {
+    background: var(--callout-bg);
+    border-left: 3px solid var(--gold);
+    border-radius: 6px;
+    padding: 20px 18px;
+  }
+
+  .pursuit-card .num {
+    font-family: ui-monospace, monospace;
+    font-size: 12px;
+    letter-spacing: 0.1em;
+    color: var(--gold);
+    margin-bottom: 6px;
+  }
+
+  .pursuit-card h3 { font-size: 18px; margin-bottom: 6px; }
+  .pursuit-card p { font-size: 14.5px; color: var(--ink-soft); margin: 0; }
+
+  /* ---- day structure ---- */
+  .day-structure {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 14px;
+  }
+
+  .day-step {
+    text-align: center;
+    padding: 18px 10px;
+  }
+
+  .day-step .step-num {
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    background: var(--gold);
+    color: var(--paper);
+    font-family: "Spectral", Georgia, serif;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 10px;
+  }
+
+  .day-step h3 { font-size: 15.5px; margin-bottom: 4px; }
+  .day-step p { font-size: 13.5px; color: var(--ink-soft); margin: 0; }
+
+  /* ---- testimonials ---- */
+  .testimonials {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 18px;
+  }
+
+  .testimonial-card {
+    background: #fffdf5;
+    border: 1px dashed var(--border);
+    border-radius: 8px;
+    padding: 20px;
+    font-size: 15px;
+    color: var(--ink-soft);
+  }
+
+  .testimonial-card .placeholder-tag {
+    display: inline-block;
+    font-family: ui-monospace, monospace;
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--gold);
+    margin-bottom: 10px;
+  }
+
+  /* ---- pricing / order ---- */
+  .order-box {
+    background: #fffdf5;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 40px;
+    text-align: center;
+    box-shadow: 0 18px 40px -24px rgba(43, 35, 24, 0.3);
+  }
+
+  .order-box .price {
+    font-family: "Spectral", Georgia, serif;
+    font-weight: 700;
+    font-size: 46px;
+    color: var(--gold);
+    margin: 6px 0 4px;
+  }
+
+  .order-box .price-sub {
+    color: var(--ink-soft);
+    font-size: 15px;
+    margin-bottom: 24px;
+  }
+
+  .order-box ul {
+    text-align: left;
+    max-width: 380px;
+    margin: 0 auto 26px;
+    padding: 0;
+    list-style: none;
+  }
+
+  .order-box li {
+    padding: 8px 0;
+    border-bottom: 1px solid var(--border);
+    font-size: 15.5px;
+  }
+
+  .order-box li:last-child { border-bottom: none; }
+
+  .order-box li::before {
+    content: "\2713";
+    color: var(--gold);
+    font-weight: 700;
+    margin-right: 10px;
+  }
+
+  /*
+    GHL NOTE: replace this button with GHL's native Order Form /
+    payment element (Stripe or GHL Payments) wired to the Seek
+    First product. Keeping a plain CTA here so the skeleton reads
+    on its own before that's connected.
+  */
+  .guarantee {
+    max-width: 640px;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .guarantee .badge {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    border: 2px solid var(--gold);
+    color: var(--gold);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 16px;
+    font-family: "Spectral", Georgia, serif;
+    font-weight: 700;
+    font-size: 22px;
+  }
+
+  /* ---- faq ---- */
+  .faq-item {
+    max-width: 680px;
+    margin: 0 auto 22px;
+  }
+
+  .faq-item h3 {
+    font-size: 17px;
+    margin-bottom: 6px;
+  }
+
+  .faq-item p {
+    font-size: 15.5px;
+    color: var(--ink-soft);
+    margin: 0;
+  }
+
+  footer {
+    padding: 28px 0 48px;
+    text-align: center;
+    font-size: 13px;
+    color: var(--ink-soft);
+    border-top: 1px solid var(--border);
+  }
+
+  @media (max-width: 860px) {
+    .hero h1 { font-size: 32px; }
+    .pursuits { grid-template-columns: 1fr 1fr; }
+    .day-structure { grid-template-columns: 1fr 1fr; }
+    .testimonials { grid-template-columns: 1fr; }
+    .order-box { padding: 28px 22px; }
+  }
+
+  @media (max-width: 480px) {
+    .hero { padding: 40px 0 28px; }
+    .hero h1 { font-size: 26px; }
+    .hero .sub { font-size: 17px; }
+    section { padding: 36px 0; }
+    section h2 { font-size: 24px; }
+    .pursuits { grid-template-columns: 1fr; }
+    .day-structure { grid-template-columns: 1fr 1fr; }
+    .order-box .price { font-size: 36px; }
+  }
+</style>
+
+<div class="wrap hero">
+  <span class="eyebrow">A 365-Day Devotional</span>
+  <img src="assets/seek-first-cover.png" alt="Seek First: The Four Pursuits of the Modern Catholic Man, by Paul Mascetta">
+  <h1>Seek First: The Four Pursuits of the Modern Catholic Man</h1>
+  <p class="sub">One devotion a day for men who want to lead their families, run their businesses, and keep their faith &mdash; without pretending any of it is easy.</p>
+  <a href="#order" class="cta-button">Get Seek First Today &rarr;</a>
+</div>
+
+<section class="story">
+  <div class="wrap">
+    <h2 class="left">Why I Wrote This Book</h2>
+    <p>I was cynical about religion for most of my life. I made a lot of stupid decisions instead &mdash; the kind that landed me in federal prison at twenty years old.</p>
+    <p>I technically prayed my whole life. But the God I believed in was an idea I'd built myself, distant and impersonal. It took almost dying three separate times, watching ordinary faithful men live out a version of Christianity I'd never actually seen, and finally admitting we're living inside real spiritual warfare, whether anyone acknowledges it or not &mdash; before that changed.</p>
+    <p>Since I let that faith take root for real, I've watched God work in my life in ways I can't explain away. And I kept coming back to one truth: living out my faith well comes down to four pursuits I'm never finished with &mdash; I'm just always in them. That's what this book is built around.</p>
+    <p class="signoff">&mdash; Paul Mascetta</p>
+  </div>
+</section>
+
+<section class="problem">
+  <div class="wrap">
+    <h2>Most Devotionals Weren't Built for Guys Like Us</h2>
+    <div class="problem-list">
+      <div class="problem-item"><span class="mark">&mdash;</span> Checking your bank balance at 2am, running the numbers again, hoping they add up differently this time.</div>
+      <div class="problem-item"><span class="mark">&mdash;</span> Losing your temper with your kid and telling yourself it's just how much you care.</div>
+      <div class="problem-item"><span class="mark">&mdash;</span> Meaning to call your closest friend for months, and never actually picking up the phone.</div>
+      <div class="problem-item"><span class="mark">&mdash;</span> Tying your worth to a number on a scoreboard &mdash; revenue, title, deal size &mdash; that never sits still long enough to satisfy you.</div>
+      <div class="problem-item"><span class="mark">&mdash;</span> Wanting to lead your household well and having no idea, most days, what that actually looks like.</div>
+    </div>
+  </div>
+</section>
+
+<section class="pursuits-section">
+  <div class="wrap">
+    <h2>Everything Runs Through Four Pursuits</h2>
+    <div class="pursuits">
+      <div class="pursuit-card">
+        <div class="num">Pursuit I</div>
+        <h3>Piety</h3>
+        <p>Seeking God first &mdash; ordering your life around Him instead of yourself.</p>
+      </div>
+      <div class="pursuit-card">
+        <div class="num">Pursuit II</div>
+        <h3>Protection</h3>
+        <p>Guarding your wife, your children, and the people who trust you.</p>
+      </div>
+      <div class="pursuit-card">
+        <div class="num">Pursuit III</div>
+        <h3>Provision</h3>
+        <p>Providing real value and real security for the people who depend on you.</p>
+      </div>
+      <div class="pursuit-card">
+        <div class="num">Pursuit IV</div>
+        <h3>Posterity</h3>
+        <p>Building something that outlasts you and leaves the world better for it.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="whats-inside">
+  <div class="wrap">
+    <h2>What Each Day Actually Looks Like</h2>
+    <div class="day-structure">
+      <div class="day-step">
+        <div class="step-num">1</div>
+        <h3>A Real Story</h3>
+        <p>A moment any man would recognize &mdash; not an abstraction.</p>
+      </div>
+      <div class="day-step">
+        <div class="step-num">2</div>
+        <h3>Scripture</h3>
+        <p>Tied directly to that story, not bolted on after.</p>
+      </div>
+      <div class="day-step">
+        <div class="step-num">3</div>
+        <h3>A Prayer</h3>
+        <p>Short, direct, and honest about where you actually are.</p>
+      </div>
+      <div class="day-step">
+        <div class="step-num">4</div>
+        <h3>Today</h3>
+        <p>One concrete action to take before the day is over.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="testimonials-section">
+  <div class="wrap">
+    <h2>What Readers Are Saying</h2>
+    <div class="testimonials">
+      <div class="testimonial-card">
+        <span class="placeholder-tag">[[Testimonial 1]]</span>
+        <p>[[Pull a real quote from an early reader/reviewer here once available.]]</p>
+      </div>
+      <div class="testimonial-card">
+        <span class="placeholder-tag">[[Testimonial 2]]</span>
+        <p>[[Pull a real quote from an early reader/reviewer here once available.]]</p>
+      </div>
+      <div class="testimonial-card">
+        <span class="placeholder-tag">[[Testimonial 3]]</span>
+        <p>[[Pull a real quote from an early reader/reviewer here once available.]]</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="order" class="order-section">
+  <div class="wrap">
+    <h2>Get Seek First Today</h2>
+    <div class="order-box">
+      <div class="eyebrow">365 Days &middot; Print &amp; Digital</div>
+      <div class="price">[[$PRICE]]</div>
+      <div class="price-sub">One-time purchase. No subscription.</div>
+      <ul>
+        <li>All 365 daily devotions &mdash; Piety, Protection, Provision, Posterity</li>
+        <li>Digital access (EPUB + PDF) delivered instantly</li>
+        <li>[[Physical copy shipped, if offering print]]</li>
+        <li>Access to the Seek First membership area</li>
+      </ul>
+      <a href="#" class="cta-button">[[Connect to GHL order form / payment]] &rarr;</a>
+    </div>
+  </div>
+</section>
+
+<section class="guarantee-section">
+  <div class="wrap guarantee">
+    <div class="badge">30<br>Day</div>
+    <h2>[[Guarantee Headline]]</h2>
+    <p>[[State the actual guarantee terms once decided &mdash; e.g. a 30-day money-back guarantee, no questions asked.]]</p>
+  </div>
+</section>
+
+<section class="faq-section">
+  <div class="wrap">
+    <h2>Questions</h2>
+    <div class="faq-item">
+      <h3>Do I need to read it in order?</h3>
+      <p>No. Each day stands on its own, though the four pursuits build on each other across the year if you read straight through.</p>
+    </div>
+    <div class="faq-item">
+      <h3>Is this only for Catholic men?</h3>
+      <p>It's written from a Catholic perspective, with the Church's saints and sacraments as reference points &mdash; but the four pursuits apply to any man trying to lead his family and keep his word.</p>
+    </div>
+    <div class="faq-item">
+      <h3>[[Add a shipping / delivery FAQ once fulfillment is decided]]</h3>
+      <p>[[Answer]]</p>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">&copy; [[YEAR]] PJM Digital Media Corp &middot; Seek First is a product of Wisdom Over Gold &middot; wisdomovergold.com</div>
+</footer>

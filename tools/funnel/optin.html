@@ -1,0 +1,326 @@
+<!--
+  SEEK FIRST — Funnel skeleton, page 1 of 3: OPT-IN
+  =================================================================
+  Skeleton pass — real structure and voice, placeholder copy marked
+  [[LIKE THIS]]. Built to paste into a GHL funnel step as a Custom
+  HTML/Code element (or a full page). See ../funnel/README.md for
+  GHL upload notes (fonts, image hosting, form wiring).
+-->
+<title>Seek First — Get the First 7 Days Free</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Spectral:wght@600;700&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --paper: #f5efdd;
+    --paper-deep: #ece0c0;
+    --ink: #2b2318;
+    --ink-soft: #6b5c42;
+    --gold: #93691f;
+    --gold-bright: #b3822a;
+    --border: #d8c79a;
+    --callout-bg: #f0e6c9;
+  }
+
+  * { box-sizing: border-box; }
+
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: "Source Serif 4", Georgia, "Iowan Old Style", "Palatino Linotype", "Book Antiqua", serif;
+    overflow-x: hidden;
+  }
+
+  h1, h2, h3 {
+    font-family: "Spectral", Georgia, serif;
+    font-weight: 700;
+    color: var(--ink);
+    line-height: 1.15;
+    margin: 0;
+  }
+
+  .wrap {
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 0 24px;
+  }
+
+  /* ---- hero ---- */
+  .hero {
+    padding: 56px 0 40px;
+  }
+
+  .hero-grid {
+    display: grid;
+    grid-template-columns: 1.15fr 0.85fr;
+    gap: 48px;
+    align-items: center;
+  }
+
+  .eyebrow {
+    display: inline-block;
+    font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+    font-size: 13px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--gold);
+    background: var(--callout-bg);
+    border: 1px solid var(--border);
+    padding: 6px 14px;
+    border-radius: 999px;
+    margin-bottom: 18px;
+  }
+
+  .hero h1 {
+    font-size: 44px;
+    margin-bottom: 18px;
+  }
+
+  .hero .sub {
+    font-size: 19px;
+    line-height: 1.6;
+    color: var(--ink-soft);
+    margin-bottom: 28px;
+    max-width: 46em;
+  }
+
+  .cover-frame {
+    text-align: center;
+  }
+
+  .cover-frame img {
+    width: 100%;
+    max-width: 340px;
+    box-shadow: 0 30px 60px -20px rgba(43, 35, 24, 0.35);
+    border-radius: 4px;
+  }
+
+  /* ---- opt-in form ---- */
+  .form-card {
+    background: #fffdf5;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 28px;
+    box-shadow: 0 18px 40px -24px rgba(43, 35, 24, 0.3);
+  }
+
+  .form-card .kicker {
+    font-family: "Spectral", Georgia, serif;
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom: 6px;
+  }
+
+  .form-card .kicker-sub {
+    color: var(--ink-soft);
+    font-size: 15px;
+    margin-bottom: 20px;
+  }
+
+  /*
+    GHL NOTE: replace this <form> with GHL's native form/survey embed
+    (Funnel Builder > Elements > Form), or wire this markup's field
+    names to a GHL form action per their form-embed instructions.
+    Keeping plain inputs here so the skeleton is legible on its own.
+  */
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  label {
+    font-size: 13px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    margin-bottom: 4px;
+    display: block;
+  }
+
+  input[type="text"], input[type="email"] {
+    width: 100%;
+    padding: 13px 14px;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    font-family: "Source Serif 4", Georgia, serif;
+    font-size: 16px;
+    background: #fff;
+    color: var(--ink);
+  }
+
+  input[type="text"]:focus, input[type="email"]:focus {
+    outline: 2px solid var(--gold-bright);
+    outline-offset: 1px;
+  }
+
+  .cta-button {
+    display: inline-block;
+    background: var(--gold);
+    color: var(--paper);
+    padding: 16px 28px;
+    font-family: "Spectral", Georgia, serif;
+    font-weight: 700;
+    font-size: 17px;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+    margin-top: 6px;
+    transition: background 0.2s ease, transform 0.2s ease;
+  }
+
+  .cta-button:hover {
+    background: var(--gold-bright);
+    transform: translateY(-1px);
+  }
+
+  .fine-print {
+    font-size: 13px;
+    color: var(--ink-soft);
+    margin-top: 12px;
+    text-align: center;
+  }
+
+  /* ---- what's inside ---- */
+  .whats-inside {
+    padding: 44px 0 64px;
+    border-top: 1px solid var(--border);
+  }
+
+  .whats-inside h2 {
+    font-size: 28px;
+    text-align: center;
+    margin-bottom: 8px;
+  }
+
+  .whats-inside .sub {
+    text-align: center;
+    color: var(--ink-soft);
+    font-size: 16px;
+    margin-bottom: 36px;
+  }
+
+  .pursuits {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 18px;
+  }
+
+  .pursuit-card {
+    background: var(--callout-bg);
+    border-left: 3px solid var(--gold);
+    border-radius: 6px;
+    padding: 20px 18px;
+  }
+
+  .pursuit-card .num {
+    font-family: ui-monospace, monospace;
+    font-size: 12px;
+    letter-spacing: 0.1em;
+    color: var(--gold);
+    margin-bottom: 6px;
+  }
+
+  .pursuit-card h3 {
+    font-size: 18px;
+    margin-bottom: 6px;
+  }
+
+  .pursuit-card p {
+    font-size: 14.5px;
+    line-height: 1.5;
+    color: var(--ink-soft);
+    margin: 0;
+  }
+
+  footer {
+    padding: 28px 0 48px;
+    text-align: center;
+    font-size: 13px;
+    color: var(--ink-soft);
+    border-top: 1px solid var(--border);
+  }
+
+  @media (max-width: 860px) {
+    .hero-grid { grid-template-columns: 1fr; }
+    .cover-frame { order: -1; }
+    .hero h1 { font-size: 32px; }
+    .hero .sub { font-size: 17px; }
+    .pursuits { grid-template-columns: 1fr 1fr; }
+  }
+
+  @media (max-width: 480px) {
+    .hero { padding: 36px 0 28px; }
+    .hero h1 { font-size: 27px; }
+    .pursuits { grid-template-columns: 1fr; }
+    .form-card { padding: 22px; }
+  }
+</style>
+
+<div class="wrap hero">
+  <div class="hero-grid">
+    <div>
+      <span class="eyebrow">Free — First 7 Days</span>
+      <h1>A Devotional Built for Men Who Are Tired of Faith That Doesn't Say Anything Real</h1>
+      <p class="sub">Get the first week of <em>Seek First: The Four Pursuits of the Modern Catholic Man</em> — free. One short devotion a day. Real stories, real Scripture, no charge, no catch.</p>
+
+      <div class="form-card">
+        <div class="kicker">Send Me the First Week, Free</div>
+        <div class="kicker-sub">Enter your name and email below.</div>
+        <form>
+          <div>
+            <label for="fname">First Name</label>
+            <input type="text" id="fname" name="fname" placeholder="First name" required>
+          </div>
+          <div>
+            <label for="email">Email Address</label>
+            <input type="email" id="email" name="email" placeholder="you@email.com" required>
+          </div>
+          <button type="submit" class="cta-button">Send Me the First Week &rarr;</button>
+        </form>
+        <div class="fine-print">No spam. Unsubscribe anytime. We'll never sell your information.</div>
+      </div>
+    </div>
+
+    <div class="cover-frame">
+      <img src="assets/seek-first-cover.png" alt="Seek First: The Four Pursuits of the Modern Catholic Man, by Paul Mascetta">
+    </div>
+  </div>
+</div>
+
+<div class="wrap whats-inside">
+  <h2>What's Inside the First Week</h2>
+  <p class="sub">Every day in <em>Seek First</em> is built around one of four pursuits.</p>
+
+  <div class="pursuits">
+    <div class="pursuit-card">
+      <div class="num">Pursuit I</div>
+      <h3>Piety</h3>
+      <p>Seeking God first — ordering your life around Him instead of yourself.</p>
+    </div>
+    <div class="pursuit-card">
+      <div class="num">Pursuit II</div>
+      <h3>Protection</h3>
+      <p>Guarding your wife, your children, and the people who trust you.</p>
+    </div>
+    <div class="pursuit-card">
+      <div class="num">Pursuit III</div>
+      <h3>Provision</h3>
+      <p>Providing real value and real security for the people who depend on you.</p>
+    </div>
+    <div class="pursuit-card">
+      <div class="num">Pursuit IV</div>
+      <h3>Posterity</h3>
+      <p>Building something that outlasts you and leaves the world better for it.</p>
+    </div>
+  </div>
+</div>
+
+<footer>
+  <div class="wrap">&copy; [[YEAR]] PJM Digital Media Corp &middot; Seek First is a product of Wisdom Over Gold &middot; wisdomovergold.com</div>
+</footer>

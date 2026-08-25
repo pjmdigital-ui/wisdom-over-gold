@@ -1,0 +1,250 @@
+<!--
+  SEEK FIRST — Funnel skeleton, page 3 of 3: THANK YOU
+  =================================================================
+  Skeleton pass — real structure and voice, placeholder links marked
+  [[LIKE THIS]] (download delivery, membership portal URL). Built to
+  paste into a GHL funnel step as the order confirmation page. See
+  ../funnel/README.md for GHL upload notes.
+-->
+<title>You're In — Welcome to Seek First</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Spectral:wght@600;700&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --paper: #f5efdd;
+    --paper-deep: #ece0c0;
+    --ink: #2b2318;
+    --ink-soft: #6b5c42;
+    --gold: #93691f;
+    --gold-bright: #b3822a;
+    --border: #d8c79a;
+    --callout-bg: #f0e6c9;
+    --green: #3f7d4a;
+  }
+
+  * { box-sizing: border-box; }
+
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: "Source Serif 4", Georgia, "Iowan Old Style", "Palatino Linotype", "Book Antiqua", serif;
+    overflow-x: hidden;
+  }
+
+  h1, h2, h3 {
+    font-family: "Spectral", Georgia, serif;
+    font-weight: 700;
+    color: var(--ink);
+    line-height: 1.15;
+    margin: 0;
+  }
+
+  .wrap {
+    max-width: 780px;
+    margin: 0 auto;
+    padding: 0 24px;
+  }
+
+  .cta-button {
+    display: inline-block;
+    background: var(--gold);
+    color: var(--paper);
+    padding: 16px 30px;
+    font-family: "Spectral", Georgia, serif;
+    font-weight: 700;
+    font-size: 16.5px;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+    transition: background 0.2s ease, transform 0.2s ease;
+  }
+
+  .cta-button:hover {
+    background: var(--gold-bright);
+    transform: translateY(-1px);
+  }
+
+  .cta-button.secondary {
+    background: transparent;
+    border: 1.5px solid var(--gold);
+    color: var(--gold);
+  }
+
+  .cta-button.secondary:hover {
+    background: var(--callout-bg);
+  }
+
+  /* ---- hero ---- */
+  .hero {
+    padding: 56px 0 36px;
+    text-align: center;
+  }
+
+  .checkmark {
+    width: 68px;
+    height: 68px;
+    border-radius: 50%;
+    background: var(--green);
+    color: #fff;
+    font-size: 34px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 22px;
+  }
+
+  .hero h1 { font-size: 36px; margin-bottom: 12px; }
+
+  .hero .sub {
+    font-size: 17.5px;
+    color: var(--ink-soft);
+    max-width: 34em;
+    margin: 0 auto;
+  }
+
+  /* ---- sections ---- */
+  section {
+    padding: 36px 0;
+    border-top: 1px solid var(--border);
+  }
+
+  section h2 {
+    font-size: 24px;
+    margin-bottom: 18px;
+  }
+
+  /* ---- access card ---- */
+  .access-card {
+    background: #fffdf5;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 26px 28px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+
+  .access-card .info h3 { font-size: 18px; margin-bottom: 4px; }
+  .access-card .info p { font-size: 14.5px; color: var(--ink-soft); margin: 0; }
+
+  /* ---- membership area ---- */
+  .membership-card {
+    background: var(--callout-bg);
+    border-left: 3px solid var(--gold);
+    border-radius: 8px;
+    padding: 28px;
+  }
+
+  .membership-card h3 { font-size: 20px; margin-bottom: 10px; }
+
+  .membership-card ul {
+    margin: 14px 0 22px;
+    padding: 0 0 0 1.1em;
+    font-size: 15.5px;
+    color: var(--ink-soft);
+  }
+
+  .membership-card li { margin-bottom: 6px; }
+
+  /*
+    GHL NOTE: the membership area itself (private community / course
+    portal) is a separate GHL product ("Memberships" or "Communities").
+    This card just introduces it and links out once that product
+    exists and its URL is known.
+  */
+
+  /* ---- next step ---- */
+  .next-step {
+    text-align: center;
+  }
+
+  .next-step p {
+    font-size: 16px;
+    color: var(--ink-soft);
+    max-width: 34em;
+    margin: 0 auto 20px;
+  }
+
+  /* ---- support ---- */
+  .support {
+    text-align: center;
+    font-size: 14.5px;
+    color: var(--ink-soft);
+  }
+
+  footer {
+    padding: 28px 0 48px;
+    text-align: center;
+    font-size: 13px;
+    color: var(--ink-soft);
+    border-top: 1px solid var(--border);
+  }
+
+  @media (max-width: 560px) {
+    .hero { padding: 40px 0 28px; }
+    .hero h1 { font-size: 27px; }
+    .access-card { flex-direction: column; align-items: flex-start; }
+    .access-card .cta-button { width: 100%; text-align: center; }
+  }
+</style>
+
+<div class="wrap hero">
+  <div class="checkmark">&#10003;</div>
+  <h1>You're In.</h1>
+  <p class="sub">Your copy of <em>Seek First: The Four Pursuits of the Modern Catholic Man</em> is on its way. A confirmation email is headed to your inbox now &mdash; check spam if you don't see it in a few minutes.</p>
+</div>
+
+<section class="access-section">
+  <div class="wrap">
+    <h2>Access Your Book</h2>
+    <div class="access-card">
+      <div class="info">
+        <h3>Digital Copy (EPUB + PDF)</h3>
+        <p>Instant download, no waiting.</p>
+      </div>
+      <a href="#" class="cta-button">[[Connect download link]] &rarr;</a>
+    </div>
+  </div>
+</section>
+
+<section class="membership-section">
+  <div class="wrap">
+    <h2>Your Seek First Membership</h2>
+    <div class="membership-card">
+      <h3>[[Membership area name]]</h3>
+      <p>[[Short description of what the membership area offers &mdash; e.g. a daily reminder to open that day's devotion, a community of other men working through the same four pursuits, bonus content.]]</p>
+      <ul>
+        <li>[[Benefit 1]]</li>
+        <li>[[Benefit 2]]</li>
+        <li>[[Benefit 3]]</li>
+      </ul>
+      <a href="#" class="cta-button secondary">[[Connect to GHL membership portal]] &rarr;</a>
+    </div>
+  </div>
+</section>
+
+<section class="next-step-section">
+  <div class="wrap next-step">
+    <h2>Start With Day 1 Today</h2>
+    <p>You don't need to wait for a Monday or a new year. Open your book and start with Day 1 &mdash; the pursuit of Piety begins there.</p>
+    <a href="#" class="cta-button">[[Link to Day 1 / reader]] &rarr;</a>
+  </div>
+</section>
+
+<section class="support-section">
+  <div class="wrap support">
+    <p>Questions about your order or access? [[support@wisdomovergold.com]]</p>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">&copy; [[YEAR]] PJM Digital Media Corp &middot; Seek First is a product of Wisdom Over Gold &middot; wisdomovergold.com</div>
+</footer>
