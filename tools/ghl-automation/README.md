@@ -98,6 +98,18 @@ node paste_and_save.js /tmp/sales_ghl_content.html sales "Sales"
 
 It also strips the dev-only leading HTML comment, `<title>`/`<meta viewport>` tags, and local `assets/...` image references (those paths don't resolve on the live GHL site — upload the image to GHL's Media Library separately and add a real `<img>` tag).
 
+## Memberships / Courses (membership area)
+
+A real course product now exists in the live account: **"Seek First: The Four Pursuits of the Modern Catholic Man"**, offer "Seek First Member Access" (Free plan), `product_id=06474a72-c950-49c8-ab9e-75f499d69b8d`. Editor: `https://app.gohighlevel.com/v2/location/Pie9yvZA1BYJnWPk99Yj/memberships/courses/course-creator-studio?view=manager&sub_view=outline&product_id=06474a72-c950-49c8-ab9e-75f499d69b8d`.
+
+Structure, confirmed by walking the "Start from scratch" wizard and opening a lesson:
+- **Course → Modules → Lessons.** A module is a named group (e.g. "Course Contents"); a lesson is the actual content unit.
+- Each **lesson** has: a name, a rich-text description field (formatted paragraphs — this is where devotion text would go), optional lesson media (video **or audio** — `.mp3`/`.wav`/`.aac` accepted, up to 2GB), a thumbnail, and downloadable resources. Save or Save & Publish per lesson.
+- GHL seeds every new "from scratch" course with placeholder gamification content (a "Welcome Badge", a default "Course Contents" module with 5 sample lessons, and a "Course Completion Credential") — all currently untouched placeholder text, not yet replaced.
+- No bulk/CSV import was found in a quick pass — content looks like it has to go in lesson-by-lesson through this same form-fill UI.
+
+**Not yet decided/built:** how much of the 365-day book to load in as lessons. Populating all 365 days as individual lessons through this browser-automation pipeline (the same one that needed many retries per single funnel content block) would mean roughly 365 separate multi-field lesson saves — a large, slow undertaking. Scope (skeleton vs. a subset vs. full 365) needs a decision before committing to that work. See `../funnel/README.md` and the thank-you page's placeholder membership card, which still needs the real course URL once scope is settled.
+
 ## What's still manual / not done here
 
 - **Opt-in form wiring**: the form fields are plain HTML, not connected to a GHL contact/form action yet.
