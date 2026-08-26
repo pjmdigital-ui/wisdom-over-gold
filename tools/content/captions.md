@@ -73,6 +73,8 @@ Comment "Amen" if this hit home, and send it to a man who needs to hear it today
 
 You think years of holding your temper earned you one pass to lose it. God doesn't bank patience into credit for one blow-up. Moses led a people forty years through the desert, and one moment of fury at a rock cost him the land he'd been walking toward. Faithfulness never buys an exemption. It only asks for the next act of obedience.
 
+Tip: The next time you feel that "I've earned this" thought right before you snap at someone, stop and name it out loud. That's the moment to choose the next right response — not cash in the patience you've already spent years building.
+
 Comment "Amen" if this hit home, and send it to a man who needs to hear it today.
 
 ---
