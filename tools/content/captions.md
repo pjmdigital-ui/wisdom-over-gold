@@ -67,6 +67,16 @@ Comment "Amen" if this hit home, and send it to a man who needs to hear it today
 
 ---
 
+## Moses at the Rock
+
+*(`instagram-post-moses-at-the-rock.html`)*
+
+You think years of holding your temper earned you one pass to lose it. God doesn't bank patience into credit for one blow-up. Moses led a people forty years through the desert, and one moment of fury at a rock cost him the land he'd been walking toward. Faithfulness never buys an exemption. It only asks for the next act of obedience.
+
+Comment "Amen" if this hit home, and send it to a man who needs to hear it today.
+
+---
+
 ## Not the Scoreboard
 
 *(`instagram-post-not-the-scoreboard.html`)*
