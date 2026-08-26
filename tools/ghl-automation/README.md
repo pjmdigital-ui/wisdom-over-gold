@@ -108,7 +108,22 @@ Structure, confirmed by walking the "Start from scratch" wizard and opening a le
 - GHL seeds every new "from scratch" course with placeholder gamification content (a "Welcome Badge", a default "Course Contents" module with 5 sample lessons, and a "Course Completion Credential") — all currently untouched placeholder text, not yet replaced.
 - No bulk/CSV import was found in a quick pass — content looks like it has to go in lesson-by-lesson through this same form-fill UI.
 
-**Not yet decided/built:** how much of the 365-day book to load in as lessons. Populating all 365 days as individual lessons through this browser-automation pipeline (the same one that needed many retries per single funnel content block) would mean roughly 365 separate multi-field lesson saves — a large, slow undertaking. Scope (skeleton vs. a subset vs. full 365) needs a decision before committing to that work. See `../funnel/README.md` and the thank-you page's placeholder membership card, which still needs the real course URL once scope is settled.
+**Scope decision (made):** structure only, no lesson content yet. Built via `delete_sample_lessons.js` (removes GHL's 5 default placeholder lessons from the seeded "Course Contents" module), `rename_first_module.js` (renames that module to the real January title), and `add_remaining_modules.js` (adds the other 11 months). Current state: **12 empty modules**, one per month, named and ordered to match the manuscript's own chapter structure (`../../manuscript/q1-pursuit-of-piety/`, etc.):
+
+1. January — God First (Pursuit I: Piety)
+2. February — Sacrifice and Struggle (Piety)
+3. March — Faith Under Doubt (Piety)
+4. April — Integrity and Character (Pursuit II: Protection)
+5. May — Patience and Anger Management (Protection)
+6. June — Friendship and Brotherhood (Protection)
+7. July — Work and Vocation (Pursuit III: Provision)
+8. August — Personal Finance and Stewardship (Provision)
+9. September — Leading the Household (Provision)
+10. October — Marriage and Love (Pursuit IV: Posterity)
+11. November — Fatherhood Fundamentals (Posterity)
+12. December — Hope and Presence (Posterity)
+
+The "Welcome Badge" and "Course Completion Credential" gamification placeholders GHL seeds automatically were left as-is (harmless, not devotion content). **Not yet done:** any lesson content inside the 12 modules — that's the next decision, and `explore_lesson_editor.js` documents what a lesson's edit form looks like (name, rich-text description, optional audio/video media, thumbnail, downloadable resource) for whenever that's scoped. See `../funnel/README.md` and the thank-you page's placeholder membership card, which still needs the real course URL (`course-creator-studio?...&product_id=06474a72-c950-49c8-ab9e-75f499d69b8d`) once lesson content exists.
 
 ## What's still manual / not done here
 
