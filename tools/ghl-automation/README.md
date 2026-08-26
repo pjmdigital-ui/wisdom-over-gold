@@ -42,9 +42,11 @@ The OTP screen is 6 separate single-digit boxes, not one field — `login_and_ve
 - Agency: **proleadz**
 - Sub-account for this project: **Wisdom Over Gold**, location ID `Pie9yvZA1BYJnWPk99Yj`
 - Funnel: **Seek First Launch Funnel**, funnel ID `jhYyaoVGGGAsks0EcrQf`
-  - Step "Opt-In" — live preview: `https://sites.leadconnectorhq.com/preview/RMHZInAJov3GdExt6F4h`
-  - Step "Sales" — live preview: `https://sites.leadconnectorhq.com/preview/wrDudhSU88OTRsuv91AN`
-  - Step "Thank You" — live preview: `https://sites.leadconnectorhq.com/preview/pfJ09P7VHRxSswmzi0dx`
+  - Step "Opt-In" — raw preview: `https://sites.leadconnectorhq.com/preview/RMHZInAJov3GdExt6F4h` — **live domain: `https://wisdomovergold.com/optin-page`**
+  - Step "Sales" — raw preview: `https://sites.leadconnectorhq.com/preview/wrDudhSU88OTRsuv91AN` — **live domain: `https://wisdomovergold.com/sales-page`**
+  - Step "Thank You" — raw preview: `https://sites.leadconnectorhq.com/preview/pfJ09P7VHRxSswmzi0dx` — **live domain: `https://wisdomovergold.com/thank-you-page-470466`**
+
+`wisdomovergold.com` was connected as a custom domain partway through this build (not by anything in this repo — check GHL's Domains settings if you need to reconnect it elsewhere). **The raw preview URL and the live domain can show different content** — see the Publishing section below.
 
 `list_subaccounts.js` will re-discover the sub-account list and switch into one if you need to find these again (e.g. after they change).
 
@@ -71,6 +73,20 @@ Because autosave is off, **every run of `paste_and_save.js` rebuilds the row + C
 
 `build_step.js "<Name>" "<path-slug>"` creates a new, empty funnel step (the "Add new step" flow) — use this before `paste_and_save.js` for a step that doesn't exist yet.
 
+`update_existing_block.js` is the one to use once a step already has content — it edits the existing Custom Code block in place instead of adding a second row/element (same arguments as `paste_and_save.js`). Use `paste_and_save.js` only for a step's first-ever content.
+
+**A `<script>` tag inside the Custom Code content can silently break the save** — one run had the editor visibly show the correct pasted content, the modal "Save" and page-save both got clicked, but the "Last saved" timestamp never advanced and nothing actually persisted. Removing the `<script>` tag (a live total-calculator for an order bump) fixed it immediately. Not confirmed *why* — possibly the script executing inside the edit-mode canvas throws and wedges the save handler — but until that's understood, avoid live `<script>` tags in these blocks; keep interactive bits (checkboxes etc.) visually present but non-dynamic. **Always check the "Last saved" timestamp actually advanced after a save** — a stuck timestamp is the tell that it silently failed.
+
+## Publishing (required after every content change)
+
+A draft save (what `paste_and_save.js`/`update_existing_block.js` do) only updates what you see in the builder and at the raw `sites.leadconnectorhq.com/preview/...` URL. Once a custom domain is connected, **that domain serves the last *published* version**, not the draft — so a perfectly good save can look like it "didn't work" if you're checking the live domain and forgot to publish.
+
+```
+node publish_step.js "<Step Name>"
+```
+
+Clicks the step's Publish button (also inside the cross-origin builder iframe, so it's a coordinate click, not a locator). Run this after every `paste_and_save.js`/`update_existing_block.js` call once a domain is live. Verify with a cache-busting curl against the real domain (`curl -sS "https://wisdomovergold.com/sales-page?nocache=$(date +%s)" | grep ...`), not just a browser screenshot — browser-level caching can also mask a stale page.
+
 ## `scope_css.py`
 
 The pages built for local preview in `../funnel/` (`optin.html`, `sales.html`, `thank-you.html`) are standalone documents with unscoped CSS (`* { }`, `h1 { }`, etc.) — fine for a full page, but GHL's Custom Code element injects into an *existing* page, so unscoped selectors would leak into the rest of that page's styling. This script wraps the whole thing in a `.sf-<scope>` div and prefixes every top-level selector:
@@ -84,10 +100,12 @@ It also strips the dev-only leading HTML comment, `<title>`/`<meta viewport>` ta
 
 ## What's still manual / not done here
 
-- **Cover image**: none of the three live steps have the book cover yet — it needs uploading to GHL's Media Library (Sites sidebar) and an `<img>` tag added back into each step's Custom Code content.
 - **Opt-in form wiring**: the form fields are plain HTML, not connected to a GHL contact/form action yet.
-- **Order form / payment**: the sales page's CTA is a placeholder link, not a real GHL Order Form / Stripe element.
+- **First-7-days PDF delivery**: the sample PDF exists (`tools/build_pdf_sample.py`) but isn't uploaded/attached to whatever sends it when the opt-in form is submitted.
+- **Order form / payment**: the sales page's CTA is a placeholder link, not a real GHL Order Form / Stripe element. Price is set ($9); the audio-narration order bump's price is still a placeholder.
 - **Membership area**: doesn't exist as a GHL product yet; the thank-you page just has a placeholder card for it.
-- **Domain**: no custom domain connected, so these only exist at the `sites.leadconnectorhq.com/preview/...` URLs above, not a real seekwisdomovergold.com-style URL.
+- **Thank-you page links**: the digital-download button and the "Link to Day 1 / reader" button are both still placeholders.
+
+Done: cover image (uploaded to GHL Media Library, wired into opt-in + sales), custom domain (wisdomovergold.com, connected and publishing correctly), pricing copy, 30-day guarantee copy, copyright year.
 
 See `../funnel/README.md` for the fuller picture of what's placeholder vs. real on these pages.
