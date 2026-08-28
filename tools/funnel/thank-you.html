@@ -135,6 +135,23 @@
   .access-card .info h3 { font-size: 18px; margin-bottom: 4px; }
   .access-card .info p { font-size: 14.5px; color: var(--ink-soft); margin: 0; }
 
+  .download-group {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
+  .download-group .cta-button.secondary {
+    background: transparent;
+    border: 1.5px solid var(--gold);
+    color: var(--gold);
+    padding: 14px 24px;
+  }
+
+  .download-group .cta-button.secondary:hover {
+    background: var(--callout-bg);
+  }
+
   /* ---- membership area ---- */
   .membership-card {
     background: var(--callout-bg);
@@ -210,7 +227,10 @@
         <h3>Digital Copy (EPUB + PDF)</h3>
         <p>Instant download, no waiting.</p>
       </div>
-      <a href="#" class="cta-button">[[Connect download link]] &rarr;</a>
+      <div class="download-group">
+        <a href="https://assets.cdn.filesafe.space/Pie9yvZA1BYJnWPk99Yj/media/6a921de2058f231d6af85205.pdf" class="cta-button" download>Download PDF &rarr;</a>
+        <a href="https://assets.cdn.filesafe.space/Pie9yvZA1BYJnWPk99Yj/media/6a921e66478fdaf1c7e35f05.epub" class="cta-button secondary" download>Download EPUB &rarr;</a>
+      </div>
     </div>
   </div>
 </section>

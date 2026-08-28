@@ -147,12 +147,23 @@ Getting to an action panel's lower fields (message body, attachments, Save actio
 
 GHL's form builder shows a gear+trash icon pair at the top-right of whichever field block is currently selected — but a **single click inside a rich-text/consent block's text selects (and opens for editing) the whole block**, not just that paragraph. The two default SMS-consent checkboxes on a new form are one such combined block: clicking either paragraph reveals ONE shared delete icon for both, at the top of the whole block (not near wherever you clicked). Structured fields (Phone, Last Name, etc.) behave more predictably — clicking the *label* text selects just that field, with its own delete icon roughly 9px above the label.
 
+## E-book delivery on the Thank You page (done)
+
+The full book — both formats — is uploaded to Media Storage and linked directly from the "Access Your Book" card:
+
+- PDF: `https://assets.cdn.filesafe.space/Pie9yvZA1BYJnWPk99Yj/media/6a921de2058f231d6af85205.pdf`
+- EPUB: `https://assets.cdn.filesafe.space/Pie9yvZA1BYJnWPk99Yj/media/6a921e66478fdaf1c7e35f05.epub`
+
+`upload_and_get_link.js <file-path>` uploads a file to Media Storage and prints its public CDN link (uses the clipboard "Copy link" button on the file's preview modal, same pattern as the sample-PDF workflow attachment). The single `[[Connect download link]]` CTA on `../funnel/thank-you.html` was replaced with a `.download-group` of two buttons (`Download PDF` / `Download EPUB`, the second styled `.cta-button.secondary`), pushed with `update_existing_block.js` and published with `publish_step.js`.
+
+**Gotcha the first upload run hit:** the freshly-uploaded file's card sits at a fixed grid position (~x=356, y=369 at this viewport, newest-first sort) once the upload completes — a plausible-looking-but-wrong coordinate like `(203, 468)` is just outside the card's actual bounding box and silently clicks blank page background, so every downstream click (open the card, hit "Copy link") does nothing and `navigator.clipboard.readText()` comes back empty with no error. There's no exception to catch — the only tell is an empty result. Re-run and screenshot the intermediate state (`upl-card-opened.png`) if a link ever comes back blank.
+
 ## What's still manual / not done here
 
 - **Order form / payment**: the sales page's CTA is a placeholder link, not a real GHL Order Form / Stripe element. Price is set ($9); the audio-narration order bump's price is still a placeholder.
-- **Membership area**: 12 empty modules exist (see below) but no lesson content yet; the thank-you page just has a placeholder card for the membership link.
-- **Thank-you page links**: the digital-download button and the "Link to Day 1 / reader" button are both still placeholders.
+- **Membership area**: 12 empty modules exist (see below) but no lesson content yet; the thank-you page's membership card still needs the real course URL once that's populated.
+- **"Link to Day 1 / reader" button**: still a placeholder — no reader/portal exists yet to link to.
 
-Done: cover image (uploaded to GHL Media Library, wired into opt-in + sales), custom domain (wisdomovergold.com, connected and publishing correctly), pricing copy, 30-day guarantee copy, copyright year, opt-in form + sample PDF delivery (see above).
+Done: cover image (uploaded to GHL Media Library, wired into opt-in + sales), custom domain (wisdomovergold.com, connected and publishing correctly), pricing copy, 30-day guarantee copy, copyright year, opt-in form + sample PDF delivery, full e-book (EPUB + PDF) delivery on the thank-you page (see above).
 
 See `../funnel/README.md` for the fuller picture of what's placeholder vs. real on these pages.
