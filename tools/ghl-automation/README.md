@@ -42,7 +42,7 @@ The OTP screen is 6 separate single-digit boxes, not one field — `login_and_ve
 - Agency: **proleadz**
 - Sub-account for this project: **Wisdom Over Gold**, location ID `Pie9yvZA1BYJnWPk99Yj`
 - Funnel: **Seek First Launch Funnel**, funnel ID `jhYyaoVGGGAsks0EcrQf`
-  - Step "Opt-In" — raw preview: `https://sites.leadconnectorhq.com/preview/RMHZInAJov3GdExt6F4h` — **live domain: `https://wisdomovergold.com/optin-page`**
+  - Step "Opt-In" — raw preview: `https://sites.leadconnectorhq.com/preview/RMHZInAJov3GdExt6F4h` — **live domain: `https://wisdomovergold.com/seek-first-free-sample`** (changed from `/optin-page` via the step's Publishing tab)
   - Step "Sales" — raw preview: `https://sites.leadconnectorhq.com/preview/wrDudhSU88OTRsuv91AN` — **live domain: `https://wisdomovergold.com/sales-page`**
   - Step "Thank You" — raw preview: `https://sites.leadconnectorhq.com/preview/pfJ09P7VHRxSswmzi0dx` — **live domain: `https://wisdomovergold.com/thank-you-page-470466`**
 
@@ -125,14 +125,34 @@ Structure, confirmed by walking the "Start from scratch" wizard and opening a le
 
 The "Welcome Badge" and "Course Completion Credential" gamification placeholders GHL seeds automatically were left as-is (harmless, not devotion content). **Not yet done:** any lesson content inside the 12 modules — that's the next decision, and `explore_lesson_editor.js` documents what a lesson's edit form looks like (name, rich-text description, optional audio/video media, thumbnail, downloadable resource) for whenever that's scoped. See `../funnel/README.md` and the thank-you page's placeholder membership card, which still needs the real course URL (`course-creator-studio?...&product_id=06474a72-c950-49c8-ab9e-75f499d69b8d`) once lesson content exists.
 
+## Opt-in form + sample delivery (done)
+
+The opt-in page's form is now real and live, end to end:
+
+- **Form**: a native GHL Form ("Form 0", `form_id=oIxrLZEdl80kXTwfP0hW`) with just First Name + Email (the default Phone field and both SMS-consent checkboxes were deleted — see `Deleting a rich-text/consent field` below for why that one was fiddly). Built with `create_form_start` steps directly in the browser (no dedicated script survives for the initial field deletion — it was iterative trial-and-error; `explore_lesson_editor.js`-style one-offs were deleted once the state was correct). Settings → On Submit is set to **Redirect to URL** → the Thank You page (`https://wisdomovergold.com/thank-you-page-470466`).
+- **Embedded on the page**: `pb_finalize_form.js` adds a new row below the hero (GHL's native Form element can't nest inside the existing Custom Code block's own grid) and points it at "Form 0". The old fake placeholder `<form>` in `../funnel/optin.html` was removed and replaced with a note — pushed via `update_existing_block.js`.
+- **Sample PDF**: uploaded to Media Library via `upload_pdf4.js` (`https://assets.cdn.filesafe.space/Pie9yvZA1BYJnWPk99Yj/media/6a91f7350914f11215f695e4.pdf` — get the direct link for any file with `get_pdf_url2.js`'s "Copy link" pattern, reading `navigator.clipboard.readText()` after the click).
+- **Delivery workflow**: `create_email_workflow.js` builds a GHL Workflow ("Seek First - Free Sample Delivery", `workflow_id=a5ee6b1a-149a-4644-ae3f-1f7ffb493af4") — trigger **Form submitted** (filtered to Form 0) → action **Send email** with the PDF attached (via Media Storage picker) and a download link in the body, using the `{{contact.first_name}}` merge tag. **Leave 'From Name' blank unless you also fill 'From Email'** — GHL rejects the action with "From email is mandatory when From Name is entered" otherwise. The workflow uses GHL's newer **autosave** (a one-time "Enable auto save now" prompt on first open of a *new* workflow) for the canvas/trigger, but each **action's own fields still need an explicit "Save action" click** — autosave doesn't cover that.
+- **Opt-in step URL**: changed from `/optin-page` to `/seek-first-free-sample` via the funnel step's Publishing tab (Step name/Step url fields, "Update step" button) — not something `paste_and_save.js` touches, this lives one level up in the funnel's own settings, not the page builder.
+
+### The workflow builder is its own cross-origin iframe
+
+Unlike the funnel page builder (`page-builder.leadconnectorhq.com`), the **Workflow** builder lives in a *different* iframe: `client-app-automation-workflows.leadconnectorhq.com`. Locator-based queries (`getByText`, `getByRole`, DOM `evaluate`) against anything inside an action's edit panel (like the "Save action" button) must go through `page.frameLocator('iframe[src*="client-app-automation-workflows"]')` — plain `page.locator(...)` finds nothing and fails silently with a 0-count match, not an error, which is an easy trap. Media-picker modals (Media Storage's "Insert media") are **not** inside that iframe — they're top-level, so those stay on plain `page.getByRole(...)`.
+
+### Coordinate clicks + a tall viewport, not `mouse.wheel`
+
+Getting to an action panel's lower fields (message body, attachments, Save action) needs the panel scrolled into view. **Don't use `page.mouse.wheel()` on this canvas** — the wheel event hits the workflow canvas itself (which treats wheel = zoom/pan), not the side panel, and silently wrecks the whole layout (confirmed: it zoomed the canvas to 243% and repositioned every node, breaking every subsequent hardcoded coordinate in that run). The fix that worked: launch the browser with an oversized viewport (`height: 1900`) so the entire action panel fits without scrolling at all, and keep every fill/click as a fixed coordinate tuned to that one viewport height. For the final "Save action" click specifically, a locator with `.scrollIntoViewIfNeeded()` inside the correct frame is more reliable than a raw coordinate, since a screenshot's `fullPage: true` coordinates don't equal real on-screen coordinates once content exceeds the viewport height.
+
+### Deleting a rich-text/consent field
+
+GHL's form builder shows a gear+trash icon pair at the top-right of whichever field block is currently selected — but a **single click inside a rich-text/consent block's text selects (and opens for editing) the whole block**, not just that paragraph. The two default SMS-consent checkboxes on a new form are one such combined block: clicking either paragraph reveals ONE shared delete icon for both, at the top of the whole block (not near wherever you clicked). Structured fields (Phone, Last Name, etc.) behave more predictably — clicking the *label* text selects just that field, with its own delete icon roughly 9px above the label.
+
 ## What's still manual / not done here
 
-- **Opt-in form wiring**: the form fields are plain HTML, not connected to a GHL contact/form action yet.
-- **First-7-days PDF delivery**: the sample PDF exists (`tools/build_pdf_sample.py`) but isn't uploaded/attached to whatever sends it when the opt-in form is submitted.
 - **Order form / payment**: the sales page's CTA is a placeholder link, not a real GHL Order Form / Stripe element. Price is set ($9); the audio-narration order bump's price is still a placeholder.
-- **Membership area**: doesn't exist as a GHL product yet; the thank-you page just has a placeholder card for it.
+- **Membership area**: 12 empty modules exist (see below) but no lesson content yet; the thank-you page just has a placeholder card for the membership link.
 - **Thank-you page links**: the digital-download button and the "Link to Day 1 / reader" button are both still placeholders.
 
-Done: cover image (uploaded to GHL Media Library, wired into opt-in + sales), custom domain (wisdomovergold.com, connected and publishing correctly), pricing copy, 30-day guarantee copy, copyright year.
+Done: cover image (uploaded to GHL Media Library, wired into opt-in + sales), custom domain (wisdomovergold.com, connected and publishing correctly), pricing copy, 30-day guarantee copy, copyright year, opt-in form + sample PDF delivery (see above).
 
 See `../funnel/README.md` for the fuller picture of what's placeholder vs. real on these pages.
