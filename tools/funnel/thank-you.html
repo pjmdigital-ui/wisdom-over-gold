@@ -1,10 +1,10 @@
 <!--
   SEEK FIRST — Funnel skeleton, page 3 of 3: THANK YOU
   =================================================================
-  Skeleton pass — real structure and voice, placeholder links marked
-  [[LIKE THIS]] (download delivery, membership portal URL). Built to
-  paste into a GHL funnel step as the order confirmation page. See
-  ../funnel/README.md for GHL upload notes.
+  Generic confirmation page — deliberately does not list what was
+  bought or hand out direct downloads. Everything a person opted into
+  or purchased is delivered by email, and membership access is granted
+  by tag once that GHL product is built out. See ../funnel/README.md.
 -->
 <title>You're In — Welcome to Seek First</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -119,65 +119,6 @@
     margin-bottom: 18px;
   }
 
-  /* ---- access card ---- */
-  .access-card {
-    background: #fffdf5;
-    border: 1px solid var(--border);
-    border-radius: 10px;
-    padding: 26px 28px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    gap: 16px;
-    flex-wrap: wrap;
-  }
-
-  .access-card .info h3 { font-size: 18px; margin-bottom: 4px; }
-  .access-card .info p { font-size: 14.5px; color: var(--ink-soft); margin: 0; }
-
-  .download-group {
-    display: flex;
-    gap: 10px;
-    flex-wrap: wrap;
-  }
-
-  .download-group .cta-button.secondary {
-    background: transparent;
-    border: 1.5px solid var(--gold);
-    color: var(--gold);
-    padding: 14px 24px;
-  }
-
-  .download-group .cta-button.secondary:hover {
-    background: var(--callout-bg);
-  }
-
-  /* ---- membership area ---- */
-  .membership-card {
-    background: var(--callout-bg);
-    border-left: 3px solid var(--gold);
-    border-radius: 8px;
-    padding: 28px;
-  }
-
-  .membership-card h3 { font-size: 20px; margin-bottom: 10px; }
-
-  .membership-card ul {
-    margin: 14px 0 22px;
-    padding: 0 0 0 1.1em;
-    font-size: 15.5px;
-    color: var(--ink-soft);
-  }
-
-  .membership-card li { margin-bottom: 6px; }
-
-  /*
-    GHL NOTE: the membership area itself (private community / course
-    portal) is a separate GHL product ("Memberships" or "Communities").
-    This card just introduces it and links out once that product
-    exists and its URL is known.
-  */
-
   /* ---- next step ---- */
   .next-step {
     text-align: center;
@@ -208,60 +149,25 @@
   @media (max-width: 560px) {
     .hero { padding: 40px 0 28px; }
     .hero h1 { font-size: 27px; }
-    .access-card { flex-direction: column; align-items: flex-start; }
-    .access-card .cta-button { width: 100%; text-align: center; }
   }
 </style>
 
 <div class="wrap hero">
   <div class="checkmark">&#10003;</div>
   <h1>You're In.</h1>
-  <p class="sub">Your copy of <em>Seek First: The Four Pursuits of the Modern Catholic Man</em> is on its way. A confirmation email is headed to your inbox now &mdash; check spam if you don't see it in a few minutes.</p>
+  <p class="sub">Everything you opted in for or purchased today is on its way to your inbox right now &mdash; check spam if you don't see it in a few minutes.</p>
 </div>
-
-<section class="access-section">
-  <div class="wrap">
-    <h2>Access Your Book</h2>
-    <div class="access-card">
-      <div class="info">
-        <h3>Digital Copy (EPUB + PDF)</h3>
-        <p>Instant download, no waiting.</p>
-      </div>
-      <div class="download-group">
-        <a href="https://assets.cdn.filesafe.space/Pie9yvZA1BYJnWPk99Yj/media/6a921de2058f231d6af85205.pdf" class="cta-button" download>Download PDF &rarr;</a>
-        <a href="https://assets.cdn.filesafe.space/Pie9yvZA1BYJnWPk99Yj/media/6a921e66478fdaf1c7e35f05.epub" class="cta-button secondary" download>Download EPUB &rarr;</a>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section class="membership-section">
-  <div class="wrap">
-    <h2>Your Seek First Membership</h2>
-    <div class="membership-card">
-      <h3>[[Membership area name]]</h3>
-      <p>[[Short description of what the membership area offers &mdash; e.g. a daily reminder to open that day's devotion, a community of other men working through the same four pursuits, bonus content.]]</p>
-      <ul>
-        <li>[[Benefit 1]]</li>
-        <li>[[Benefit 2]]</li>
-        <li>[[Benefit 3]]</li>
-      </ul>
-      <a href="#" class="cta-button secondary">[[Connect to GHL membership portal]] &rarr;</a>
-    </div>
-  </div>
-</section>
 
 <section class="next-step-section">
   <div class="wrap next-step">
-    <h2>Start With Day 1 Today</h2>
-    <p>You don't need to wait for a Monday or a new year. Open your book and start with Day 1 &mdash; the pursuit of Piety begins there.</p>
-    <a href="#" class="cta-button">[[Link to Day 1 / reader]] &rarr;</a>
+    <h2>What Happens Next</h2>
+    <p>Your email will have whatever you got today &mdash; the free sample, the full book, or the audio narration if you added it. You'll also get access to your Seek First membership area, unlocked to match exactly what you opted in for or bought.</p>
   </div>
 </section>
 
 <section class="support-section">
   <div class="wrap support">
-    <p>Questions about your order or access? [[support@wisdomovergold.com]]</p>
+    <p>Questions about your order or access? support@wisdomovergold.com</p>
   </div>
 </section>
 

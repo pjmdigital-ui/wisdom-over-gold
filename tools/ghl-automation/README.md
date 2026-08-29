@@ -147,23 +147,31 @@ Getting to an action panel's lower fields (message body, attachments, Save actio
 
 GHL's form builder shows a gear+trash icon pair at the top-right of whichever field block is currently selected — but a **single click inside a rich-text/consent block's text selects (and opens for editing) the whole block**, not just that paragraph. The two default SMS-consent checkboxes on a new form are one such combined block: clicking either paragraph reveals ONE shared delete icon for both, at the top of the whole block (not near wherever you clicked). Structured fields (Phone, Last Name, etc.) behave more predictably — clicking the *label* text selects just that field, with its own delete icon roughly 9px above the label.
 
-## E-book delivery on the Thank You page (done)
+## Media uploads: `upload_and_get_link.js`
 
-The full book — both formats — is uploaded to Media Storage and linked directly from the "Access Your Book" card:
+`upload_and_get_link.js <file-path>` uploads a file to Media Storage and prints its public CDN link (uses the clipboard "Copy link" button on the file's preview modal). Used so far for the full EPUB and PDF:
 
 - PDF: `https://assets.cdn.filesafe.space/Pie9yvZA1BYJnWPk99Yj/media/6a921de2058f231d6af85205.pdf`
 - EPUB: `https://assets.cdn.filesafe.space/Pie9yvZA1BYJnWPk99Yj/media/6a921e66478fdaf1c7e35f05.epub`
 
-`upload_and_get_link.js <file-path>` uploads a file to Media Storage and prints its public CDN link (uses the clipboard "Copy link" button on the file's preview modal, same pattern as the sample-PDF workflow attachment). The single `[[Connect download link]]` CTA on `../funnel/thank-you.html` was replaced with a `.download-group` of two buttons (`Download PDF` / `Download EPUB`, the second styled `.cta-button.secondary`), pushed with `update_existing_block.js` and published with `publish_step.js`.
-
 **Gotcha the first upload run hit:** the freshly-uploaded file's card sits at a fixed grid position (~x=356, y=369 at this viewport, newest-first sort) once the upload completes — a plausible-looking-but-wrong coordinate like `(203, 468)` is just outside the card's actual bounding box and silently clicks blank page background, so every downstream click (open the card, hit "Copy link") does nothing and `navigator.clipboard.readText()` comes back empty with no error. There's no exception to catch — the only tell is an empty result. Re-run and screenshot the intermediate state (`upl-card-opened.png`) if a link ever comes back blank.
+
+## The actual funnel logic (corrected)
+
+Early in this build the Opt-In form's "On Submit" redirect was pointed at the Thank You step, and that step handed out the full EPUB/PDF for free — which meant a free-sample signup got the entire paid book at no charge. The intended flow, per direct correction:
+
+**Opt-In (free 7-day sample)** → **Sales** (pitches the full book, $7, with the audio narration as a $9 order bump) → **Thank You** (generic confirmation only).
+
+- The Opt-In form's redirect (`form-builder-v2` → Settings → On Submit) now points to `https://wisdomovergold.com/sales-page`, not the Thank You step.
+- The Sales page price is `$7`; the audio order bump is `+$9` (`../funnel/sales.html`, `.price` and `.bump-label`).
+- The Thank You page (`../funnel/thank-you.html`) was stripped back to a generic confirmation — no direct download buttons, no membership pitch card. It just says everything opted into or purchased is on its way by email, and that membership access will unlock to match what was bought. Building out *what* actually gets emailed (sample vs. full book vs. + audio, by tag) and the real membership area are both still open — see below.
 
 ## What's still manual / not done here
 
-- **Order form / payment**: the sales page's CTA is a placeholder link, not a real GHL Order Form / Stripe element. Price is set ($9); the audio-narration order bump's price is still a placeholder.
-- **Membership area**: 12 empty modules exist (see below) but no lesson content yet; the thank-you page's membership card still needs the real course URL once that's populated.
-- **"Link to Day 1 / reader" button**: still a placeholder — no reader/portal exists yet to link to.
+- **Order form / payment**: the sales page's CTA is a placeholder link, not a real GHL Order Form / Stripe element — no actual purchase can happen yet.
+- **Purchase-triggered delivery + tagging**: nothing currently tags a contact by what they bought (sample-only vs. full book vs. + audio) or emails the full book/audio after a real purchase — that depends on the order form existing first.
+- **Membership area**: 12 empty modules exist (see below) but no lesson content yet, and no automation grants access by tag yet.
 
-Done: cover image (uploaded to GHL Media Library, wired into opt-in + sales), custom domain (wisdomovergold.com, connected and publishing correctly), pricing copy, 30-day guarantee copy, copyright year, opt-in form + sample PDF delivery, full e-book (EPUB + PDF) delivery on the thank-you page (see above).
+Done: cover image (uploaded to GHL Media Library, wired into opt-in + sales), custom domain (wisdomovergold.com, connected and publishing correctly), pricing copy ($7 book / $9 audio bump), 30-day guarantee copy, copyright year, opt-in form + free-sample PDF delivery, opt-in → sales (not thank-you) redirect, generic thank-you confirmation page, full e-book (EPUB + PDF) uploaded to Media Storage and ready to attach to a real post-purchase delivery once that exists.
 
 See `../funnel/README.md` for the fuller picture of what's placeholder vs. real on these pages.
