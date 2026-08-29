@@ -166,10 +166,18 @@ Early in this build the Opt-In form's "On Submit" redirect was pointed at the Th
 - The Sales page price is `$7`; the audio order bump is `+$9` (`../funnel/sales.html`, `.price` and `.bump-label`).
 - The Thank You page (`../funnel/thank-you.html`) was stripped back to a generic confirmation — no direct download buttons, no membership pitch card. It just says everything opted into or purchased is on its way by email, and that membership access will unlock to match what was bought. Building out *what* actually gets emailed (sample vs. full book vs. + audio, by tag) and the real membership area are both still open — see below.
 
+## Real order form + payment (done)
+
+Stripe is already connected to this location — both live mode and test mode enabled (`payments/integrations/stripe/manage`) — so the products created here can take real charges immediately.
+
+- **Products** (`payments/products`, `create_book_product.js` / `create_product_audio.js`): "Seek First: The Four Pursuits of the Modern Catholic Man" at $7 one-time (`product_id=6a9229a548b96f4d26d65fff`), "Seek First - Audio Narration Add-On" at $9 one-time (`product_id=6a9229f92a5a14696c096088`).
+- **Attaching products to the Sales step**: a funnel step has its own "Products" tab (`Steps → <step> → Products`, separate from the page builder) where each product+price gets attached individually (`add_step_products_ref.js`, `add_audio_step_product5.js`). **A product's "Additional Options" has a Main Product / Bump Product radio (`designate_bump_product.js` / `finish_designate_bump.js`)** — this, not anything in the order-form element itself, is what makes a product available to pick as a bump. Without it, the order form's own "Add Bump Product → Select Product" dropdown just says "Sorry, no matching options," which looks like a bug but really means no step-level product is flagged `Bump Product` yet.
+- **The order-form element** (`build_order_form.js`): GHL's "1 Step Order" Quick Add element (search "order" in Quick Add), placed as a new row. Its own settings panel has no product picker at all beyond Order Bump — the base product comes automatically from whichever step-level product is *not* flagged as a bump. In the builder it always previews a placeholder "Dynamic Item @ $99" regardless of the real product/price — **this is cosmetic only**; the live published page resolves it correctly (verified: `curl` against the real domain shows the actual $7/$9 prices, no "Dynamic Item" anywhere).
+- **After-purchase redirect**: the order form's own "Sale Actions → Go to Next step" (the default) sends a completed purchase to whatever step comes next in the funnel — here, Thank You — matching the intended Opt-In → Sales → Thank You flow.
+
 ## What's still manual / not done here
 
-- **Order form / payment**: the sales page's CTA is a placeholder link, not a real GHL Order Form / Stripe element — no actual purchase can happen yet.
-- **Purchase-triggered delivery + tagging**: nothing currently tags a contact by what they bought (sample-only vs. full book vs. + audio) or emails the full book/audio after a real purchase — that depends on the order form existing first.
+- **Purchase-triggered tagging + delivery**: nothing yet tags a contact by what they bought (sample-only vs. full book vs. + audio) or emails the full book/audio after a real purchase. This needs a Workflow triggered on "Order Form Submitted" / a purchase event, mirroring the `create_email_workflow.js` pattern already built for the free-sample delivery.
 - **Membership area**: 12 empty modules exist (see below) but no lesson content yet, and no automation grants access by tag yet.
 
 Done: cover image (uploaded to GHL Media Library, wired into opt-in + sales), custom domain (wisdomovergold.com, connected and publishing correctly), pricing copy ($7 book / $9 audio bump), 30-day guarantee copy, copyright year, opt-in form + free-sample PDF delivery, opt-in → sales (not thank-you) redirect, generic thank-you confirmation page, full e-book (EPUB + PDF) uploaded to Media Storage and ready to attach to a real post-purchase delivery once that exists.
