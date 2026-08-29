@@ -1,18 +1,28 @@
-<!--
-  SEEK FIRST — Funnel skeleton, page 3 of 3: THANK YOU
-  =================================================================
-  Generic confirmation page — deliberately does not list what was
-  bought or hand out direct downloads. Everything a person opted into
-  or purchased is delivered by email, and membership access is granted
-  by tag once that GHL product is built out. See ../funnel/README.md.
--->
-<title>You're In — Welcome to Seek First</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+    .sf-site-header {
+          background: #ece0c0;
+          border-bottom: 1px solid #d8c79a;
+          padding: 14px 24px;
+          text-align: center;
+  }
+    .sf-site-header img {
+          height: 48px;
+          width: 48px;
+          border-radius: 50%;
+          display: inline-block;
+          vertical-align: middle;
+  }
+</style>
+<header class="sf-site-header">
+    <a href="https://wisdomovergold.com/" aria-label="Wisdom Over Gold home">
+          <img src="https://assets.cdn.filesafe.space/Pie9yvZA1BYJnWPk99Yj/media/6a93302b03b6820c462386b9.jpg" alt="Wisdom Over Gold">
+  </a>
+</header>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Spectral:wght@600;700&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
 <style>
-  :root {
+  .sf-thankyou {
     --paper: #f5efdd;
     --paper-deep: #ece0c0;
     --ink: #2b2318;
@@ -24,9 +34,9 @@
     --green: #3f7d4a;
   }
 
-  * { box-sizing: border-box; }
+  .sf-thankyou * { box-sizing: border-box; }
 
-  html, body {
+  .sf-thankyou {
     margin: 0;
     padding: 0;
     background: var(--paper);
@@ -35,7 +45,7 @@
     overflow-x: hidden;
   }
 
-  h1, h2, h3 {
+  .sf-thankyou h1, .sf-thankyou h2, .sf-thankyou h3 {
     font-family: "Spectral", Georgia, serif;
     font-weight: 700;
     color: var(--ink);
@@ -43,13 +53,13 @@
     margin: 0;
   }
 
-  .wrap {
+  .sf-thankyou .wrap {
     max-width: 780px;
     margin: 0 auto;
     padding: 0 24px;
   }
 
-  .cta-button {
+  .sf-thankyou .cta-button {
     display: inline-block;
     background: var(--gold);
     color: var(--paper);
@@ -65,28 +75,28 @@
     transition: background 0.2s ease, transform 0.2s ease;
   }
 
-  .cta-button:hover {
+  .sf-thankyou .cta-button:hover {
     background: var(--gold-bright);
     transform: translateY(-1px);
   }
 
-  .cta-button.secondary {
+  .sf-thankyou .cta-button.secondary {
     background: transparent;
     border: 1.5px solid var(--gold);
     color: var(--gold);
   }
 
-  .cta-button.secondary:hover {
+  .sf-thankyou .cta-button.secondary:hover {
     background: var(--callout-bg);
   }
 
   /* ---- hero ---- */
-  .hero {
+  .sf-thankyou .hero {
     padding: 56px 0 36px;
     text-align: center;
   }
 
-  .checkmark {
+  .sf-thankyou .checkmark {
     width: 68px;
     height: 68px;
     border-radius: 50%;
@@ -99,9 +109,9 @@
     margin: 0 auto 22px;
   }
 
-  .hero h1 { font-size: 36px; margin-bottom: 12px; }
+  .sf-thankyou .hero h1 { font-size: 36px; margin-bottom: 12px; }
 
-  .hero .sub {
+  .sf-thankyou .hero .sub {
     font-size: 17.5px;
     color: var(--ink-soft);
     max-width: 34em;
@@ -109,22 +119,22 @@
   }
 
   /* ---- sections ---- */
-  section {
+  .sf-thankyou section {
     padding: 36px 0;
     border-top: 1px solid var(--border);
   }
 
-  section h2 {
+  .sf-thankyou section h2 {
     font-size: 24px;
     margin-bottom: 18px;
   }
 
   /* ---- next step ---- */
-  .next-step {
+  .sf-thankyou .next-step {
     text-align: center;
   }
 
-  .next-step p {
+  .sf-thankyou .next-step p {
     font-size: 16px;
     color: var(--ink-soft);
     max-width: 34em;
@@ -132,13 +142,13 @@
   }
 
   /* ---- support ---- */
-  .support {
+  .sf-thankyou .support {
     text-align: center;
     font-size: 14.5px;
     color: var(--ink-soft);
   }
 
-  footer {
+  .sf-thankyou footer {
     padding: 28px 0 48px;
     text-align: center;
     font-size: 13px;
@@ -147,32 +157,11 @@
   }
 
   @media (max-width: 560px) {
-    .hero { padding: 40px 0 28px; }
-    .hero h1 { font-size: 27px; }
-  }
-
-  /* ---- site header ---- */
-  .sf-site-header {
-    background: var(--paper-deep);
-    border-bottom: 1px solid var(--border);
-    padding: 14px 24px;
-    text-align: center;
-  }
-
-  .sf-site-header img {
-    height: 48px;
-    width: 48px;
-    border-radius: 50%;
-    display: inline-block;
-    vertical-align: middle;
+    .sf-thankyou .hero { padding: 40px 0 28px; }
+    .sf-thankyou .hero h1 { font-size: 27px; }
   }
 </style>
-
-<header class="sf-site-header">
-  <a href="https://wisdomovergold.com/" aria-label="Wisdom Over Gold home">
-    <img src="https://assets.cdn.filesafe.space/Pie9yvZA1BYJnWPk99Yj/media/6a93302b03b6820c462386b9.jpg" alt="Wisdom Over Gold">
-  </a>
-</header>
+<div class="sf-thankyou">
 
 <div class="wrap hero">
   <div class="checkmark">&#10003;</div>
@@ -196,3 +185,4 @@
 <footer>
   <div class="wrap">&copy; 2026 PJM Digital Media Corp &middot; Seek First is a product of Wisdom Over Gold &middot; wisdomovergold.com</div>
 </footer>
+</div>

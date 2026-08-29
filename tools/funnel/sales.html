@@ -1,18 +1,28 @@
-<!--
-  SEEK FIRST — Funnel skeleton, page 2 of 3: SALES PAGE
-  =================================================================
-  Skeleton pass — real structure and voice, placeholder copy marked
-  [[LIKE THIS]] (price, testimonials, order-form wiring). Built to
-  paste into a GHL funnel step. See ../funnel/README.md for GHL
-  upload notes (fonts, image hosting, form + payment wiring).
--->
-<title>Seek First: The Four Pursuits of the Modern Catholic Man</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+    .sf-site-header {
+          background: #ece0c0;
+          border-bottom: 1px solid #d8c79a;
+          padding: 14px 24px;
+          text-align: center;
+  }
+    .sf-site-header img {
+          height: 48px;
+          width: 48px;
+          border-radius: 50%;
+          display: inline-block;
+          vertical-align: middle;
+  }
+</style>
+<header class="sf-site-header">
+    <a href="https://wisdomovergold.com/" aria-label="Wisdom Over Gold home">
+          <img src="https://assets.cdn.filesafe.space/Pie9yvZA1BYJnWPk99Yj/media/6a93302b03b6820c462386b9.jpg" alt="Wisdom Over Gold">
+  </a>
+</header>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Spectral:wght@600;700&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
 <style>
-  :root {
+  .sf-sales {
     --paper: #f5efdd;
     --paper-deep: #ece0c0;
     --ink: #2b2318;
@@ -23,9 +33,9 @@
     --callout-bg: #f0e6c9;
   }
 
-  * { box-sizing: border-box; }
+  .sf-sales * { box-sizing: border-box; }
 
-  html, body {
+  .sf-sales {
     margin: 0;
     padding: 0;
     background: var(--paper);
@@ -34,7 +44,7 @@
     overflow-x: hidden;
   }
 
-  h1, h2, h3 {
+  .sf-sales h1, .sf-sales h2, .sf-sales h3 {
     font-family: "Spectral", Georgia, serif;
     font-weight: 700;
     color: var(--ink);
@@ -42,15 +52,15 @@
     margin: 0;
   }
 
-  .wrap {
+  .sf-sales .wrap {
     max-width: 900px;
     margin: 0 auto;
     padding: 0 24px;
   }
 
-  p { line-height: 1.65; }
+  .sf-sales p { line-height: 1.65; }
 
-  .eyebrow {
+  .sf-sales .eyebrow {
     display: inline-block;
     font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
     font-size: 13px;
@@ -64,7 +74,7 @@
     margin-bottom: 18px;
   }
 
-  .cta-button {
+  .sf-sales .cta-button {
     display: inline-block;
     background: var(--gold);
     color: var(--paper);
@@ -80,26 +90,26 @@
     transition: background 0.2s ease, transform 0.2s ease;
   }
 
-  .cta-button:hover {
+  .sf-sales .cta-button:hover {
     background: var(--gold-bright);
     transform: translateY(-1px);
   }
 
-  .center { text-align: center; }
+  .sf-sales .center { text-align: center; }
 
   /* ---- hero ---- */
-  .hero {
+  .sf-sales .hero {
     padding: 60px 0 40px;
     text-align: center;
   }
 
-  .hero h1 {
+  .sf-sales .hero h1 {
     font-size: 42px;
     max-width: 18em;
     margin: 0 auto 18px;
   }
 
-  .hero .sub {
+  .sf-sales .hero .sub {
     font-size: 20px;
     color: var(--ink-soft);
     max-width: 38em;
@@ -107,11 +117,11 @@
   }
 
   /* ---- cover showcase (mid-page) ---- */
-  .cover-showcase {
+  .sf-sales .cover-showcase {
     text-align: center;
   }
 
-  .cover-showcase img {
+  .sf-sales .cover-showcase img {
     display: block;
     width: 100%;
     max-width: 300px;
@@ -121,42 +131,42 @@
   }
 
   /* ---- section shells ---- */
-  section {
+  .sf-sales section {
     padding: 48px 0;
     border-top: 1px solid var(--border);
   }
 
-  section h2 {
+  .sf-sales section h2 {
     font-size: 30px;
     text-align: center;
     margin-bottom: 30px;
   }
 
-  section h2.left { text-align: left; }
+  .sf-sales section h2.left { text-align: left; }
 
   /* ---- author story ---- */
-  .story p {
+  .sf-sales .story p {
     font-size: 17.5px;
     margin: 0 0 18px;
   }
 
-  .story p:last-child { margin-bottom: 0; }
+  .sf-sales .story p:last-child { margin-bottom: 0; }
 
-  .story .signoff {
+  .sf-sales .story .signoff {
     font-style: italic;
     color: var(--ink-soft);
     margin-top: 20px;
   }
 
   /* ---- problem list ---- */
-  .problem-list {
+  .sf-sales .problem-list {
     display: grid;
     gap: 14px;
     max-width: 640px;
     margin: 0 auto;
   }
 
-  .problem-item {
+  .sf-sales .problem-item {
     background: #fffdf5;
     border: 1px solid var(--border);
     border-radius: 8px;
@@ -167,27 +177,27 @@
     align-items: flex-start;
   }
 
-  .problem-item .mark {
+  .sf-sales .problem-item .mark {
     color: var(--gold);
     font-weight: 700;
     flex-shrink: 0;
   }
 
   /* ---- four pursuits ---- */
-  .pursuits {
+  .sf-sales .pursuits {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 18px;
   }
 
-  .pursuit-card {
+  .sf-sales .pursuit-card {
     background: var(--callout-bg);
     border-left: 3px solid var(--gold);
     border-radius: 6px;
     padding: 20px 18px;
   }
 
-  .pursuit-card .num {
+  .sf-sales .pursuit-card .num {
     font-family: ui-monospace, monospace;
     font-size: 12px;
     letter-spacing: 0.1em;
@@ -195,22 +205,22 @@
     margin-bottom: 6px;
   }
 
-  .pursuit-card h3 { font-size: 18px; margin-bottom: 6px; }
-  .pursuit-card p { font-size: 14.5px; color: var(--ink-soft); margin: 0; }
+  .sf-sales .pursuit-card h3 { font-size: 18px; margin-bottom: 6px; }
+  .sf-sales .pursuit-card p { font-size: 14.5px; color: var(--ink-soft); margin: 0; }
 
   /* ---- day structure ---- */
-  .day-structure {
+  .sf-sales .day-structure {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 14px;
   }
 
-  .day-step {
+  .sf-sales .day-step {
     text-align: center;
     padding: 18px 10px;
   }
 
-  .day-step .step-num {
+  .sf-sales .day-step .step-num {
     width: 34px;
     height: 34px;
     border-radius: 50%;
@@ -224,17 +234,17 @@
     margin: 0 auto 10px;
   }
 
-  .day-step h3 { font-size: 15.5px; margin-bottom: 4px; }
-  .day-step p { font-size: 13.5px; color: var(--ink-soft); margin: 0; }
+  .sf-sales .day-step h3 { font-size: 15.5px; margin-bottom: 4px; }
+  .sf-sales .day-step p { font-size: 13.5px; color: var(--ink-soft); margin: 0; }
 
   /* ---- testimonials ---- */
-  .testimonials {
+  .sf-sales .testimonials {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 18px;
   }
 
-  .testimonial-card {
+  .sf-sales .testimonial-card {
     background: #fffdf5;
     border: 1px dashed var(--border);
     border-radius: 8px;
@@ -243,7 +253,7 @@
     color: var(--ink-soft);
   }
 
-  .testimonial-card .placeholder-tag {
+  .sf-sales .testimonial-card .placeholder-tag {
     display: inline-block;
     font-family: ui-monospace, monospace;
     font-size: 11px;
@@ -254,7 +264,7 @@
   }
 
   /* ---- pricing / order ---- */
-  .order-box {
+  .sf-sales .order-box {
     background: #fffdf5;
     border: 1px solid var(--border);
     border-radius: 10px;
@@ -263,7 +273,7 @@
     box-shadow: 0 18px 40px -24px rgba(43, 35, 24, 0.3);
   }
 
-  .order-box .price {
+  .sf-sales .order-box .price {
     font-family: "Spectral", Georgia, serif;
     font-weight: 700;
     font-size: 46px;
@@ -271,13 +281,13 @@
     margin: 6px 0 4px;
   }
 
-  .order-box .price-sub {
+  .sf-sales .order-box .price-sub {
     color: var(--ink-soft);
     font-size: 15px;
     margin-bottom: 24px;
   }
 
-  .order-box ul {
+  .sf-sales .order-box ul {
     text-align: left;
     max-width: 380px;
     margin: 0 auto 26px;
@@ -285,15 +295,15 @@
     list-style: none;
   }
 
-  .order-box li {
+  .sf-sales .order-box li {
     padding: 8px 0;
     border-bottom: 1px solid var(--border);
     font-size: 15.5px;
   }
 
-  .order-box li:last-child { border-bottom: none; }
+  .sf-sales .order-box li:last-child { border-bottom: none; }
 
-  .order-box li::before {
+  .sf-sales .order-box li::before {
     content: "\2713";
     color: var(--gold);
     font-weight: 700;
@@ -301,7 +311,7 @@
   }
 
   /* ---- order bump ---- */
-  .order-bump {
+  .sf-sales .order-bump {
     max-width: 380px;
     margin: 0 auto 26px;
     text-align: left;
@@ -315,7 +325,7 @@
     cursor: pointer;
   }
 
-  .order-bump input[type="checkbox"] {
+  .sf-sales .order-bump input[type="checkbox"] {
     margin-top: 3px;
     width: 17px;
     height: 17px;
@@ -323,26 +333,26 @@
     flex-shrink: 0;
   }
 
-  .order-bump .bump-label {
+  .sf-sales .order-bump .bump-label {
     display: block;
     font-weight: 700;
     font-size: 15px;
   }
 
-  .order-bump .bump-desc {
+  .sf-sales .order-bump .bump-desc {
     display: block;
     font-size: 13.5px;
     color: var(--ink-soft);
     margin-top: 4px;
   }
 
-  .order-total {
+  .sf-sales .order-total {
     font-size: 14px;
     color: var(--ink-soft);
     margin-bottom: 16px;
   }
 
-  .order-total strong {
+  .sf-sales .order-total strong {
     color: var(--ink);
     font-size: 16px;
   }
@@ -353,13 +363,13 @@
     First product. Keeping a plain CTA here so the skeleton reads
     on its own before that's connected.
   */
-  .guarantee {
+  .sf-sales .guarantee {
     max-width: 640px;
     margin: 0 auto;
     text-align: center;
   }
 
-  .guarantee .badge {
+  .sf-sales .guarantee .badge {
     width: 64px;
     height: 64px;
     border-radius: 50%;
@@ -375,23 +385,23 @@
   }
 
   /* ---- faq ---- */
-  .faq-item {
+  .sf-sales .faq-item {
     max-width: 680px;
     margin: 0 auto 22px;
   }
 
-  .faq-item h3 {
+  .sf-sales .faq-item h3 {
     font-size: 17px;
     margin-bottom: 6px;
   }
 
-  .faq-item p {
+  .sf-sales .faq-item p {
     font-size: 15.5px;
     color: var(--ink-soft);
     margin: 0;
   }
 
-  footer {
+  .sf-sales footer {
     padding: 28px 0 48px;
     text-align: center;
     font-size: 13px;
@@ -400,52 +410,31 @@
   }
 
   @media (max-width: 860px) {
-    .hero h1 { font-size: 32px; }
-    .pursuits { grid-template-columns: 1fr 1fr; }
-    .day-structure { grid-template-columns: 1fr 1fr; }
-    .testimonials { grid-template-columns: 1fr; }
-    .order-box { padding: 28px 22px; }
+    .sf-sales .hero h1 { font-size: 32px; }
+    .sf-sales .pursuits { grid-template-columns: 1fr 1fr; }
+    .sf-sales .day-structure { grid-template-columns: 1fr 1fr; }
+    .sf-sales .testimonials { grid-template-columns: 1fr; }
+    .sf-sales .order-box { padding: 28px 22px; }
   }
 
   @media (max-width: 480px) {
-    .hero { padding: 40px 0 28px; }
-    .hero h1 { font-size: 26px; }
-    .hero .sub { font-size: 17px; }
-    section { padding: 36px 0; }
-    section h2 { font-size: 24px; }
-    .pursuits { grid-template-columns: 1fr; }
-    .day-structure { grid-template-columns: 1fr 1fr; }
-    .order-box .price { font-size: 36px; }
-  }
-
-  /* ---- site header ---- */
-  .sf-site-header {
-    background: var(--paper-deep);
-    border-bottom: 1px solid var(--border);
-    padding: 14px 24px;
-    text-align: center;
-  }
-
-  .sf-site-header img {
-    height: 48px;
-    width: 48px;
-    border-radius: 50%;
-    display: inline-block;
-    vertical-align: middle;
+    .sf-sales .hero { padding: 40px 0 28px; }
+    .sf-sales .hero h1 { font-size: 26px; }
+    .sf-sales .hero .sub { font-size: 17px; }
+    .sf-sales section { padding: 36px 0; }
+    .sf-sales section h2 { font-size: 24px; }
+    .sf-sales .pursuits { grid-template-columns: 1fr; }
+    .sf-sales .day-structure { grid-template-columns: 1fr 1fr; }
+    .sf-sales .order-box .price { font-size: 36px; }
   }
 </style>
-
-<header class="sf-site-header">
-  <a href="https://wisdomovergold.com/" aria-label="Wisdom Over Gold home">
-    <img src="https://assets.cdn.filesafe.space/Pie9yvZA1BYJnWPk99Yj/media/6a93302b03b6820c462386b9.jpg" alt="Wisdom Over Gold">
-  </a>
-</header>
+<div class="sf-sales">
 
 <div class="wrap hero">
   <span class="eyebrow">A 365-Day Devotional</span>
   <h1>Seek First: The Four Pursuits of the Modern Catholic Man</h1>
   <p class="sub">One devotion a day for men who want to lead their families, run their businesses, and keep their faith &mdash; without pretending any of it is easy.</p>
-  <a href="#order" class="cta-button">Get Seek First Today &rarr;</a>
+  <a href="#row-j6PVRc12o0" class="cta-button">Get Seek First Today &rarr;</a>
 </div>
 
 <section class="story">
@@ -553,30 +542,6 @@
   </div>
 </section>
 
-<section id="order" class="order-section">
-  <div class="wrap">
-    <h2>Get Seek First Today</h2>
-    <div class="order-box">
-      <div class="eyebrow">365 Days &middot; Digital</div>
-      <div class="price">$7</div>
-      <div class="price-sub">One-time purchase. No subscription.</div>
-      <ul>
-        <li>All 365 daily devotions &mdash; Piety, Protection, Provision, Posterity</li>
-        <li>Digital access (EPUB + PDF) delivered instantly</li>
-        <li>Access to the Seek First membership area</li>
-      </ul>
-      <label class="order-bump" for="audio-bump">
-        <input type="checkbox" id="audio-bump">
-        <span>
-          <span class="bump-label">Add the Audio Narration &mdash; +$9</span>
-          <span class="bump-desc">Every day, narrated in Paul's own voice. Listen on your commute instead of just reading.</span>
-        </span>
-      </label>
-      <a href="#" class="cta-button">[[Connect to GHL order form / payment]] &rarr;</a>
-    </div>
-  </div>
-</section>
-
 <section class="guarantee-section">
   <div class="wrap guarantee">
     <div class="badge">30<br>Day</div>
@@ -602,3 +567,4 @@
 <footer>
   <div class="wrap">&copy; 2026 PJM Digital Media Corp &middot; Seek First is a product of Wisdom Over Gold &middot; wisdomovergold.com</div>
 </footer>
+</div>
