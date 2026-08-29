@@ -233,6 +233,12 @@ Feedback on the first version: the logo (48px) looked low-resolution, was center
 
 This was done as a **real replace**, not another insert-on-top — `replace_header.js "<Step Name>"` reads the exact live content via CodeMirror `getValue()`, does a plain string `.replace(oldHeaderText, newHeaderText)` in Node (not in-browser), then writes it back with `setValue()`. `old-header-exact.txt` holds the byte-for-byte exact previous header markup (pulled from the synced `tools/funnel/*.html` files, including the extra indentation CodeMirror's auto-indent had added when it was first typed in) — the script aborts with nothing changed if that exact text isn't found, rather than guessing. This is meaningfully better than the insert-only approach `insert_header.js` used the first time; keep using this replace pattern (or `get_set_hero_block.js`/`get_set_left_col.js` directly) for any future header tweaks instead of layering more inserts on top.
 
+## Fixed excess whitespace above the left column's copy (done)
+
+The left column (headline + bullets + guarantee) was much shorter than the order form next to it, and its column had "Content Spacing: Center" — vertical centering, since the column's flex direction is "Vertical" — which put a large empty gap above the copy (roughly half the column's height) rather than starting at the top. `fix_column_spacing_final.js` sets it to "Content Spacing: Left" (the dropdown reuses horizontal-layout labels — "Left" here really means `justify-content: flex-start`, i.e. top, since the layout direction is vertical).
+
+**This dropdown is a real, native `<select id="dropdown-Content Spacing">` — coordinate-clicking its open option list does not work.** Confirmed: the dropdown visibly opens and "Left" is exactly where it looks like it should be, but clicking it leaves the select's value unchanged (still "Center") every time. Native `<select>` popups aren't part of the normal page rendering layer in headless Chromium, so mouse-coordinate clicks on their options are unreliable. The fix is Playwright's `locator.selectOption("flex-start")` directly — instant and reliable. Worth checking any other builder dropdown that *looks* custom-styled but might actually be a native select if coordinate-clicking its options silently no-ops.
+
 ## Sales page: removed dead mockup, fixed CTA anchor, simplified left column (done)
 
 Three related fixes, all via `get_set_hero_block.js` / `get_set_left_col.js`:
