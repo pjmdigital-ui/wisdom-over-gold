@@ -227,6 +227,12 @@ Everything above about `Control+A`/`Backspace`/`Control+C`/`insertText` not work
 
 This is also what finally closed the local/live drift gap: `get_set_hero_block.js get` against all three pages pulled their exact real content, which was copied straight into `tools/funnel/optin.html`, `sales.html`, and `thank-you.html` — so those files are now accurate again (scoped `.sf-{page}` wrapper classes and all). Keep using this to re-sync after any future direct-in-builder edit.
 
+## Shared site header — v2 (done)
+
+Feedback on the first version: the logo (48px) looked low-resolution, was centered, and its black background clashed against the header's tan (`--paper-deep`) background. Fixed by going black-on-black (header background `#000000`, matching the logo artwork's own black background so the circular crop edge disappears), sizing the logo up to 68px, and left-aligning it inside a `max-width: 1080px` inner wrapper (so it lines up with where page content starts, not flush against the viewport edge).
+
+This was done as a **real replace**, not another insert-on-top — `replace_header.js "<Step Name>"` reads the exact live content via CodeMirror `getValue()`, does a plain string `.replace(oldHeaderText, newHeaderText)` in Node (not in-browser), then writes it back with `setValue()`. `old-header-exact.txt` holds the byte-for-byte exact previous header markup (pulled from the synced `tools/funnel/*.html` files, including the extra indentation CodeMirror's auto-indent had added when it was first typed in) — the script aborts with nothing changed if that exact text isn't found, rather than guessing. This is meaningfully better than the insert-only approach `insert_header.js` used the first time; keep using this replace pattern (or `get_set_hero_block.js`/`get_set_left_col.js` directly) for any future header tweaks instead of layering more inserts on top.
+
 ## Sales page: removed dead mockup, fixed CTA anchor, simplified left column (done)
 
 Three related fixes, all via `get_set_hero_block.js` / `get_set_left_col.js`:
