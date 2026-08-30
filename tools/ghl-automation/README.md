@@ -247,6 +247,18 @@ Three related fixes, all via `get_set_hero_block.js` / `get_set_left_col.js`:
 - **Fixed the anchor.** The hero CTA now points to `href="#row-j6PVRc12o0"` — the real order-form row's actual DOM id (GHL auto-assigns ids like this to every row/column; find one by grepping a live-page curl for the content you want to jump to, e.g. `grep -o '<div id="row-[^"]*"[^>]*class="[^"]*c-row' page.html`).
 - **Simplified the left column.** Removed the book cover image (redundant with the order bump's own product image right next to it) and replaced it with copy: a "Yes Paul, I'm ready to get immediate access to this 365-day devotional" headline, the same benefit bullets as before, and the 30-day guarantee copy (reused from the `.guarantee-section` elsewhere on the page). Content lives in `left-col-content.html`.
 
+## Guarantee decal + footer moved after the order form (done)
+
+Two more follow-ups on the Sales page:
+
+- **Guarantee decal.** Added an inline SVG circular seal (concentric rings, curved "30-DAY MONEY-BACK GUARANTEE • RISK FREE •" text via `<textPath>`, "30 DAYS" centered) above the guarantee copy in the left column — see `left-col-content.html`. Built as inline SVG (not an uploaded image) specifically so it's crisp at any size and easy to re-edit as text/markup later, and colors are hardcoded hex (matching the rest of that block) rather than page-scoped CSS variables.
+- **Footer moved to the actual bottom of the page.** It used to be inside the hero's giant Custom Code block, which put it *before* the order-form row in the DOM — so it rendered above the two-column order section, not after it. Pulled it out (`get_set_hero_block.js` get → remove the `<footer>` block via a plain Python string edit → set back) and rebuilt it as its own new row placed after the order-form row (`add_footer_row.js`), so it's now the last thing on the page as expected. Content in `footer-content.html`.
+
+Two build notes from the footer-row work:
+
+- **Canvas clicks on a just-added "Custom HTML/Javascript" placeholder bar keep re-selecting its parent column instead of the element itself**, no matter where on the bar you click or whether it's a single or double click. The reliable way to select the *element* (not its column) is the Layers panel's own search box — search "Custom Code" and click the matching row directly. (The resulting `getByText(...).count()` can report a surprisingly large number — stray matches from tooltips, the "Element name" field, the on-canvas label tag — so don't trust that count as "number of Custom Code elements on the page"; trust the Layers panel's own "N matches" label instead, and just target `.last()` for "the one I just added.")
+- **The Layers tree's expand/collapse state is not something you can predict or count on being fresh** — GHL seems to sometimes auto-expand branches to reveal a just-added element, so a script that unconditionally clicks a node's expand arrow can end up *collapsing* an already-expanded branch instead. Prefer the search box over manually walking Page → Section → Row → Column when you just need to find one specific element by name.
+
 ## What's still manual / not done here
 
 - **Real audio-bump fulfillment**: once Paul records the narration in ElevenLabs, the resulting audio file(s) need uploading to Media Storage and a real delivery mechanism — automatic would require the product-detection gap above to close (or a manual/semi-manual process: check Payments → Transactions for who bought the bump, send audio by hand).
@@ -254,6 +266,6 @@ Three related fixes, all via `get_set_hero_block.js` / `get_set_left_col.js`:
 
 (The local/live drift on the three funnel pages that used to be listed here is resolved — see "Direct CodeMirror access" above. `tools/funnel/*.html` now match what's actually live, pulled via `get_set_hero_block.js get`.)
 
-Done: cover image (uploaded to GHL Media Library, wired into opt-in + sales), custom domain (wisdomovergold.com, connected and publishing correctly), pricing copy ($7 book / $9 audio bump), 30-day guarantee copy, copyright year, opt-in form + free-sample PDF delivery, opt-in → sales (not thank-you) redirect, generic thank-you confirmation page, full e-book (EPUB + PDF) delivered automatically by email on every real purchase, two-column order section on the Sales page (copy + bullets + guarantee left, order form right), shared logo header across all three pages, dead order-form mockup removed, hero CTA correctly anchors to the real order form.
+Done: cover image (uploaded to GHL Media Library, wired into opt-in + sales), custom domain (wisdomovergold.com, connected and publishing correctly), pricing copy ($7 book / $9 audio bump), 30-day guarantee copy + SVG guarantee decal, copyright year, opt-in form + free-sample PDF delivery, opt-in → sales (not thank-you) redirect, generic thank-you confirmation page, full e-book (EPUB + PDF) delivered automatically by email on every real purchase, two-column order section on the Sales page (copy + bullets + guarantee left, order form right), shared logo header across all three pages, dead order-form mockup removed, hero CTA correctly anchors to the real order form, page footer moved to actually be last (after the order form, not before it).
 
 See `../funnel/README.md` for the fuller picture of what's placeholder vs. real on these pages.

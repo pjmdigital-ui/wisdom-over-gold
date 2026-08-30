@@ -67,7 +67,7 @@ if (!MODE || !FILE_ARG) {
   await page.mouse.wheel(0, orderBox.y - 800);
   await page.waitForTimeout(1000);
   await page.screenshot({ path: "screenshots/gslc-pre-click.png", fullPage: true });
-  await page.mouse.click(430, 1109);
+  await page.mouse.click(430, 311);
   await page.waitForTimeout(1500);
   await page.screenshot({ path: "screenshots/gslc-00-selected.png", fullPage: false });
 
