@@ -1,5 +1,11 @@
 // Updates the Opt-in form's "On Submit -> Redirect to URL" target.
 // Usage: node update_form_redirect.js <new-url>
+//
+// Uses text/attribute-based frame locators (not blind coordinates) to
+// find the Settings tab and the URL field — coordinate clicks in this
+// builder have drifted between sessions before and once silently
+// overwrote a live field's label instead of the redirect URL. See
+// README "Pausing the sale..." section for the incident.
 const { chromium } = require("playwright-core");
 const path = require("path");
 const os = require("os");
@@ -31,17 +37,29 @@ if (!NEW_URL) {
   );
   await page.waitForTimeout(9000);
 
-  await page.mouse.click(585, 75); // "Settings" tab (coordinate, per screenshot)
+  const frame = page.frames().find((f) => f.url().includes("leadgen-apps-form-survey-builder"));
+  if (!frame) throw new Error("form-builder iframe not found");
+
+  const settingsTab = frame.getByText("Settings", { exact: true }).first();
+  await settingsTab.click({ timeout: 10000 });
   await page.waitForTimeout(2000);
 
-  await page.mouse.click(719, 291); // Redirect URL field
+  const urlInput = frame.locator('input[value*="wisdomovergold.com"]').first();
+  const beforeVal = await urlInput.inputValue();
+  console.log("BEFORE value:", beforeVal);
+
+  await urlInput.click();
   await page.keyboard.press("Control+A");
-  await page.keyboard.type(NEW_URL);
+  await page.keyboard.type(NEW_URL, { delay: 15 });
   await page.waitForTimeout(500);
+
+  const afterVal = await urlInput.inputValue();
+  console.log("AFTER value:", afterVal);
   await page.screenshot({ path: "screenshots/ufr-02-url-filled.png", fullPage: true });
 
-  await page.mouse.click(1381, 25); // Save button (coordinate)
-  await page.waitForTimeout(2500);
+  const saveBtn = frame.getByRole("button", { name: /^save$/i }).first();
+  await saveBtn.click({ timeout: 10000 });
+  await page.waitForTimeout(3000);
   await page.screenshot({ path: "screenshots/ufr-03-saved.png", fullPage: true });
 
   await context.close();
