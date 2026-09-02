@@ -1,14 +1,14 @@
-// Reads or writes a funnel step's FIRST Custom HTML/Javascript block's
-// content directly through its CodeMirror instance
-// (document.querySelector(".CodeMirror").CodeMirror.getValue()/.setValue()),
-// bypassing keyboard simulation entirely. This is the reliable way to
-// edit existing content in this editor — see README "Direct CodeMirror
-// access" for why the keyboard-based approach doesn't work for
-// edits/deletions inside existing content.
+// Like get_set_hero_block.js, but targets the Nth "Custom HTML/Javascript"
+// block on a step (0-based, in top-to-bottom canvas order) instead of
+// always the first. Use list_code_blocks.js first to confirm which
+// index holds the content you actually want to touch — some steps
+// (Opt-In, Sales) have more than one Custom Code block now (hero row +
+// a separate whats-inside/footer row), and mistargeting one has
+// corrupted a different block's content before (see README).
 //
 // Usage:
-//   node get_set_hero_block.js get "<Step Name>" <output-file>
-//   node get_set_hero_block.js set "<Step Name>" <input-file>
+//   node get_set_nth_code_block.js get "<Step Name>" <index> <output-file>
+//   node get_set_nth_code_block.js set "<Step Name>" <index> <input-file>
 const { chromium } = require("playwright-core");
 const path = require("path");
 const os = require("os");
@@ -19,12 +19,13 @@ const CHROME_PATH = "/opt/pw-browsers/chromium-1194/chrome-linux/chrome";
 const LOCATION_ID = "Pie9yvZA1BYJnWPk99Yj";
 const FUNNEL_ID = "jhYyaoVGGGAsks0EcrQf";
 
-const MODE = process.argv[2]; // "get" or "set"
+const MODE = process.argv[2];
 const STEP_NAME = process.argv[3];
-const FILE_ARG = process.argv[4];
+const INDEX = parseInt(process.argv[4], 10);
+const FILE_ARG = process.argv[5];
 
-if (!MODE || !STEP_NAME || !FILE_ARG) {
-  console.error('Usage: node get_set_hero_block.js get|set "<Step Name>" <file>');
+if (!MODE || !STEP_NAME || Number.isNaN(INDEX) || !FILE_ARG) {
+  console.error('Usage: node get_set_nth_code_block.js get|set "<Step Name>" <index> <file>');
   process.exit(1);
 }
 
@@ -61,20 +62,30 @@ if (!MODE || !STEP_NAME || !FILE_ARG) {
   await page.waitForTimeout(40000);
 
   const builderFrame = page.frameLocator('iframe[src*="page-builder.leadconnectorhq.com"]').first();
-  const block = builderFrame.getByText("Custom HTML/Javascript", { exact: false }).first();
-  await block.click({ timeout: 15000, force: true });
-  await page.waitForTimeout(2000);
+  const realFrame = page.frames().find((f) => f.url().includes("page-builder.leadconnectorhq.com"));
+
+  const blocks = builderFrame.getByText("Custom HTML/Javascript", { exact: false });
+  const blockCount = await blocks.count();
+  console.log("BLOCK_COUNT=" + blockCount);
+  if (INDEX >= blockCount) {
+    console.error(`SAFETY ABORT: index ${INDEX} out of range (only ${blockCount} blocks)`);
+    await context.close();
+    process.exit(1);
+  }
+
+  await blocks.nth(INDEX).click({ timeout: 15000, force: true });
+  await page.waitForTimeout(1500);
 
   const openEditorBtn = builderFrame.getByText("Open Code Editor", { exact: true }).first();
   await openEditorBtn.click({ timeout: 15000, force: true });
   await page.waitForTimeout(4000);
 
-  const realFrame = page.frames().find((f) => f.url().includes("page-builder.leadconnectorhq.com"));
+  const before = await realFrame.evaluate(() => document.querySelector(".CodeMirror").CodeMirror.getValue());
+  console.log("BEFORE: length=" + before.length);
 
   if (MODE === "get") {
-    const value = await realFrame.evaluate(() => document.querySelector(".CodeMirror").CodeMirror.getValue());
-    fs.writeFileSync(FILE_ARG, value, "utf8");
-    console.log("WROTE " + value.length + " chars to " + FILE_ARG);
+    fs.writeFileSync(FILE_ARG, before, "utf8");
+    console.log("WROTE " + before.length + " chars to " + FILE_ARG);
   } else if (MODE === "set") {
     const newContent = fs.readFileSync(FILE_ARG, "utf8");
     const result = await realFrame.evaluate((content) => {
@@ -84,24 +95,20 @@ if (!MODE || !STEP_NAME || !FILE_ARG) {
     }, newContent);
     console.log("SET content, new length in editor=" + result + " (source file length=" + newContent.length + ")");
     await page.waitForTimeout(1000);
-    await page.screenshot({ path: "screenshots/gsh-after-set.png", fullPage: true });
 
     const saveModalBtn = builderFrame.getByRole("button", { name: /^save$/i }).first();
     await saveModalBtn.click({ timeout: 15000 });
     await page.waitForTimeout(2500);
 
     await page.mouse.click(1305, 25); // page-level save
-    // generous wait -- a 4s wait here previously let the browser close
-    // mid-save, silently dropping the edit even though this script's own
-    // console output reported success (see README, "Pausing the sale...").
     await page.waitForTimeout(12000);
-    await page.screenshot({ path: "screenshots/gsh-page-saved.png", fullPage: true });
+    await page.screenshot({ path: "screenshots/gsnb-page-saved.png", fullPage: true });
   } else {
     console.error("MODE must be 'get' or 'set'");
   }
 
   await context.close();
 })().catch((err) => {
-  console.error("GET_SET_HERO_BLOCK_ERROR", err);
+  console.error("GET_SET_NTH_CODE_BLOCK_ERROR", err);
   process.exit(1);
 });
