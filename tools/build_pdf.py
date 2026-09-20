@@ -176,6 +176,10 @@ p {{
     text-align: center;
     margin: 0 0 0.35in;
 }}
+.toc-page a {{
+    color: inherit;
+    text-decoration: none;
+}}
 .toc-page .toc-part {{
     font-weight: 700;
     color: #93691f;
@@ -188,6 +192,10 @@ p {{
     font-size: 9.5pt;
     margin: 0 0 0.03in 0.18in;
     color: #2b2318;
+}}
+.toc-page .toc-part a::after,
+.toc-page .toc-month a::after {{
+    content: leader(".") target-counter(attr(href), page);
 }}
 
 /* ---------- Quarter / month dividers ---------- */
@@ -268,9 +276,18 @@ p {{
 """
 
 
-def divider_html(kicker, title, subtitle=""):
+def part_anchor(qfolder):
+    return f"toc-{qfolder}"
+
+
+def month_anchor(qfolder, mfolder):
+    return f"toc-{qfolder}-{mfolder}"
+
+
+def divider_html(kicker, title, subtitle="", anchor=None):
     sub = f'<p class="divider-sub">{subtitle}</p>' if subtitle else ""
-    return f"""<div class="divider-page">
+    anchor_attr = f' id="{anchor}"' if anchor else ""
+    return f"""<div class="divider-page"{anchor_attr}>
 <p class="divider-kicker">{kicker}</p>
 <p class="divider-title">{title}</p>
 {sub}
@@ -279,10 +296,15 @@ def divider_html(kicker, title, subtitle=""):
 
 def build_toc_html():
     rows = []
-    for _, part_label, part_title, months in be.QUARTERS:
-        rows.append(f'<p class="toc-part">{part_label}: {part_title}</p>')
-        for _, month_name, month_theme in months:
-            rows.append(f'<p class="toc-month">{month_name} &mdash; {month_theme}</p>')
+    for qfolder, part_label, part_title, months in be.QUARTERS:
+        rows.append(
+            f'<p class="toc-part"><a href="#{part_anchor(qfolder)}">{part_label}: {part_title}</a></p>'
+        )
+        for mfolder, month_name, month_theme in months:
+            rows.append(
+                f'<p class="toc-month"><a href="#{month_anchor(qfolder, mfolder)}">'
+                f'{month_name} &mdash; {month_theme}</a></p>'
+            )
     return f"""<div class="front toc-page">
 <h2>Contents</h2>
 {''.join(rows)}
@@ -335,9 +357,12 @@ def main():
 
     # ---- Quarters / months / days ----
     for qfolder, part_label, part_title, months in be.QUARTERS:
-        parts.append(divider_html(part_label, part_title.upper()))
+        parts.append(divider_html(part_label, part_title.upper(), anchor=part_anchor(qfolder)))
         for mfolder, month_name, month_theme in months:
-            parts.append(divider_html(part_title, month_name.upper(), month_theme))
+            parts.append(divider_html(
+                part_title, month_name.upper(), month_theme,
+                anchor=month_anchor(qfolder, mfolder),
+            ))
             day_dir = os.path.join(be.MANUSCRIPT, qfolder, mfolder)
             day_files = sorted(f for f in os.listdir(day_dir) if re.match(r"day-\d\d\.md$", f))
             for dfname in day_files:
