@@ -99,6 +99,16 @@ Comment "Amen" if this hit home, and send it to a man who needs to hear it today
 
 ---
 
+## No One Will Know
+
+*(`instagram-post-no-one-will-know.html`)*
+
+You think it doesn't cost you anything if no one else ever finds out — the corner cut when you're tired, the number shaded in your favor because nobody's checking. But nothing you do in the dark is hidden from God; He already sees it, right now, not eventually. Integrity isn't what holds up in a room full of witnesses. It's who you are in the room with no windows. Be honest there first, and everything else follows.
+
+Comment "Amen" if this hit home, and send it to a man who needs to hear it today.
+
+---
+
 ## The Moving Number
 
 *(`instagram-post-the-moving-number.html`)*
