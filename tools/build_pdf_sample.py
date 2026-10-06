@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
-"""Build the free "First 7 Days" sample PDF for the opt-in funnel lead
-magnet, from the citation-only manuscript source.
+"""Build the free "First 4 Weeks" sample PDF for the opt-in funnel lead
+magnet, from the 52-week manuscript source.
 
 Requires: pip install weasyprint markdown --break-system-packages
 Run from anywhere: python3 tools/build_pdf_sample.py
-Writes to: build/Seek First - First 7 Days Sample.pdf (gitignored).
+Writes to: build/Seek First - First 4 Weeks Sample.pdf (gitignored).
 
 Reuses the same parsing/CSS approach as build_pdf.py (the full retail
-PDF), just scoped to the Introduction + January Days 1-7, plus a closing
-CTA page pointing back at the funnel's sales page.
+PDF), just scoped to the Introduction + Part One, Weeks 1-4, plus a
+closing CTA page pointing back at the funnel's sales page.
 """
 import os
 import re
@@ -20,7 +20,8 @@ import build_pdf as bp  # noqa: E402
 
 from weasyprint import HTML  # noqa: E402
 
-OUT_PATH = os.path.join(be.REPO, "build", "Seek First - First 7 Days Sample.pdf")
+OUT_PATH = os.path.join(be.REPO, "build", "Seek First - First 4 Weeks Sample.pdf")
+SAMPLE_WEEKS = range(1, 5)
 
 CTA_CSS = """
 .cta-page {
@@ -72,10 +73,10 @@ def main():
     parts.append("""<div class="front titlepage">
 <h1>SEEK FIRST</h1>
 <p class="subtitle">The Four Pursuits of the Modern Catholic Man</p>
-<p class="pursuits">FREE SAMPLE &nbsp;&middot;&nbsp; THE FIRST 7 DAYS</p>
+<p class="pursuits">FREE SAMPLE &nbsp;&middot;&nbsp; THE FIRST 4 WEEKS</p>
 <p class="verse">&ldquo;But seek first his kingdom and his righteousness, and all these things shall be yours as well.&rdquo;<br/>Matthew 6:33</p>
 <p class="author">PAUL MASCETTA</p>
-<p class="tagline">Husband. Father. Disciple. Every day.</p>
+<p class="tagline">Husband. Father. Disciple. Every week.</p>
 </div>""")
 
     # ---- Copyright / permissions page (shortened) ----
@@ -83,7 +84,7 @@ def main():
 <p>Seek First: The Four Pursuits of the Modern Catholic Man &mdash; Free Sample</p>
 <p>Copyright &copy; 2026 PJM Digital Media Corp</p>
 <p>Published by Wisdom Over Gold &middot; wisdomovergold.com</p>
-<p>This sample contains the Introduction and the first seven days of the full 365-day devotional. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author, except in the case of brief quotations embodied in critical reviews.</p>
+<p>This sample contains the Introduction and the first four weeks of the full 52-week devotional. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author, except in the case of brief quotations embodied in critical reviews.</p>
 </div>""")
 
     # ---- Introduction ----
@@ -92,35 +93,25 @@ def main():
     html_body = be.md_to_html(raw)
     parts.append(f'<div class="fm-chapter"><h1>Introduction</h1>{html_body}</div>')
 
-    # ---- January divider + Days 1-7 ----
-    q1 = be.QUARTERS[0]
-    qfolder, part_label, part_title, months = q1
-    jan = months[0]
-    mfolder, month_name, month_theme = jan
-
+    # ---- Part One divider + Weeks 1-4 ----
+    qfolder, part_label, part_title, week_range = be.PARTS[0]
     parts.append(bp.divider_html(part_label, part_title.upper()))
-    parts.append(bp.divider_html(part_title, month_name.upper(), month_theme))
 
-    day_dir = os.path.join(be.MANUSCRIPT, qfolder, mfolder)
-    day_files = sorted(f for f in os.listdir(day_dir) if re.match(r"day-0[1-7]\.md$", f))
-    for dfname in day_files:
-        raw = be.read_md(os.path.join(day_dir, dfname))
-        m = re.match(r"^# (.+)\n", raw)
-        day_title = m.group(1) if m else dfname
+    for week_num in SAMPLE_WEEKS:
+        raw = be.read_md(os.path.join(be.MANUSCRIPT, qfolder, f"week-{week_num:02d}.md"))
+        m = re.match(r"^# Week \d+ — (.+)\n", raw)
+        week_title = m.group(1) if m else f"Week {week_num}"
         body = raw[m.end():] if m else raw
-        body, footer_lines = be.split_citation_footer(body)
-        html_body = be.md_to_html(body)
-        ref_html = ""
-        if footer_lines:
-            ref_text = " &middot; ".join(be.title_case_ref(l) for l in footer_lines)
-            ref_html = f'<p class="scripture-ref">{ref_text}</p>'
-        parts.append(f'<div class="day"><h2 class="day-title">{day_title}</h2>{html_body}{ref_html}</div>')
+        html_body = be.build_week_html(body)
+        parts.append(
+            f'<div class="week"><h2 class="week-title">Week {week_num} &mdash; {week_title}</h2>{html_body}</div>'
+        )
 
     # ---- Closing CTA ----
     parts.append("""<div class="cta-page">
-<p class="kicker">That's Day 7</p>
-<h2>358 Days Still Waiting For You</h2>
-<p>The rest of the year keeps going where this sample stopped &mdash; Protection, Provision, and Posterity are still ahead. Get the full 365-day devotional today.</p>
+<p class="kicker">That's Week 4</p>
+<h2>48 Weeks Still Waiting For You</h2>
+<p>The rest of the year keeps going where this sample stopped &mdash; Protection, Provision, and Posterity are still ahead. Get the full 52-week devotional today.</p>
 <p class="link">wisdomovergold.com</p>
 </div>""")
 
