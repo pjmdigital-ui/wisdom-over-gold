@@ -33,25 +33,30 @@ async function launchContext() {
 }
 
 async function clickAppendPlus(page, frame) {
-  // The canvas can have multiple "END" nodes while a branch exists, but
-  // this workflow is a single straight line, so there is exactly one.
-  // As the chain has grown, the workflow canvas sometimes takes longer
-  // than the initial post-goto wait to finish rendering -- retry with a
-  // fresh reload rather than failing the whole batch on one slow load.
+  // The canvas always opens scrolled to the TOP (the trigger node), and
+  // as the chain has grown past week 4 or so, the END node is well
+  // below the viewport. This canvas pans with the mouse wheel (it's a
+  // React-Flow-style canvas, not a normal scrollable div), so "END"
+  // literally isn't in the DOM until panned into view -- a locator
+  // wait or a reload alone won't surface it. Pan down step by step,
+  // re-checking after each step, until it appears.
   const endNode = frame.getByText("END", { exact: true }).first();
-  let box = null;
-  for (let attempt = 0; attempt < 3 && !box; attempt++) {
-    try {
-      await endNode.scrollIntoViewIfNeeded({ timeout: 20000 });
-      box = await endNode.boundingBox();
-    } catch (err) {
-      console.log(`END_NOT_READY attempt=${attempt} retrying with reload`);
-      await page.waitForTimeout(5000);
-      await page.reload({ waitUntil: "domcontentloaded", timeout: 60000 });
-      await page.waitForTimeout(16000);
+  let found = false;
+  for (let i = 0; i < 40; i++) {
+    const count = await endNode.count();
+    if (count > 0) {
+      found = true;
+      break;
     }
+    await page.mouse.move(700, 900);
+    await page.mouse.wheel(0, 800);
+    await page.waitForTimeout(500);
   }
-  if (!box) throw new Error("Could not find END node bounding box after retries");
+  if (!found) throw new Error("Could not pan END node into view");
+
+  await endNode.scrollIntoViewIfNeeded({ timeout: 20000 });
+  const box = await endNode.boundingBox();
+  if (!box) throw new Error("Could not find END node bounding box");
   const plusX = box.x + box.width / 2;
   const plusY = box.y - 62;
   await page.mouse.click(plusX, plusY);
