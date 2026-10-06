@@ -8,4 +8,5 @@ build/instagram/
 build/audio-script/
 build/*.zip
 build/*.txt
+build/newsletter-emails/
 node_modules/
