@@ -54,10 +54,13 @@ BODY_PARAGRAPHS = [
     ("Thanks for subscribing &mdash; you're officially on the list.", P_STYLE),
     (
         "Sunday nights used to get to me. When I had a job, it was just the usual "
-        "Sunday-night blues. But once I became self-employed, it turned into "
-        "something closer to anxiety &mdash; that nervousness knowing Monday was "
-        "coming. The bills start again. The world comes back to life. "
-        "Responsibility kicks back in.",
+        "Sunday-night blues.",
+        P_STYLE,
+    ),
+    (
+        "But once I became self-employed, it turned into something closer to "
+        "anxiety &mdash; that nervousness knowing Monday was coming. The bills "
+        "start again. The world comes back to life. Responsibility kicks back in.",
         P_STYLE,
     ),
     (
