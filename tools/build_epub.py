@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build the retail EPUB from the manuscript source.
+"""Build the retail EPUB from the 52-week manuscript source.
 
 Requires: pip install ebooklib markdown
 Run from anywhere: python3 tools/build_epub.py
@@ -14,8 +14,9 @@ import markdown as md
 from ebooklib import epub
 
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-MANUSCRIPT = os.path.join(REPO, "manuscript-citation-only")
+MANUSCRIPT = os.path.join(REPO, "manuscript-52-week")
 FRONT = os.path.join(MANUSCRIPT, "00-front-matter")
+BACK = os.path.join(MANUSCRIPT, "90-back-matter")
 COVER_PATH = os.path.join(REPO, "manuscript", "Seek First Cover.png")
 OUT_PATH = os.path.join(REPO, "build", "Seek First - Paul Mascetta.epub")
 FONT_DIR = os.path.join(REPO, "tools", "fonts")
@@ -30,27 +31,14 @@ FONTS = [
     ("Spectral-Bold.ttf", "Spectral", "700", "normal"),
 ]
 
-QUARTERS = [
-    ("q1-pursuit-of-piety", "Part One", "The Pursuit of Piety", [
-        ("01-january-god-first", "January", "God First"),
-        ("02-february-sacrifice-and-struggle", "February", "Sacrifice & Struggle"),
-        ("03-march-faith-under-doubt", "March", "Faith Under Doubt"),
-    ]),
-    ("q2-pursuit-of-protection", "Part Two", "The Pursuit of Protection", [
-        ("04-april-integrity-and-character", "April", "Integrity & Character"),
-        ("05-may-patience-and-anger-management", "May", "Patience & Anger Management"),
-        ("06-june-friendship-and-brotherhood", "June", "Friendship & Brotherhood"),
-    ]),
-    ("q3-pursuit-of-provision", "Part Three", "The Pursuit of Provision", [
-        ("07-july-work-and-vocation", "July", "Work & Vocation"),
-        ("08-august-personal-finance-and-stewardship", "August", "Personal Finance & Stewardship"),
-        ("09-september-leading-the-household", "September", "Leading the Household"),
-    ]),
-    ("q4-pursuit-of-posterity", "Part Four", "The Pursuit of Posterity", [
-        ("10-october-marriage-and-love", "October", "Marriage & Love"),
-        ("11-november-fatherhood-fundamentals", "November", "Fatherhood Fundamentals"),
-        ("12-december-hope-and-presence", "December", "Hope & Presence"),
-    ]),
+# Four parts, 13 weeks each (52 total). Week files live at
+# manuscript-52-week/<qfolder>/week-NN.md, each starting with its own
+# "# Week N — Title" line.
+PARTS = [
+    ("q1-pursuit-of-piety", "Part One", "The Pursuit of Piety", range(1, 14)),
+    ("q2-pursuit-of-protection", "Part Two", "The Pursuit of Protection", range(14, 27)),
+    ("q3-pursuit-of-provision", "Part Three", "The Pursuit of Provision", range(27, 40)),
+    ("q4-pursuit-of-posterity", "Part Four", "The Pursuit of Posterity", range(40, 53)),
 ]
 
 FONT_FACES = "\n".join(
@@ -106,14 +94,7 @@ h1, h2, h3 {{
     margin: 0.2em 0;
 }}
 
-.divider-sub {{
-    font-size: 1.1em;
-    font-style: italic;
-    margin-top: 0.4em;
-    color: #6b5c42;
-}}
-
-.day-title {{
+.week-title {{
     font-family: "Spectral", Georgia, serif;
     font-weight: 600;
     font-style: italic;
@@ -135,6 +116,12 @@ p {{
     border-left: 3px solid #93691f;
     background: #ece0c0;
 }}
+
+.today-step p, .prayer-block p {{
+    margin: 0 0 0.8em 0;
+    text-align: left;
+}}
+.today-step p:last-child, .prayer-block p:last-child {{ margin-bottom: 0; }}
 
 .prayer-block {{
     border-left-color: #b3822a;
@@ -207,24 +194,7 @@ p {{
 
 
 def md_to_html(text):
-    body = md.markdown(text.strip(), extensions=["extra"])
-    # style the fixed-format callout lines
-    body = re.sub(
-        r"<p><strong>On ([^:]+):</strong>",
-        r'<p class="saint-callout"><strong>On \1:</strong>',
-        body,
-    )
-    body = re.sub(
-        r"<p><strong>Today:</strong>",
-        r'<p class="today-step"><strong>Today:</strong>',
-        body,
-    )
-    body = re.sub(
-        r"<p><strong>Prayer:</strong>",
-        r'<p class="prayer-block"><strong>Prayer:</strong>',
-        body,
-    )
-    return body
+    return md.markdown(text.strip(), extensions=["extra"])
 
 
 def read_md(path):
@@ -245,10 +215,10 @@ def title_case_ref(line):
 
 
 def split_citation_footer(raw):
-    """Citation-only day files end with one or more bare, ALL-CAPS verse
-    reference lines (e.g. MATTHEW 6:33). Pull those off so they can be
-    rendered as a small styled reference line instead of a shouting
-    paragraph in the middle of the prose."""
+    """Week files end with one or more bare, ALL-CAPS verse reference
+    lines (e.g. MATTHEW 6:33). Pull those off so they can be rendered as
+    a small styled reference line instead of a shouting paragraph in the
+    middle of the prose."""
     paras = re.split(r"\n\s*\n", raw.strip())
     footer_lines = []
     while paras and paras[-1].strip() and not re.search(r"[a-z]", paras[-1]):
@@ -257,6 +227,47 @@ def split_citation_footer(raw):
         footer_lines = lines + footer_lines
     body = "\n\n".join(paras)
     return body, footer_lines
+
+
+def split_week_sections(raw):
+    """A week's body is: main reflection, then a "### This Week" section
+    (one or more paragraphs of practical application), then a
+    "### Prayer" section (the closing prayer). Split on those headings
+    so each piece can get its own styled callout box."""
+    parts = re.split(r"(?m)^### This Week\s*$", raw, maxsplit=1)
+    main = parts[0]
+    rest = parts[1] if len(parts) > 1 else ""
+    parts2 = re.split(r"(?m)^### Prayer\s*$", rest, maxsplit=1)
+    this_week = parts2[0]
+    prayer = parts2[1] if len(parts2) > 1 else ""
+    return main.strip(), this_week.strip(), prayer.strip()
+
+
+def wrap_labeled_section(raw_text, label, css_class):
+    """Render a (possibly multi-paragraph) section as a styled callout
+    box whose first paragraph opens with a bold label, matching the
+    visual treatment the old day-by-day book used for its single-line
+    "Today:"/"Prayer:" callouts."""
+    if not raw_text:
+        return ""
+    paras = raw_text.split("\n\n", 1)
+    first = f"**{label}:** {paras[0]}"
+    combined = first + ("\n\n" + paras[1] if len(paras) > 1 else "")
+    return f'<div class="{css_class}">{md_to_html(combined)}</div>'
+
+
+def build_week_html(raw_body):
+    """Full HTML for one week's body: main reflection + This Week callout
+    + Prayer callout + scripture reference line."""
+    body, footer_lines = split_citation_footer(raw_body)
+    main, this_week, prayer = split_week_sections(body)
+    html_body = md_to_html(main)
+    html_body += wrap_labeled_section(this_week, "This Week", "today-step")
+    html_body += wrap_labeled_section(prayer, "Prayer", "prayer-block")
+    if footer_lines:
+        ref_text = " &middot; ".join(title_case_ref(l) for l in footer_lines)
+        html_body += f'<p class="scripture-ref">{ref_text}</p>'
+    return html_body
 
 
 def make_chapter(uid, title, html_body, filename):
@@ -280,7 +291,7 @@ def main():
     book.set_title("Seek First: The Four Pursuits of the Modern Catholic Man")
     book.set_language("en")
     book.add_author("Paul Mascetta")
-    book.add_metadata("DC", "description", "A 365-day devotional for Catholic fathers and family men, built around four pursuits: Piety, Protection, Provision, and Posterity.")
+    book.add_metadata("DC", "description", "A 52-week devotional for Catholic fathers and family men, built around four pursuits: Piety, Protection, Provision, and Posterity.")
     book.add_metadata("DC", "subject", "Religion & Spirituality / Christian Living")
     book.add_metadata("DC", "rights", "Copyright (c) PJM Digital Media Corp. All rights reserved.")
     book.add_metadata("DC", "publisher", "Wisdom Over Gold")
@@ -328,7 +339,7 @@ def main():
 <p class="pursuits">THE PURSUIT OF PIETY &nbsp;&middot;&nbsp; THE PURSUIT OF PROTECTION &nbsp;&middot;&nbsp; THE PURSUIT OF PROVISION &nbsp;&middot;&nbsp; THE PURSUIT OF POSTERITY</p>
 <p class="verse">&ldquo;But seek first his kingdom and his righteousness, and all these things shall be yours as well.&rdquo;<br/>Matthew 6:33, RSV-CE</p>
 <p class="author">PAUL MASCETTA</p>
-<p class="tagline">Husband. Father. Disciple. Every day.</p>
+<p class="tagline">Husband. Father. Disciple. Every week.</p>
 </div>"""
     add_chapter("Title Page", title_html, in_toc=False)
 
@@ -341,7 +352,7 @@ def main():
 <p>Published by Wisdom Over Gold &middot; wisdomovergold.com</p>
 <p>All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the author, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.</p>
 {scripture_notice_html}
-<p>This is a work of nonfiction. Except where the author explicitly identifies an account as his own true story (most notably in the Introduction), the real-world scenarios that open each daily entry are illustrative composites and do not depict specific, identifiable individuals or events.</p>
+<p>This is a work of nonfiction. Except where the author explicitly identifies an account as his own true story (most notably in the Introduction), the real-world scenarios that open each weekly entry are illustrative composites and do not depict specific, identifiable individuals or events.</p>
 </div>"""
     add_chapter("Copyright", copyright_html, in_toc=False)
 
@@ -358,36 +369,35 @@ def main():
         html_body = f"<h1>{nice_title}</h1>" + md_to_html(raw)
         add_chapter(nice_title, html_body)
 
-    # ---- Quarters / Months / Days ----
+    # ---- Parts / Weeks ----
     nested_toc = []
-    for qfolder, part_label, part_title, months in QUARTERS:
+    for qfolder, part_label, part_title, week_range in PARTS:
         qdiv_html = divider_html(part_label, part_title.upper())
         qchap = add_chapter(f"{part_label}: {part_title}", qdiv_html, in_toc=False)
-        month_links = []
-        for mfolder, month_name, month_theme in months:
-            mdiv_html = divider_html(part_title, month_name.upper(), month_theme)
-            mchap = add_chapter(f"{month_name} — {month_theme}", mdiv_html, in_toc=False)
-            day_dir = os.path.join(MANUSCRIPT, qfolder, mfolder)
-            day_files = sorted(
-                f for f in os.listdir(day_dir) if re.match(r"day-\d\d\.md$", f)
-            )
-            day_chaps = []
-            for dfname in day_files:
-                raw = read_md(os.path.join(day_dir, dfname))
-                first_line_match = re.match(r"^# (.+)\n", raw)
-                day_title = first_line_match.group(1) if first_line_match else dfname
-                body = raw[first_line_match.end():] if first_line_match else raw
-                body, footer_lines = split_citation_footer(body)
-                html_body = f'<h1 class="day-title">{day_title}</h1>' + md_to_html(body)
-                if footer_lines:
-                    ref_text = " &middot; ".join(title_case_ref(l) for l in footer_lines)
-                    html_body += f'<p class="scripture-ref">{ref_text}</p>'
-                dchap = add_chapter(day_title, html_body, in_toc=False)
-                day_chaps.append(dchap)
-            month_section = epub.Section(f"{month_name} — {month_theme}", href=mchap.file_name)
-            month_links.append((month_section, day_chaps))
+        week_chaps = []
+        for week_num in week_range:
+            wpath = os.path.join(MANUSCRIPT, qfolder, f"week-{week_num:02d}.md")
+            raw = read_md(wpath)
+            m = re.match(r"^# Week \d+ — (.+)\n", raw)
+            week_title = m.group(1) if m else f"Week {week_num}"
+            body = raw[m.end():] if m else raw
+            html_body = f'<h1 class="week-title">Week {week_num} — {week_title}</h1>' + build_week_html(body)
+            wchap = add_chapter(f"Week {week_num} — {week_title}", html_body, in_toc=False)
+            week_chaps.append(wchap)
         part_section = epub.Section(f"{part_label}: {part_title}", href=qchap.file_name)
-        nested_toc.append((part_section, month_links))
+        nested_toc.append((part_section, week_chaps))
+
+    # ---- Conclusion (back matter, in TOC) ----
+    conclusion_raw = read_md(os.path.join(BACK, "conclusion.md"))
+    cm = re.match(r"^# (.+)\n", conclusion_raw)
+    conclusion_title = cm.group(1) if cm else "A Final Word"
+    conclusion_body = conclusion_raw[cm.end():] if cm else conclusion_raw
+    # The conclusion also contains its own "## Before You Close This Book"
+    # sub-section with a "### Prayer" of its own -- render the whole thing
+    # as flowing markdown rather than forcing it through the week-callout
+    # splitter, since it isn't shaped like a week entry.
+    conclusion_html = f"<h1>{conclusion_title}</h1>" + md_to_html(conclusion_body)
+    add_chapter(conclusion_title, conclusion_html)
 
     book.toc = tuple(toc + nested_toc)
 
