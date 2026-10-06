@@ -9,7 +9,7 @@ const { launchContext, openWorkflow } = require("./wf_lib");
 
   // Scroll/pan the canvas down by wheeling over its center, checking
   // after each step whether END has come into view.
-  for (let i = 0; i < 15; i++) {
+  for (let i = 0; i < 45; i++) {
     const endCount = await frame.getByText("END", { exact: true }).count();
     console.log(`step=${i} END_COUNT=${endCount}`);
     if (endCount > 0) break;
