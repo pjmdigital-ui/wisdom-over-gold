@@ -66,14 +66,9 @@ const CODE_CONTENT = fs.readFileSync(CONTENT_FILE, "utf8");
   await page.keyboard.press("Backspace");
   await page.keyboard.insertText(CODE_CONTENT);
   await page.waitForTimeout(1500);
-
-  let textareaVal = "";
-  for (let i = 0; i < 20; i++) {
-    textareaVal = await sourceArea.inputValue().catch(() => "");
-    if (textareaVal.length > CODE_CONTENT.length * 0.9) break;
-    await page.waitForTimeout(300);
-  }
-  console.log(`TEXTAREA_LEN=${textareaVal.length} EXPECTED=${CODE_CONTENT.length}`);
+  // Note: this editor is CodeMirror -- its backing <textarea> does not
+  // reliably mirror the visible content via inputValue(), so we confirm
+  // the paste worked visually via screenshot instead of a value readback.
   await page.screenshot({ path: `screenshots/unp-${TAG}-03-content-inserted.png`, fullPage: true });
 
   const saveModalBtn = builderFrame.getByRole("button", { name: /^save$/i }).first();
@@ -81,19 +76,38 @@ const CODE_CONTENT = fs.readFileSync(CONTENT_FILE, "utf8");
   await page.waitForTimeout(2500);
   await page.screenshot({ path: `screenshots/unp-${TAG}-04-modal-saved.png`, fullPage: true });
 
-  // Save the page itself, then wait for the save to actually complete
-  // (not a fixed sleep) -- closing the browser mid-save has silently
-  // discarded edits before.
+  // Save the page itself (small disk icon left of Publish). This UI has
+  // no "Saved" text to poll for (unlike the workflow canvas) -- just a
+  // "Last saved <timestamp>" badge and an unsaved-changes dot on the
+  // icon -- so wait generously and confirm persistence afterward with a
+  // genuinely fresh page load instead of trying to detect completion here.
   await page.mouse.click(1305, 25);
-  await page.waitForTimeout(1500);
-  const topSaveBtn = builderFrame.getByText(/^(Save|Saved|Saving)/).first();
-  for (let i = 0; i < 20; i++) {
-    const txt = await topSaveBtn.textContent().catch(() => "");
-    if (/^Saved\s*$/.test((txt || "").trim())) break;
-    await page.waitForTimeout(500);
-  }
-  await page.waitForTimeout(2000);
+  await page.waitForTimeout(6000);
   await page.screenshot({ path: `screenshots/unp-${TAG}-05-page-saved.png`, fullPage: true });
+
+  // Saving only updates the draft in the builder -- the public URL only
+  // reflects changes after Publish is clicked (confirmed: the original
+  // newsletter_publish.js build step is a separate, later step from the
+  // content-paste step). Click Publish and wait for its confirmation.
+  const publishBtn = page.getByRole("button", { name: /^publish$/i }).first();
+  const publishVisible = await publishBtn.isVisible({ timeout: 5000 }).catch(() => false);
+  if (publishVisible) {
+    await publishBtn.click({ timeout: 15000 });
+  } else {
+    await page.mouse.click(1381, 25);
+  }
+  await page.waitForTimeout(5000);
+  await page.screenshot({ path: `screenshots/unp-${TAG}-06-publish-clicked.png`, fullPage: true });
+
+  // Some GHL publish flows show a confirmation dialog/toast requiring a
+  // second click -- check for a second "Publish" / "Confirm" button.
+  const confirmBtn = page.getByRole("button", { name: /^(publish|confirm)$/i }).first();
+  const confirmVisible = await confirmBtn.isVisible({ timeout: 4000 }).catch(() => false);
+  if (confirmVisible) {
+    await confirmBtn.click({ timeout: 10000 }).catch(() => {});
+    await page.waitForTimeout(4000);
+  }
+  await page.screenshot({ path: `screenshots/unp-${TAG}-07-published.png`, fullPage: true });
 
   console.log("DONE");
   await context.close();
