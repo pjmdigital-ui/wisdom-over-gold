@@ -1,0 +1,43 @@
+const { chromium } = require("playwright-core");
+const path = require("path");
+const os = require("os");
+
+const PROFILE_DIR = path.join(os.homedir(), ".ghl-profile");
+const CHROME_PATH = "/opt/pw-browsers/chromium-1194/chrome-linux/chrome";
+const LOCATION_ID = "Pie9yvZA1BYJnWPk99Yj";
+const WORKFLOW_ID = "ec2be1a1-9d12-4f9e-815a-b63812e3337d";
+
+(async () => {
+  const context = await chromium.launchPersistentContext(PROFILE_DIR, {
+    headless: true,
+    executablePath: CHROME_PATH,
+    args: ["--no-sandbox", "--disable-dev-shm-usage", "--no-first-run"],
+    proxy: process.env.HTTPS_PROXY ? { server: process.env.HTTPS_PROXY } : undefined,
+    viewport: { width: 1440, height: 1200 },
+  });
+
+  const page = context.pages()[0] || (await context.newPage());
+  const frame = page.frameLocator('iframe[src*="client-app-automation-workflows"]');
+  await page.goto(
+    `https://app.gohighlevel.com/v2/location/${LOCATION_ID}/automation/workflow/${WORKFLOW_ID}`,
+    { waitUntil: "domcontentloaded", timeout: 60000 }
+  );
+  await page.waitForTimeout(10000);
+
+  // Click the "+" between the trigger and END
+  await page.mouse.click(745, 468);
+  await page.waitForTimeout(2000);
+  await page.screenshot({ path: "screenshots/wfat-00-action-panel.png", fullPage: true });
+
+  // Search "Add contact tag" (narrow, specific term per README's advice
+  // to avoid the drifting "Recent actions" shortlist)
+  const searchBox = frame.getByPlaceholder(/search/i).first();
+  await searchBox.fill("Add contact tag");
+  await page.waitForTimeout(1500);
+  await page.screenshot({ path: "screenshots/wfat-01-search.png", fullPage: true });
+
+  await context.close();
+})().catch((err) => {
+  console.error("WF_ADD_TAG_ERROR", err);
+  process.exit(1);
+});

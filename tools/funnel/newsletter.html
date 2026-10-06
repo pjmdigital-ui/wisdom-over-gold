@@ -1,0 +1,326 @@
+<style>
+  .sf-site-header {
+    background: #000000;
+    padding: 16px 0;
+  }
+  .sf-site-header .inner {
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 0 24px;
+    text-align: left;
+  }
+  .sf-site-header img {
+    height: 68px;
+    width: 68px;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+  }
+</style>
+<header class="sf-site-header">
+  <div class="inner">
+    <a href="https://wisdomovergold.com/" aria-label="Wisdom Over Gold home">
+      <img src="https://assets.cdn.filesafe.space/Pie9yvZA1BYJnWPk99Yj/media/6a93302b03b6820c462386b9.jpg" alt="Wisdom Over Gold">
+    </a>
+  </div>
+</header>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Spectral:wght@600;700&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<style>
+  .sf-newsletter {
+    --paper: #f5efdd;
+    --paper-deep: #ece0c0;
+    --ink: #2b2318;
+    --ink-soft: #6b5c42;
+    --gold: #93691f;
+    --gold-bright: #b3822a;
+    --border: #d8c79a;
+    --callout-bg: #f0e6c9;
+  }
+
+  .sf-newsletter * { box-sizing: border-box; }
+
+  .sf-newsletter {
+    margin: 0;
+    padding: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: "Source Serif 4", Georgia, "Iowan Old Style", "Palatino Linotype", "Book Antiqua", serif;
+    overflow-x: hidden;
+  }
+
+  .sf-newsletter h1, .sf-newsletter h2, .sf-newsletter h3 {
+    font-family: "Spectral", Georgia, serif;
+    font-weight: 700;
+    color: var(--ink);
+    line-height: 1.15;
+    margin: 0;
+  }
+
+  .sf-newsletter .wrap {
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 0 24px;
+  }
+
+  .sf-newsletter .hero {
+    padding: 56px 0 40px;
+  }
+
+  .sf-newsletter .hero-grid {
+    display: grid;
+    grid-template-columns: 1.1fr 0.9fr;
+    gap: 48px;
+    align-items: center;
+  }
+
+  .sf-newsletter .eyebrow {
+    display: inline-block;
+    font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+    font-size: 13px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--gold);
+    background: var(--callout-bg);
+    border: 1px solid var(--border);
+    padding: 6px 14px;
+    border-radius: 999px;
+    margin-bottom: 18px;
+  }
+
+  .sf-newsletter .hero h1 {
+    font-size: 42px;
+    margin-bottom: 18px;
+  }
+
+  .sf-newsletter .hero .sub {
+    font-size: 19px;
+    line-height: 1.6;
+    color: var(--ink-soft);
+    margin-bottom: 24px;
+    max-width: 46em;
+  }
+
+  .sf-newsletter .benefit-list {
+    list-style: none;
+    margin: 0 0 8px;
+    padding: 0;
+  }
+
+  .sf-newsletter .benefit-list li {
+    position: relative;
+    padding-left: 28px;
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: var(--ink);
+  }
+
+  .sf-newsletter .benefit-list li::before {
+    content: "\2713";
+    position: absolute;
+    left: 0;
+    top: 0;
+    color: var(--gold);
+    font-weight: 700;
+  }
+
+  .sf-newsletter .form-card {
+    background: #fffdf5;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 28px;
+    box-shadow: 0 18px 40px -24px rgba(43, 35, 24, 0.3);
+  }
+
+  .sf-newsletter .form-card .kicker {
+    font-family: "Spectral", Georgia, serif;
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom: 6px;
+  }
+
+  .sf-newsletter .form-card .kicker-sub {
+    color: var(--ink-soft);
+    font-size: 15px;
+    margin-bottom: 20px;
+  }
+
+  .sf-newsletter .form-card-embed {
+    margin-top: 4px;
+  }
+  .sf-newsletter .form-card-embed iframe {
+    display: block;
+    width: 100%;
+    min-height: 300px;
+  }
+
+  .sf-newsletter .fine-print {
+    font-size: 13px;
+    color: var(--ink-soft);
+    margin-top: 12px;
+    text-align: center;
+  }
+
+  .sf-newsletter .how-it-works {
+    padding: 44px 0 64px;
+    border-top: 1px solid var(--border);
+  }
+
+  .sf-newsletter .how-it-works h2 {
+    font-size: 28px;
+    text-align: center;
+    margin-bottom: 8px;
+  }
+
+  .sf-newsletter .how-it-works .sub {
+    text-align: center;
+    color: var(--ink-soft);
+    font-size: 16px;
+    margin-bottom: 36px;
+  }
+
+  .sf-newsletter .steps {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 18px;
+  }
+
+  .sf-newsletter .step-card {
+    background: var(--callout-bg);
+    border-left: 3px solid var(--gold);
+    border-radius: 6px;
+    padding: 20px 18px;
+  }
+
+  .sf-newsletter .step-card .num {
+    font-family: ui-monospace, monospace;
+    font-size: 12px;
+    letter-spacing: 0.1em;
+    color: var(--gold);
+    margin-bottom: 6px;
+  }
+
+  .sf-newsletter .step-card h3 {
+    font-size: 18px;
+    margin-bottom: 6px;
+  }
+
+  .sf-newsletter .step-card p {
+    font-size: 14.5px;
+    line-height: 1.5;
+    color: var(--ink-soft);
+    margin: 0;
+  }
+
+  @media (max-width: 860px) {
+    .sf-newsletter .hero-grid { grid-template-columns: 1fr; }
+    .sf-newsletter .hero h1 { font-size: 32px; }
+    .sf-newsletter .hero .sub { font-size: 17px; }
+    .sf-newsletter .steps { grid-template-columns: 1fr; }
+  }
+
+  @media (max-width: 480px) {
+    .sf-newsletter .hero { padding: 36px 0 28px; }
+    .sf-newsletter .hero h1 { font-size: 26px; }
+    .sf-newsletter .form-card { padding: 22px; }
+  }
+</style>
+<div class="sf-newsletter">
+
+<div class="wrap hero">
+  <div class="hero-grid">
+    <div>
+      <span class="eyebrow">Free Weekly Email</span>
+      <h1>Every Sunday at 8PM, Get Set Up for the Week Ahead</h1>
+      <p class="sub">Subscribe to the <em>Seek First Weekly</em> newsletter &mdash; one short devotion a week, delivered Sunday evening so you walk into Monday already pointed in the right direction. Real reflections, a practical step, and a closing prayer. No charge, no catch.</p>
+      <ul class="benefit-list">
+        <li>One devotion a week &mdash; not another daily inbox obligation</li>
+        <li>Arrives Sunday at 8PM, timed to set up your week</li>
+        <li>Pulled straight from <em>Seek First: The Four Pursuits of the Modern Catholic Man</em></li>
+        <li>Unsubscribe anytime, one click</li>
+      </ul>
+
+      <div class="form-card">
+        <div class="kicker">Get the Weekly Devotion, Free</div>
+        <div class="kicker-sub">Enter your name and email below to subscribe.</div>
+        <div class="form-card-embed">
+          <iframe
+              src="https://api.leadconnectorhq.com/widget/form/S6djGWBap9TqIqWjEFBi"
+              style="width:100%;height:100%;border:none;border-radius:8px"
+              id="inline-S6djGWBap9TqIqWjEFBi"
+              data-layout="{'id':'INLINE'}"
+              data-trigger-type="alwaysShow"
+              data-trigger-value=""
+              data-activation-type="alwaysActivated"
+              data-activation-value=""
+              data-deactivation-type="neverDeactivate"
+              data-deactivation-value=""
+              data-form-name="Newsletter Signup"
+              data-height="320"
+              data-layout-iframe-id="inline-S6djGWBap9TqIqWjEFBi"
+              data-form-id="S6djGWBap9TqIqWjEFBi"
+              data-cookie-consent="true"
+              data-cookie-consent-provider="auto"
+              title="Newsletter Signup"
+                  >
+          </iframe>
+        </div>
+        <p class="fine-print">By subscribing you agree to receive weekly emails from Wisdom Over Gold. Unsubscribe anytime.</p>
+      </div>
+    </div>
+
+    <div>
+      <ul class="benefit-list" style="font-size: 17px;">
+        <li>Want the book now instead of waiting week by week? <a href="https://wisdomovergold.com/seek-first-full-book" style="color: var(--gold); font-weight: 700;">Get the full 52-week devotional &rarr;</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="wrap how-it-works">
+  <h2>How It Works</h2>
+  <p class="sub">Three steps, then it just shows up.</p>
+  <div class="steps">
+    <div class="step-card">
+      <div class="num">STEP 1</div>
+      <h3>Subscribe</h3>
+      <p>Enter your name and email above. Takes ten seconds.</p>
+    </div>
+    <div class="step-card">
+      <div class="num">STEP 2</div>
+      <h3>Sunday, 8PM</h3>
+      <p>Every Sunday evening, that week's devotion lands in your inbox &mdash; ready before Monday starts.</p>
+    </div>
+    <div class="step-card">
+      <div class="num">STEP 3</div>
+      <h3>Read, Reflect, Act</h3>
+      <p>A reflection, one practical step for the week, and a short closing prayer. That's it.</p>
+    </div>
+  </div>
+</div>
+</div>
+<script src="https://link.msgsndr.com/js/form_embed.js"></script>
+<style>
+  .sf-page-footer {
+    padding: 28px 24px 48px;
+    text-align: center;
+    font-size: 13px;
+    color: #6b5c42;
+    font-family: "Source Serif 4", Georgia, "Iowan Old Style", "Palatino Linotype", "Book Antiqua", serif;
+    border-top: 1px solid #d8c79a;
+  }
+
+  .sf-page-footer a {
+    color: #93691f;
+    text-decoration: none;
+  }
+
+  .sf-page-footer a:hover {
+    text-decoration: underline;
+  }
+</style>
+<div class="sf-page-footer">
+  &copy; 2026 PJM Digital Media Corp &middot; Seek First is a product of Wisdom Over Gold &middot; wisdomovergold.com<br>
+  <a href="https://wisdomovergold.com/privacy-policy">Privacy Policy</a> &middot; <a href="https://wisdomovergold.com/terms-of-service">Terms of Service</a>
+</div>
