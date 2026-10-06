@@ -19,7 +19,7 @@ async function openWorkflow(page) {
     `https://app.gohighlevel.com/v2/location/${LOCATION_ID}/automation/workflow/${WORKFLOW_ID}`,
     { waitUntil: "domcontentloaded", timeout: 60000 }
   );
-  await page.waitForTimeout(10000);
+  await page.waitForTimeout(16000);
 }
 
 async function launchContext() {
@@ -35,10 +35,23 @@ async function launchContext() {
 async function clickAppendPlus(page, frame) {
   // The canvas can have multiple "END" nodes while a branch exists, but
   // this workflow is a single straight line, so there is exactly one.
+  // As the chain has grown, the workflow canvas sometimes takes longer
+  // than the initial post-goto wait to finish rendering -- retry with a
+  // fresh reload rather than failing the whole batch on one slow load.
   const endNode = frame.getByText("END", { exact: true }).first();
-  await endNode.scrollIntoViewIfNeeded();
-  const box = await endNode.boundingBox();
-  if (!box) throw new Error("Could not find END node bounding box");
+  let box = null;
+  for (let attempt = 0; attempt < 3 && !box; attempt++) {
+    try {
+      await endNode.scrollIntoViewIfNeeded({ timeout: 20000 });
+      box = await endNode.boundingBox();
+    } catch (err) {
+      console.log(`END_NOT_READY attempt=${attempt} retrying with reload`);
+      await page.waitForTimeout(5000);
+      await page.reload({ waitUntil: "domcontentloaded", timeout: 60000 });
+      await page.waitForTimeout(16000);
+    }
+  }
+  if (!box) throw new Error("Could not find END node bounding box after retries");
   const plusX = box.x + box.width / 2;
   const plusY = box.y - 62;
   await page.mouse.click(plusX, plusY);
