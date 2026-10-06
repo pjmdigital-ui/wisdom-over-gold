@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build the retail PDF from the citation-only manuscript source.
+"""Build the retail PDF from the 52-week manuscript source.
 
 Requires: pip install weasyprint markdown --break-system-packages
 Run from anywhere: python3 tools/build_pdf.py
@@ -188,17 +188,17 @@ p {{
     font-size: 9.5pt;
     text-transform: uppercase;
 }}
-.toc-page .toc-month {{
-    font-size: 9.5pt;
+.toc-page .toc-week {{
+    font-size: 9pt;
     margin: 0 0 0.03in 0.18in;
     color: #2b2318;
 }}
 .toc-page .toc-part a::after,
-.toc-page .toc-month a::after {{
+.toc-page .toc-week a::after {{
     content: leader(".") target-counter(attr(href), page);
 }}
 
-/* ---------- Quarter / month dividers ---------- */
+/* ---------- Part dividers ---------- */
 .divider-page {{
     page: main;
     page-break-before: always;
@@ -237,12 +237,27 @@ p {{
     margin: 0 0 0.3in;
 }}
 
-/* ---------- Days ---------- */
-.day {{
+/* ---------- Back-matter chapters (Conclusion) ---------- */
+.bm-chapter {{
     page: main;
     page-break-before: always;
 }}
-.day-title {{
+.bm-chapter h1 {{
+    font-size: 15pt;
+    text-align: center;
+    margin: 0 0 0.3in;
+}}
+.bm-chapter h2 {{
+    font-size: 13pt;
+    margin: 1.4em 0 0.3in;
+}}
+
+/* ---------- Weeks ---------- */
+.week {{
+    page: main;
+    page-break-before: always;
+}}
+.week-title {{
     font-style: italic;
     font-weight: 600;
     font-size: 13.5pt;
@@ -258,6 +273,8 @@ p {{
     background: #ece0c0;
     text-align: left;
 }}
+.today-step p, .prayer-block p {{ margin: 0 0 0.6em 0; }}
+.today-step p:last-child, .prayer-block p:last-child {{ margin-bottom: 0; }}
 .prayer-block {{
     border-left-color: #b3822a;
     background: #f0e6c9;
@@ -280,8 +297,8 @@ def part_anchor(qfolder):
     return f"toc-{qfolder}"
 
 
-def month_anchor(qfolder, mfolder):
-    return f"toc-{qfolder}-{mfolder}"
+def week_anchor(week_num):
+    return f"toc-week-{week_num:02d}"
 
 
 def divider_html(kicker, title, subtitle="", anchor=None):
@@ -294,16 +311,18 @@ def divider_html(kicker, title, subtitle="", anchor=None):
 </div>"""
 
 
-def build_toc_html():
+def build_toc_html(week_titles):
+    """week_titles: {week_num: title}, so the TOC can show each week's
+    actual title without re-reading every file a second time."""
     rows = []
-    for qfolder, part_label, part_title, months in be.QUARTERS:
+    for qfolder, part_label, part_title, week_range in be.PARTS:
         rows.append(
             f'<p class="toc-part"><a href="#{part_anchor(qfolder)}">{part_label}: {part_title}</a></p>'
         )
-        for mfolder, month_name, month_theme in months:
+        for week_num in week_range:
             rows.append(
-                f'<p class="toc-month"><a href="#{month_anchor(qfolder, mfolder)}">'
-                f'{month_name} &mdash; {month_theme}</a></p>'
+                f'<p class="toc-week"><a href="#{week_anchor(week_num)}">'
+                f'Week {week_num} &mdash; {week_titles[week_num]}</a></p>'
             )
     return f"""<div class="front toc-page">
 <h2>Contents</h2>
@@ -314,7 +333,7 @@ def build_toc_html():
 def main():
     parts = []
 
-    # ---- Cover ----
+    # ---- Cover (unchanged) ----
     parts.append(f'<div class="cover-page"><img src="{cover_data_uri()}" /></div>')
 
     # ---- Title page ----
@@ -324,7 +343,7 @@ def main():
 <p class="pursuits">THE PURSUIT OF PIETY &nbsp;&middot;&nbsp; THE PURSUIT OF PROTECTION &nbsp;&middot;&nbsp; THE PURSUIT OF PROVISION &nbsp;&middot;&nbsp; THE PURSUIT OF POSTERITY</p>
 <p class="verse">&ldquo;But seek first his kingdom and his righteousness, and all these things shall be yours as well.&rdquo;<br/>Matthew 6:33</p>
 <p class="author">PAUL MASCETTA</p>
-<p class="tagline">Husband. Father. Disciple. Every day.</p>
+<p class="tagline">Husband. Father. Disciple. Every week.</p>
 </div>""")
 
     # ---- Copyright page ----
@@ -336,11 +355,23 @@ def main():
 <p>Published by Wisdom Over Gold &middot; wisdomovergold.com</p>
 <p>All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the author, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.</p>
 {scripture_notice_html}
-<p>This is a work of nonfiction. Except where the author explicitly identifies an account as his own true story (most notably in the Introduction), the real-world scenarios that open each daily entry are illustrative composites and do not depict specific, identifiable individuals or events.</p>
+<p>This is a work of nonfiction. Except where the author explicitly identifies an account as his own true story (most notably in the Introduction), the real-world scenarios that open each weekly entry are illustrative composites and do not depict specific, identifiable individuals or events.</p>
 </div>""")
 
+    # ---- Pre-read every week's title for the TOC, before we know page
+    # numbers (those are resolved later by WeasyPrint itself via
+    # target-counter, same mechanism as before -- see README) ----
+    week_titles = {}
+    week_raw = {}
+    for qfolder, part_label, part_title, week_range in be.PARTS:
+        for week_num in week_range:
+            raw = be.read_md(os.path.join(be.MANUSCRIPT, qfolder, f"week-{week_num:02d}.md"))
+            m = re.match(r"^# Week \d+ — (.+)\n", raw)
+            week_titles[week_num] = m.group(1) if m else f"Week {week_num}"
+            week_raw[week_num] = raw[m.end():] if m else raw
+
     # ---- TOC ----
-    parts.append(build_toc_html())
+    parts.append(build_toc_html(week_titles))
 
     # ---- Front matter chapters ----
     front_matter_files = [
@@ -355,28 +386,24 @@ def main():
         html_body = be.md_to_html(raw)
         parts.append(f'<div class="fm-chapter"><h1>{nice_title}</h1>{html_body}</div>')
 
-    # ---- Quarters / months / days ----
-    for qfolder, part_label, part_title, months in be.QUARTERS:
+    # ---- Parts / Weeks ----
+    for qfolder, part_label, part_title, week_range in be.PARTS:
         parts.append(divider_html(part_label, part_title.upper(), anchor=part_anchor(qfolder)))
-        for mfolder, month_name, month_theme in months:
-            parts.append(divider_html(
-                part_title, month_name.upper(), month_theme,
-                anchor=month_anchor(qfolder, mfolder),
-            ))
-            day_dir = os.path.join(be.MANUSCRIPT, qfolder, mfolder)
-            day_files = sorted(f for f in os.listdir(day_dir) if re.match(r"day-\d\d\.md$", f))
-            for dfname in day_files:
-                raw = be.read_md(os.path.join(day_dir, dfname))
-                m = re.match(r"^# (.+)\n", raw)
-                day_title = m.group(1) if m else dfname
-                body = raw[m.end():] if m else raw
-                body, footer_lines = be.split_citation_footer(body)
-                html_body = be.md_to_html(body)
-                ref_html = ""
-                if footer_lines:
-                    ref_text = " &middot; ".join(be.title_case_ref(l) for l in footer_lines)
-                    ref_html = f'<p class="scripture-ref">{ref_text}</p>'
-                parts.append(f'<div class="day"><h2 class="day-title">{day_title}</h2>{html_body}{ref_html}</div>')
+        for week_num in week_range:
+            html_body = be.build_week_html(week_raw[week_num])
+            parts.append(
+                f'<div class="week" id="{week_anchor(week_num)}">'
+                f'<h2 class="week-title">Week {week_num} &mdash; {week_titles[week_num]}</h2>'
+                f'{html_body}</div>'
+            )
+
+    # ---- Conclusion ----
+    conclusion_raw = be.read_md(os.path.join(be.BACK, "conclusion.md"))
+    cm = re.match(r"^# (.+)\n", conclusion_raw)
+    conclusion_title = cm.group(1) if cm else "A Final Word"
+    conclusion_body = conclusion_raw[cm.end():] if cm else conclusion_raw
+    conclusion_html = be.md_to_html(conclusion_body)
+    parts.append(f'<div class="bm-chapter"><h1>{conclusion_title}</h1>{conclusion_html}</div>')
 
     full_html = f"""<!DOCTYPE html>
 <html><head><meta charset="UTF-8"><style>{CSS}</style></head>
@@ -384,7 +411,7 @@ def main():
 
     HTML(string=full_html).write_pdf(OUT_PATH)
     print("Wrote", OUT_PATH)
-    print("Total day/front sections:", len(parts))
+    print("Total sections:", len(parts))
 
 
 if __name__ == "__main__":

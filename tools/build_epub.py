@@ -226,6 +226,10 @@ def split_citation_footer(raw):
         lines = [l.strip() for l in block.split("\n") if l.strip()]
         footer_lines = lines + footer_lines
     body = "\n\n".join(paras)
+    # the 52-week source wraps its citation lines in markdown bold
+    # (**MATTHEW 6:33**) -- strip that before title-casing, or the
+    # asterisks get title-cased right along with the words.
+    footer_lines = [l.strip("*").strip() for l in footer_lines]
     return body, footer_lines
 
 
@@ -397,9 +401,14 @@ def main():
     # as flowing markdown rather than forcing it through the week-callout
     # splitter, since it isn't shaped like a week entry.
     conclusion_html = f"<h1>{conclusion_title}</h1>" + md_to_html(conclusion_body)
-    add_chapter(conclusion_title, conclusion_html)
+    conclusion_chap = add_chapter(conclusion_title, conclusion_html, in_toc=False)
 
-    book.toc = tuple(toc + nested_toc)
+    # NOTE: the conclusion is physically the LAST chapter in spine (it's
+    # added after every Part/Week chapter above), so it must come after
+    # nested_toc in book.toc too -- putting it in the flat front-matter
+    # `toc` list would place it before the Parts in the nav document,
+    # which epubcheck flags as the TOC being out of spine/reading order.
+    book.toc = tuple(toc + nested_toc + [conclusion_chap])
 
     book.add_item(epub.EpubNcx())
     nav = epub.EpubNav()
