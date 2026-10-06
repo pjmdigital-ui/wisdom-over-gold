@@ -69,10 +69,14 @@
   }
 
   .sf-newsletter .hero-grid {
-    display: grid;
-    grid-template-columns: 1.1fr 0.9fr;
-    gap: 48px;
-    align-items: center;
+    max-width: 640px;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .sf-newsletter .hero-grid .benefit-list,
+  .sf-newsletter .hero-grid .form-card {
+    text-align: left;
   }
 
   .sf-newsletter .eyebrow {
@@ -98,7 +102,7 @@
     font-size: 19px;
     line-height: 1.6;
     color: var(--ink-soft);
-    margin-bottom: 24px;
+    margin: 0 auto 24px;
     max-width: 46em;
   }
 
@@ -214,7 +218,6 @@
   }
 
   @media (max-width: 860px) {
-    .sf-newsletter .hero-grid { grid-template-columns: 1fr; }
     .sf-newsletter .hero h1 { font-size: 32px; }
     .sf-newsletter .hero .sub { font-size: 17px; }
     .sf-newsletter .steps { grid-template-columns: 1fr; }
@@ -230,50 +233,41 @@
 
 <div class="wrap hero">
   <div class="hero-grid">
-    <div>
-      <span class="eyebrow">Free Weekly Email</span>
-      <h1>Every Sunday at 8PM, Get Set Up for the Week Ahead</h1>
-      <p class="sub">Subscribe to the <em>Seek First Weekly</em> newsletter &mdash; one short devotion a week, delivered Sunday evening so you walk into Monday already pointed in the right direction. Real reflections, a practical step, and a closing prayer. No charge, no catch.</p>
-      <ul class="benefit-list">
-        <li>One devotion a week &mdash; not another daily inbox obligation</li>
-        <li>Arrives Sunday at 8PM, timed to set up your week</li>
-        <li>Pulled straight from <em>Seek First: The Four Pursuits of the Modern Catholic Man</em></li>
-        <li>Unsubscribe anytime, one click</li>
-      </ul>
+    <span class="eyebrow">Free Weekly Email</span>
+    <h1>Every Sunday at 8PM, Get Set Up for the Week Ahead</h1>
+    <p class="sub">Subscribe to the <em>Seek First Weekly</em> newsletter &mdash; one short devotion a week, delivered Sunday evening so you walk into Monday already pointed in the right direction. Real reflections, a practical step, and a closing prayer. No charge, no catch.</p>
+    <ul class="benefit-list">
+      <li>One devotion a week &mdash; not another daily inbox obligation</li>
+      <li>Arrives Sunday at 8PM, timed to set up your week</li>
+      <li>Unsubscribe anytime, one click</li>
+    </ul>
 
-      <div class="form-card">
-        <div class="kicker">Get the Weekly Devotion, Free</div>
-        <div class="kicker-sub">Enter your name and email below to subscribe.</div>
-        <div class="form-card-embed">
-          <iframe
-              src="https://api.leadconnectorhq.com/widget/form/S6djGWBap9TqIqWjEFBi"
-              style="width:100%;height:100%;border:none;border-radius:8px"
-              id="inline-S6djGWBap9TqIqWjEFBi"
-              data-layout="{'id':'INLINE'}"
-              data-trigger-type="alwaysShow"
-              data-trigger-value=""
-              data-activation-type="alwaysActivated"
-              data-activation-value=""
-              data-deactivation-type="neverDeactivate"
-              data-deactivation-value=""
-              data-form-name="Newsletter Signup"
-              data-height="320"
-              data-layout-iframe-id="inline-S6djGWBap9TqIqWjEFBi"
-              data-form-id="S6djGWBap9TqIqWjEFBi"
-              data-cookie-consent="true"
-              data-cookie-consent-provider="auto"
-              title="Newsletter Signup"
-                  >
-          </iframe>
-        </div>
-        <p class="fine-print">By subscribing you agree to receive weekly emails from Wisdom Over Gold. Unsubscribe anytime.</p>
+    <div class="form-card">
+      <div class="kicker">Get the Weekly Devotion, Free</div>
+      <div class="kicker-sub">Enter your name and email below to subscribe.</div>
+      <div class="form-card-embed">
+        <iframe
+            src="https://api.leadconnectorhq.com/widget/form/S6djGWBap9TqIqWjEFBi"
+            style="width:100%;height:100%;border:none;border-radius:8px"
+            id="inline-S6djGWBap9TqIqWjEFBi"
+            data-layout="{'id':'INLINE'}"
+            data-trigger-type="alwaysShow"
+            data-trigger-value=""
+            data-activation-type="alwaysActivated"
+            data-activation-value=""
+            data-deactivation-type="neverDeactivate"
+            data-deactivation-value=""
+            data-form-name="Newsletter Signup"
+            data-height="320"
+            data-layout-iframe-id="inline-S6djGWBap9TqIqWjEFBi"
+            data-form-id="S6djGWBap9TqIqWjEFBi"
+            data-cookie-consent="true"
+            data-cookie-consent-provider="auto"
+            title="Newsletter Signup"
+                >
+        </iframe>
       </div>
-    </div>
-
-    <div>
-      <ul class="benefit-list" style="font-size: 17px;">
-        <li>Want the book now instead of waiting week by week? <a href="https://wisdomovergold.com/seek-first-full-book" style="color: var(--gold); font-weight: 700;">Get the full 52-week devotional &rarr;</a></li>
-      </ul>
+      <p class="fine-print">By subscribing you agree to receive weekly emails from Wisdom Over Gold. Unsubscribe anytime.</p>
     </div>
   </div>
 </div>
