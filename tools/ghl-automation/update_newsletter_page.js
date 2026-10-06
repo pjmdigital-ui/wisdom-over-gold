@@ -77,12 +77,26 @@ const CODE_CONTENT = fs.readFileSync(CONTENT_FILE, "utf8");
   await page.screenshot({ path: `screenshots/unp-${TAG}-04-modal-saved.png`, fullPage: true });
 
   // Save the page itself (small disk icon left of Publish). This UI has
-  // no "Saved" text to poll for (unlike the workflow canvas) -- just a
-  // "Last saved <timestamp>" badge and an unsaved-changes dot on the
-  // icon -- so wait generously and confirm persistence afterward with a
-  // genuinely fresh page load instead of trying to detect completion here.
+  // no "Saved"/"Saving" text to poll -- just a "Last saved <timestamp>"
+  // badge -- but clicking Publish before that save round-trip actually
+  // completes server-side publishes a STALE draft (confirmed: the
+  // public page kept serving pre-edit content even after a "Page
+  // published successfully" toast). Capture the current badge text
+  // first, then poll for it to change before publishing.
+  const savedBadge = page.getByText(/Last saved/i).first();
+  const beforeSaveText = await savedBadge.textContent({ timeout: 3000 }).catch(() => "");
   await page.mouse.click(1305, 25);
-  await page.waitForTimeout(6000);
+  let saveConfirmed = false;
+  for (let i = 0; i < 20; i++) {
+    const txt = await savedBadge.textContent({ timeout: 2000 }).catch(() => "");
+    if (txt && txt !== beforeSaveText) {
+      saveConfirmed = true;
+      break;
+    }
+    await page.waitForTimeout(1000);
+  }
+  console.log(`SAVE_BADGE_CHANGED=${saveConfirmed} BEFORE="${beforeSaveText}"`);
+  await page.waitForTimeout(2000);
   await page.screenshot({ path: `screenshots/unp-${TAG}-05-page-saved.png`, fullPage: true });
 
   // Saving only updates the draft in the builder -- the public URL only
