@@ -116,3 +116,13 @@ Comment "Amen" if this hit home, and send it to a man who needs to hear it today
 You think hitting that number will finally make you feel like you've made it. But God already settled your worth before you closed a single deal. Solomon reached every number a man could reach — every want fulfilled the moment he wanted it — and called it all vanity, a striving after wind. The number will always move, because it was never actually what you were after. Stop trading what's real for a feeling no title has ever delivered.
 
 Comment "Amen" if this hit home, and send it to a man who needs to hear it today.
+
+---
+
+## First Means First
+
+*(`instagram-post-first-means-first.html`)*
+
+You think giving God whatever's left over still counts as putting Him first. But He doesn't want what's left after work gets your attention, money gets your worry, and your phone gets the first look of the morning. First means first — not eventually, not once everything else is handled. None of those things has to be bad for the order to be wrong. The question isn't whether you care about them. It's what's actually sitting at the center.
+
+Comment "Amen" if this hit home, and send it to a man who needs to hear it today.
