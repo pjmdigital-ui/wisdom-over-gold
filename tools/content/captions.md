@@ -116,3 +116,13 @@ Comment "Amen" if this hit home, and send it to a man who needs to hear it today
 You think hitting that number will finally make you feel like you've made it. But God already settled your worth before you closed a single deal. Solomon reached every number a man could reach — every want fulfilled the moment he wanted it — and called it all vanity, a striving after wind. The number will always move, because it was never actually what you were after. Stop trading what's real for a feeling no title has ever delivered.
 
 Comment "Amen" if this hit home, and send it to a man who needs to hear it today.
+
+---
+
+## The Comparison Trap
+
+*(`instagram-post-the-comparison-trap.html`)*
+
+You think his highlight reel means he's got something you don't — the bigger house, the easier-looking life, nine seconds of a trip you'll never take. But God never asked you to grade your life against a stranger's feed. He asks you to weigh your own work, not his: what you've actually done with what He gave you to steward. The guy you're envying has his own 2am worries — he just didn't post those. Stop scrolling his highlight reel and start stewarding your actual life.
+
+Comment "Amen" if this hit home, and send it to a man who needs to hear it today.
