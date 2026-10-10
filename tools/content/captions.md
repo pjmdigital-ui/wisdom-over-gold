@@ -126,3 +126,13 @@ Comment "Amen" if this hit home, and send it to a man who needs to hear it today
 You think giving God whatever's left over still counts as putting Him first. But He doesn't want what's left after work gets your attention, money gets your worry, and your phone gets the first look of the morning. First means first — not eventually, not once everything else is handled. None of those things has to be bad for the order to be wrong. The question isn't whether you care about them. It's what's actually sitting at the center.
 
 Comment "Amen" if this hit home, and send it to a man who needs to hear it today.
+
+---
+
+## What You Reach For
+
+*(`instagram-post-what-you-reach-for.html`)*
+
+You think checking your phone the second you wake up is just habit. But God reads your attention like evidence — where your mind goes before you've even decided to think reveals what you're actually seeking. He's not only interested in managing the behavior. He wants the desire underneath it reordered, so the first reach of the day goes toward Him before it goes toward anything else.
+
+Comment "Amen" if this hit home, and send it to a man who needs to hear it today.
