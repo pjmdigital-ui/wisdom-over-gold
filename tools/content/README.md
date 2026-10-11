@@ -10,7 +10,7 @@ How to make a new black/gold Instagram post for `@seekwisdomovergold`, and why i
    ```
    node render_instagram_png.js instagram-post-<topic-slug>.html sf_ig_<topic-slug>.png
    ```
-   Requires `npm install playwright-core` once (chromium is already present at `/opt/pw-browsers` in this environment). Output lands in `build/instagram/` at 3240x4050px — 3x a real 1080x1350 IG feed post.
+   Requires `npm install` in this folder once per fresh environment (chromium is already present at `/opt/pw-browsers`) **and** a `python3` with Pillow (`python3 -c "import PIL"` to check) for the final crop step. On a fresh container these are easy to get out of sync: `pip install Pillow` can silently install against a *different* `python3` than the one on `$PATH` (e.g. pip resolving to 3.13 while `python3` is 3.11) and still report success. If the renderer fails with `ModuleNotFoundError: No module named 'PIL'` after a successful-looking pip install, use `python3 -m pip install Pillow --break-system-packages` instead, which installs against the exact interpreter the script will actually call. Also: run plain `npm install`, not `npm install playwright-core` — the latter can silently bump the pinned version in `package.json`/`package-lock.json`; check `git diff` after and revert if it did. Output lands in `build/instagram/` at 3240x4050px — 3x a real 1080x1350 IG feed post.
 4. **Actually look at the rendered PNG before calling it done.** Check the footer handle isn't clipped and nothing overflows the bottom of the canvas. This format has broken silently before when copy ran long — always verify visually, don't trust the CSS math alone, and don't trust the script exiting 0 either (see the rendering-glitch note below — it fails silently).
 
 ## Format history — why it looks like this
@@ -32,6 +32,8 @@ The renderer (`render_instagram_png.js`) works around a genuine Chromium headles
 
 ## The rules, distilled
 
+These rules describe the default **v2 "testimony" format** (one flowing paragraph). See "Quote card format (v3)" below for the lighter, short-quote alternative and where its rules differ.
+
 **Visual structure** (see `instagram-post-template.html` for the exact CSS):
 - 1080x1350 canvas (IG feed 4:5), black `#0a0a0a` background, gold `#d9b25f` / cream `#e4ddcc` text — matches the book cover's palette.
 - A short gold rule mark, then one flowing paragraph. No separate hook/lesson/hope blocks anymore (that was v1; superseded).
@@ -48,12 +50,23 @@ The renderer (`render_instagram_png.js`) works around a genuine Chromium headles
 - No name, no day, no verse citation on the card itself. If the person wants to know the book/day/verse behind a post, that belongs in the caption, not the image.
 - No hyperlinks or outside references of any kind — the author does not want the book linking out to other websites.
 
+## Quote card format (v3) — a lighter, lower-word-count alternative
+
+A second valid format alongside the v2 "testimony" paragraph above, for when the ask is specifically "less text, bigger font." Built from `instagram-post-prayer-changes-the-order.html` as the reference implementation — copy that file instead of the main template when starting one of these.
+
+- **One short line, quoted directly from the book's own prose** (quoting our own book verbatim is fine — the "never quote scripture directly" rule is about Bible text, not the author's words) in large (~10.5cqw) bold gold-bright serif, centered, in quotation marks. Keep it under ~12 words; this size overflows fast with anything longer, same failure mode as the rendering-bug note above (verify the rendered PNG, don't trust the script exit code).
+- Below the quote, a small gold-dim monospace **citation only** — `Book Chapter:Verse`, e.g. `Luke 10:41–42` — the scripture the book's line is drawn from/supported by, never the verse text itself. This is the one exception to "no verse citation on the card" in the v2 rules above: it applies here because the card is explicitly built around a citation, not a paraphrase of one.
+- No `Amen.` sign-off on the card — it's a standalone line, not a "You think X — but God Y" testimony, so forcing an Amen onto it reads as tacked-on. The caption still carries the standard "Comment Amen" CTA.
+- Same black/gold palette, same footer (`@seekwisdomovergold`, nothing else), same no-hyperlinks rule as v2.
+- Pick a line that already stands alone when read out of context — most of the book's prose is conversational and won't work pulled out as a single sentence. Look for the rare punchy, aphoristic line (e.g. "Prayer changes the order before the pressure starts.") rather than forcing a mediocre one into this format.
+
 ## Files in this folder
 
 - `instagram-post-template.html` — start here for a new post.
 - `render_instagram_png.js` — the renderer. Takes `[source.html] [output.png]` as optional CLI args; defaults to the very first post if you call it with no args.
 - `instagram-post-anxious-about-money.html`, `instagram-post-anxious-search.html`, `instagram-post-the-moving-number.html`, `instagram-post-apologize-first.html`, `instagram-post-not-the-scoreboard.html`, `instagram-post-actually-calling-him.html`, `instagram-post-hope-in-the-room.html`, `instagram-post-moses-at-the-rock.html`, `instagram-post-no-one-will-know.html` — reference implementations of the format above, all sourced from the **old 365-day `manuscript/`** back when that was the current book (money anxiety / Philippians 4:19; fatherhood fear / St. Joseph and the finding in the temple; chasing a number for identity / Solomon and Ecclesiastes 2; pride vs. apologizing first in marriage / Romans 12:10; a failed business and tying worth to what you built / Philippians 4:11-13; meaning to call a friend vs. actually doing it / 1 Thessalonians 5:11; hope present before circumstances change / St. Maximilian Kolbe and 2 Corinthians 4:17; past patience doesn't buy an exemption from self-control / Moses at the rock, Numbers 20:10-12; small unseen compromises aren't free / Hebrews 4:13, from April Day 1 "The Lie of 'No One Will Know'"). Fine as format references, but don't mine them or `manuscript/` further for new posts — the book is now the 52-week devotional.
-- `instagram-post-first-means-first.html`, `instagram-post-what-you-reach-for.html` — posts sourced from the **current `manuscript-52-week/` book**, in week order (Week 1, "Seek First," Matthew 6:33: giving God what's left after work, money, and the phone take their share doesn't count as putting Him first; Week 2, "What Are You Actually Seeking?", Psalm 63:1: what you reach for first thing in the morning reveals what you actually want).
+- `instagram-post-first-means-first.html`, `instagram-post-what-you-reach-for.html` — v2 "testimony" posts sourced from the **current `manuscript-52-week/` book**, in week order (Week 1, "Seek First," Matthew 6:33: giving God what's left after work, money, and the phone take their share doesn't count as putting Him first; Week 2, "What Are You Actually Seeking?", Psalm 63:1: what you reach for first thing in the morning reveals what you actually want).
+- `instagram-post-prayer-changes-the-order.html` — reference implementation of the v3 "quote card" format above; Week 3, "God Before the Noise," Luke 10:41–42 (Martha and Mary): "Prayer changes the order before the pressure starts," quoted directly from the book.
 - `instagram-post-hook-lesson.html`, `instagram-post-covenant-eyes.html` — earlier posts still using the superseded v1 card structure (headline hook + separate lesson block). Not yet retrofitted to the current format — do that before reusing them as a reference.
 - `instagram-post-mockups.html` — an earlier, even older concept grid (multiple post-type mockups: pull-quote, scripture card, saint spotlight, etc.), predates the black/gold-only direction being locked in. Historical reference only.
 - `captions.md` — the caption text for the caption field under each post (not on the image itself): a standard CTA line reused across every post, plus a short summary paragraph per post. Add a new entry here whenever a new post ships.

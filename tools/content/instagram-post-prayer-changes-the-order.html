@@ -1,0 +1,125 @@
+<!--
+  SEEK FIRST — Instagram post template (v3, "quote card" format)
+  =================================================================
+  A lighter-text variant of the v2 "testimony" format: one short line
+  pulled directly from the book (quoting OUR OWN prose verbatim is
+  fine -- the "never quote scripture directly" rule in README.md is
+  about Bible text, not the book itself), set in much larger type,
+  with the supporting scripture reference below it as a citation only
+  (book/chapter:verse, never the verse text -- same citation-only
+  convention as the weekly email footers).
+
+    node render_instagram_png.js instagram-post-<topic-slug>.html sf_ig_<topic-slug>.png
+
+  Output lands in build/instagram/ at 3240x4050px (3x a real 1080x1350
+  IG feed post). See README.md in this folder for the full style guide.
+-->
+<title>Prayer Changes the Order</title>
+<style>
+  :root {
+    --backdrop: #1c1a17;
+    --ink: #0a0a0a;
+    --ink-edge: #050505;
+    --gold-bright: #d9b25f;
+    --gold: #b8923f;
+    --gold-dim: #7d642e;
+    --white: #f4f1e9;
+    --paper: #e4ddcc;
+    --paper-dim: #b9ae93;
+    --rule: rgba(217, 178, 95, 0.34);
+    --highlight: rgba(217, 178, 95, 0.2);
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    min-height: 100vh;
+    background: var(--backdrop);
+    color: var(--paper-dim);
+    font-family: Georgia, "Iowan Old Style", "Palatino Linotype", "Book Antiqua", serif;
+    -webkit-font-smoothing: antialiased;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.6rem;
+    padding: 3.5rem 1.25rem 4rem;
+  }
+
+  .post {
+    container-type: inline-size;
+    position: relative;
+    width: min(90vw, 480px);
+    aspect-ratio: 1080 / 1350;
+    background: var(--ink);
+    border: 1px solid var(--ink-edge);
+    box-shadow: 0 2.5rem 5rem -2rem rgba(0, 0, 0, 0.65);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .post .body {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 9cqw 9cqw;
+  }
+
+  .post .body .rule {
+    width: 11cqw;
+    height: 2px;
+    background: var(--gold);
+    margin-bottom: 7cqw;
+  }
+
+  /* Short-quote variant: much larger than the 5.6cqw testimony-format
+     body copy, because there's only one short line to carry instead of
+     a 50-60 word paragraph. Keep the quote itself under ~12 words --
+     this size will overflow fast with anything longer. */
+  .post .body .quote {
+    margin: 0;
+    color: var(--gold-bright);
+    font-weight: 700;
+    font-size: 10.5cqw;
+    line-height: 1.32;
+  }
+
+  .post .body .citation {
+    margin-top: 7cqw;
+    font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+    font-size: 3.4cqw;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--gold-dim);
+  }
+
+  .post .footer {
+    position: relative;
+    padding: 4cqw 9cqw 6cqw;
+    border-top: 1px solid var(--rule);
+    display: flex;
+    justify-content: center;
+  }
+
+  .post .footer .mark {
+    font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+    font-size: 3.6cqw;
+    letter-spacing: 0.04em;
+    color: var(--gold-dim);
+  }
+</style>
+
+<div class="post">
+  <div class="body">
+    <div class="rule"></div>
+    <p class="quote">&ldquo;Prayer changes the order before the pressure starts.&rdquo;</p>
+    <div class="citation">Luke 10:41&ndash;42</div>
+  </div>
+  <div class="footer">
+    <div class="mark">@seekwisdomovergold</div>
+  </div>
+</div>

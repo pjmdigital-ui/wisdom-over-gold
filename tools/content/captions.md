@@ -136,3 +136,13 @@ Comment "Amen" if this hit home, and send it to a man who needs to hear it today
 You think checking your phone the second you wake up is just habit. But God reads your attention like evidence — where your mind goes before you've even decided to think reveals what you're actually seeking. He's not only interested in managing the behavior. He wants the desire underneath it reordered, so the first reach of the day goes toward Him before it goes toward anything else.
 
 Comment "Amen" if this hit home, and send it to a man who needs to hear it today.
+
+---
+
+## Prayer Changes the Order
+
+*(`instagram-post-prayer-changes-the-order.html`)*
+
+Martha was busy serving — genuinely useful work, not a sin. Mary sat at Jesus's feet instead. Jesus didn't praise laziness; He restored the order. Prayer rarely screams for your attention the way the rest of the day does, and that's exactly why it loses by default unless you protect it before the pressure starts, not after.
+
+Comment "Amen" if this hit home, and send it to a man who needs to hear it today.
