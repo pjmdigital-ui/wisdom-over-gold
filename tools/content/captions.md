@@ -139,10 +139,10 @@ Comment "Amen" if this hit home, and send it to a man who needs to hear it today
 
 ---
 
-## Prayer Changes the Order
+## You Have Responsibilities
 
-*(`instagram-post-prayer-changes-the-order.html`)*
+*(`instagram-post-not-your-sovereignty.html`)*
 
-Martha was busy serving — genuinely useful work, not a sin. Mary sat at Jesus's feet instead. Jesus didn't praise laziness; He restored the order. Prayer rarely screams for your attention the way the rest of the day does, and that's exactly why it loses by default unless you protect it before the pressure starts, not after.
+You can make the best decision available to you and still not control what follows — the deal falls through, the test doesn't come back clean, someone says no. A man who can't release an outcome ends up ruled by it. Your job is to discern, act, and stay faithful. What happens after that was never yours to carry.
 
 Comment "Amen" if this hit home, and send it to a man who needs to hear it today.
