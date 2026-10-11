@@ -139,10 +139,10 @@ Comment "Amen" if this hit home, and send it to a man who needs to hear it today
 
 ---
 
-## You Have Responsibilities
+## Ruled By It
 
-*(`instagram-post-not-your-sovereignty.html`)*
+*(`instagram-post-ruled-by-it.html`)*
 
-You can make the best decision available to you and still not control what follows — the deal falls through, the test doesn't come back clean, someone says no. A man who can't release an outcome ends up ruled by it. Your job is to discern, act, and stay faithful. What happens after that was never yours to carry.
+You can make the best decision available to you and still not control what follows — the deal falls through, the test doesn't come back clean, someone says no. The tighter you grip an outcome you were never promised, the more power it has over you. Your job is to discern, act, and stay faithful. What happens after that was never yours to carry.
 
 Comment "Amen" if this hit home, and send it to a man who needs to hear it today.
