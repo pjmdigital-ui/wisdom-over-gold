@@ -106,8 +106,4 @@ Thank God for each one without adding a condition.
 
 If one of those gifts is a person, consider telling that person you are grateful for him or her.
 
-### Prayer
-
-Father in Heaven, I let the thing I am waiting for become so large that I stop seeing what You have already given me. Teach me to be grateful without pretending disappointment is not real. Keep my losses from erasing Your goodness in my mind, and make thanksgiving part of the way I wait. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **HABAKKUK 3:17–18**

@@ -146,8 +146,4 @@ Then don't announce it.
 
 Simply notice the cost and give anyway.
 
-### Prayer
-
-Father in Heaven, everything I have has first come through Your hands. Forgive me for the times I have called myself generous while giving only what I would never miss. Give me wisdom so that my generosity is responsible, and loosen my grip enough that another person's need can sometimes change my own plans. Teach me to give freely, deliberately, and cheerfully, remembering that I am a steward of what You have placed in my hands. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **2 CORINTHIANS 9:6–7**

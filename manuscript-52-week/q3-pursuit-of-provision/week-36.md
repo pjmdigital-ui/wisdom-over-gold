@@ -144,8 +144,4 @@ Say:
 
 Then follow through.
 
-### Prayer
-
-Father in Heaven, thank You for the home and family You have entrusted to me. Forgive me for the times I have treated the faith of my household as someone else's responsibility. Give me the humility to admit what I do not know, the courage to speak about what I do believe, and the consistency to let my children see me seek You in ordinary life. Help me make this home a place where faith is not merely taught but lived. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **DEUTERONOMY 6:6–7**

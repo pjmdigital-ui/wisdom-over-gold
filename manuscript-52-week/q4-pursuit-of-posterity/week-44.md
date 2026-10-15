@@ -284,8 +284,4 @@ Then make time for one conversation or activity together this week that has noth
 
 Enjoy your wife on purpose.
 
-### Prayer
-
-Father in Heaven, thank You for the wife You have given me and for the years of life we have been allowed to share. Forgive me for the times familiarity has made me careless and I have stopped noticing what once came naturally to me. Teach me to delight in my wife as she is now, to speak the admiration I too often leave unspoken, and to keep pursuing the woman I promised to love. Protect our marriage from becoming nothing more than responsibilities handled side by side, and restore in me a grateful attention toward the wife of my youth. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **PROVERBS 5:18**

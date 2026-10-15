@@ -120,8 +120,4 @@ Before checking email, messages, news, or social media each morning, say one sho
 
 Then sit with that sentence long enough to mean it.
 
-### Prayer
-
-Father in Heaven, show me what I am actually seeking beneath the things I say I value. Redirect my attention when it begins attaching itself to control, approval, money, distraction, or anything else that tries to become first. Teach my heart to thirst for You and make my first movement toward You more natural through faithful repetition. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **PSALM 63:1**

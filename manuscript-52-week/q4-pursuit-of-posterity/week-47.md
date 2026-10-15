@@ -200,8 +200,4 @@ Give the correction that serves the first answer.
 
 And if you realize that a recent correction became more about your anger than your child's good, go back and say so. You do not have to remove an appropriate consequence to apologize for an inappropriate reaction.
 
-### Prayer
-
-Father in Heaven, give me wisdom when I discipline my children. Keep my frustration from becoming the measure of my correction, and help me remember that discipline is meant for their good rather than the relief of my own anger. Teach me to set real boundaries, give appropriate consequences, and correct without humiliating or discouraging. Give me enough humility to apologize when my own reaction becomes part of the problem, and help me form my children with the same patient purpose You show toward me. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **HEBREWS 12:10–11**

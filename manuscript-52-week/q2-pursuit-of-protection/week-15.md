@@ -86,8 +86,4 @@ Ask:
 
 Then do the completely honest version, even if the difference seems small.
 
-### Prayer
-
-Father in Heaven, I excuse small compromises because they seem too minor to matter. Teach me to see that character is built in the little decisions long before the big ones arrive. Give me the discipline to do the honest thing even when nobody would know the difference. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **LUKE 16:10**

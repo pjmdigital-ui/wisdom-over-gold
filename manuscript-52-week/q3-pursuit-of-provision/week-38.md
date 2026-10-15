@@ -272,8 +272,4 @@ At the end of the week, ask:
 
 If not, adjust the rhythm and try again.
 
-### Prayer
-
-Father in Heaven, help me build my household with wisdom instead of allowing every week to be shaped by whatever demands the most attention. Show me which rhythms are worth protecting and give me the discipline to keep returning to them when life becomes busy. Let the ordinary structure of our home make room for prayer, rest, conversation, and the people You have entrusted to me. Build this house through the choices we make on purpose. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **PSALM 127:1**

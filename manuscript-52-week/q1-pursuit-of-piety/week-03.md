@@ -118,8 +118,4 @@ Keep it realistic enough that you will actually do it.
 
 Ten faithful minutes are better than an elaborate plan you abandon after two days.
 
-### Prayer
-
-Father in Heaven, I let urgency crowd You out too easily. Teach me to give You time before the day's demands decide what matters. Help me sit in Your presence even when my mind is busy and prayer feels unproductive. Put my responsibilities in the right order and remind me that everything does not depend on me. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **LUKE 10:41–42**

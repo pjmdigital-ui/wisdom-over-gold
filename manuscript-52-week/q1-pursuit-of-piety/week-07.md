@@ -114,8 +114,4 @@ Keep the prayer short:
 
 **“Lord, I offer this for ______.”**
 
-### Prayer
-
-Father in Heaven, I waste suffering when I turn inward and make the pain only about me. Teach me to place the struggles already present in my life into Your hands and attach love to them. Keep me from chasing pain for its own sake, but give me the generosity to offer what I cannot avoid for the good of another person. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **ROMANS 12:1**

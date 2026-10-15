@@ -80,8 +80,4 @@ Then say:
 
 Tell the truth this week.
 
-### Prayer
-
-Father in Heaven, I want honesty to be easy and admired, but sometimes truth costs something. Free me from protecting my image at the expense of my character. Give me courage to tell the truth when it threatens money, approval, opportunity, or pride, and teach me to leave the outcome in Your hands. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **PSALM 15:4**

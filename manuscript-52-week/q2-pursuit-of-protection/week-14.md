@@ -98,8 +98,4 @@ Then ask:
 
 God already is.
 
-### Prayer
-
-Father in Heaven, make me the same man in private that I try to be in public. Show me where I have allowed secrecy to create a second standard and give me the courage to correct it before it becomes something larger. Make my character a place of safety for the people who trust me. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **HEBREWS 4:13**

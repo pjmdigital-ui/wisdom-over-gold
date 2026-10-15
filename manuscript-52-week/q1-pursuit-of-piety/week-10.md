@@ -100,8 +100,4 @@ Then add:
 
 **“Father, this is what I want. I still trust You with what I cannot see.”**
 
-### Prayer
-
-Father in Heaven, You know the prayers I have repeated and the answers I wish You had already given. Keep me from turning waiting into proof that You are absent. Let me ask honestly and specifically without making my faith depend on receiving the outcome I prefer. Give me strength to keep trusting while the answer is still unfinished. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **PSALM 13**

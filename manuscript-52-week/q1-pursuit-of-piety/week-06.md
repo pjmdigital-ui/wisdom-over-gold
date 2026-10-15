@@ -106,8 +106,4 @@ Then end with one sentence:
 
 **“I do not understand this, but I will not treat my lack of understanding as proof that You have left me.”**
 
-### Prayer
-
-Father in Heaven, I want explanations for the things that hurt, and sometimes I do not receive them. Keep me from turning pain into evidence that You have abandoned me. Teach me to remain faithful on the Friday when I cannot yet see Sunday, and let the Cross remind me that suffering never placed Your plan outside Your hands. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **HEBREWS 12:2**

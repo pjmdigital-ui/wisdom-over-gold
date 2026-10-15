@@ -100,8 +100,4 @@ Then identify one concrete change that would put God ahead of something that has
 
 Make that change this week.
 
-### Prayer
-
-Father in Heaven, I have allowed good things to become disordered more often than I want to admit. Teach me to seek You first—not eventually, not after everything else has taken its share, but first. Put my work, my family, my ambitions, my money, and my plans in their proper place beneath You. When I drift, make me quick to notice and willing to return. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **MATTHEW 6:33**

@@ -90,8 +90,4 @@ Then close the tab, postpone the upgrade, or stop researching the replacement fo
 
 Use the space to thank God for what is already working.
 
-### Prayer
-
-Father in Heaven, I let comparison move the definition of enough and then wonder why satisfaction keeps moving with it. Teach me contentment without laziness and ambition without ingratitude. Let me build wisely while receiving what I already have as enough for today. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **1 TIMOTHY 6:6–8**

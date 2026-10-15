@@ -306,8 +306,4 @@ Not for one week.
 
 For as long as God gives you to do it.
 
-### Prayer
-
-Father in Heaven, thank You for every person, responsibility, and opportunity You have placed in my life. Keep me from confusing what I accumulate with what I will truly leave behind. Form in me a faith, character, love, and faithfulness worth handing to the people who come after me. Where I have failed, teach me to repent. Where I have drifted, turn me back toward You. Let my life point beyond itself so that long after I am gone, something good is still happening because I sought You first while I was here. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **PROVERBS 22:1**

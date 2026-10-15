@@ -88,8 +88,4 @@ Then ask:
 
 Speak after you answer that question.
 
-### Prayer
-
-Father in Heaven, I have mistaken quick reaction for strength. Teach me the stronger discipline of ruling my own spirit. Give me enough space between anger and action to choose what is right, and train my reactions until self-command becomes more natural than discharge. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **PROVERBS 16:32**

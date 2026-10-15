@@ -228,8 +228,4 @@ You may still reach the same decision.
 
 But arrive there as a shepherd, not a manager.
 
-### Prayer
-
-Father in Heaven, teach me to lead my household without trying to control everyone in it. Give me the humility to listen, the wisdom to correct when correction is needed, and the patience to let the people I love grow rather than forcing every outcome. Keep me from using authority for my own comfort. Help me lead by service, example, and the kind of self-giving love Christ has shown me. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **1 PETER 5:2–3**

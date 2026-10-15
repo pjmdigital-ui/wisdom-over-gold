@@ -256,8 +256,4 @@ Don't try to overhaul the spiritual life of your house in seven days.
 
 Just stop leaving its direction to accident.
 
-### Prayer
-
-Father in Heaven, You have entrusted me with more than providing for a household. You have called me to help lead it toward You. Forgive me for the times I have assumed that keeping the bills paid and avoiding obvious failures was enough. Give me the courage to make my faith visible in my own home, to initiate what matters, and to lead by the example of the life I actually live. Let my family see in me a man who is still learning, still returning, and still choosing You. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **JOSHUA 24:15**

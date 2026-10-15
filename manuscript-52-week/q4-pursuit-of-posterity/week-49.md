@@ -258,8 +258,4 @@ Put the new response somewhere you will see it.
 
 The next time the old pattern appears, do the new thing once.
 
-### Prayer
-
-Father in Heaven, You know what I received from the men who came before me, both the good and the painful. Thank You for what was worth inheriting, and help me recognize what should go no further. Free me from repeating patterns that wounded me, but do not let my past become an excuse for the choices I make today. Give me humility to seek help where I need it, courage to change what has become familiar, and patience to keep beginning again when I fail. Let what I hand to my children be better because I allowed You to change what came through me. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **EZEKIEL 18:20**

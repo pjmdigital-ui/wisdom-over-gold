@@ -74,8 +74,4 @@ Tell them plainly why.
 
 **“I've been carrying too much alone. I want real brotherhood, not just people I know.”**
 
-### Prayer
-
-Father in Heaven, I have mistaken surviving alone for being strong. Show me the men You have already placed around me and give me enough humility to let them know my actual life. Make me a brother who can receive help and give it, and braid my strength together with theirs under You. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **ECCLESIASTES 4:9–12**

@@ -88,8 +88,4 @@ If he is carrying something difficult, do not arrive with an agenda to fix it.
 
 Arrive to be there.
 
-### Prayer
-
-Father in Heaven, forgive me for the times good intentions have stood in for actual presence. Give me the discipline to show up for the men You have placed in my life, especially when I do not know what to say or when the crisis has lasted longer than my attention. Make my friendship dependable. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **HEBREWS 10:24–25**

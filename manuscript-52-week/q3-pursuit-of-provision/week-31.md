@@ -90,8 +90,4 @@ Say aloud:
 
 Then choose one practical stewardship action connected to it this week.
 
-### Prayer
-
-Father in Heaven, everything I have ultimately exists inside what You created and allowed me to receive. Forgive me for confusing effort with absolute ownership. Teach me to hold money as a steward—responsibly, gratefully, generously, and without making it my security. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **PSALM 24:1**

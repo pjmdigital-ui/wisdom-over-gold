@@ -4,4 +4,4 @@ Before you turn to each week's entry, pray this. Say it in full, every day, the 
 
 Lord God Almighty, Father in Heaven, I give You thanks and praise. Thank You for opening my eyes to another day in this beautiful world You have created for me. I pray You send Your Holy Spirit down upon me today, to help me be the best father, neighbor, husband, friend, businessman, and Christian I can be. Let everything I do please and glorify You. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
 
-Then turn to this week's entry. Each week closes with its own short prayer — a single line that names the one thing that week is actually asking of you.
+Then turn to this week's entry.

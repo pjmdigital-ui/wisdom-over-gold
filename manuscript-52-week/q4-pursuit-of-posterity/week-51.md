@@ -260,8 +260,4 @@ Then pray one sentence every day this week:
 
 If the situation is affecting the way you are treating your family, make one correction there too. Tell them what you are carrying instead of making them guess, and take responsibility for anything you have been handing to them that does not belong to them.
 
-### Prayer
-
-Father in Heaven, You know the parts of my life that remain unresolved and the things I wish You would change. Keep me from confusing hope with pretending everything is fine or assuming that faith guarantees the outcome I prefer. Teach me to trust that You are still working even when I cannot see what You are doing. Help me carry hardship without handing my fear and frustration to the people I love, and let my hope rest in You rather than in circumstances becoming easier. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **ROMANS 8:28**

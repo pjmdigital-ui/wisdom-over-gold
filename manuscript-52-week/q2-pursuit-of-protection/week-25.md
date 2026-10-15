@@ -86,8 +86,4 @@ When he finishes, thank him before you explain anything.
 
 Give yourself a day to consider what is true before deciding what needs to change.
 
-### Prayer
-
-Father in Heaven, give me friends who love me enough to tell me the truth and enough humility to hear them without immediately defending myself. Protect me from correction given in pride and from the pride that rejects needed correction. Make me a brother who sharpens and is willing to be sharpened. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **PROVERBS 27:6**

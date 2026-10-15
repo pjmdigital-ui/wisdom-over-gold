@@ -206,8 +206,4 @@ Not so you can grade yourself.
 
 So you can return.
 
-### Prayer
-
-Father in Heaven, thank You for every way You have challenged, corrected, strengthened, and carried me through this year. I know I am not finished, and I know I cannot finish this work in myself. Keep doing what You have begun in me. When I drift, turn me back. When pride takes over, humble me. When fear takes over, remind me who holds my life. Teach me to seek Your Kingdom first in my faith, my character, my work, my marriage, my fatherhood, and everything I leave behind. Keep drawing my restless heart home for every day You give me. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **MATTHEW 6:33**

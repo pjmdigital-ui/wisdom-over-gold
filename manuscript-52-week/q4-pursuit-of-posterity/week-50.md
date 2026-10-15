@@ -224,8 +224,4 @@ Ask instead for wisdom, wholeheartedness, and the courage to follow what God act
 
 If the time is right, tell your child that too.
 
-### Prayer
-
-Father in Heaven, thank You for the children You have entrusted to me, and forgive me for the times I have confused loving them with controlling the direction of their lives. Give me wisdom to counsel them when they need counsel, courage to warn them when something is truly wrong, and humility to release decisions that no longer belong to me. Help me want faithfulness to You for my children more than I want a future that is comfortable or familiar to me. Give them wholehearted hearts for whatever You have actually called them to do, and give me the grace to bless them when following You costs me something too. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **1 CHRONICLES 29:19**

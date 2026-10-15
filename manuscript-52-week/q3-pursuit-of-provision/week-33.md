@@ -192,8 +192,4 @@ Choose **one unfinished piece of the foundation** and work on that this week.
 
 Let the next thing wait until its proper place in the order.
 
-### Prayer
-
-Father in Heaven, give me the wisdom to build my household in the right order. Keep me from reaching for the visible reward while neglecting the foundation that needs to support it. Teach me to prepare faithfully, to face unfinished responsibilities honestly, and to wait when waiting is wiser than moving ahead. Help me become a steward who builds carefully with what You have placed in my hands. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **PROVERBS 24:27**

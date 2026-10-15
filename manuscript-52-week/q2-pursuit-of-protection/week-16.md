@@ -90,8 +90,4 @@ Then pause before your next meaningful **yes** and ask:
 
 If the answer is no, do not give your word cheaply.
 
-### Prayer
-
-Father in Heaven, forgive me for the words I have used carelessly because they solved the moment in front of me. Teach me to guard my yes and my no so that the people who depend on me can trust what I say. Give me the humility to correct a commitment I cannot keep and the discipline to keep the ones I make. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **MATTHEW 5:37**

@@ -82,8 +82,4 @@ Ask:
 
 Choose one room and bring your better standard into it this week.
 
-### Prayer
-
-Father in Heaven, make me one man in every room. Show me where I have allowed audiences, consequences, or anonymity to change the standard I live by. Integrate my faith, my words, and my private behavior so that the people who meet me in different places are meeting the same man. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **JAMES 1:7–8**

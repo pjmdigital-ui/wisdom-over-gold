@@ -264,8 +264,4 @@ No next goal.
 
 Let the blessing stand on its own.
 
-### Prayer
-
-Father in Heaven, thank You for the children You have entrusted to me. Forgive me for the times I have been quicker to correct than to bless and have assumed my children already knew the things I never said aloud. Give me wisdom to discipline faithfully without discouraging them, and teach me to speak love, delight, and blessing over them without requiring achievement first. Let my children know clearly that I am for them even while I help form them into the people You are calling them to become. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **NUMBERS 6:24–26**

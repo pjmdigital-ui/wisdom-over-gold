@@ -142,8 +142,4 @@ Underneath it, write:
 
 Then thank God for the good in it while releasing the demand that it satisfy your deepest hunger.
 
-### Prayer
-
-Father in Heaven, my heart becomes restless when I ask created things to do what only You can do. Teach me to enjoy Your gifts without turning them into gods, to pursue good things without making them my identity, and to return to You whenever I discover that I have moved something else into the center. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **PSALM 42:1–2**

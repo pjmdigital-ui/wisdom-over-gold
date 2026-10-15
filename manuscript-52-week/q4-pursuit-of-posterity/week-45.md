@@ -220,8 +220,4 @@ And when one of your children asks for your attention at an inconvenient moment 
 
 If it doesn't, turn toward them.
 
-### Prayer
-
-Father in Heaven, thank You for the children You have entrusted to me. Forgive me for the times I have confused providing for them with being fully present to them, or assumed that being in the same house meant they had my attention. Teach me to turn toward my children, to listen when they speak, to stay when they need me, and to stop waiting for some calmer or more perfect version of myself before I give them my time. Let my presence help them understand something of Your own fatherly compassion. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **PSALM 103:13**

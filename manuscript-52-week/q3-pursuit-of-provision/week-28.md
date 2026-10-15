@@ -144,8 +144,4 @@ A household obligation.
 
 Give it one focused block of attention this week and make one concrete improvement.
 
-### Prayer
-
-Father in Heaven, keep me from ignoring what You have already entrusted to me while I compare myself with what another man received. Teach me to tend my actual field, develop my gifts, and handle responsibility as something on loan from You. Make me faithful with what is in my hands now. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **MATTHEW 25:21**

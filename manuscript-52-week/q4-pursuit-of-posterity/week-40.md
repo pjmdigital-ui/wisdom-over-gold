@@ -180,8 +180,4 @@ Don't solve the entire issue.
 
 Bring her fully into it.
 
-### Prayer
-
-Father in Heaven, thank You for the woman You have joined my life to and for the covenant of marriage You have given us. Teach me to understand one flesh as more than words spoken on our wedding day. Help me keep choosing unity in the ordinary decisions of our life, especially when my preferences, pride, or emotions pull me back toward myself. Teach me to love my wife faithfully in the easy seasons and the difficult ones, and let the marriage we build become something worth handing down. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **GENESIS 2:24**

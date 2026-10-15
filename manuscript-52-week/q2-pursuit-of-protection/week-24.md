@@ -94,8 +94,4 @@ Offer the help.
 
 Do not wait until he has crafted the perfect request.
 
-### Prayer
-
-Father in Heaven, I like friendship when it fits neatly into the life I already planned. Teach me brotherhood that costs something. Give me the generosity to show up before I am asked, the humility to receive help when I need it, and the faithfulness to let another man's good interrupt my convenience. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **JOHN 15:13**

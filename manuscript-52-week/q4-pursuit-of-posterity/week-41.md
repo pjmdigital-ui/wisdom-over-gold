@@ -252,8 +252,4 @@ If there is a genuine issue, talk about it as something the two of you need to a
 
 If it is simply a private score you've been carrying, let it go without requiring anything in return.
 
-### Prayer
-
-Father in Heaven, forgive me for the times I have treated my marriage like a transaction and my wife like someone whose performance determines what I owe her. Teach me to honor the covenant I made before You, to address real problems honestly without turning them into a scorecard, and to give without attaching hidden conditions. Give me the humility to stop trying to win against the woman I promised to love and help me remember that we are on the same side. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **MALACHI 2:14**

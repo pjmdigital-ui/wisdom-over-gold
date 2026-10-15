@@ -111,8 +111,4 @@ Act on the first column.
 
 Then pray over the second without trying to turn prayer into another form of management.
 
-### Prayer
-
-Father in Heaven, I confuse responsibility with control and carry outcomes You never asked me to carry. Give me wisdom to do what belongs to me and humility to release what belongs to You. Keep me diligent without making me controlling, and teach me to trust Your direction when my plan does not unfold the way I expected. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **PROVERBS 16:9**

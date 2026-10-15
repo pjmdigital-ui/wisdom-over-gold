@@ -250,8 +250,4 @@ If you've already used it recently, apologize specifically.
 
 Then replace it with one sentence that actually builds your wife up. Tell her something you appreciate, admire, or are grateful for and would normally leave unsaid.
 
-### Prayer
-
-Father in Heaven, forgive me for the times I have given strangers more patience and courtesy than I have given my own wife. Guard my mouth from sarcasm, contempt, careless criticism, and words spoken simply because I am frustrated. Teach me to tell the truth with love, to speak with respect even when we disagree, and to say the good things I too often leave unspoken. Let my words make my marriage stronger and my wife more certain that she is loved and honored by me. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **EPHESIANS 4:29**

@@ -194,8 +194,4 @@ Delete it. Unfollow it. End the conversation. Change the habit. Put a boundary i
 
 If the situation has already become something you would hide from your wife, bring it into the light rather than managing the secrecy.
 
-### Prayer
-
-Father in Heaven, guard my eyes, my imagination, and my attention. Give me the honesty to recognize temptation before I have turned it into something larger, and the courage to draw boundaries before I am forced to deal with consequences. Keep me from using technical innocence to excuse a heart that is drifting. Teach me to direct my attention faithfully toward the wife I have given myself to and to protect our covenant in the private moments nobody else sees. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **JOB 31:1**

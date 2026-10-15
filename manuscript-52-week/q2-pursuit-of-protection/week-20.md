@@ -86,8 +86,4 @@ Ask three questions:
 
 Then respond.
 
-### Prayer
-
-Father in Heaven, make me slow enough to hear before I answer and honest enough to recognize the pressure I was already carrying. Keep other people from becoming targets for anger that began somewhere else. Give me the patience to pause without avoiding and the discipline to return to the conversation with wisdom. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **JAMES 1:19–20**

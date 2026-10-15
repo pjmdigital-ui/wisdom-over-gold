@@ -92,8 +92,4 @@ Tell yourself:
 
 **“This work is real even when no one sees it.”**
 
-### Prayer
-
-Father in Heaven, make my standard higher than the amount of supervision around me. Teach me to work faithfully when nobody is watching and to serve You in the hidden details other people may never notice. Build in me the kind of character that does the thing right because it is right. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **COLOSSIANS 3:23–24**

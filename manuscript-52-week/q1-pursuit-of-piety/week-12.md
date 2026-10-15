@@ -106,8 +106,4 @@ Spend one focused hour this week finding out why the Church teaches or practices
 
 Then write one sentence explaining what you now understand and why it matters.
 
-### Prayer
-
-Father in Heaven, thank You for the people who handed faith to me before I fully understood what I was receiving. Keep me from treating that inheritance casually. Give me the discipline to understand what I profess, the courage to live it visibly, and the faithfulness to hand something real to the people who come after me. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **2 TIMOTHY 1:5**

@@ -110,8 +110,4 @@ Then do one serious thing with it this week: ask a priest, consult the Catechism
 
 Move the question toward truth instead of leaving it alone in your head.
 
-### Prayer
-
-Father in Heaven, You already know the questions I am afraid to admit. Give me the honesty to bring them to You instead of performing certainty. Keep doubt from becoming an excuse to move away, and use my questions to draw me deeper into truth. Give me patience with what I do not yet understand and courage to keep seeking. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **MARK 9:24**

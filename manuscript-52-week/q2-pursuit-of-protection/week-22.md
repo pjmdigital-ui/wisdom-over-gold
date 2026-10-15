@@ -78,8 +78,4 @@ Ask:
 
 Do that for one week without lowering a necessary standard.
 
-### Prayer
-
-Father in Heaven, I want growth on my schedule and become frustrated when people, circumstances, and even my own formation take longer than I think they should. Build patience in me as a real virtue, not merely as anger I managed to suppress. Teach me to remain faithful without trying to force what requires time. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **GALATIANS 5:22–23**

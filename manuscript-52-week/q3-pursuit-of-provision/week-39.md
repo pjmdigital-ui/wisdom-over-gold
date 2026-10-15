@@ -222,8 +222,4 @@ Protect the time.
 
 Tend what is already yours to tend.
 
-### Prayer
-
-Father in Heaven, thank You for everything You have placed in my care. Keep me from measuring provision only by what I earn or accumulate. Make me trustworthy with my work, my money, my household, my relationships, and my own character. Give me eyes to notice what needs attention before neglect becomes damage, and teach me to tend faithfully rather than merely provide visibly. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **1 CORINTHIANS 4:2**

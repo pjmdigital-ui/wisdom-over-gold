@@ -90,8 +90,4 @@ Do not demand an instant solution.
 
 Simply bring the question into the room.
 
-### Prayer
-
-Father in Heaven, I hide questions because I am afraid of what they might say about me. Give me courage to bring what is real into the light and wisdom to choose people who can help me carry it faithfully. Teach me to listen the same way when another person trusts me with a question of his own. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **HEBREWS 4:16**

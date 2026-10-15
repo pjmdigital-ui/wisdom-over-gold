@@ -106,8 +106,4 @@ Ask:
 
 Then do one piece of that work with full attention and gratitude rather than resentment.
 
-### Prayer
-
-Father in Heaven, forgive me for the times I have treated work only as an obstacle between me and the life I want. Teach me to see labor as part of the calling You placed into human life from the beginning. Give me wisdom to know when change is needed and faithfulness to tend what is in my hands while it is still mine to tend. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **GENESIS 2:15**

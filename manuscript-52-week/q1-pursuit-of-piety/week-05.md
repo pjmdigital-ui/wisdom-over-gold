@@ -104,8 +104,4 @@ Ask:
 
 Then take one concrete step into the thing you know you should do.
 
-### Prayer
-
-Father in Heaven, I am quick to treat difficulty as evidence that something has gone wrong. Give me wisdom to distinguish unnecessary suffering from the sacrifice that belongs to a faithful life. Form endurance, character, humility, and courage in me through the hard things I cannot simply remove. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **ROMANS 5:3–5**

@@ -94,8 +94,4 @@ Name specifically what you did, apologize without a **but**, and ask what repair
 
 Then write down one trigger you noticed so the failure teaches you something before you move on.
 
-### Prayer
-
-Father in Heaven, when I fail in anger, keep pride from making the damage last longer than it has to. Give me humility to apologize plainly, courage to repair what I can, and wisdom to learn from the moment instead of merely regretting it. Teach me to turn, not just to feel bad. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **EPHESIANS 4:26–27**

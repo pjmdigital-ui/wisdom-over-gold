@@ -340,8 +340,4 @@ Let your part stand on its own.
 
 If your children are grown, the same practice applies. Go back to something you now understand differently and tell the truth about it.
 
-### Prayer
-
-Father in Heaven, forgive me for the times pride has kept me from apologizing to my own children. Give me the humility to name my failures plainly instead of hiding behind explanations or authority. Teach me to show my children that repentance is not weakness, that confession is part of Christian strength, and that every father still answers to You. Help me repair what I can, ask forgiveness when I need it, and let my children learn what mercy looks like by watching me receive and practice it. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **PROVERBS 28:13**

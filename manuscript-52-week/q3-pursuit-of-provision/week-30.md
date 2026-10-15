@@ -98,8 +98,4 @@ Underneath it write:
 
 Then do one thing this week the old identity would have sacrificed—leave on time, keep a family commitment, take needed rest, or tell the truth about a setback.
 
-### Prayer
-
-Father in Heaven, thank You for the ability to work and build, but keep me from asking my work to tell me who I am. Root my identity in being Your son so that success does not inflate me and failure does not erase me. Make me ambitious without making me owned by the scoreboard. I make this prayer in the almighty name of Jesus Christ, our Lord and Savior. Amen.
-
 **COLOSSIANS 3:3**
